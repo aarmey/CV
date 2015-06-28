@@ -2,11 +2,11 @@
 \documentclass[11pt]{res}
 
 
-\usepackage{fontspec,xltxtra,xunicode}
+\usepackage{fontspec,xltxtra,xunicode,hyperref}
 \defaultfontfeatures{Mapping=tex-text}
-\setromanfont[Mapping=tex-text]{Garamond Premier Pro}
+\setromanfont[Mapping=tex-text]{Arno Pro}
 \setsansfont[Scale=MatchLowercase,Mapping=tex-text]{Gill Sans}
-\setmonofont[Scale=MatchLowercase]{Andale Mono}
+\setmonofont[Scale=MatchLowercase]{Consolas}
 
 \usepackage{scrextend}
 
@@ -27,6 +27,7 @@
 
 \makeatother
 
+\renewcommand\labelitemi{{\boldmath$\cdot$}}
 
 
 %----------------------------------------------------------------------------------------
@@ -37,9 +38,10 @@
 
 % If you don't want one of the addresses, simply remove all the text in the first or second \address{} bracket
 
-\address{ 77 Massachusetts Avenue, Building 76-389 \\ Cambridge, MA 02139 \\ (661) 978-2606} % Your address 1
+\address{ aameyer@mit.edu \\ (661) 978-2606 } % Your address 1
 
-\address{} % Your address 2
+\address{77 Massachusetts Avenue, Building 76-389
+ \\ Cambridge, MA 02139} % Your address 2
 
 %----------------------------------------------------------------------------------------
 
@@ -58,58 +60,78 @@ University of California, Los Angeles, CA
 
 
 
-%	PROFESSIONAL EXPERIENCE SECTION
+%%%%%%%%%%%%%%%%
 \section{Research Experience}
 
-{\sl Principal Investigator} \hfill September 2014 -- Present \\
+{\sl Principal Investigator \& Research Fellow} \hfill September 2014 -- Present \\
 Koch Cancer Institute, MIT, Cambridge, MA 
 \begin{itemize} \itemsep -2pt % Reduce space between items
-\item XXX
-\item XXX 
-\item XXX 
-\item XXX 
+\item Developed systems cancer cell resistance model allowing prognostic therapeutic design
+\item Refining models of TAM receptor activation for optimal immunotherapeutic targeting
+\item Developing multiplexed methods for protein-protein interactions analysis
 \end{itemize}
 
 {\sl Postdoctoral Associate in the labs of Forest White \& Douglas Lauffenburger} \hfill June -- September 2014 \\
 Department of Biological Engineering \& Koch Cancer Institute, MIT, Cambridge, MA 
 \begin{itemize} \itemsep -2pt % Reduce space between items
-\item XXX 
-\item XXX 
-\end{itemize} 
-
+\item Performed global phosphotyrosine analysis of TAM receptor transactivation 
+\item Utilized systems analysis to identify receptor localization importance to transactivation effects
+\end{itemize}
  
-{\sl New York State Department of Mental Health} \hfill September -- December 1989 \\
-Bureau of Management and Program Evaluation, Albany, NY 
+{\sl Graduate Researcher in the labs of Douglas Lauffenburger \& Frank Gertler} \hfill September 2009 -- June 2014 \\
+Department of Biological Engineering \& Koch Cancer Institute, MIT, Cambridge, MA 
 \begin{itemize}
-\item Conducted research to identify key evaluation factors in the statewide investigation of Intensive Care Facilities for disabled persons.
+\item Identified similarities in migration response between dimensionalities, suggesting relevant migration  assays for invasive disease
+\item Studied transactivation of TAM receptors and its role in promoting motility response
+\item Developed systems models of TAM signaling, unifying conflicting observations regarding the receptors in normal biology and suggesting new methods of intervention to modulate activity
 \end{itemize}
 
-{\sl Colonie Center Shopping Mall} \hfill January -- June 1989 \\ Albany, NY 
+{\sl Undergraduate Researcher in the lab of Daniel Kamei} \hfill 2006 -- 2009 \\ 
+Department of Bioengineering, University of California, Los Angeles, CA 
 \begin{itemize} \itemsep -2pt % Reduce space between items
-\item Served as consultant for new management team in techniques for managing change. 
-\item Developed and administered organizational climate survey. 
-\item Facilitated management-employee feedback sessions. 
+\item Investigated biomarker purification using novel aqueous micellar systems
+\item Extended a previous statistical mechanics model to nucleic acid partitioning
+\item Designed and executed experiments to analyze the partitioning of surfactant systems
+\item Developed assays for quantifying the concentration of charged and uncharged surfactants
 \end{itemize}
 
-%Graduate researcher in the labs of Douglas Lauffenburger and Frank Gertler	2009 - 2014%Department of Biological Engineering & Koch Cancer Institute, MIT, Cambridge, MA%Identified similarities in migration response between dimensionalities, suggesting relevant migration  assays for invasive disease%Studied transactivation of TAM receptors and its role in promoting motility response%Developed systems models of TAM signaling, unifying conflicting observations regarding the receptors in normal biology and suggesting new methods of intervention to modulate activity%%Undergraduate researcher in the lab of Dr. Daniel Kamei	2006 - 2009%Department of Bioengineering, UCLA, Los Angeles, CA%	Investigated biomarker purification using novel aqueous micellar systems%	Extended a previous statistical mechanics model to nucleic acid partitioning%	Designed and executed experiments to analyze the partitioning of surfactant systems%	Developed assays for quantifying the concentration of charged and uncharged surfactants%%Summer intern, Bioprocess Development Division	2008%Schering-Plough Corporation, Watchung, NJ	%	Developed a novel method for high-throughput batch culture within deep-welled microtiter plates%	Investigated the social behavior of nonproducing impurities within monoclonal cultures%	Provided statistical basis for process-based confidence in monoclonality%
+{\sl Summer Intern, Bioprocess Development Division} \hfill 2008 \\ 
+Schering-Plough Corporation, Watchung, NJ
+\begin{itemize} \itemsep -2pt % Reduce space between items
+\item Developed a novel method for high-throughput batch culture within deep-welled microtiter plates
+\item Investigated the social behavior of nonproducing impurities within monoclonal cultures
+\item Provided statistical basis for process-based confidence in monoclonality
+\end{itemize}
+
+
+
+
 
 \section{Teaching/Mentoring Experience}
-Teaching Faculty	2015 - PresentBard College, Citizen Science Program, Annandale-on-Hudson, NY	Undergraduate Mentor	2009 - 2015MIT, Department of Biological Engineering, Cambridge, MA	Designed and supervised projects for nine undergraduate students.Teaching Assistant in 20.110: Thermodynamics of Biomolecular Systems	Fall 2010MIT, Department of Biological Engineering, Cambridge, MA	Taught at weekly discussion sections, office hours, and individual appointments	Helped write and graded problem sets and exam questions
+
+{\sl Teaching Faculty} \hfill July 2015 -- Present \\
+Bard College, Citizen Science Program, Annandale-on-Hudson, NY	
+\begin{itemize} \itemsep -2pt % Reduce space between items
+\item Leading a short course introducing students to the natural sciences and scientific method
+\end{itemize}
+
+{\sl Undergraduate Mentor} \hfill 2009 - 2015 \\
+MIT, Department of Biological Engineering, Cambridge, MA
+\begin{itemize} \itemsep -2pt % Reduce space between items
+\item Designed and supervised projects for nine undergraduate students
+\end{itemize}
+	
+
+{\sl Teaching Assistant in 20.110: Thermodynamics of Biomolecular Systems} \hfill Fall 2010 \\
+MIT, Department of Biological Engineering, Cambridge, MA
+\begin{itemize} \itemsep -2pt % Reduce space between items
+\item Taught at weekly discussion sections, office hours, and individual appointments
+\item Helped write and graded problem sets and exam questions
+\end{itemize}
 
 
 
-
-
-
-
-
-
-
-
-%----------------------------------------------------------------------------------------
-%	PUBLICATIONS SECTION
-%----------------------------------------------------------------------------------------
-
+% PUBLICATIONS SECTION
 \section{Refereed Publications}
 { \leftskip 0.1in
 \parindent -0.1in
@@ -118,53 +140,86 @@ Bureau of Management and Program Evaluation, Albany, NY
 Manole, S., {\bf A.S. Meyer}. ``Conserved RTK-intrinsic signaling consequences result in distinct bypass resistance capacity dependent upon pathway dependencies." {\sl Submitted}.
 
 \parskip 0.1in
-McConnell, R.E., J.E. Van Veen, M. Vidaki, A.V. Kwiatkowski, {\bf A.S. Meyer}, D.A. Lauffenburger, F.B. Gertler. ``Filopodia elongation towards the chemorepellent SLIT is required for axon repulsion." {\sl Submitted}.
-Riquelme, D.N., {\bf A.S. Meyer}, M. Barzik, A. Keating, F.B. Gertler. ``Selectivity in Subunit Composition of Ena/VASP Tetramers." {\sl Submitted}.
-Miller, M.A., M.J. Oudin, R.J. Sullivan, D.T. Frederick, {\bf A.S. Meyer}, S. Wang, H. Im, J. Tadros, L.G. Griffith, H. Lee, R. Weissleder, K.T. Flaherty, F.B. Gertler, D.A. Lauffenburger. ``Reduced Proteolytic Shedding of Receptor Tyrosine Kinases is a Post-Translational Mechanism of Kinase Inhibitor Resistance." {\sl Submitted}.
-Miller, M.A., M. Moss, G. Powell, R. Petrovich, L. Edwards, {\bf A.S. Meyer}, L.G. Griffith, D.A. Lauffenburger. ``Targeting autocrine HB-EGF signaling with specific ADAM12 inhibition using recombinant ADAM12 prodomain." {\sl Submitted}.
-Meyer\footnote{Co-corresponding authors.}, A.S., A.J.M. Zweemer, D.A. Lauffenburger\footnotemark[\value{footnote}]. ``The AXL receptor is a sensor of ligand spatial heterogeneity." {\sl Accepted}. {\sl Cell Systems} (2015).
-Meyer, A.S., M.A. Miller, F.B. Gertler, D.A. Lauffenburger. ``The receptor AXL diversifies EGFR signaling and limits the response to EGFR-targeted inhibitors in triple-negative breast cancer cells." {\sl Science Signaling} (2013).
-Miller\footnote{Equally contributing authors.}, M.A., {\bf A.S. Meyer}\footnotemark[\value{footnote}], M. Beste, Z. Lasisi, S. Reddy, K. Jeng, C.-H. Chen, J. Han, K. Isaacson, L.G. Griffith, D.A. Lauffenburger. ``ADAM-10 and -17 regulate endometriotic cell migration via concerted ligand and receptor shedding feedback on kinase signaling." {\sl Proc. Natl. Acad. Sci. U.S.A.} (2013).
-Meyer, A.S., S.K. Hughes-Alford, J.E. Kay, A. Castillo, A. Wells, F.B. Gertler, and D.A. Lauffenburger. ``2D protrusion but not motility predicts growth factor-induced cancer cell migration in 3D collagen." {\sl J. Cell Biol.} (2012).
-Kim, H.D., {\bf A.S. Meyer}, J.P. Wagner, S.K. Alford, A. Wells, F.B. Gertler, D.A. Lauffenburger. ``Signaling network state predicts Twist-mediated effects on breast cell migration across diverse growth factor contexts." {\sl Mol. Cell. Proteomics} (2011).
-{\bf Meyer, A.S.}, R.G. Condon, G. Keil, Jhaveri, N., Liu, Z., Tsao, Y.-S., ``Fluorinert, an oxygen carrier, improves cell culture performance in deep square 96?well plates by facilitating oxygen transfer.? Biotechnol. Prog. (2012).
-Mashayekhi, F., {\bf A.S. Meyer}, S.A. Shiigi, V. Nguyen and D.T. Kamei, ``Concentration of mammalian genomic DNA using two-phase aqueous micellar systems." Biotechnol. Bioeng. (2009).
+
+McConnell, R.E., J.E. Van Veen, M. Vidaki, A.V. Kwiatkowski, {\bf A.S. Meyer}, D.A. Lauffenburger, F.B. Gertler. ``Filopodia elongation towards the chemorepellent SLIT is required for axon repulsion." {\sl Submitted}.
+
+Riquelme, D.N., {\bf A.S. Meyer}, M. Barzik, A. Keating, F.B. Gertler. ``Selectivity in Subunit Composition of Ena/VASP Tetramers." {\sl Submitted}.
+
+Miller, M.A., M.J. Oudin, R.J. Sullivan, D.T. Frederick, {\bf A.S. Meyer}, S. Wang, H. Im, J. Tadros, L.G. Griffith, H. Lee, R. Weissleder, K.T. Flaherty, F.B. Gertler, D.A. Lauffenburger. ``Reduced Proteolytic Shedding of Receptor Tyrosine Kinases is a Post-Translational Mechanism of Kinase Inhibitor Resistance." {\sl Submitted}.
+
+Miller, M.A., M. Moss, G. Powell, R. Petrovich, L. Edwards, {\bf A.S. Meyer}, L.G. Griffith, D.A. Lauffenburger. ``Targeting autocrine HB-EGF signaling with specific ADAM12 inhibition using recombinant ADAM12 prodomain." {\sl Submitted}.
+
+{\bf Meyer\footnote{Co-corresponding authors.}, A.S.}, A.J.M. Zweemer, D.A. Lauffenburger\footnotemark[\value{footnote}]. ``The AXL receptor is a sensor of ligand spatial heterogeneity." {\sl Accepted}. {\sl Cell Systems} (2015).
+
+{\bf Meyer, A.S.}, M.A. Miller, F.B. Gertler, D.A. Lauffenburger. ``The receptor AXL diversifies EGFR signaling and limits the response to EGFR-targeted inhibitors in triple-negative breast cancer cells." {\sl Science Signaling} (2013).
+
+Miller\footnote{Equally contributing authors.}, M.A., {\bf A.S. Meyer}\footnotemark[\value{footnote}], M. Beste, Z. Lasisi, S. Reddy, K. Jeng, C.-H. Chen, J. Han, K. Isaacson, L.G. Griffith, D.A. Lauffenburger. ``ADAM-10 and -17 regulate endometriotic cell migration via concerted ligand and receptor shedding feedback on kinase signaling." {\sl Proc. Natl. Acad. Sci. U.S.A.} (2013).
+
+{\bf Meyer, A.S.}, S.K. Hughes-Alford, J.E. Kay, A. Castillo, A. Wells, F.B. Gertler, and D.A. Lauffenburger. ``2D protrusion but not motility predicts growth factor-induced cancer cell migration in 3D collagen." {\sl J. Cell Biol.} (2012).
+
+Kim, H.D., {\bf A.S. Meyer}, J.P. Wagner, S.K. Alford, A. Wells, F.B. Gertler, D.A. Lauffenburger. ``Signaling network state predicts Twist-mediated effects on breast cell migration across diverse growth factor contexts." {\sl Mol. Cell. Proteomics} (2011).
+
+{\bf Meyer, A.S.}, R.G. Condon, G. Keil, Jhaveri, N., Liu, Z., Tsao, Y.-S., \href{http://www.ncbi.nlm.nih.gov/pubmed/21954223}{``Fluorinert, an oxygen carrier, improves cell culture performance in deep square 96-well plates by facilitating oxygen transfer."} Biotechnol. Prog. (2012).
+
+Mashayekhi, F., {\bf A.S. Meyer}, S.A. Shiigi, V. Nguyen and D.T. Kamei, \href{http://www.ncbi.nlm.nih.gov/pubmed/19061237}{``Concentration of mammalian genomic DNA using two-phase aqueous micellar systems."} Biotechnol. Bioeng. (2009).
 
 }
 
 %----------------------------------------------------------------------------------------
 
-
-
 \section{Awards}
 
-Director's Early Independence Award, National Institutes of Health \hfill 2014 \\Siebel Scholar, Class of 2014 \hfill 2013 \\Whitaker Fellowship, Massachusetts Institute of Technology \hfill 2013 \\Repligen Fellowship in Cancer Research, Koch Institute \hfill 2012 \\Frontier Research Program Initiator Award, Koch Institute \hfill 2011 \\Breast Cancer Research Predoctoral Fellowship, Department of Defense \hfill 2010 \\Graduate Research Fellowship, National Science Foundation \hfill 2009 \\Momenta Presidential Fellowship, Massachusetts Institute of Technology \hfill 2009 \\
+Director's Early Independence Award, National Institutes of Health \hfill 2014 \\
+Siebel Scholar, Class of 2014 \hfill 2013 \\
+Whitaker Fellowship, Massachusetts Institute of Technology \hfill 2013 \\
+Repligen Fellowship in Cancer Research, Koch Institute \hfill 2012 \\
+Frontier Research Program Initiator Award, Koch Institute \hfill 2011 \\
+Breast Cancer Research Predoctoral Fellowship, Department of Defense \hfill 2010 \\
+Graduate Research Fellowship, National Science Foundation \hfill 2009 \\
+Momenta Presidential Fellowship, Massachusetts Institute of Technology \hfill 2009 \\
 
 
 
-\section{Invited Oral Presentations}
-
-
-``AXL is a spatial ligand differentiation sensor." 	Oct 2013Merrimack Pharmaceuticals, Cambridge, MA		``AXL amplifies EGFR signaling and drives resistance in triple negative breast carcinoma cells."	Jan 2013Merrimack Pharmaceuticals, Cambridge, MA
-
-
-
-\section{Selected Presentations}
-
-AACR Molecular Targets and Cancer Therapeutics \hfill Oct 2013 \\PTMs in Cell Signaling, Copenhagen Bioscience Conferences (Travel award) \hfill Dec 2012 \\Biomedical Engineering Society Annual Meeting (Selected talk) \hfill Oct 2012 \\Systems Biology of Human Disease (Travel award) \hfill May 2012 \\Signaling of Adhesion Receptors, Gordon Research Conference \hfill June 2012 \\Koch Institute Fall Retreat \hfill Oct 2011 \\Fibronectin and Related Integrins, Gordon Research Seminar (Selected talk) \hfill May 2011 \\Fibronectin and Related Integrins, Gordon Research Conference \hfill May 2011 \\
+%\section{Invited Oral Presentations}
+%
+%
+%``AXL is a spatial ligand differentiation sensor."  \hfill Oct 2013 \\
+%Merrimack Pharmaceuticals, Cambridge, MA	
+%	
+%``AXL amplifies EGFR signaling and drives resistance in triple negative breast carcinoma cells." \hfill Jan 2013 \\
+%Merrimack Pharmaceuticals, Cambridge, MA
 
 
 
-\section{Professional Service}
-
-
-Ad Hoc Reviewer, Oncogene	2013Ad Hoc Reviewer, Nature	2013Coordinator, MIT Biological Engineering Graduate Student Board	2010 - 2013Ad Hoc Reviewer, J. Cell Biol.	2011 - 2012Member, MIT Biological Engineering Retreat Organizing Committee	2010 - 2012
+%\section{Selected Presentations}
+%
+%AACR Molecular Targets and Cancer Therapeutics \hfill Oct 2013 \\
+%PTMs in Cell Signaling, Copenhagen Bioscience Conferences (Travel award) \hfill Dec 2012 \\
+%Biomedical Engineering Society Annual Meeting (Selected talk) \hfill Oct 2012 \\
+%Systems Biology of Human Disease (Travel award) \hfill May 2012 \\
+%Signaling of Adhesion Receptors, Gordon Research Conference \hfill June 2012 \\
+%Koch Institute Fall Retreat \hfill Oct 2011 \\
+%Fibronectin and Related Integrins, Gordon Research Seminar (Selected talk) \hfill May 2011 \\
+%Fibronectin and Related Integrins, Gordon Research Conference \hfill May 2011 \\
+%
+%
+%
+%\section{Professional Service}
+%
+%
+%Ad Hoc Reviewer, Oncogene \hfill 2013 \\
+%Ad Hoc Reviewer, Nature \hfill 2013 \\
+%Coordinator, MIT Biological Engineering Graduate Student Board \hfill 2010 - 2013 \\
+%Ad Hoc Reviewer, J. Cell Biol. \hfill 2011 - 2012 \\
+%Member, MIT Biological Engineering Retreat Organizing Committee \hfill 2010 - 2012 \\
 
 
 
 \section{Patents}
 
-Miller, M.A., M.J. Oudin, A.S. Meyer, L.G. Griffith, F.B. Gertler, D.A. Lauffenburger. ?Diminished proteolytic shedding of receptor tyrosine kinases mediates Mek inhibitor resistance in triple-negative breast cancer.? US provisional patent filed.Meyer, A.S., S.K. Alford, F.B. Gertler, D.A. Lauffenburger. ?Protrusion as a surrogate of 3D motility response.? US provisional patent filed.
+Miller, M.A., M.J. Oudin, A.S. Meyer, L.G. Griffith, F.B. Gertler, D.A. Lauffenburger. ``Diminished proteolytic shedding of receptor tyrosine kinases mediates Mek inhibitor resistance in triple-negative breast cancer." US provisional patent filed.
+
+Meyer, A.S., S.K. Alford, F.B. Gertler, D.A. Lauffenburger. ``Protrusion as a surrogate of 3D motility response." US provisional patent filed.
 
 
 
