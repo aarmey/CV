@@ -1,36 +1,13 @@
 % !TEX TS-program = XeLaTeX
 \documentclass[11pt]{res}
 
-
-\usepackage{fontspec,xltxtra,xunicode,hyperref}
-\defaultfontfeatures{Mapping=tex-text}
-\setromanfont[Mapping=tex-text]{Arno Pro}
-\setsansfont[Scale=MatchLowercase,Mapping=tex-text]{Gill Sans}
-\setmonofont[Scale=MatchLowercase]{Consolas}
-
-
-\newsectionwidth{0pt} % Stops section indenting
-
 \begin{document}
-
-\makeatletter
-\let\origsection\section
-\renewcommand\section{\@ifstar{\starsection}{\nostarsection}}
-
-\newcommand\nostarsection[1]
-{\origsection{#1}\vspace{8pt}}
-
-\newcommand\starsection[1]
-{\origsection*{#1}\vspace{8pt}}
-
-\makeatother
-
-\renewcommand\labelitemi{{\boldmath$\cdot$}}
-
 
 %----------------------------------------------------------------------------------------
 %	YOUR NAME AND ADDRESS(ES) SECTION
 %----------------------------------------------------------------------------------------
+
+\thispagestyle{firststyle}
 
 \name{Aaron S. Meyer\\ \\} % Your name at the top
 
@@ -43,18 +20,18 @@
 
 \begin{resume}
 
+\raggedright 
+
 %	EDUCATION SECTION
 \section{Education}
 
 {\sl Ph.D.}, 
-Biological Engineering  \hfill April 2014\\ 
+Biological Engineering  \hfill April~2014\\ 
 Massachusetts Institute of Technology, Cambridge, MA \\ 
 Thesis: Quantitative approaches to understanding signaling regulation of 3D cell migration
  
-{\sl B.S.}, Bioengineering, magna cum laude \hfill 2009\\ 
+{\sl B.S.}, Bioengineering, magna cum laude \hfill June~2009\\ 
 University of California, Los Angeles, CA
-
-
 
 %%%%%%%%%%%%%%%%
 \section{Research Experience}
@@ -62,7 +39,7 @@ University of California, Los Angeles, CA
 {\sl Principal Investigator \& Research Fellow} \hfill September 2014 -- Present \\
 Koch Cancer Institute, MIT, Cambridge, MA 
 \begin{itemize} \itemsep -2pt % Reduce space between items
-\item Developed systems cancer cell resistance model allowing prognostic therapeutic design
+\item Developing systems cancer cell resistance model allowing prognostic therapeutic design
 \item Refining models of TAM receptor activation for optimal immunotherapeutic targeting
 \item Developing multiplexed methods for protein-protein interaction analysis
 \end{itemize}
@@ -76,7 +53,7 @@ Department of Biological Engineering \& Koch Cancer Institute, MIT, Cambridge, M
  
 {\sl Graduate Researcher in the labs of Douglas Lauffenburger \& Frank Gertler} \hfill 2009 -- 2014 \\
 Department of Biological Engineering \& Koch Cancer Institute, MIT, Cambridge, MA 
-\begin{itemize}
+\begin{itemize} \itemsep -2pt % Reduce space between items
 \item Identified similarities in migration response between dimensionalities, suggesting relevant migration  assays for invasive disease
 \item Studied transactivation of TAM receptors and its role in promoting motility response
 \item Developed systems models of TAM signaling, unifying conflicting observations regarding the receptors in normal biology and suggesting new methods of intervention to modulate activity
@@ -103,30 +80,6 @@ Schering-Plough Corporation, Watchung, NJ
 
 
 
-\section{Teaching \& Mentoring Experience}
-
-{\sl Faculty of the Citizen Science Program} \hfill July 2015 -- January 2016 \\
-Bard College, Citizen Science Program, Annandale-on-Hudson, NY	
-\begin{itemize} \itemsep -2pt % Reduce space between items
-\item Leading a short course introducing students to the natural sciences and scientific method
-\end{itemize}
-
-{\sl Undergraduate Mentor} \hfill 2009 -- Present \\
-MIT, Department of Biological Engineering, Cambridge, MA
-\begin{itemize} \itemsep -2pt % Reduce space between items
-\item Designed and supervised projects for nine undergraduate students
-\end{itemize}
-	
-
-{\sl Teaching Assistant in 20.110: Thermodynamics of Biomolecular Systems} \hfill 2010 \\
-MIT, Department of Biological Engineering, Cambridge, MA
-\begin{itemize} \itemsep -2pt % Reduce space between items
-\item Taught at weekly discussion sections, office hours, and individual appointments
-\item Helped write and graded problem sets and exam questions
-\end{itemize}
-
-
-
 % PUBLICATIONS SECTION
 \section{Refereed Publications}
 { \leftskip 0.1in
@@ -139,7 +92,7 @@ Manole, S., {\bf A.S. Meyer}. ``Conserved RTK-intrinsic signaling consequences r
 
 McConnell, R.E., J.E. Van Veen, M. Vidaki, A.V. Kwiatkowski, {\bf A.S. Meyer}, D.A. Lauffenburger, F.B. Gertler. ``Filopodia elongation towards the chemorepellent SLIT is required for axon repulsion." {\sl Submitted}.
 
-Miller, M.A., M.J. Oudin, R.J. Sullivan, D.T. Frederick, {\bf A.S. Meyer}, S. Wang, H. Im, J. Tadros, L.G. Griffith, H. Lee, R. Weissleder, K.T. Flaherty, F.B. Gertler, D.A. Lauffenburger. ``Reduced proteolytic shedding of receptor tyrosine kinases is a post-translational mechanism of kinase inhibitor resistance." {\sl Submitted}.
+Miller, M.A., M.J. Oudin, R.J. Sullivan, D.T. Frederick, {\bf A.S. Meyer}, S. Wang, H. Im, J. Tadros, L.G. Griffith, H.Â Lee, R.Â Weissleder, K.T.Â Flaherty, F.B.Â Gertler, D.A. Lauffenburger. ``Reduced proteolytic shedding of receptor tyrosine kinases is a post-translational mechanism of kinase inhibitor resistance." {\sl Submitted}.
 
 Miller, M.A., M. Moss, G. Powell, R. Petrovich, L. Edwards, {\bf A.S. Meyer}, L.G. Griffith, D.A. Lauffenburger. ``Targeting autocrine HB-EGF signaling with specific ADAM12 inhibition using recombinant ADAM12 prodomain." {\sl Accepted. Scientific Reports} (2015).
 
@@ -189,40 +142,99 @@ Koch Institute for Integrative Cancer Research\\
 Department of Defense\\
 W81XWH-11-1-0088 -- ``Molecular Regulatory Network Dysregulation in Breast Cancer Cell Migration \& Invasion"
 
-{\sl Momenta Presidential Fellowship} \hfill 2009 \\
-Massachusetts Institute of Technology
-
 {\sl Graduate Research Fellowship}  \hfill 2009 -- 2014 \\
 National Science Foundation
 
+{\sl Momenta Presidential Fellowship} \hfill 2009 \\
+Massachusetts Institute of Technology
 
 
-\section{Invited Oral Presentations}
 
+\section{Teaching \& Mentoring Experience}
 
-``AXL is a spatial ligand differentiation sensor."  \hfill Oct 2013 \\
-Merrimack Pharmaceuticals, Cambridge, MA	
+{\sl Faculty of the Citizen Science Program} \hfill July 2015 -- January 2016 \\
+Bard College, Citizen Science Program, Annandale-on-Hudson, NY	
+\begin{itemize} \itemsep -2pt % Reduce space between items
+\item Leading a short course introducing students to the natural sciences and scientific method
+\end{itemize}
+
+{\sl Undergraduate Mentor} \hfill 2009 -- Present \\
+MIT, Department of Biological Engineering, Cambridge, MA
+\begin{itemize} \itemsep -2pt % Reduce space between items
+\item Designed and supervised projects for nine undergraduate students
+\end{itemize}
 	
-``AXL amplifies EGFR signaling and drives resistance in triple negative breast carcinoma cells." \hfill Jan 2013 \\
-Merrimack Pharmaceuticals, Cambridge, MA
+
+{\sl Teaching Assistant}, Thermodynamics of Biomolecular Systems \hfill 2010 \\
+MIT, Department of Biological Engineering, Cambridge, MA
+\begin{itemize} \itemsep -2pt % Reduce space between items
+\item Taught at weekly discussion sections, office hours, and individual appointments
+\item Helped write and graded problem sets and exam questions
+\end{itemize}
 
 
 
-\section{Selected Presentations}
 
+\section{Conference \& Invited Presentations}
 
-AACR Molecular Targets and Cancer Therapeutics \hfill October 2013 \\
-PTMs in Cell Signaling, Copenhagen Bioscience Conferences (Travel award) \hfill December 2012 \\
-Biomedical Engineering Society Annual Meeting (Selected talk) \hfill October 2012 \\
-Systems Biology of Human Disease (Travel award) \hfill May 2012 \\
-Signaling of Adhesion Receptors, Gordon Research Conference \hfill June 2012 \\
-Koch Institute Fall Retreat \hfill October 2011 \\
-Fibronectin and Related Integrins, Gordon Research Seminar (Selected talk) \hfill May 2011 \\
-Fibronectin and Related Integrins, Gordon Research Conference \hfill May 2011 \\
+{\sl Systems Approaches to Cancer Biology}, NCI Invited Oral Presentation \hfill April 2016 \\
+Manole,~S., {\bf A.S.~Meyer} ``Conserved RTK-intrinsic signaling results in distinct bypass resistance capacity and suggests therapeutic opportunities."
+
+{\sl Biomedical Engineering Society Annual Meeting} \hfill October 2015 \\
+Manole, S., {\bf A.S. Meyer}. ``Conserved RTK-intrinsic signaling consequences result in distinct bypass resistance capacity dependent upon pathway dependencies."
+
+{\sl ICBP Principal Investigators Meeting} \hfill May 2015 \\
+Manole, S., {\bf A.S. Meyer}. ``Conserved RTK-intrinsic signaling consequences result in distinct bypass resistance capacity dependent upon pathway dependencies."
+
+\clearpage
+
+{\sl NIH Common Fund High-Risk High-Reward Symposium} \hfill December 2014 \\
+{\bf A.S. Meyer}. ``Adapter-Layer Integration of RTK Signaling: Basic Understanding and Application to Prediction of Targeted Drug Resistance."
+
+{\sl Biomedical Engineering Society Annual Meeting}, Selected Oral Presentation \hfill October 2014 \\
+{\bf Meyer, A.S.}, C.A. Riley, D.A. Lauffenburger. ``AXL Is a Spatial Ligand Differentiation Sensor."
+
+{\sl Interdisciplinary Signaling Workshop}, Selected Oral Presentation \hfill July 2014 \\
+{\bf Meyer, A.S.}, C.A. Riley, D.A. Lauffenburger. ``AXL Is a Spatial Ligand Differentiation Sensor."
+
+{\sl ICBP Principal Investigators Meeting} \hfill May 2014 \\
+{\bf Meyer, A.S.}, C.A. Riley, D.A. Lauffenburger. ``AXL is a spatial ligand differentiation sensor."
+
+{\sl AACR Molecular Targets and Cancer Therapeutics} \hfill October 2013 \\
+{\bf Meyer, A.S.}, F.B. Gertler, D.A. Lauffenburger. ``AXL amplifies EGFR signaling and drives resistance in triple negative breast carcinoma cells."
+
+{\sl Merrimack Pharmaceuticals}, Invited Oral Presentation \hfill October 2013 \\
+{\bf Meyer, A.S.}, C.A. Riley, D.A. Lauffenburger. ``AXL is a spatial ligand differentiation sensor."
+
+{\sl ICBP Principal Investigators Meeting} \hfill May 2013 \\
+{\bf Meyer, A.S.}, F.B. Gertler, D.A. Lauffenburger. ``AXL amplifies EGFR signaling and drives resistance in triple negative breast carcinoma cells."
+
+{\sl Merrimack Pharmaceuticals}, Invited Oral Presentation \hfill January 2013 \\
+{\bf Meyer, A.S.}, F.B. Gertler, D.A. Lauffenburger. ``AXL amplifies EGFR signaling and drives resistance in triple negative breast carcinoma cells."
+
+{\sl PTMs in Cell Signaling, Copenhagen Bioscience Conferences}, Travel Award \hfill December 2012 \\
+{\bf Meyer, A.S.}, F.B. Gertler, D.A. Lauffenburger. ``AXL amplifies EGFR signaling and drives resistance in triple negative breast carcinoma cells."
+
+{\sl Biomedical Engineering Society Annual Meeting}, Selected Oral Presentation \hfill October 2012 \\
+{\bf Meyer, A.S.}, S.K. Hughes-Alford, J.E. Kay, A. Castillo, A. Wells, F.B. Gertler, D.A. Lauffenburger. ``2D protrusion but not motility predicts growth factor-induced cancer cell migration in 3D collagen."
+
+{\sl Signaling of Adhesion Receptors, Gordon Research Conference} \hfill June 2012 \\
+{\bf Meyer, A.S.}, S.K. Hughes-Alford, J.E. Kay, A. Castillo, A. Wells, F.B. Gertler, D.A. Lauffenburger. ``2D protrusion but not motility predicts growth factor-induced cancer cell migration in 3D collagen."
+
+{\sl Systems Biology of Human Disease}, Travel Award \hfill May 2012 \\
+{\bf Meyer, A.S.}, S.K. Hughes-Alford, J.E. Kay, A. Castillo, A. Wells, F.B. Gertler, D.A. Lauffenburger. ``2D protrusion but not motility predicts growth factor-induced cancer cell migration in 3D collagen."
+
+{\sl Fibronectin and Related Integrins, Gordon Research Conference} \hfill May 2011 \\
+{\bf Meyer, A.S.}, S.K. Hughes-Alford, J.E. Kay, A. Castillo, A. Wells, F.B. Gertler, D.A. Lauffenburger. ``2D protrusion but not motility predicts growth factor-induced cancer cell migration in 3D collagen."
+
+\clearpage
+
+{\sl Fibronectin and Related Integrins, Gordon Research Seminar}, Selected Oral Presentation \hfill May 2011 \\
+{\bf Meyer, A.S.}, S.K. Hughes-Alford, A. Wells, F.B. Gertler, D.A. Lauffenburger. ``Heterogeneity of growth factor motility responses among a panel of carcinoma and endometriosis cell lines."
 
 \section{Professional Service}
 
-{\sl Meeting Committee Member}, Association of Early Career Cancer Systems Biologists \hfill 2015 -- Present \\
+{\sl Meeting Organizer}, Association of Early Career Cancer Systems Biologists \hfill 2015 -- Present \\
 {\sl Ad Hoc Reviewer}, Molecular Cell \hfill 2015 \\
 {\sl Member}, Biomedical Engineering Society \hfill 2010 -- Present \\
 {\sl Coordinator}, MIT Biological Engineering Graduate Student Board \hfill 2010 -- 2013 \\

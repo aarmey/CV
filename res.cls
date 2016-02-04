@@ -791,8 +791,6 @@
 \parsep 2pt plus 2pt
 \itemsep \parsep}
 
-\pagestyle{empty}  % don't want page numbers
-
 \begin{format}
 \title{l}\employer{r}\\
 \location{l}\dates{r}\\
@@ -801,3 +799,41 @@
 
 \let\section\@@section
 
+\let\origsection\section
+\renewcommand\section{\@ifstar{\starsection}{\nostarsection}}
+
+\newcommand\nostarsection[1]
+{\origsection{#1}\vspace{8pt}}
+
+\newcommand\starsection[1]
+{\origsection*{#1}\vspace{8pt}}
+
+\newsectionwidth{0pt} % Stops section indenting
+
+\renewcommand\labelitemi{{\boldmath$\cdot$}}
+
+
+
+\RequirePackage[margin=0.85in, headheight=15pt, headsep=10pt]{geometry}
+\geometry{letterpaper}
+
+
+\RequirePackage{fancyhdr,fontspec,xltxtra,hyperref}
+
+\defaultfontfeatures{Mapping=tex-text}
+\setromanfont[Mapping=tex-text]{Arno Pro}
+
+\pagestyle{fancy}
+\lhead{}
+\chead{}
+\rhead{\emph{Aaron~S.~Meyer, Ph.D.}}
+\lfoot{}
+\cfoot{}
+\rfoot{}
+
+
+\fancypagestyle{firststyle} {
+   \renewcommand{\headrulewidth}{0pt}
+   \rhead{}
+   \rfoot{}
+}
