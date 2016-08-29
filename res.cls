@@ -821,7 +821,7 @@
 \RequirePackage{fancyhdr,fontspec,xltxtra,hyperref}
 
 \defaultfontfeatures{Mapping=tex-text}
-\setromanfont[Mapping=tex-text]{Arno Pro}
+\setromanfont[Mapping=tex-text]{Myriad Pro}
 
 \pagestyle{fancy}
 \lhead{}
