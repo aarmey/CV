@@ -818,7 +818,7 @@
 \geometry{letterpaper}
 
 
-\RequirePackage{fancyhdr,fontspec,xltxtra,hyperref}
+\RequirePackage{fancyhdr,fontspec,xltxtra,hyperref,enumitem}
 
 \defaultfontfeatures{Mapping=tex-text}
 \setromanfont[Mapping=tex-text]{Myriad Pro}
@@ -831,6 +831,7 @@
 \cfoot{}
 \rfoot{}
 
+\setitemize{itemsep=-2pt}
 
 \fancypagestyle{firststyle} {
    \renewcommand{\headrulewidth}{0pt}
