@@ -8,8 +8,6 @@ cd Output
 
 echo "Initializing."
 
-ssh -vvv git@github.com
-
 git init
 git config user.name "Jenkins CI"
 git config user.email "jenkins@asmlab.org"
