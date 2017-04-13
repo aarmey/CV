@@ -10,7 +10,7 @@ git init
 git config user.name "Jenkins CI"
 git config user.email "jenkins@asmlab.org"
 
-git remote add upstream "https://github.com/thanatosmin/CV.git"
+git remote add upstream "https://thanatosmin@github.com/thanatosmin/CV.git"
 git fetch upstream
 git reset upstream/gh-pages
 
