@@ -6,6 +6,8 @@ mkdir -p Output
 cp *.pdf ./Output/
 cd Output
 
+echo "Initializing."
+
 git init
 git config user.name "Jenkins CI"
 git config user.email "jenkins@asmlab.org"
