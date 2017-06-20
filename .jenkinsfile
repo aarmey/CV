@@ -6,6 +6,7 @@ pipeline {
   stages {
     stage('Build') {
       steps {
+        sh 'git clean -ffdx'
         sh 'xelatex Meyer_CV.tex'
         sh 'xelatex Biosketch.tex'
       }
