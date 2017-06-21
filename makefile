@@ -1,34 +1,28 @@
 .PHONY: clean gitclean upload
 
-all: Meyer_CV.pdf Biosketch.pdf Output/Meyer_CV.pdf Output/Biosketch.pdf Output/.git/HEAD
+all: Output/Meyer_CV.pdf Output/Biosketch.pdf Output/.git/HEAD
 
 res.cls: 
 	curl -o $@ -v -L https://www.ctan.org/tex-archive/macros/latex/contrib/resume/res.cls
 
-Meyer_CV.pdf: res.cls Meyer_CV.tex
-	xelatex Meyer_CV.tex
-
-Biosketch.pdf: Biosketch.tex
-	xelatex Biosketch.tex
-
-Output/%.pdf: %.pdf
+Output/Meyer_CV.pdf: res.cls Meyer_CV.md CV-templ.tex
 	mkdir -p Output
-	cp $< $@
+	pandoc --template=CV-templ.tex --latex-engine=xelatex Meyer_CV.md -o $@
+
+Output/Biosketch.pdf: Biosketch.md
+	mkdir -p Output
+	pandoc --latex-engine=xelatex Biosketch.md -o $@
 
 Output/.git/HEAD: Output
-	cd Output; git init; git config user.name "Jenkins CI"
-	cd Output; git config user.email "jenkins@asmlab.org"
-	cd Output; git remote add upstream "git@github.com:thanatosmin/CV.git"
-	cd Output; git fetch upstream; git reset upstream/gh-pages; touch .
+	cd Output; git init; git config user.name "Jenkins CI"; git config user.email "jenkins@asmlab.org"
+	cd Output; git remote add upstream "git@github.com:thanatosmin/CV.git"; git fetch upstream; git reset upstream/gh-pages; touch .
 
 upload: Output/.git/HEAD Output/Meyer_CV.pdf Output/Biosketch.pdf
 	cd Output; git add -A .; git status
-	cd Output; git commit -m "Lastest site built on successful jenkins build $BUILD_NUMBER auto-pushed to github"
-	cd Output; git push -q upstream HEAD:gh-pages
+	cd Output; git commit -m "Jenkins $BUILD_NUMBER auto-pushed"; git push -q upstream HEAD:gh-pages
 
 clean:
-	rm -f res.cls *.aux *.log *.out *.pdf
-	rm -rf Output
+	rm -rf Output res.cls
 
 gitclean:
 	git clean -ffdx
