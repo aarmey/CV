@@ -8,6 +8,8 @@ pipeline {
       steps {
         sh 'make gitclean'
         sh 'make'
+        archiveArtifacts artifacts: 'Output/Meyer_CV.pdf', onlyIfSuccessful: true
+        archiveArtifacts artifacts: 'Output/Biosketch.pdf', onlyIfSuccessful: true
       }
     }
     stage('Deploy') {
@@ -16,8 +18,6 @@ pipeline {
       }
       steps {
         sh 'make upload'
-        archiveArtifacts artifacts: 'Meyer_CV.pdf', onlyIfSuccessful: true
-        archiveArtifacts artifacts: 'Biosketch.pdf', onlyIfSuccessful: true
       }
     }
   }
