@@ -103,7 +103,7 @@ _Fellowship Grant_ \hfill 2017 – 2019
 Terri Brodeur Breast Cancer Foundation  
 "Decoding the Role of TAM Receptors _In Vivo_ Using More Specific and Potent Inhibitors"
 
-**[Ten to Watch](http://www.amgenscholars.com/alumni/ten-to-watch)**, Amgen Scholars Foundation \hfill 2016
+_[Ten to Watch](http://www.amgenscholars.com/alumni/ten-to-watch)_, Amgen Scholars Foundation \hfill 2016
 
 _AMIGOS Program Award_ \hfill 2016 – 2020  
 Jayne Koskinas Ted Giovanis Foundation and Breast Cancer Research Foundation  
