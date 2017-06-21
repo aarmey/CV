@@ -23,8 +23,8 @@ Output/.git/HEAD: Output
 
 upload: Output/.git/HEAD Output/Meyer_CV.pdf Output/Biosketch.pdf
 	cd Output; git add -A .; git status
-	git commit -m "Lastest site built on successful jenkins build $BUILD_NUMBER auto-pushed to github"
-	git push -q upstream HEAD:gh-pages
+	cd Output; git commit -m "Lastest site built on successful jenkins build $BUILD_NUMBER auto-pushed to github"
+	cd Output; git push -q upstream HEAD:gh-pages
 
 clean:
 	rm -f res.cls *.aux *.log *.out *.pdf
