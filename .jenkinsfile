@@ -6,14 +6,16 @@ pipeline {
   stages {
     stage('Build') {
       steps {
-        sh 'git clean -ffdx'
-        sh 'xelatex Meyer_CV.tex'
-        sh 'xelatex Biosketch.tex'
+        sh 'make gitclean'
+        sh 'make'
       }
     }
     stage('Deploy') {
+      when {
+        expression { env.BRANCH_NAME == 'master' }
+      }
       steps {
-        sh './.deploy.sh'
+        sh 'make upload'
         archiveArtifacts artifacts: 'Meyer_CV.pdf', onlyIfSuccessful: true
         archiveArtifacts artifacts: 'Biosketch.pdf', onlyIfSuccessful: true
       }
