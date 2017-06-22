@@ -43,10 +43,10 @@ I am well-suited with the requisite training and expertise to carry out the prop
 This application, while a new undertaking within my research program, builds upon, is strongly influenced by, and is enabled by my earlier work. My experience with both TAMR receptor signaling and data-driven analysis of signaling networks is a critical component to the success of this project. Each Aim of this proposal relies on careful integration of both quantitative experiments and systems-level analysis, a hallmark of my research program.
 
 
-1. **Meyer, A.S.**$^\dag$, A.J.M. Zweemer, D.A. Lauffenburger$^\dag$. (2015). The AXL Receptor Is a Sensor of Ligand Spatial Heterogeneity. \emph{Cell Systems}, 1(1):25--36. PMCID: PMC4520549.
-2. \textbf{Meyer, A.S.}, M.A. Miller, F.B. Gertler, D.A. Lauffenburger. (2013). The receptor AXL diversifies EGFR signaling and limits the response to EGFR-targeted inhibitors in triple-negative breast cancer cells. _Science Signaling_, 6(287), ra66. PMCID: 3947921.
-3. \textbf{Meyer, A.S.}, S.K. Hughes-Alford, J.E. Kay, A. Castillo, A. Wells, F.B. Gertler, D.A. Lauffenburger (2012). 2D protrusion but not motility predicts growth factor-induced cancer cell migration in 3D collagen. _Journal of Cell Biology_, 197(6), 721-729. PMCID: 3373410.
-4. Miller, M.A.$^\ddag$, **A.S. Meyer**$^\ddag$, M. Beste, Z. Lasisi, S. Reddy, K. Jeng, C.-H. Chen, J. Han, K. Isaacson, L.G. Griffith, D.A. Lauffenburger. (2013). ADAM-10 and -17 regulate endometriotic cell migration via concerted ligand and receptor shedding feedback on kinase signaling. _Proc. Natl. Acad. Sci. USA_, 110(22), E2074-E2083. PMCID: 3670354.
+1. **Meyer, A.S.**^†^, A.J.M. Zweemer, D.A. Lauffenburger^†^. (2015). The AXL Receptor Is a Sensor of Ligand Spatial Heterogeneity. \emph{Cell Systems}, 1(1):25–36. PMCID: PMC4520549.
+2. **Meyer, A.S.**, M.A. Miller, F.B. Gertler, D.A. Lauffenburger. (2013). The receptor AXL diversifies EGFR signaling and limits the response to EGFR-targeted inhibitors in triple-negative breast cancer cells. _Science Signaling_, 6(287), ra66. PMCID: 3947921.
+3. **Meyer, A.S.**, S.K. Hughes-Alford, J.E. Kay, A. Castillo, A. Wells, F.B. Gertler, D.A. Lauffenburger (2012). 2D protrusion but not motility predicts growth factor-induced cancer cell migration in 3D collagen. _Journal of Cell Biology_, 197(6), 721–729. PMCID: 3373410.
+4. Miller, M.A.^†^, **A.S. Meyer**^†^, M. Beste, Z. Lasisi, S. Reddy, K. Jeng, C.-H. Chen, J. Han, K. Isaacson, L.G. Griffith, D.A. Lauffenburger. (2013). ADAM-10 and -17 regulate endometriotic cell migration via concerted ligand and receptor shedding feedback on kinase signaling. _Proc. Natl. Acad. Sci. USA_, 110(22), E2074-E2083. PMCID: 3670354.
 
 
 ## B. Positions and Honors
@@ -98,11 +98,11 @@ This application, while a new undertaking within my research program, builds upo
 
 TAMR receptors play diverse roles in cancer progression as elucidated through genetic manipulation but their mechanisms of post-translational regulation are complex. As efferocytosis receptors, TAMRs have dual roles in mediating transport of extracellular debris as well as intracellular signaling. While small molecule and biologic TAMR inhibitors are in preclinical and clinical development, knowing where and in which patients TAMR therapies will be effective will aid translation of these therapies. These studies focused on the factors that drive AXL activation within carcinoma cells, and in turn the consequence of this activation. We first identified that AXL can be transactivated from ErbB receptors and that this transactivation drives the invasiveness of breast carcinoma cells more so than the signaling from the ErbB receptors themselves (2). Then, we developed a kinetic model of AXL activation, mechanistically explaining the dependence of the receptor upon phosphatidylserine for activation (1). This basic understanding of AXL signaling will allow for more rationally designed therapies and understanding of which factors in the tumor microenvironment lead to activation.
 
-1. **Meyer, A.S.**~†~, A.J.M. Zweemer, D.A. Lauffenburger~†~. (2015). The AXL Receptor Is a Sensor of Ligand Spatial Heterogeneity. _Cell Systems_, 1(1):25--36. PMCID: 4520549.\\ Associated software repository: <https://github.com/meyer-lab/AXLdiffEQ>
-2. **Meyer, A.S.**, M.A. Miller, F.B. Gertler, D.A. Lauffenburger. (2013). The receptor AXL diversifies EGFR signaling and limits the response to EGFR-targeted inhibitors in triple-negative breast cancer cells. \emph{Science Signaling}, 6(287), ra66. PMCID: 3947921.
+1. **Meyer, A.S.**^†^, A.J.M. Zweemer, D.A. Lauffenburger^†^. (2015). The AXL Receptor Is a Sensor of Ligand Spatial Heterogeneity. _Cell Systems_, 1(1):25--36. PMCID: 4520549.
+2. **Meyer, A.S.**, M.A. Miller, F.B. Gertler, D.A. Lauffenburger. (2013). The receptor AXL diversifies EGFR signaling and limits the response to EGFR-targeted inhibitors in triple-negative breast cancer cells. _Science Signaling_, 6(287), ra66. PMCID: 3947921.
 
 
-\noindent $^\dag$Co-corresponding authors.
+\noindent ^†^Co-corresponding authors.
 
 
 ### Therapeutic resistance and design
@@ -119,11 +119,11 @@ The benefits cancer patients derive from targeted therapies are limited by genet
 Invasion and dissemination of cells underlies many diseases including breast cancer. Studying these processes is complicated by their regulation on multiple levels, and the multiple biophysical steps involved. In earlier work, we studied cell migration overall and individual processes involved in cell migration, then compared them to 3D invasion through extracellular matrix (1). This identified that individual processes still regulated migration in 3D, but that the overall rate-limiting steps and thus migration response were different. By studying the signaling (3) and protease (2) regulation of migration, we then linked these processes to the invasive response to identify therapeutic approaches.
 
 - **Meyer, A.S.**, S.K. Hughes-Alford, J.E. Kay, A. Castillo, A. Wells, F.B. Gertler, D.A. Lauffenburger (2012). 2D protrusion but not motility predicts growth factor-induced cancer cell migration in 3D collagen. _Journal of Cell Biology_, 197(6), 721-729. PMCID: 3373410.
-- Miller, M.A.~‡~, **A.S. Meyer**~‡~, M. Beste, Z. Lasisi, S. Reddy, Jeng, K., Chen, C.-H., Han, J., Isaacson, K., Griffith, L.G., Lauffenburger, D.A. (2013). ADAM-10 and -17 regulate endometriotic cell migration via concerted ligand and receptor shedding feedback on kinase signaling. _Proc. Natl. Acad. Sci. USA_, 110(22), E2074-E2083. PMCID: 3670354.
-- Kim, H.D., **Meyer, A.S.**, Wagner, J.P., Alford, S.K., Wells, A., Gertler, F.B., Lauffenburger, D.A. (2011). Signaling network state predicts Twist-mediated effects on breast cell migration across diverse growth factor contexts. \emph{Molecular \& Cellular Proteomics}, 10(11), M111.008433. PMCID: 3226401.
+- Miller, M.A.^‡^, **A.S. Meyer**^‡^, M. Beste, Z. Lasisi, S. Reddy, Jeng, K., Chen, C.-H., Han, J., Isaacson, K., Griffith, L.G., Lauffenburger, D.A. (2013). ADAM-10 and -17 regulate endometriotic cell migration via concerted ligand and receptor shedding feedback on kinase signaling. _Proc. Natl. Acad. Sci. USA_, 110(22), E2074-E2083. PMCID: 3670354.
+- Kim, H.D., **Meyer, A.S.**, Wagner, J.P., Alford, S.K., Wells, A., Gertler, F.B., Lauffenburger, D.A. (2011). Signaling network state predicts Twist-mediated effects on breast cell migration across diverse growth factor contexts. \emph{Molecular & Cellular Proteomics}, 10(11), M111.008433. PMCID: 3226401.
 - Riquelme, D.N., **A.S. Meyer**, M. Barzik, A. Keating, F.B. Gertler. (2015). Selectivity in Subunit Composition of Ena/VASP Tetramers. _Bioscience Reports_, 2015. PMCID: 4721544.
 
-\noindent ~‡~Equal contribution.
+\noindent ^‡^Equal contribution.
 
 
 **Complete List of Published Work in My Bibliography: <http://1.usa.gov/1So8BFr>**
