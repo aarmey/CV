@@ -43,7 +43,7 @@ I am well-suited with the requisite training and expertise to carry out the prop
 This application, while a new undertaking within my research program, builds upon, is strongly influenced by, and is enabled by my earlier work. My experience with both TAMR receptor signaling and data-driven analysis of signaling networks is a critical component to the success of this project. Each Aim of this proposal relies on careful integration of both quantitative experiments and systems-level analysis, a hallmark of my research program.
 
 
-1. **Meyer, A.S.**^†^, A.J.M. Zweemer, D.A. Lauffenburger^†^. (2015). The AXL Receptor Is a Sensor of Ligand Spatial Heterogeneity. \emph{Cell Systems}, 1(1):25–36. PMCID: PMC4520549.
+1. **Meyer, A.S.**^†^, A.J.M. Zweemer, D.A. Lauffenburger^†^. (2015). The AXL Receptor Is a Sensor of Ligand Spatial Heterogeneity. _Cell Systems_, 1(1):25–36. PMCID: PMC4520549.
 2. **Meyer, A.S.**, M.A. Miller, F.B. Gertler, D.A. Lauffenburger. (2013). The receptor AXL diversifies EGFR signaling and limits the response to EGFR-targeted inhibitors in triple-negative breast cancer cells. _Science Signaling_, 6(287), ra66. PMCID: 3947921.
 3. **Meyer, A.S.**, S.K. Hughes-Alford, J.E. Kay, A. Castillo, A. Wells, F.B. Gertler, D.A. Lauffenburger (2012). 2D protrusion but not motility predicts growth factor-induced cancer cell migration in 3D collagen. _Journal of Cell Biology_, 197(6), 721–729. PMCID: 3373410.
 4. Miller, M.A.^†^, **A.S. Meyer**^†^, M. Beste, Z. Lasisi, S. Reddy, K. Jeng, C.-H. Chen, J. Han, K. Isaacson, L.G. Griffith, D.A. Lauffenburger. (2013). ADAM-10 and -17 regulate endometriotic cell migration via concerted ligand and receptor shedding feedback on kinase signaling. _Proc. Natl. Acad. Sci. USA_, 110(22), E2074-E2083. PMCID: 3670354.
@@ -120,7 +120,7 @@ Invasion and dissemination of cells underlies many diseases including breast can
 
 - **Meyer, A.S.**, S.K. Hughes-Alford, J.E. Kay, A. Castillo, A. Wells, F.B. Gertler, D.A. Lauffenburger (2012). 2D protrusion but not motility predicts growth factor-induced cancer cell migration in 3D collagen. _Journal of Cell Biology_, 197(6), 721-729. PMCID: 3373410.
 - Miller, M.A.^‡^, **A.S. Meyer**^‡^, M. Beste, Z. Lasisi, S. Reddy, Jeng, K., Chen, C.-H., Han, J., Isaacson, K., Griffith, L.G., Lauffenburger, D.A. (2013). ADAM-10 and -17 regulate endometriotic cell migration via concerted ligand and receptor shedding feedback on kinase signaling. _Proc. Natl. Acad. Sci. USA_, 110(22), E2074-E2083. PMCID: 3670354.
-- Kim, H.D., **Meyer, A.S.**, Wagner, J.P., Alford, S.K., Wells, A., Gertler, F.B., Lauffenburger, D.A. (2011). Signaling network state predicts Twist-mediated effects on breast cell migration across diverse growth factor contexts. \emph{Molecular & Cellular Proteomics}, 10(11), M111.008433. PMCID: 3226401.
+- Kim, H.D., **Meyer, A.S.**, Wagner, J.P., Alford, S.K., Wells, A., Gertler, F.B., Lauffenburger, D.A. (2011). Signaling network state predicts Twist-mediated effects on breast cell migration across diverse growth factor contexts. _Molecular & Cellular Proteomics_, 10(11), M111.008433. PMCID: 3226401.
 - Riquelme, D.N., **A.S. Meyer**, M. Barzik, A. Keating, F.B. Gertler. (2015). Selectivity in Subunit Composition of Ena/VASP Tetramers. _Bioscience Reports_, 2015. PMCID: 4721544.
 
 \noindent ^‡^Equal contribution.
@@ -141,7 +141,7 @@ This project aims to study how cell state plasticity contributes to drug resista
 Role: Co-PI
 
 \vspace{12pt}
-NIH DP5-OD019815  \hfill  9/22/2014--9/1/2019  
+NIH DP5-OD019815  \hfill  9/22/2014 – 9/1/2019  
 Adapter-Layer RTK Signaling: Basic Understanding & Targeted Drug Resistance
 The goal of this project is to study sets of resistance mechanisms to RTK-targeted therapies, in order to identify commonalities and ways to determine which mechanism may be driving individual tumors. There is no overlap with this proposal.
 
@@ -149,14 +149,14 @@ Role: PI
 
 ### Completed Research Support}
 
-Frontier Research Program Initiator Award, Koch Institute, MIT \hfill 6/1/2015--6/1/2016  
+Frontier Research Program Initiator Award, Koch Institute, MIT \hfill 6/1/2015 – 6/1/2016  
 Quantitative and Multiplexed Tools for Probing G-Protein Coupled Receptor Activation  
 The goal of this project was to develop a novel multiplexed G-protein activation assay able to globally assess their activity.  
 Role: Co-PI
 
 \vspace{12pt}
 
-W81XWH-11-1-0088  \hfill  12/1/2010--12/1/2013  
+W81XWH-11-1-0088  \hfill  12/1/2010 – 12/1/2013  
 Multivariate analysis of 3D breast cancer cell invasion  
 The goal of this project was a systems analysis of breast cancer cell migration and invasion, connecting 3D migration to signaling changes during EMT.  
 Role: PI
