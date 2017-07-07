@@ -19,12 +19,17 @@ University of California, Los Angeles, CA
 
 # Research Experience
 
-_Principal Investigator & Research Fellow_ \hfill 2014 – Present  
+_Assistant Professor_ \hfill 2017 – Present
+Bioengineering Department, University of California, Los Angeles
+
+- Assembling mechanistic model of FcγR engagement and activation sufficient to accurately predict *in vivo* IgG-driven effector function
+- Further refining our understanding of TAM receptor activation response and role in targeted therapy and chemotherapy resistance
+
+_Principal Investigator & Research Fellow_ \hfill 2014 – 2017  
 Koch Cancer Institute, MIT, Cambridge, MA
 
-- Developing systems cancer cell resistance model allowing predictive precision therapy selection
-- Refining models of TAM receptor activation for optimal immunotherapeutic targeting
-
+- Developed systems cancer cell resistance model allowing predictive precision therapy selection
+- Refined models of TAM receptor activation for optimal immunotherapeutic targeting
 
 _Graduate Researcher in the labs of Douglas Lauffenburger & Frank Gertler_ \hfill 2009 – 2014  
 Department of Biological Engineering & Koch Cancer Institute, MIT, Cambridge, MA
