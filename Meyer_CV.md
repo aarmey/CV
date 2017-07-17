@@ -19,7 +19,7 @@ University of California, Los Angeles, CA
 
 # Research Experience
 
-_Assistant Professor_ \hfill 2017 – Present
+_Assistant Professor_ \hfill 2017 – Present  
 Bioengineering Department, University of California, Los Angeles
 
 - Assembling mechanistic model of FcγR engagement and activation sufficient to accurately predict *in vivo* IgG-driven effector function
