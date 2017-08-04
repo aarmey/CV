@@ -38,10 +38,7 @@ header-includes:
 
 <!-- Briefly describe why you are well-suited for your role(s) in the project described in this application. The relevant factors may include aspects of your training; your previous experimental work on this specific topic or related topics; your technical expertise; your collaborators or scientific environment; and your past performance in this or related fields (you may mention specific contributions to science that are not included in Section C). -->
 
-I am well-suited with the requisite training and expertise to carry out the proposed project herein. I have a background in biological engineering, with training in applied machine learning, receptor-mediated cell signaling, and cancer. My research broadly applies integrated experimental and theoretical approaches to understanding the complex signaling that underlies tumor invasion and immune avoidance. A focus of this work is on the TAMR family of receptor tyrosine kinases, which drive tumor cell resistance, immune avoidance, and efferocytosis of phosphatidylserine-exposing debris. While early in my independent career, I have served as PI on a number of grants and supervised technicians, graduate students, and postdoctoral associates.
-
-This application, while a new undertaking within my research program, builds upon, is strongly influenced by, and is enabled by my earlier work. My experience with both TAMR receptor signaling and data-driven analysis of signaling networks is a critical component to the success of this project. Each Aim of this proposal relies on careful integration of both quantitative experiments and systems-level analysis, a hallmark of my research program.
-
+I have a background in biological engineering, with training in applied machine learning, receptor-mediated cell signaling, and cancer. My research broadly applies integrated experimental and theoretical approaches to understanding the complex signaling that underlies tumor invasion and immune avoidance. A focus of this work is on the TAMR family of receptor tyrosine kinases, which drive tumor cell resistance, immune avoidance, and efferocytosis of phosphatidylserine-exposing debris. While early in my independent career, I have served as PI on a number of grants and supervised technicians, graduate students, and postdoctoral associates.
 
 1. **Meyer, A.S.**^†^, A.J.M. Zweemer, D.A. Lauffenburger^†^. (2015). The AXL Receptor Is a Sensor of Ligand Spatial Heterogeneity. _Cell Systems_, 1(1):25–36. PMCID: PMC4520549.
 2. **Meyer, A.S.**, M.A. Miller, F.B. Gertler, D.A. Lauffenburger. (2013). The receptor AXL diversifies EGFR signaling and limits the response to EGFR-targeted inhibitors in triple-negative breast cancer cells. _Science Signaling_, 6(287), ra66. PMCID: 3947921.
@@ -70,24 +67,52 @@ This application, while a new undertaking within my research program, builds upo
 
 ### Other Experience and Professional Memberships
 
-- [2010--2012] Member, MIT Biological Engineering Retreat Organizing Committee
-- [2010--2013] Coordinator, MIT Biological Engineering Graduate Student Board
-- [2010--Present] Member, Biomedical Engineering Society
-- [2014--2017] Committee Member, Association of Early Career Cancer Systems Biologists
-- [2015--2016] Organizer, Systems Approaches to Cancer Biology meeting
-- [2017--Present] Chair, Association of Early Career Cancer Systems Biologists
+2010–2012
+ ~ Member, MIT Biological Engineering Retreat Organizing Committee
+
+2010–2013
+ ~ Coordinator, MIT Biological Engineering Graduate Student Board
+
+2010–Present
+ ~ Member, Biomedical Engineering Society
+
+2014–2017
+ ~ Committee Member, Association of Early Career Cancer Systems Biologists
+
+2015–2016
+ ~ Organizer, Systems Approaches to Cancer Biology meeting
+
+2017–Present
+ ~ Chair, Association of Early Career Cancer Systems Biologists
 
 ### Honors
 
-- [2009] Momenta Presidential Fellowship, MIT
-- [2009] Graduate Research Fellowship, National Science Foundation
-- [2010] Breast Cancer Research Predoctoral Fellowship, Department of Defense
-- [2012] Repligen Fellowship in Cancer Research, Koch Institute
-- [2012] Travel grant to attend PTMs in Cell Signaling Conference in Copenhagen, Denmark
-- [2013] Whitaker Fellowship, MIT
-- [2013] Siebel Scholar, Class of 2014
-- [2016] Ten to Watch, Amgen Scholars Foundation
-- [2016--2017] Fellowship, Terri Brodeur Breast Cancer Foundation
+2009
+ ~ Momenta Presidential Fellowship, MIT
+
+2009
+ ~ Graduate Research Fellowship, National Science Foundation
+
+2010
+ ~ Breast Cancer Research Predoctoral Fellowship, Department of Defense
+
+2012
+ ~ Repligen Fellowship in Cancer Research, Koch Institute
+
+2012
+ ~ Travel grant to attend PTMs in Cell Signaling Conference in Copenhagen, Denmark
+
+2013
+ ~ Whitaker Fellowship, MIT
+
+2013
+ ~ Siebel Scholar, Class of 2014
+
+2016
+ ~ Ten to Watch, Amgen Scholars Foundation
+
+2016–2017
+ ~ Fellowship, Terri Brodeur Breast Cancer Foundation
 
 
 ## C. Contribution to Science
@@ -133,8 +158,8 @@ Invasion and dissemination of cells underlies many diseases including breast can
 
 ### Ongoing Research Support
 
-Foundation Grant \hfill 7/1/2017 – 6/30/2019
-Terri Brodeur Breast Cancer Foundation
+Foundation Grant \hfill 7/1/2017 – 6/30/2019  
+Terri Brodeur Breast Cancer Foundation  
 This project aims to use a computational model to direct design of new inhibitors for the TAM receptors. Using these well-characterized compounds, we will examine the _in vivo_ effects of inhibiting different TAM receptor complements.
 
 Role: PI
