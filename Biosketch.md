@@ -133,6 +133,13 @@ Invasion and dissemination of cells underlies many diseases including breast can
 
 ### Ongoing Research Support
 
+Foundation Grant \hfill 7/1/2017 – 6/30/2019
+Terri Brodeur Breast Cancer Foundation
+This project aims to use a computational model to direct design of new inhibitors for the TAM receptors. Using these well-characterized compounds, we will examine the _in vivo_ effects of inhibiting different TAM receptor complements.
+
+Role: PI
+
+\vspace{12pt}
 AMIGOS Program Award \hfill 12/1/2016 – 1/1/2020  
 Jayne Koskinas Ted Giovanis Foundation & Breast Cancer Research Foundation  
 Understanding the Role of Cell Plasticity in Mediating Drug Resistance  
@@ -147,7 +154,7 @@ The goal of this project is to study sets of resistance mechanisms to RTK-target
 
 Role: PI
 
-### Completed Research Support}
+### Completed Research Support
 
 Frontier Research Program Initiator Award, Koch Institute, MIT \hfill 6/1/2015 – 6/1/2016  
 Quantitative and Multiplexed Tools for Probing G-Protein Coupled Receptor Activation  
