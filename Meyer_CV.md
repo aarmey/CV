@@ -1,10 +1,10 @@
 ---
 name: Aaron S. Meyer
 url: http://asmlab.org
-email: aameyer@mit.edu
-phone: 617-324-4404
-addrOne: 77 Massachusetts Avenue, 76-361F
-addrTwo: Cambridge, MA 02139
+email: ameyer@ucla.edu
+phone: 310-794-4821
+addrOne: 4121G Engineering V
+addrTwo: Los Angeles, CA 90095
 ---
 
 # Education
