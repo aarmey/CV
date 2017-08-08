@@ -159,7 +159,7 @@ Invasion and dissemination of cells underlies many diseases including breast can
 ### Ongoing Research Support
 
 NIH U01-CA215709  \hfill  09/01/2017 – 8/30/2022  
-Precision Lung Cancer Therapy Design Through Multiplexed Adapter Measurement
+Precision Lung Cancer Therapy Design Through Multiplexed Adapter Measurement  
 We propose to develop a global picture of bypass resistance mediated by receptor tyrosine kinases (RTKs) not targeted by therapy. By examining multiple RTKs variable in their resistance- promoting capacity at once, we will be able to determine features essential to the development of resistance. Examining receptor- proximal interactions, we will identify causally-important interactions that can be measured for prognostic identification of which receptors are directing resistance.
 
 Role: Co-PI
