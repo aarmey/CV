@@ -65,13 +65,13 @@ Manole, S., S.Y. Bae, **A.S. Meyer**. "Dynamic signaling activation heterogeneit
 
 \parskip 0.1in
 
-Robinett, R.A., N. Guan, A. Lux, F. Nimmerjahn, **A.S. Meyer**. "Dissecting FcγR Regulation Through a Multivalent Binding Model." _In preparation._
+Robinett, R.A., N. Guan, A. Lux, F. Nimmerjahn, **A.S. Meyer**. "Dissecting FcγR Regulation Through a Multivalent Binding Model." _Submitted._
 
 Muffat, J., Y. Li, A. Omer, A. Durbin, I. Bosch, G. Bakiasi, E. Richards, **A.S. Meyer**, L. Gehrke, R. Jaenisch. "A possible role of microglia in Zika virus infection of the fetal human brain." _Submitted._
 
 Barney, L.E., A.D. Schwartz, L.E. Jansen, T.V. Nguyen, C.L. Hall, **A.S. Meyer**, S.R. Peyton. Microenvironmental Rewiring Contributes to Sorafenib Resistance via MEK. _Submitted._
 
-Zweemer, A.J.M., C.B. French, J. Mesfin, S. Gordonov, **A.S. Meyer\footnotemark[2]**, D.A. Lauffenburger\footnotemark[2]. "Apoptotic Cell Bodies Elicit Gas6-Mediated Migration Of AXL-Expressing Tumor Cells." _Submitted._
+Zweemer, A.J.M., C.B. French, J. Mesfin, S. Gordonov, **A.S. Meyer\footnotemark[2]**, D.A. Lauffenburger\footnotemark[2]. "Apoptotic Cell Bodies Elicit Gas6-Mediated Migration Of AXL-Expressing Tumor Cells." _Accepted, Molecular Cancer Research._
 
 Archer, T.C., E.J. Fertig, S.J.C. Gosline, M. Hafner, S.K. Hughes, B.A. Joughin, **A.S. Meyer\footnote{Corresponding author.}**, S.P. Piccolo, A. Shajahan-Haq. "Systems Approaches to Cancer Biology." _Cancer Research._ 2016 Nov 18; 76 (23); 1--4
 
