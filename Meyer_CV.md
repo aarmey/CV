@@ -161,6 +161,12 @@ MIT, Department of Biological Engineering, Cambridge, MA
 
 # Conference & Invited Presentations
 
+_Univ. of Calif., Los Angeles, Department of Bioengineering_, Invited Departmental Seminar \hfill October 2017  
+**Meyer, A.S.**. "Dissecting FcγR Regulation Through a Multivalent Binding Model."
+
+_Univ. of Calif., Los Angeles, Broad Stem Cell Research Center_, Invited Speaker \hfill October 2017  
+**Meyer, A.S.**. "Engineering more precise and potent TAM-targeted therapies."
+
 _Momenta Pharmaceuticals_, Invited Oral Presentation \hfill April 2017  
 Robinett, R.A., N. Guan, **A.S. Meyer**. "Dissecting FcγR Regulation Through a Multivalent Binding Model."
 
