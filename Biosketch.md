@@ -38,7 +38,7 @@ header-includes:
 
 <!-- Briefly describe why you are well-suited for your role(s) in the project described in this application. The relevant factors may include aspects of your training; your previous experimental work on this specific topic or related topics; your technical expertise; your collaborators or scientific environment; and your past performance in this or related fields (you may mention specific contributions to science that are not included in Section C). -->
 
-I have a background in biological engineering, with training in applied machine learning, receptor-mediated cell signaling, and cancer. My research broadly applies integrated experimental and theoretical approaches to understanding the complex signaling that underlies tumor invasion and immune avoidance. A focus of this work is on the TAMR family of receptor tyrosine kinases, which drive tumor cell resistance, immune avoidance, and efferocytosis of phosphatidylserine-exposing debris. While early in my independent career, I have served as PI on a number of grants and supervised technicians, graduate students, and postdoctoral associates.
+I have a background in biological engineering, with training in applied machine learning, receptor-mediated cell signaling, and cancer. My research broadly applies integrated experimental and theoretical approaches to understanding the complex signaling that underlies tumor invasion and resistance. A focus of this work is on the TAMR family of receptor tyrosine kinases, which drive tumor cell resistance, immune avoidance, and efferocytosis of phosphatidylserine-exposing debris. While early in my independent career, I have served as PI on a number of grants and supervised technicians, graduate students, and postdoctoral associates.
 
 1. **Meyer, A.S.**^†^, A.J.M. Zweemer, D.A. Lauffenburger^†^. (2015). The AXL Receptor Is a Sensor of Ligand Spatial Heterogeneity. _Cell Systems_, 1(1):25–36. PMCID: PMC4520549.
 2. **Meyer, A.S.**, M.A. Miller, F.B. Gertler, D.A. Lauffenburger. (2013). The receptor AXL diversifies EGFR signaling and limits the response to EGFR-targeted inhibitors in triple-negative breast cancer cells. _Science Signaling_, 6(287), ra66. PMCID: 3947921.
@@ -121,7 +121,7 @@ I have a background in biological engineering, with training in applied machine 
 
 ### TAMR receptor signaling
 
-TAMR receptors play diverse roles in cancer progression as elucidated through genetic manipulation but their mechanisms of post-translational regulation are complex. As efferocytosis receptors, TAMRs have dual roles in mediating transport of extracellular debris as well as intracellular signaling. While small molecule and biologic TAMR inhibitors are in preclinical and clinical development, knowing where and in which patients TAMR therapies will be effective will aid translation of these therapies. These studies focused on the factors that drive AXL activation within carcinoma cells, and in turn the consequence of this activation. We first identified that AXL can be transactivated from ErbB receptors and that this transactivation drives the invasiveness of breast carcinoma cells more so than the signaling from the ErbB receptors themselves (2). Then, we developed a kinetic model of AXL activation, mechanistically explaining the dependence of the receptor upon phosphatidylserine for activation (1). This basic understanding of AXL signaling will allow for more rationally designed therapies and understanding of which factors in the tumor microenvironment lead to activation.
+TAMR receptors play diverse roles in cancer progression as elucidated through genetic manipulation but their mechanisms of post-translational regulation are complex. As efferocytosis receptors, TAMRs have dual roles in mediating transport of extracellular debris as well as intracellular signaling. While small molecule and biologic TAMR inhibitors are in preclinical and clinical development, knowing where and in which patients TAMR therapies will be effective will aid translation of these therapies. These studies focused on the factors that drive AXL activation within carcinoma cells, and in turn the consequence of this activation. We first identified that AXL can be transactivated from ErbB receptors and that this transactivation drives the invasiveness of breast carcinoma cells more so than the signaling from the ErbB receptors themselves (2). Then, we developed a kinetic model of AXL activation, mechanistically explaining the dependence of the receptor upon phosphatidylserine for activation (1, 3). This basic understanding of AXL signaling will allow for more rationally designed therapies and understanding of which factors in the tumor microenvironment lead to activation.
 
 1. **Meyer, A.S.**^†^, A.J.M. Zweemer, D.A. Lauffenburger^†^. (2015). The AXL Receptor Is a Sensor of Ligand Spatial Heterogeneity. _Cell Systems_, 1(1):25--36. PMCID: 4520549.
 2. **Meyer, A.S.**, M.A. Miller, F.B. Gertler, D.A. Lauffenburger. (2013). The receptor AXL diversifies EGFR signaling and limits the response to EGFR-targeted inhibitors in triple-negative breast cancer cells. _Science Signaling_, 6(287), ra66. PMCID: 3947921.
@@ -160,7 +160,7 @@ Invasion and dissemination of cells underlies many diseases including breast can
 
 NIH U01-CA215709  \hfill  09/01/2017 – 8/30/2022   
 Precision Lung Cancer Therapy Design Through Multiplexed Adapter Measurement   
-We propose to develop a global picture of bypass resistance mediated by receptor tyrosine kinases (RTKs) not targeted by therapy. By examining multiple RTKs variable in their resistance- promoting capacity at once, we will be able to determine features essential to the development of resistance. Examining receptor- proximal interactions, we will identify causally-important interactions that can be measured for prognostic identification of which receptors are directing resistance.
+We propose to develop a global picture of bypass resistance mediated by receptor tyrosine kinases (RTKs) not targeted by therapy. By examining multiple RTKs variable in their resistance-promoting capacity at once, we will be able to determine features essential to the development of resistance. Examining receptor-proximal interactions, we will identify causally-important interactions that can be measured for prognostic identification of which receptors are directing resistance.
 
 Role: Co-PI
 
@@ -181,8 +181,8 @@ Role: Co-PI
 
 \vspace{12pt}
 NIH DP5-OD019815  \hfill  9/22/2014 – 9/1/2019  
-Adapter-Layer RTK Signaling: Basic Understanding & Targeted Drug Resistance
-The goal of this project is to study sets of resistance mechanisms to RTK-targeted therapies, in order to identify commonalities and ways to determine which mechanism may be driving individual tumors. There is no overlap with this proposal.
+Adapter-Layer RTK Signaling: Basic Understanding & Targeted Drug Resistance  
+The goal of this project is to study sets of resistance mechanisms to RTK-targeted therapies, in order to identify commonalities and ways to determine which mechanism may be driving individual tumors.
 
 Role: PI
 
