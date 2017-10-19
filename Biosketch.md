@@ -125,7 +125,7 @@ TAMR receptors play diverse roles in cancer progression as elucidated through ge
 
 1. **Meyer, A.S.**^†^, A.J.M. Zweemer, D.A. Lauffenburger^†^. (2015). The AXL Receptor Is a Sensor of Ligand Spatial Heterogeneity. _Cell Systems_, 1(1):25--36. PMCID: 4520549.
 2. **Meyer, A.S.**, M.A. Miller, F.B. Gertler, D.A. Lauffenburger. (2013). The receptor AXL diversifies EGFR signaling and limits the response to EGFR-targeted inhibitors in triple-negative breast cancer cells. _Science Signaling_, 6(287), ra66. PMCID: 3947921.
-
+3. Zweemer, A., C.B. French, J. Mesfin, S. Gordonov, **A.S. Meyer**, and D.A. Lauffenburger. Apoptotic Bodies Elicit Gas6-mediated Migration of AXL-expressing Tumor Cells. _Molecular Cancer Research_, 2017.
 
 \noindent ^†^Co-corresponding authors.
 
@@ -137,7 +137,7 @@ The benefits cancer patients derive from targeted therapies are limited by genet
 1. Manole, S., E.J. Richards, **A.S. Meyer**. JNK pathway activation modulates acquired resistance to EGFR/HER2 targeted therapies. _Cancer Research._ 2016 Sept 15; 76 (18): 5219-5228. PMCID: 5026573.
 2. Miller, M.A., M.J. Oudin, R.J. Sullivan, S.J. Wang, **A.S. Meyer**, H. Im, D.T. Frederick, J. Tadros, L.G. Griffith, H. Lee, R. Weissleder, K.T. Flaherty, F.B. Gertler, D.A. Lauffenburger. (2016). Reduced Proteolytic Shedding of Receptor Tyrosine Kinases is a Post-Translational Mechanism of Kinase Inhibitor Resistance. _Cancer Discovery_, 6(4):331--333, April 2016. PMCID: 5087317.
 3. M.A. Miller, M.L. Moss, G. Powell, R. Petrovich, L. Edwards, **A.S. Meyer**, Linda G. Griffith, D.A. Lauffenburger. Targeting autocrine HB-EGF signaling with specific ADAM12 inhibition using recombinant ADAM12 prodomain. _Scientific Reports_, 5:15150 EP --, October 2015. PMCID: 4609913.
-
+4. Schwartz, A.D., L.E. Barney, L.E. Jansen, T.V. Nguyen, C.L. Hall, **A.S. Meyer**, S. Peyton. A Biomaterial Screening Approach to Reveal Microenvironmental Mechanisms of Drug Resistance. _bioRxiv_, 2017.
 
 ### Migration and metastasis mechanisms
 
