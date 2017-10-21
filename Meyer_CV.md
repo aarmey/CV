@@ -102,6 +102,9 @@ Mashayekhi, F., **A.S. Meyer**, S.A. Shiigi, V. Nguyen, D.T. Kamei. ["Concentrat
 
 # Research Support & Awards
 
+_NCI Cancer Systems Biology Consortium U01_  \hfill 2017 – 2022  
+U01-CA215709 – "Precision Lung Cancer Therapy Design through Multiplexed Adapter Measurement"
+
 _Fellowship Grant_ \hfill 2017 – 2019  
 Terri Brodeur Breast Cancer Foundation  
 "Decoding the Role of TAM Receptors _In Vivo_ Using More Specific and Potent Inhibitors"
