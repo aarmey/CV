@@ -10,7 +10,7 @@ header-includes:
 
 \begin{flushright}
 \footnotesize
-	OMB No. 0925-0001 and 0925-0002 (Rev. 10/16 Approved Through 10/31/2018)
+	OMB No. 0925-0001 and 0925-0002 (Rev. 09/17 Approved Through 03/31/2020)
 \end{flushright}
 
 \begin{tabular}{l|c|c|c}
