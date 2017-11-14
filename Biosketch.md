@@ -27,7 +27,7 @@ header-includes:
   \hline
   INSTITUTION AND LOCATION & DEGREE & Completion Date & FIELD OF STUDY \\
   \hline
-  University of California, Los Angeles (UCLA) \hspace{50pt} & B.S. & 6/2009 & Bioengineering \\
+  University of California, Los Angeles (UCLA) \hspace{60pt} & B.S. & 6/2009 & Bioengineering \\
   Massachusetts Institute of Technology (MIT) & Ph.D. & 6/2014 & Biological Engineering \\
 \end{tabular}
 
