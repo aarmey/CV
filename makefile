@@ -1,4 +1,4 @@
-.PHONY: clean gitclean upload
+.PHONY: clean upload
 
 all: Output/Meyer_CV.pdf Output/Biosketch.pdf Output/.git/HEAD
 
@@ -15,14 +15,11 @@ Output/Biosketch.pdf: Biosketch.md
 
 Output/.git/HEAD: Output
 	cd Output; git init; git config user.name "Jenkins CI"; git config user.email "jenkins@asmlab.org"
-	cd Output; git remote add upstream "git@github.com:thanatosmin/CV.git"; git fetch upstream; git reset upstream/gh-pages; touch .
+	cd Output; git remote add upstream "git@github.com:aarmey/CV.git"; git fetch upstream; git reset upstream/gh-pages; touch .
 
 upload: Output/.git/HEAD Output/Meyer_CV.pdf Output/Biosketch.pdf
 	cd Output; git add -A .; git status
 	cd Output; git commit -m "Jenkins $BUILD_NUMBER auto-pushed"; git push -q upstream HEAD:gh-pages
 
 clean:
-	rm -rf Output res.cls
-
-gitclean:
-	git clean -ffdx
+	rm -rf Output

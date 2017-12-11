@@ -6,19 +6,14 @@ pipeline {
   stages {
     stage('Build') {
       steps {
-        sh 'make gitclean'
-        sh 'make'
+        sh 'make -j 3'
         archiveArtifacts artifacts: 'Output/Meyer_CV.pdf', onlyIfSuccessful: true
         archiveArtifacts artifacts: 'Output/Biosketch.pdf', onlyIfSuccessful: true
       }
     }
     stage('Deploy') {
-      when {
-        expression { env.BRANCH_NAME == 'master' }
-      }
-      steps {
-        sh 'make upload'
-      }
+      when { expression { env.BRANCH_NAME == 'master' } }
+      steps { sh 'make upload' }
     }
   }
 }
