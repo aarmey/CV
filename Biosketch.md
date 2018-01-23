@@ -42,7 +42,7 @@ I have a background in biological engineering, with training in applied machine 
 
 1. **Meyer, A.S.**^†^, A.J.M. Zweemer, D.A. Lauffenburger^†^. (2015). The AXL Receptor Is a Sensor of Ligand Spatial Heterogeneity. _Cell Systems_, 1(1):25–36. PMCID: PMC4520549.
 2. **Meyer, A.S.**, M.A. Miller, F.B. Gertler, D.A. Lauffenburger. (2013). The receptor AXL diversifies EGFR signaling and limits the response to EGFR-targeted inhibitors in triple-negative breast cancer cells. _Science Signaling_, 6(287), ra66. PMCID: 3947921.
-3. Zweemer, A., C.B. French, J. Mesfin, S. Gordonov, **A.S. Meyer**, and D.A. Lauffenburger. Apoptotic Bodies Elicit Gas6-mediated Migration of AXL-expressing Tumor Cells. _Molecular Cancer Research_, 2017.
+3. Zweemer, A., C.B. French, J. Mesfin, S. Gordonov, **A.S. Meyer**, and D.A. Lauffenburger. (2017). Apoptotic Bodies Elicit Gas6-mediated Migration of AXL-expressing Tumor Cells. _Molecular Cancer Research_.
 4. Miller, M.A.^†^, **A.S. Meyer**^†^, M. Beste, Z. Lasisi, S. Reddy, K. Jeng, C.-H. Chen, J. Han, K. Isaacson, L.G. Griffith, D.A. Lauffenburger. (2013). ADAM-10 and -17 regulate endometriotic cell migration via concerted ligand and receptor shedding feedback on kinase signaling. _Proc. Natl. Acad. Sci. USA_, 110(22), E2074-E2083. PMCID: 3670354.
 5. Miller, M.A., M.J. Oudin, R.J. Sullivan, S.J. Wang, **A.S. Meyer**, H. Im, D.T. Frederick, J. Tadros, L.G. Griffith, H. Lee, R. Weissleder, K.T. Flaherty, F.B. Gertler, D.A. Lauffenburger. (2016). Reduced Proteolytic Shedding of Receptor Tyrosine Kinases is a Post-Translational Mechanism of Kinase Inhibitor Resistance. _Cancer Discovery_, 6(4):331--333, April 2016. PMCID: 5087317.
 
