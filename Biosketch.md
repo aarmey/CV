@@ -194,10 +194,3 @@ Frontier Research Program Initiator Award, Koch Institute, MIT \hfill 6/1/2015 â
 Quantitative and Multiplexed Tools for Probing G-Protein Coupled Receptor Activation  
 The goal of this project was to develop a novel multiplexed G-protein activation assay able to globally assess their activity.  
 Role: Co-PI
-
-\vspace{12pt}
-
-W81XWH-11-1-0088  \hfill  12/1/2010 â€“ 12/1/2013  
-Multivariate analysis of 3D breast cancer cell invasion  
-The goal of this project was a systems analysis of breast cancer cell migration and invasion, connecting 3D migration to signaling changes during EMT.  
-Role: PI
