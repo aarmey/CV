@@ -291,8 +291,8 @@ Miller, M.A., M.J. Oudin, **A.S. Meyer**, L.G. Griffith, F.B. Gertler, D.A. Lauf
 
 # Thesis Committee Membership
 
-Daniel Bradbury, Bioengineering
+Daniel Bradbury, Bioengineering  
 Advisor: Daniel Kamei
 
-Giovanni Valdez, Bioengineering
+Giovanni Valdez, Bioengineering  
 Advisor: Grace Xiao
