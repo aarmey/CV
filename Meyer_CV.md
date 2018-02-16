@@ -253,6 +253,10 @@ _Fibronectin and Related Integrins, Gordon Research Seminar_, Selected Oral Pres
 
 # Professional Service
 
+_Interviewee_, [Prescriber Magazine](http://www.prescriber.co.uk/wp-content/uploads/sites/23/2017/12/Systems-Biology-lsw.pdf) \hfill 2017
+
+_Ad Hoc Reviewer_, WIREs Systems Biology and Medicine \hfill 2017
+
 _Ad Hoc Remote Reviewer_, Irish Research Council \hfill 2017
 
 _Co-Chair_, Association of Early Career Cancer Systems Biologists \hfill 2017 – Present
@@ -284,3 +288,11 @@ _Ad Hoc Reviewer_, J. Cell Biol. \hfill 2011 – 2012
 Richards, E.J., S. Manole, **A.S. Meyer**. "Modulating JNK activation to impede lung & breast cancer RTK inhibitor bypass resistance." Disclosure filed, 2016.
 
 Miller, M.A., M.J. Oudin, **A.S. Meyer**, L.G. Griffith, F.B. Gertler, D.A. Lauffenburger. "Methods of Reducing Kinase Inhibitor Resistance." US patent application 14/690,001,2015.
+
+# Thesis Committee Membership
+
+Daniel Bradbury, Bioengineering  
+Advisor: Daniel Kamei
+
+Giovanni Valdez, Bioengineering  
+Advisor: Grace Xiao
