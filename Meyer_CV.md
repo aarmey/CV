@@ -284,3 +284,11 @@ _Ad Hoc Reviewer_, J. Cell Biol. \hfill 2011 – 2012
 Richards, E.J., S. Manole, **A.S. Meyer**. "Modulating JNK activation to impede lung & breast cancer RTK inhibitor bypass resistance." Disclosure filed, 2016.
 
 Miller, M.A., M.J. Oudin, **A.S. Meyer**, L.G. Griffith, F.B. Gertler, D.A. Lauffenburger. "Methods of Reducing Kinase Inhibitor Resistance." US patent application 14/690,001,2015.
+
+# Thesis Committee Membership
+
+Daniel Bradbury, Bioengineering
+Advisor: Daniel Kamei
+
+Giovanni Valdez, Bioengineering
+Advisor: Grace Xiao
