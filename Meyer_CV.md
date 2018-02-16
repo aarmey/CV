@@ -253,6 +253,8 @@ _Fibronectin and Related Integrins, Gordon Research Seminar_, Selected Oral Pres
 
 # Professional Service
 
+_Interviewee_, [Prescriber Magazine](http://www.prescriber.co.uk/wp-content/uploads/sites/23/2017/12/Systems-Biology-lsw.pdf) \hfill 2017
+
 _Ad Hoc Reviewer_, WIREs Systems Biology and Medicine \hfill 2017
 
 _Ad Hoc Remote Reviewer_, Irish Research Council \hfill 2017
