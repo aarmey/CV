@@ -186,6 +186,9 @@ _Univ. of Pennsylvania, Department of Bioengineering_, Invited Departmental Spea
 _Univ. of Calif., Los Angeles, Department of Bioengineering_, Invited Departmental Speaker \hfill March 2017  
 **Meyer, A.S.**. "Engineering more precise and potent TAM-targeted therapies."
 
+_Moffitt Cancer Center_, Invited Speaker \hfill January 2017  
+**Meyer, A.S.**. "Engineering more precise and potent TAM-targeted therapies."
+
 _Biomedical Engineering Society Annual Meeting_, Selected Oral Presentation \hfill October 2016  
 Manole, S., E.J. Richards, **A.S. Meyer**. "JNK pathway activation modulates acquired resistance to EGFR/HER2 targeted therapies."
 
