@@ -148,15 +148,18 @@ Massachusetts Institute of Technology
 # Teaching & Mentoring Experience
 
 _Faculty of the Citizen Science Program_ \hfill July 2015 – January 2016  
-Bard College, Citizen Science Program, Annandale-on-Hudson, NY	
+Bard College, Citizen Science Program, Annandale-on-Hudson, NY
+
 - Led a short course introducing students to the natural sciences and scientific method
 
 _Undergraduate Mentor_ \hfill 2009 – Present  
 MIT, Department of Biological Engineering, Cambridge, MA
+
 - Designed and supervised projects for nine undergraduate students
 
 _Teaching Assistant_, Thermodynamics of Biomolecular Systems \hfill 2010  
 MIT, Department of Biological Engineering, Cambridge, MA
+
 - Taught at weekly discussion sections, office hours, and individual appointments
 - Helped write and graded problem sets and exam questions
 
@@ -233,24 +236,6 @@ _ICBP Principal Investigators Meeting_ \hfill May 2013
 _Merrimack Pharmaceuticals_, Invited Oral Presentation \hfill January 2013  
 **Meyer, A.S.**, F.B. Gertler, D.A. Lauffenburger. "AXL amplifies EGFR signaling and drives resistance in triple negative breast carcinoma cells."
 
-_PTMs in Cell Signaling, Copenhagen Bioscience Conferences_, Travel Award \hfill December 2012  
-**Meyer, A.S.**, F.B. Gertler, D.A. Lauffenburger. "AXL amplifies EGFR signaling and drives resistance in triple negative breast carcinoma cells."
-
-_Biomedical Engineering Society Annual Meeting_, Selected Oral Presentation \hfill October 2012  
-**Meyer, A.S.**, S.K. Hughes-Alford, J.E. Kay, A. Castillo, A. Wells, F.B. Gertler, D.A. Lauffenburger. "2D protrusion but not motility predicts growth factor-induced cancer cell migration in 3D collagen."
-
-_Signaling of Adhesion Receptors, Gordon Research Conference_ \hfill June 2012  
-**Meyer, A.S.**, S.K. Hughes-Alford, J.E. Kay, A. Castillo, A. Wells, F.B. Gertler, D.A. Lauffenburger. "2D protrusion but not motility predicts growth factor-induced cancer cell migration in 3D collagen."
-
-_Systems Biology of Human Disease_, Travel Award \hfill May 2012  
-**Meyer, A.S.**, S.K. Hughes-Alford, J.E. Kay, A. Castillo, A. Wells, F.B. Gertler, D.A. Lauffenburger. "2D protrusion but not motility predicts growth factor-induced cancer cell migration in 3D collagen."
-
-_Fibronectin and Related Integrins, Gordon Research Conference_ \hfill May 2011  
-**Meyer, A.S.**, S.K. Hughes-Alford, J.E. Kay, A. Castillo, A. Wells, F.B. Gertler, D.A. Lauffenburger. "2D protrusion but not motility predicts growth factor-induced cancer cell migration in 3D collagen."
-
-_Fibronectin and Related Integrins, Gordon Research Seminar_, Selected Oral Presentation \hfill May 2011  
-**Meyer, A.S.**, S.K. Hughes-Alford, A. Wells, F.B. Gertler, D.A. Lauffenburger. "Heterogeneity of growth factor motility responses among a panel of carcinoma and endometriosis cell lines."
-
 # Professional Service
 
 _Interviewee_, [Prescriber Magazine](http://www.prescriber.co.uk/wp-content/uploads/sites/23/2017/12/Systems-Biology-lsw.pdf) \hfill 2017
@@ -287,7 +272,7 @@ _Ad Hoc Reviewer_, J. Cell Biol. \hfill 2011 – 2012
 
 Richards, E.J., S. Manole, **A.S. Meyer**. "Modulating JNK activation to impede lung & breast cancer RTK inhibitor bypass resistance." Disclosure filed, 2016.
 
-Miller, M.A., M.J. Oudin, **A.S. Meyer**, L.G. Griffith, F.B. Gertler, D.A. Lauffenburger. "Methods of Reducing Kinase Inhibitor Resistance." US patent application 14/690,001,2015.
+Miller, M.A., M.J. Oudin, **A.S. Meyer**, L.G. Griffith, F.B. Gertler, D.A. Lauffenburger. "Methods of Reducing Kinase Inhibitor Resistance." US patent application 14/690,001, 2015.
 
 # Thesis Committee Membership
 
