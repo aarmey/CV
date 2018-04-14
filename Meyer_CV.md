@@ -145,17 +145,17 @@ National Science Foundation
 _Momenta Presidential Fellowship_ \hfill 2009  
 Massachusetts Institute of Technology
 
-# Teaching & Mentoring Experience
+# Teaching Experience
+
+_Instructor_, Machine Learning & Data-Driven Modeling in Bioengineering \hfill 2018
+UCLA, Department of Bioengineering
+
+- Designed project-based course tailored to the background of students in the program
 
 _Faculty of the Citizen Science Program_ \hfill July 2015 – January 2016  
 Bard College, Citizen Science Program, Annandale-on-Hudson, NY
 
 - Led a short course introducing students to the natural sciences and scientific method
-
-_Undergraduate Mentor_ \hfill 2009 – Present  
-MIT, Department of Biological Engineering, Cambridge, MA
-
-- Designed and supervised projects for nine undergraduate students
 
 _Teaching Assistant_, Thermodynamics of Biomolecular Systems \hfill 2010  
 MIT, Department of Biological Engineering, Cambridge, MA
@@ -278,6 +278,8 @@ _Member_, MIT Biological Engineering Retreat Organizing Committee \hfill 2010 �
 _Ad Hoc Reviewer_, J. Cell Biol. \hfill 2011 – 2012
 
 # Patents/Disclosures
+
+Bae, S.Y., **A.S. Meyer**. "Small Molecule Competitive Inhibitors Of Phosphatidylserine-TAMR Ligand Interaction." Disclosure filed, 2018.
 
 Richards, E.J., S. Manole, **A.S. Meyer**. "Modulating JNK activation to impede lung & breast cancer RTK inhibitor bypass resistance." Disclosure filed, 2016.
 
