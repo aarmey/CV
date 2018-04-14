@@ -147,7 +147,7 @@ Massachusetts Institute of Technology
 
 # Teaching Experience
 
-_Instructor_, Machine Learning & Data-Driven Modeling in Bioengineering \hfill 2018
+_Instructor_, Machine Learning & Data-Driven Modeling in Bioengineering \hfill 2018  
 UCLA, Department of Bioengineering
 
 - Designed project-based course tailored to the background of students in the program
