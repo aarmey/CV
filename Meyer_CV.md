@@ -61,7 +61,7 @@ Schering-Plough Corporation, Watchung, NJ
 \leftskip 0.1in
 \parindent -0.1in
 
-Robinett, R.A., N. Guan, A. Lux, M. Biburger, F. Nimmerjahn, **A.S. Meyer**. "Dissecting FcγR Regulation Through a Multivalent Binding Model." _Submitted._
+Robinett, R.A., N. Guan, A. Lux, M. Biburger, F. Nimmerjahn, **A.S. Meyer**. "Dissecting FcγR Regulation Through a Multivalent Binding Model." _Cell Systems._ Accepted, 2018.
 
 \parskip 0.1in
 
