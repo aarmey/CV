@@ -65,11 +65,11 @@ Robinett, R.A., N. Guan, A. Lux, M. Biburger, F. Nimmerjahn, **A.S. Meyer**. "Di
 
 \parskip 0.1in
 
-Muffat, J., Y. Li, A. Omer, A. Durbin, I. Bosch, G. Bakiasi, E. Richards, **A.S. Meyer**, L. Gehrke, R. Jaenisch. "A possible role of microglia in Zika virus infection of the fetal human brain." _Submitted._
-
 Schwartz, A.D., L.E. Barney, L.E. Jansen, T.V. Nguyen, C.L. Hall, **A.S. Meyer**, S.R. Peyton. ["A Biomaterial Screening Approach to Reveal Microenvironmental Mechanisms of Drug Resistance."](http://pubs.rsc.org/en/content/articlelanding/2017/ib/c7ib00128b) _Integrative Biology._ 2017 Nov 14; 9: 912--924.
 
 Zweemer, A.J.M., C.B. French, J. Mesfin, S. Gordonov, **A.S. Meyer**, D.A. Lauffenburger. "Apoptotic Cell Bodies Elicit Gas6-Mediated Migration Of AXL-Expressing Tumor Cells." _Molecular Cancer Research._ 2017 Sept 18.
+
+Muffat, J., Y. Li, A. Omer, A. Durbin, I. Bosch, G. Bakiasi, E. Richards, **A.S. Meyer**, L. Gehrke, R. Jaenisch. "A possible role of microglia in Zika virus infection of the fetal human brain." _bioRxiv._ 2017 May 26.
 
 Archer, T.C., E.J. Fertig, S.J.C. Gosline, M. Hafner, S.K. Hughes, B.A. Joughin, **A.S. Meyer\footnote{Corresponding author.}**, S.P. Piccolo, A. Shajahan-Haq. "Systems Approaches to Cancer Biology." _Cancer Research._ 2016 Nov 18; 76 (23); 1--4.
 
@@ -257,7 +257,7 @@ _Co-Chair_, Association of Early Career Cancer Systems Biologists \hfill 2017 �
 
 _Ad Hoc Reviewer_, Cell Reports \hfill 2017
 
-_Graduate Research Fellowship Program Review Panelist_, National Science Foundation \hfill 2016 – Present
+_Graduate Research Fellowship Program Review Panelist_, National Science Foundation \hfill 2016 – 2017
 
 _Meeting Organizer & Member_, Association of Early Career Cancer Systems Biologists \hfill 2015 – 2016
 
