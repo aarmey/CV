@@ -1,8 +1,10 @@
 ---
-fontsize: 14pt
+fontsize: 11pt
 geometry: margin=0.5in
-mainfont: Helvetica Neue
 header-includes: 
+- \usepackage[scaled]{helvet}
+- \renewcommand\familydefault{\sfdefault} 
+- \usepackage[T1]{fontenc}
 - \usepackage{ragged2e, enumitem}
 - \pagestyle{empty}
 - \renewcommand{\arraystretch}{1.2}
