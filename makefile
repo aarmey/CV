@@ -11,7 +11,7 @@ Output/Meyer_CV.pdf: res.cls Meyer_CV.md CV-templ.tex
 
 Output/Biosketch.pdf: Biosketch.md
 	mkdir -p Output
-	pandoc --pdf-engine=xelatex Biosketch.md -o $@
+	pandoc --pdf-engine=pdflatex Biosketch.md -o $@
 
 Output/.git/HEAD: Output
 	cd Output; git init; git config user.name "Jenkins CI"; git config user.email "jenkins@asmlab.org"
