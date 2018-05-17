@@ -1,5 +1,5 @@
 ---
-fontsize: 13pt
+fontsize: 14pt
 geometry: margin=0.5in
 mainfont: Helvetica Neue
 header-includes: 
