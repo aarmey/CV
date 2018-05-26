@@ -3,9 +3,8 @@ pipeline {
   stages {
     stage('Build') {
       steps {
-        sh 'make -j 3'
-        archiveArtifacts artifacts: 'Output/Meyer_CV.pdf', onlyIfSuccessful: true
-        archiveArtifacts artifacts: 'Output/Biosketch.pdf', onlyIfSuccessful: true
+        sh 'make -j 8'
+        archiveArtifacts artifacts: 'Output/*.pdf', onlyIfSuccessful: true
       }
     }
     stage('Deploy') {
