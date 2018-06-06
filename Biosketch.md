@@ -7,6 +7,7 @@ header-includes:
 - \usepackage[T1]{fontenc}
 - \usepackage{ragged2e, enumitem}
 - \pagestyle{empty}
+- \usepackage[euler]{textgreek}
 - \renewcommand{\arraystretch}{1.2}
 ---
 
