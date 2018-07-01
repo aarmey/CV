@@ -158,6 +158,9 @@ Invasion and dissemination of cells underlie many diseases including breast canc
 
 \noindent ^‡^Equal contribution.
 
+**Complete List of Published Work in My Bibliography: <http://1.usa.gov/1So8BFr>**
+
+
 ## D. Research Support
 
 ### Ongoing Research Support
