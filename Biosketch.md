@@ -181,3 +181,10 @@ Adapter-Layer RTK Signaling: Basic Understanding & Targeted Drug Resistance
 The goal of this project is to study sets of resistance mechanisms to RTK-targeted therapies, in order to identify commonalities and ways to determine which mechanism may be driving individual tumors.
 
 Role: PI
+
+### Completed Research Support
+
+Frontier Research Program Initiator Award, Koch Institute, MIT \hfill 6/1/2015 – 6/1/2016  
+Quantitative and Multiplexed Tools for Probing G-Protein Coupled Receptor Activation  
+The goal of this project was to develop a novel multiplexed G-protein activation assay able to globally assess their activity.  
+Role: Co-PI
