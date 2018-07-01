@@ -1,10 +1,11 @@
 ---
 fontsize: 11pt
 geometry: margin=0.5in
+pagestyle: empty
+fontfamily: helvet
+fontfamilyoptions: scaled
 header-includes: 
-- \usepackage[scaled]{helvet}
 - \renewcommand\familydefault{\sfdefault} 
-- \usepackage[T1]{fontenc}
 - \usepackage{ragged2e, enumitem}
 - \pagestyle{empty}
 - \usepackage[euler]{textgreek}
