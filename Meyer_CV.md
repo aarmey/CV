@@ -147,10 +147,15 @@ Massachusetts Institute of Technology
 
 # Teaching Experience
 
-_Instructor_, Machine Learning & Data-Driven Modeling in Bioengineering \hfill 2018  
+_Instructor_, Machine Learning & Data-Driven Modeling in Bioengineering \hfill 2018 – Present  
 UCLA, Department of Bioengineering
 
 - Designed project-based course tailored to the background of students in the program
+
+_Guest Speaker_, Introduction to Bioengineering \hfill 2017 – Present  
+UCLA, Department of Bioengineering
+
+- Guest speaker to discuss research program and opportunities in bioengineering
 
 _Faculty of the Citizen Science Program_ \hfill July 2015 – January 2016  
 Bard College, Citizen Science Program, Annandale-on-Hudson, NY
