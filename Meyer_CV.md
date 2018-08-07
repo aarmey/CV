@@ -61,11 +61,13 @@ Schering-Plough Corporation, Watchung, NJ
 \leftskip 0.1in
 \parindent -0.1in
 
-Robinett, R.A., N. Guan, A. Lux, M. Biburger, F. Nimmerjahn, **A.S. Meyer**. "Dissecting FcγR Regulation Through a Multivalent Binding Model." _Cell Systems._ 2018; In press.
+Robinett, R.A., N. Guan, A. Lux, M. Biburger, F. Nimmerjahn, **A.S. Meyer**. "Dissecting FcγR Regulation Through a Multivalent Binding Model." _Cell Systems._ 2018 Jul 25; 6(7): 1--8.
 
 \parskip 0.1in
 
-Muffat, J., Y. Li, A. Omer, A. Durbin, I. Bosch, G. Bakiasi, E. Richards, **A.S. Meyer**, L. Gehrke, R. Jaenisch. "Human iPS-derived Glial Cells and Neural Progenitors Display Divergent Responses to Zika and Dengue Infections." _Proc. Natl. Acad. Sci. U.S.A._ 2018; In press.
+Claas, A.M., L. Atta, S. Gordonov, **A.S. Meyer**, D.A. Lauffenburger. ["Systems Modeling Identifies Divergent Receptor Tyrosine Kinase Reprogramming to MAPK Pathway Inhibition."](https://link.springer.com/article/10.1007/s12195-018-0542-y) _Cellular and Molecular Bioengineering_ 2018 Jul 26; 1--19.
+
+Muffat, J., Y. Li, A. Omer, A. Durbin, I. Bosch, G. Bakiasi, E. Richards, **A.S. Meyer**, L. Gehrke, R. Jaenisch. "Human iPS-derived Glial Cells and Neural Progenitors Display Divergent Responses to Zika and Dengue Infections." _Proc. Natl. Acad. Sci. U.S.A._ 2018 Jun 18; 201719266.
 
 Schwartz, A.D., L.E. Barney, L.E. Jansen, T.V. Nguyen, C.L. Hall, **A.S. Meyer**, S.R. Peyton. ["A Biomaterial Screening Approach to Reveal Microenvironmental Mechanisms of Drug Resistance."](http://pubs.rsc.org/en/content/articlelanding/2017/ib/c7ib00128b) _Integrative Biology._ 2017 Nov 14; 9: 912--924.
 
