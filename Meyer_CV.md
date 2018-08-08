@@ -254,6 +254,8 @@ _Merrimack Pharmaceuticals_, Invited Oral Presentation \hfill January 2013
 
 # Professional Service
 
+_Faculty Volunteer_, Amgen Scholars Symposium \hfill 2018
+
 _Ad Hoc Reviewer_, PLOS Computational Biology \hfill 2018
 
 _Interviewee_, [Prescriber Magazine](http://www.prescriber.co.uk/wp-content/uploads/sites/23/2017/12/Systems-Biology-lsw.pdf) \hfill 2017
