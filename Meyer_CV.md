@@ -104,7 +104,7 @@ Mashayekhi, F., **A.S. Meyer**, S.A. Shiigi, V. Nguyen, D.T. Kamei. ["Concentrat
 
 # Research Support & Awards
 
-_Administrative Supplement to U01-CA215709_ \hfill 2018 – 2019
+_Administrative Supplement to U01-CA215709_ \hfill 2018 – 2019  
 "Cell lineage analysis to quantify heterogeneous cell cycle responses of cancer cells"
 
 _NCI Cancer Systems Biology Consortium U01_  \hfill 2017 – 2022  
