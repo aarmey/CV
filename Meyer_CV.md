@@ -152,10 +152,15 @@ Massachusetts Institute of Technology
 
 # Teaching Experience
 
+_Instructor_, Bioengineering Laboratory \hfill 2018 – Present  
+UCLA, Department of Bioengineering
+
+- Lead lab-based course introduction to laboratory work in bioengineering and basics of experimental design and analysis
+
 _Instructor_, Machine Learning & Data-Driven Modeling in Bioengineering \hfill 2018 – Present  
 UCLA, Department of Bioengineering
 
-- Designed project-based course tailored to the background of students in the program
+- Designed and lead project-based course tailored to the background of students in the program
 
 _Guest Speaker_, Introduction to Bioengineering \hfill 2017 – Present  
 UCLA, Department of Bioengineering
