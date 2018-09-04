@@ -277,7 +277,17 @@ Farnaz Mohammadi \hfill 2018 – Present
 
 Marc Creixell \hfill 2018 – Present
 
-<!-- TODO: Add undergraduate students? -->
+## Undergraduate Students
+
+Adam Weiner (Internet Research Initiative Award) \hfill 2017 – Present
+
+Ali Farhat (Rose Hills Foundation Scholar) \hfill 2017 – Present
+
+Rui Yan (Cathy Bank Scholarship) \hfill 2017 – Present
+
+Willie Wu \hfill 2018 – Present
+
+Alison Tran \hfill 2018 – Present
 
 # Professional Service
 
