@@ -9,8 +9,7 @@ addrTwo: Los Angeles, CA 90095
 
 # Education
 
-_Ph.D._, 
-Biological Engineering  \hfill April 2014  
+_Ph.D._, Biological Engineering  \hfill April 2014  
 Massachusetts Institute of Technology, Cambridge, MA  
 Thesis: Quantitative approaches to understanding signaling regulation of 3D cell migration
  
@@ -279,15 +278,11 @@ Marc Creixell \hfill 2018 – Present
 
 *Undergraduate Students*
 
-Adam Weiner (Internet Research Initiative Award) \hfill 2017 – Present
-
-Ali Farhat (Rose Hills Foundation Scholar) \hfill 2017 – Present
-
-Rui Yan (Cathy Bank Scholarship) \hfill 2017 – Present
-
-Willie Wu \hfill 2018 – Present
-
-Alison Tran \hfill 2018 – Present
+- Adam Weiner (Internet Research Initiative Award) \hfill 2017 – Present
+- Ali Farhat (Rose Hills Foundation Scholar) \hfill 2017 – Present
+- Rui Yan (Cathy Bank Scholarship) \hfill 2017 – Present
+- Willie Wu \hfill 2018 – Present
+- Alison Tran \hfill 2018 – Present
 
 # Professional Service
 
