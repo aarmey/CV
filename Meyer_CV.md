@@ -179,6 +179,12 @@ MIT, Department of Biological Engineering, Cambridge, MA
 
 # Conference & Invited Presentations
 
+_Univ. of Illinois at Urbana-Champaign_, Invited Departmental Seminar \hfill September 2018  
+**Meyer, A.S.**. "High-dimensional analysis to map and manipulate immune receptor-ligand families."
+
+_Systems Biology of Human Disease_, Selected Oral Presentation \hfill June 2018  
+**Meyer, A.S.**. "Dissecting FcγR Regulation Through a Multivalent Binding Model."
+
 _Univ. of Calif., Riverside, Department of Bioengineering_, Invited Departmental Seminar \hfill April 2018  
 **Meyer, A.S.**. "Dissecting FcγR Regulation Through a Multivalent Binding Model."
 
