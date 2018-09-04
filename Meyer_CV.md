@@ -262,22 +262,22 @@ _Merrimack Pharmaceuticals_, Invited Oral Presentation \hfill January 2013
 
 # Research Supervision
 
-#### Postdoctoral Fellows
+*Postdoctoral Fellows*
 
 Edward Richards, Ph.D. \hfill 2015 – Present  
-**American Cancer Society Postdoctoral Fellowship**: October 2017
+American Cancer Society Postdoctoral Fellowship: October 2017
 
 Song Yi Bae, Ph.D. \hfill 2016 – Present
 
 Catera Wilder, Ph.D. (Co-advised by Alexander Hoffman) \hfill 2018 – Present
 
-#### Ph.D. Students
+*Ph.D. Students*
 
 Farnaz Mohammadi \hfill 2018 – Present
 
 Marc Creixell \hfill 2018 – Present
 
-#### Undergraduate Students
+*Undergraduate Students*
 
 Adam Weiner (Internet Research Initiative Award) \hfill 2017 – Present
 
