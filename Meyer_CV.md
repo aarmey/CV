@@ -260,6 +260,25 @@ _ICBP Principal Investigators Meeting_ \hfill May 2013
 _Merrimack Pharmaceuticals_, Invited Oral Presentation \hfill January 2013  
 **Meyer, A.S.**, F.B. Gertler, D.A. Lauffenburger. "AXL amplifies EGFR signaling and drives resistance in triple negative breast carcinoma cells."
 
+# Research Supervision
+
+## Postdoctoral Fellows
+
+Edward Richards, Ph.D. \hfill 2015 – Present  
+**American Cancer Society Postdoctoral Fellowship**: October 2017
+
+Song Yi Bae, Ph.D. \hfill 2016 – Present
+
+Catera Wilder, Ph.D. (Co-advised by Alexander Hoffman) \hfill 2018 – Present
+
+## Ph.D. Students
+
+Farnaz Mohammadi \hfill 2018 – Present
+
+Marc Creixell \hfill 2018 – Present
+
+<!-- TODO: Add undergraduate students? -->
+
 # Professional Service
 
 _Faculty Volunteer_, Amgen Scholars Symposium \hfill 2018
