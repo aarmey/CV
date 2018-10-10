@@ -60,9 +60,11 @@ Schering-Plough Corporation, Watchung, NJ
 \leftskip 0.1in
 \parindent -0.1in
 
-Robinett, R.A., N. Guan, A. Lux, M. Biburger, F. Nimmerjahn, **A.S. Meyer**. ["Dissecting FcγR Regulation Through a Multivalent Binding Model."](https://doi.org/10.1016/j.cels.2018.05.018) _Cell Systems._ 2018 Jul 25; 6(7): 1--8.
+Situ, K., B.A. Chua; S.Y. Bae; **A.S. Meyer**; K. Morizono. ["Versatile targeting system for lentiviral vectors involving biotinylated targeting molecules."](https://doi.org/10.1016/j.virol.2018.09.017) _Virology._ 2018 Oct 2; 525: 170--181.
 
 \parskip 0.1in
+
+Robinett, R.A., N. Guan, A. Lux, M. Biburger, F. Nimmerjahn, **A.S. Meyer**. ["Dissecting FcγR Regulation Through a Multivalent Binding Model."](https://doi.org/10.1016/j.cels.2018.05.018) _Cell Systems._ 2018 Jul 25; 6(7): 1--8.
 
 Claas, A.M., L. Atta, S. Gordonov, **A.S. Meyer**, D.A. Lauffenburger. ["Systems Modeling Identifies Divergent Receptor Tyrosine Kinase Reprogramming to MAPK Pathway Inhibition."](https://link.springer.com/article/10.1007/s12195-018-0542-y) _Cellular and Molecular Bioengineering_ 2018 Jul 26; 1--19.
 
