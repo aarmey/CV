@@ -60,7 +60,7 @@ Schering-Plough Corporation, Watchung, NJ
 \leftskip 0.1in
 \parindent -0.1in
 
-Situ, K., B.A. Chua; S.Y. Bae; **A.S. Meyer**; K. Morizono. ["Versatile targeting system for lentiviral vectors involving biotinylated targeting molecules."](https://doi.org/10.1016/j.virol.2018.09.017) _Virology._ 2018 Oct 2; 525: 170--181.
+Situ, K., B.A. Chua, S.Y. Bae, **A.S. Meyer**, K. Morizono. ["Versatile targeting system for lentiviral vectors involving biotinylated targeting molecules."](https://doi.org/10.1016/j.virol.2018.09.017) _Virology._ 2018 Oct 2; 525: 170--181.
 
 \parskip 0.1in
 
