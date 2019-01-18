@@ -1,16 +1,13 @@
 pipeline {
-  agent none
+  agent any
   stages {
     stage('Build') {
-      agent { docker { image 'asmlab/builders:text-latest' } }
       steps {
-        sh 'git clean -ffdx'
         sh 'make -j 8'
         archiveArtifacts artifacts: 'Output/*.pdf', onlyIfSuccessful: true
       }
     }
     stage('Deploy') {
-      agent any
       when { expression { env.BRANCH_NAME == 'master' } }
       steps { sh 'make upload' }
     }
