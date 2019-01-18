@@ -16,7 +16,7 @@ Thesis: Quantitative approaches to understanding signaling regulation of 3D cell
 _B.S._, Bioengineering, magna cum laude \hfill June 2009  
 University of California, Los Angeles, CA
 
-# Research Experience
+# Professional Experience
 
 _Assistant Professor_ \hfill 2017 – Present  
 Bioengineering Department, University of California, Los Angeles
@@ -163,7 +163,7 @@ UCLA, Department of Bioengineering
 
 - Designed and lead project-based course tailored to the background of students in the program
 
-_Guest Speaker_, Introduction to Bioengineering \hfill 2017 – Present  
+_Guest Speaker_, Introduction to Bioengineering \hfill 2017
 UCLA, Department of Bioengineering
 
 - Guest speaker to discuss research program and opportunities in bioengineering
@@ -282,17 +282,17 @@ _Merrimack Pharmaceuticals_, Invited Oral Presentation \hfill January 2013
 
 *Undergraduate Students*
 
-- Adam Weiner (Internet Research Initiative Award) \hfill 2017 – Present
-- Ali Farhat (Rose Hills Foundation Scholar) \hfill 2017 – Present
-- Rui Yan (Cathy Bank Scholarship) \hfill 2017 – Present
-- Willie Wu \hfill 2018 – Present
+- Stephen Lees \hfill 2018 – Present
+- Robby Theisen \hfill 2018 – Present
 - Alison Tran \hfill 2018 – Present
+- Willie Wu \hfill 2018
+- Rui Yan (Cathy Bank Scholarship) \hfill 2017 – Present
+- Ali Farhat (Rose Hills Foundation Scholar) \hfill 2017 – Present
+- Adam Weiner (Internet Research Initiative Award) \hfill 2017 – Present
 
-# Professional Service
+# Service to the Profession
 
-_Faculty Representative_, Annual Biomedical Research Conference for Minority Students \hfill 2018
-
-_Faculty Volunteer_, Amgen Scholars Symposium \hfill 2018
+_Co-Chair_, Association of Early Career Cancer Systems Biologists \hfill 2017 – Present
 
 _Ad Hoc Reviewer_, PLOS Computational Biology \hfill 2018
 
@@ -301,8 +301,6 @@ _Interviewee_, [Prescriber Magazine](http://www.prescriber.co.uk/wp-content/uplo
 _Ad Hoc Reviewer_, WIREs Systems Biology and Medicine \hfill 2017
 
 _Ad Hoc Remote Reviewer_, Irish Research Council \hfill 2017
-
-_Co-Chair_, Association of Early Career Cancer Systems Biologists \hfill 2017 – Present
 
 _Ad Hoc Reviewer_, Cell Reports \hfill 2017
 
@@ -327,6 +325,18 @@ _Ad Hoc Reviewer_, Nature \hfill 2013
 _Member_, MIT Biological Engineering Retreat Organizing Committee \hfill 2010 – 2012
 
 _Ad Hoc Reviewer_, J. Cell Biol. \hfill 2011 – 2012
+
+# Service to UCLA
+
+_Faculty Representative_, Annual Biomedical Research Conference for Minority Students \hfill 2018
+
+_Faculty Volunteer_, Amgen Scholars Symposium \hfill 2018
+
+# Service to the Department
+
+_Field Co-Chair_, Biosystem Science and Engineering \hfill 2019 – Present
+
+_Admissions Committee Co-Chair_, Bioengineering \hfill 2019 – Present
 
 # Patents/Disclosures
 
