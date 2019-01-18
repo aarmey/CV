@@ -290,6 +290,8 @@ _Merrimack Pharmaceuticals_, Invited Oral Presentation \hfill January 2013
 
 # Professional Service
 
+_Faculty Representative_, Annual Biomedical Research Conference for Minority Students \hfill 2018
+
 _Faculty Volunteer_, Amgen Scholars Symposium \hfill 2018
 
 _Ad Hoc Reviewer_, PLOS Computational Biology \hfill 2018
