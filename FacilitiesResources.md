@@ -21,6 +21,8 @@ header-includes:
 
 **Intellectual Rapport:** The academic structure is founded on an interdisciplinary ethic. There are many opportunities to meet, hear about, and discuss research, including the Bioengineering seminar series, the Bioinformatics seminar series, the Stem Cell Center meetings, Jonsson Comprehensive Cancer Center speaker series and discussion meetings, and the QCBio (Institute for Quantitative and Computational Biology) seminar series. The Meyer lab additionally participates in a regular joint meeting with the labs of Alex Hoffman (Immunology) and Roy Wollman (Biological Chemistry) on modeling and microscopy.
 
+All members of the Meyer lab receive regular feedback and career planning formalized through individualized development plans and annual reviews. Additionally, graduate students are assigned a thesis committee that helps to provide independent mentorship and career planning advice.
+
 **Shared Resources:**
 
 As a member of the Jonsson Cancer Center and the Broad Stem Cell Center, Dr. Meyer has access to extensive resources within the core facilities including flow cytometry, genomics, molecular screening, small animal imaging, translational pathology, high-throughput sequencing, imaging, and biostatistics. These services are available to members of the centers at a subsidized rate. Particularly relevant to the work proposed here:
