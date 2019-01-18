@@ -1,9 +1,8 @@
 ---
-fontsize: 12pt
+fontsize: 11pt
 geometry: margin=0.5in
 pagestyle: empty
 fontfamily: helvet
-fontfamilyoptions: scaled
 header-includes: |
     \renewcommand\familydefault{\sfdefault}
     \usepackage{ragged2e, enumitem}
@@ -30,7 +29,7 @@ header-includes: |
   \hline
   INSTITUTION AND LOCATION & DEGREE & Completion Date & FIELD OF STUDY \\
   \hline
-  University of California, Los Angeles (UCLA) \hspace{70pt} & B.S. & 6/2009 & Bioengineering \\
+  University of California, Los Angeles (UCLA) \hspace{50pt} & B.S. & 6/2009 & Bioengineering \\
   Massachusetts Institute of Technology (MIT) & Ph.D. & 6/2014 & Biological Engineering \\
 \end{tabular}
 

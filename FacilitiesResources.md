@@ -3,7 +3,6 @@ fontsize: 11pt
 geometry: margin=0.5in
 pagestyle: empty
 fontfamily: helvet
-fontfamilyoptions: scaled
 header-includes: 
 - \renewcommand\familydefault{\sfdefault} 
 - \usepackage{ragged2e, enumitem}
