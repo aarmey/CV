@@ -13,7 +13,7 @@ Output/%.pdf: %.md
 	mkdir -p Output
 	pandoc --pdf-engine=pdflatex $< -o $@
 
-Output/.git/HEAD: Output
+Output/.git/HEAD:
 	cd Output; git init; git config user.name "Jenkins CI"; git config user.email "jenkins@asmlab.org"
 	cd Output; git remote add upstream "git@github.com:aarmey/CV.git"; git fetch upstream; git reset upstream/gh-pages; touch .
 
