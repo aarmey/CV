@@ -1,5 +1,7 @@
 pipeline {
-  agent any
+  agent {
+    docker { image 'asmlab/builders:text-latest' }
+  }
   stages {
     stage('Build') {
       steps {
