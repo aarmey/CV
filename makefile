@@ -7,7 +7,7 @@ res.cls:
 
 Output/Meyer_CV.pdf: res.cls Meyer_CV.md CV-templ.tex
 	mkdir -p Output
-	pandoc --template=CV-templ.tex --pdf-engine=xelatex Meyer_CV.md -o $@
+	pandoc --template=CV-templ.tex --pdf-engine=pdflatex Meyer_CV.md -o $@
 
 Output/%.pdf: %.md
 	mkdir -p Output
