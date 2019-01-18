@@ -1,5 +1,5 @@
 ---
-fontsize: 11pt
+fontsize: 12pt
 geometry: margin=0.5in
 pagestyle: empty
 fontfamily: helvet
