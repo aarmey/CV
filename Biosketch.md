@@ -1,5 +1,5 @@
 ---
-fontsize: 11pt
+fontsize: 12pt
 geometry: margin=0.5in
 pagestyle: empty
 fontfamily: helvet
@@ -8,7 +8,7 @@ header-includes: |
     \renewcommand\familydefault{\sfdefault}
     \usepackage{ragged2e, enumitem}
     \usepackage[euler]{textgreek}
-    \renewcommand{\arraystretch}{1.2}
+    \renewcommand{\arraystretch}{1.1}
 ---
 
 \begin{flushright}
