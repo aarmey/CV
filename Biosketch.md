@@ -166,22 +166,19 @@ Often receptor families have many ligands and receptors while being expressed ac
 
 NIH U01-CA215709  \hfill  9/01/2017 – 8/30/2022   
 Precision Lung Cancer Therapy Design Through Multiplexed Adapter Measurement   
-We propose to develop a global picture of bypass resistance mediated by receptor tyrosine kinases (RTKs) not targeted by therapy. By examining multiple RTKs variable in their resistance-promoting capacity at once, we will be able to determine features essential to the development of resistance. Examining receptor-proximal interactions, we will identify causally-important interactions that can be measured for prognostic identification of which receptors are directing resistance.
-
+We propose to develop a global picture of bypass resistance mediated by receptor tyrosine kinases (RTKs) not targeted by therapy. By examining multiple RTKs variable in their resistance-promoting capacity at once, we will be able to determine features essential to the development of resistance. Examining receptor-proximal interactions, we will identify causally-important interactions that can be measured for prognostic identification of which receptors are directing resistance.  
 Role: Co-PI
 
 \vspace{12pt}
 Foundation Grant \hfill 7/1/2017 – 6/30/2019  
 Terri Brodeur Breast Cancer Foundation  
-This project aims to use a computational model to direct design of new inhibitors for the TAM receptors. Using these well-characterized compounds, we will examine the _in vivo_ effects of inhibiting different TAM receptor complements.
-
+This project aims to use a computational model to direct design of new inhibitors for the TAM receptors. Using these well-characterized compounds, we will examine the _in vivo_ effects of inhibiting different TAM receptor complements.  
 Role: PI
 
 \vspace{12pt}
 NIH DP5-OD019815  \hfill  9/22/2014 – 9/1/2019  
 Adapter-Layer RTK Signaling: Basic Understanding & Targeted Drug Resistance  
-The goal of this project is to study sets of resistance mechanisms to RTK-targeted therapies, in order to identify commonalities and ways to determine which mechanism may be driving individual tumors.
-
+The goal of this project is to study sets of resistance mechanisms to RTK-targeted therapies, in order to identify commonalities and ways to determine which mechanism may be driving individual tumors.  
 Role: PI
 
 ### Completed Research Support
