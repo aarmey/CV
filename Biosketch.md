@@ -8,7 +8,7 @@ header-includes: |
     \renewcommand\familydefault{\sfdefault}
     \usepackage{ragged2e, enumitem}
     \usepackage[euler]{textgreek}
-    \renewcommand{\arraystretch}{1.05}
+    \renewcommand{\arraystretch}{1.1}
 ---
 
 \begin{flushright}
