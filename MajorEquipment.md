@@ -13,6 +13,7 @@ header-includes:
 
 Meyer Laboratory --- The laboratory is equipped all necessary equipment for performing the proposed work, including:
 
+- Luminex MAGPIX multiplexed assay system
 - Multiple electrophoresis units
 - Thermocycler
 - Swing-bucket centrifuge
