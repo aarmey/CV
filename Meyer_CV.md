@@ -153,15 +153,25 @@ Massachusetts Institute of Technology
 
 # Teaching Experience
 
-_Instructor_, Bioengineering Laboratory \hfill 2018 – Present  
-UCLA, Department of Bioengineering
+_Advisor_, Integrated and Interdisciplinary Undergraduate Research Program \hfill 2019 – Present
+UCLA, Undergraduate Research Center
 
-- Lead lab-based course introduction to laboratory work in bioengineering and basics of experimental design and analysis
+- Advise program participants on developing research, presentation, and professional skills.
 
 _Instructor_, Machine Learning & Data-Driven Modeling in Bioengineering \hfill 2018 – Present  
 UCLA, Department of Bioengineering
 
 - Designed and lead project-based course tailored to the background of students in the program
+
+_Instructor_, Bioengineering Laboratory \hfill 2018 – Present  
+UCLA, Department of Bioengineering
+
+- Lead lab-based course introduction to laboratory work in bioengineering and basics of experimental design and analysis
+
+_Mentor_, Bioengineering Capstone \hfill 2017 – Present  
+UCLA, Department of Bioengineering
+
+- Mentored two capstone teams for the bioengineering senior design course.
 
 _Guest Speaker_, Introduction to Bioengineering \hfill 2017  
 UCLA, Department of Bioengineering
