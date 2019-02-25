@@ -181,7 +181,10 @@ MIT, Department of Biological Engineering, Cambridge, MA
 
 # Conference & Invited Presentations
 
-_Univ. of Illinois at Urbana-Champaign_, Invited Departmental Seminar \hfill September 2018  
+_Univ. of Calif., Los Angeles, MSTP Tutorial Series_, Invited Speaker \hfill October 2018
+**Meyer, A.S.**. "Systems approaches to mapping and targeting immune system communication."
+
+_Univ. of Illinois at Urbana-Champaign, Department of Bioengineering_, Invited Departmental Seminar \hfill September 2018  
 **Meyer, A.S.**. "High-dimensional analysis to map and manipulate immune receptor-ligand families."
 
 _Systems Biology of Human Disease_, Selected Oral Presentation \hfill June 2018  
