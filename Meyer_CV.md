@@ -180,7 +180,7 @@ MIT, Department of Biological Engineering, Cambridge, MA
 
 # Conference & Invited Presentations
 
-_Oregon Health & Science University, Dept. of Biomedical Engineering_, Invited Dept. Seminar \hfill March 2019  
+_Oregon Health & Science Univ., Dept. of Biomedical Engineering_, Invited Dept. Seminar \hfill March 2019  
 **Meyer, A.S.**. "Systems approaches to mapping and targeting immune system communication."
 
 _Univ. of Calif., Los Angeles, MSTP Tutorial Series_, Invited Speaker \hfill October 2018  
