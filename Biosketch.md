@@ -137,6 +137,7 @@ Often receptor families have many ligands and receptors while being expressed ac
 
 \noindent ^†^Co-corresponding authors.
 
+
 ### Therapeutic resistance and design
 
 The benefits cancer patients derive from targeted therapies are limited by genetic and non-genetic mechanisms of resistance. This is in part due to an incomplete understanding of the many compensatory molecular changes that occur when one treats with a therapy. In (1) we explored a panel of resistance mechanisms to RTK inhibitors, showed that coordinate JNK/Erk/Akt measurement was essential to predict cellular response, and showed that the resistance mechanism's effects could be explained through their effects on these pathways. In (3) we showed that a complication of targeting autocrine growth factor signaling is the length-scales on which ligand release and recapture occur. Through a diffusion reaction model, we instead predicted and showed that inhibiting ligand release through protease inhibition is much more effective. In (2), we showed that a common consequence of kinase inhibitors is reduced proteolytic shedding on the cell surface. This change switches the kinase dependence of cells, in turn driving resistance to therapy (in large part via AXL). These results highlight the complexity underlying targeted inhibitor response and demonstrate methods to understand and overcome it.
