@@ -47,14 +47,6 @@ Department of Bioengineering, University of California, Los Angeles, CA
 - Developed assays for quantifying the concentration of charged and uncharged surfactants
 
 
-_Summer Intern, Bioprocess Development Division_ \hfill 2008  
-Schering-Plough Corporation, Watchung, NJ
-
-- Developed a novel method for high-throughput batch culture within deep-welled microtiter plates
-- Investigated the social behavior of nonproducing impurities within monoclonal cultures
-- Provided statistical basis for process-based confidence in monoclonality
-
-
 # Refereed Publications
 
 \leftskip 0.1in
