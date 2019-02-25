@@ -163,7 +163,7 @@ UCLA, Department of Bioengineering
 
 - Designed and lead project-based course tailored to the background of students in the program
 
-_Guest Speaker_, Introduction to Bioengineering \hfill 2017
+_Guest Speaker_, Introduction to Bioengineering \hfill 2017  
 UCLA, Department of Bioengineering
 
 - Guest speaker to discuss research program and opportunities in bioengineering
