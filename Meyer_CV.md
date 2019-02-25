@@ -180,13 +180,13 @@ MIT, Department of Biological Engineering, Cambridge, MA
 
 # Conference & Invited Presentations
 
-_Oregon Health & Science University, Department of Biomedical Engineering_, Invited Departmental Seminar \hfill March 2019  
+_Oregon Health & Science University, Dept. of Biomedical Engineering_, Invited Dept. Seminar \hfill March 2019  
 **Meyer, A.S.**. "Systems approaches to mapping and targeting immune system communication."
 
 _Univ. of Calif., Los Angeles, MSTP Tutorial Series_, Invited Speaker \hfill October 2018  
 **Meyer, A.S.**. "Systems approaches to mapping and targeting immune system communication."
 
-_Univ. of Illinois at Urbana-Champaign, Department of Bioengineering_, Invited Departmental Seminar \hfill September 2018  
+_Univ. of Illinois at Urbana-Champaign, Dept. of Bioengineering_, Invited Dept. Seminar \hfill Sept 2018  
 **Meyer, A.S.**. "High-dimensional analysis to map and manipulate immune receptor-ligand families."
 
 _Systems Biology of Human Disease_, Selected Oral Presentation \hfill June 2018  
