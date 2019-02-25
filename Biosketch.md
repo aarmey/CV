@@ -158,17 +158,6 @@ Invasion and dissemination of cells underlie many diseases including breast canc
 
 \noindent ^‡^Equal contribution.
 
-### Understanding and targeting receptor family communication
-
-Often receptor families have many ligands and receptors while being expressed across many cell populations. This multi-layered multiplicity confounds intuition about how these receptors are regulated in homeostasis, dysregulated in disease, and might be targeted with therapies. Through a combination of modeling and experiment, we have been working to develop the tools enabling improved understanding of these families' regulation and how best to target them. Within the FcγR family, which enacts effector function in response to IgG antibodies, we recently showed that a multivalent binding model could predict effector function *in vivo* better than previously-used metrics, which will enable more potent anti-tumor antibodies (1). Within the TAM family of receptor tyrosine kinases, we identified that AXL can be transactivated from ErbB receptors and that this transactivation drives the invasiveness of breast carcinoma cells more so than the signaling from the ErbB receptors themselves (3). Then, we developed a kinetic model of AXL activation, mechanistically explaining the dependence of the receptor upon phosphatidylserine for activation (2, 4). This basic understanding of TAM and FcγR signaling enables more rationally designed therapies and understanding of which factors in the tumor microenvironment drive activation.
-
-1. Robinett, R.A., N. Guan, A. Lux, M. Biburger, F. Nimmerjahn, **A.S. Meyer**. (2018). "Dissecting FcγR Regulation Through a Multivalent Binding Model." _Cell Systems._ 2018 July 25; 6(7): 1–8.
-2. **Meyer, A.S.**^†^, A.J.M. Zweemer, D.A. Lauffenburger^†^. (2015). The AXL Receptor Is a Sensor of Ligand Spatial Heterogeneity. _Cell Systems_, 1(1):25--36. PMCID: 4520549.
-3. **Meyer, A.S.**, M.A. Miller, F.B. Gertler, D.A. Lauffenburger. (2013). The receptor AXL diversifies EGFR signaling and limits the response to EGFR-targeted inhibitors in triple-negative breast cancer cells. _Science Signaling_, 6(287), ra66. PMCID: 3947921.
-4. Zweemer, A., C.B. French, J. Mesfin, S. Gordonov, **A.S. Meyer**, and D.A. Lauffenburger. (2017). Apoptotic Bodies Elicit Gas6-mediated Migration of AXL-expressing Tumor Cells. _Molecular Cancer Research_. 2017 Dec; 15(12): 1656--1666. PMCID: 5957761.
-
-\noindent ^†^Co-corresponding authors.
-
 **Complete List of Published Work in My Bibliography: <http://1.usa.gov/1So8BFr>**
 
 
