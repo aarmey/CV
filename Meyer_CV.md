@@ -178,9 +178,6 @@ Bard College, Citizen Science Program, Annandale-on-Hudson, NY
 _Teaching Assistant_, Thermodynamics of Biomolecular Systems \hfill 2010  
 MIT, Department of Biological Engineering, Cambridge, MA
 
-- Taught at weekly discussion sections, office hours, and individual appointments
-- Helped write and graded problem sets and exam questions
-
 # Conference & Invited Presentations
 
 _Oregon Health & Science University, Department of Biomedical Engineering_, Invited Departmental Seminar \hfill March 2019  
