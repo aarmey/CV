@@ -47,14 +47,6 @@ Department of Bioengineering, University of California, Los Angeles, CA
 - Developed assays for quantifying the concentration of charged and uncharged surfactants
 
 
-_Summer Intern, Bioprocess Development Division_ \hfill 2008  
-Schering-Plough Corporation, Watchung, NJ
-
-- Developed a novel method for high-throughput batch culture within deep-welled microtiter plates
-- Investigated the social behavior of nonproducing impurities within monoclonal cultures
-- Provided statistical basis for process-based confidence in monoclonality
-
-
 # Refereed Publications
 
 \leftskip 0.1in
@@ -153,17 +145,27 @@ Massachusetts Institute of Technology
 
 # Teaching Experience
 
-_Instructor_, Bioengineering Laboratory \hfill 2018 – Present  
-UCLA, Department of Bioengineering
+_Advisor_, Integrated and Interdisciplinary Undergraduate Research Program \hfill 2019 – Present  
+UCLA, Undergraduate Research Center
 
-- Lead lab-based course introduction to laboratory work in bioengineering and basics of experimental design and analysis
+- Advise program participants on developing research, presentation, and professional skills.
 
 _Instructor_, Machine Learning & Data-Driven Modeling in Bioengineering \hfill 2018 – Present  
 UCLA, Department of Bioengineering
 
 - Designed and lead project-based course tailored to the background of students in the program
 
-_Guest Speaker_, Introduction to Bioengineering \hfill 2017
+_Instructor_, Bioengineering Laboratory \hfill 2018 – Present  
+UCLA, Department of Bioengineering
+
+- Lead lab-based course introduction to laboratory work in bioengineering and basics of experimental design and analysis
+
+_Mentor_, Bioengineering Capstone \hfill 2017 – Present  
+UCLA, Department of Bioengineering
+
+- Mentored two capstone teams for the bioengineering senior design course.
+
+_Guest Speaker_, Introduction to Bioengineering \hfill 2017  
 UCLA, Department of Bioengineering
 
 - Guest speaker to discuss research program and opportunities in bioengineering
@@ -176,12 +178,15 @@ Bard College, Citizen Science Program, Annandale-on-Hudson, NY
 _Teaching Assistant_, Thermodynamics of Biomolecular Systems \hfill 2010  
 MIT, Department of Biological Engineering, Cambridge, MA
 
-- Taught at weekly discussion sections, office hours, and individual appointments
-- Helped write and graded problem sets and exam questions
-
 # Conference & Invited Presentations
 
-_Univ. of Illinois at Urbana-Champaign_, Invited Departmental Seminar \hfill September 2018  
+_Oregon Health & Science Univ., Dept. of Biomedical Engineering_, Invited Dept. Seminar \hfill March 2019  
+**Meyer, A.S.**. "Systems approaches to mapping and targeting immune system communication."
+
+_Univ. of Calif., Los Angeles, MSTP Tutorial Series_, Invited Speaker \hfill October 2018  
+**Meyer, A.S.**. "Systems approaches to mapping and targeting immune system communication."
+
+_Univ. of Illinois at Urbana-Champaign, Dept. of Bioengineering_, Invited Dept. Seminar \hfill Sept 2018  
 **Meyer, A.S.**. "High-dimensional analysis to map and manipulate immune receptor-ligand families."
 
 _Systems Biology of Human Disease_, Selected Oral Presentation \hfill June 2018  
@@ -214,10 +219,10 @@ _Moffitt Cancer Center_, Invited Speaker \hfill January 2017
 _Biomedical Engineering Society Annual Meeting_, Selected Oral Presentation \hfill October 2016  
 Manole, S., E.J. Richards, **A.S. Meyer**. "JNK pathway activation modulates acquired resistance to EGFR/HER2 targeted therapies."
 
-_MD Anderson Cancer Center, Dept. of Systems Biology_, Invited Departmental Speaker \hfill September 2016  
+_MD Anderson Cancer Center, Dept. of Systems Biology_, Invited Departmental Speaker \hfill Sept 2016  
 Richards, E.J., A. Zweemer, **A.S. Meyer**. "Engineering more precise and potent TAM-targeted therapies."
 
-_MD Anderson Cancer Center, Future of Science Symposium_, Invited Oral Presentation \hfill September 2016  
+_MD Anderson Cancer Center, Future of Science Symposium_, Invited Oral Presentation \hfill Sept 2016  
 Manole, S., **A.S. Meyer**. "Toward precision therapy: Identifying molecular commonalities among RTK bypass resistance mechanisms."
 
 _FASEB Protein Kinase Signaling Network Regulation_, Invited Oral Presentation \hfill July 2016  
@@ -357,5 +362,5 @@ Advisor: Grace Xiao
 Hiromi Miwa, Bioengineering  
 Advisor: Dino Di Carlo
 
-Mark van Zee, Bioengineering
+Mark van Zee, Bioengineering  
 Advisor: Dino Di Carlo
