@@ -230,10 +230,10 @@ _Moffitt Cancer Center_, Invited Speaker \hfill January 2017
 _Biomedical Engineering Society Annual Meeting_, Selected Oral Presentation \hfill October 2016  
 Manole, S., E.J. Richards, **A.S. Meyer**. "JNK pathway activation modulates acquired resistance to EGFR/HER2 targeted therapies."
 
-_MD Anderson Cancer Center, Dept. of Systems Biology_, Invited Departmental Speaker \hfill September 2016  
+_MD Anderson Cancer Center, Dept. of Systems Biology_, Invited Departmental Speaker \hfill Sept 2016  
 Richards, E.J., A. Zweemer, **A.S. Meyer**. "Engineering more precise and potent TAM-targeted therapies."
 
-_MD Anderson Cancer Center, Future of Science Symposium_, Invited Oral Presentation \hfill September 2016  
+_MD Anderson Cancer Center, Future of Science Symposium_, Invited Oral Presentation \hfill Sept 2016  
 Manole, S., **A.S. Meyer**. "Toward precision therapy: Identifying molecular commonalities among RTK bypass resistance mechanisms."
 
 _FASEB Protein Kinase Signaling Network Regulation_, Invited Oral Presentation \hfill July 2016  
