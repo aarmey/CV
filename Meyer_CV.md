@@ -153,7 +153,7 @@ Massachusetts Institute of Technology
 
 # Teaching Experience
 
-_Advisor_, Integrated and Interdisciplinary Undergraduate Research Program \hfill 2019 – Present
+_Advisor_, Integrated and Interdisciplinary Undergraduate Research Program \hfill 2019 – Present  
 UCLA, Undergraduate Research Center
 
 - Advise program participants on developing research, presentation, and professional skills.
