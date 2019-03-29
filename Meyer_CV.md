@@ -5,6 +5,8 @@ email: ameyer@ucla.edu
 phone: 310-794-4821
 addrOne: 4121G Engineering V
 addrTwo: Los Angeles, CA 90095
+header-includes:
+    - \usepackage{multicol}
 ---
 
 # Education
@@ -356,6 +358,8 @@ Miller, M.A., M.J. Oudin, **A.S. Meyer**, L.G. Griffith, F.B. Gertler, D.A. Lauf
 
 # Thesis Committee Membership
 
+\begin{multicols}{2}
+
 Daniel Bradbury, Bioengineering  
 Advisor: Daniel Kamei
 
@@ -371,3 +375,4 @@ Advisor: Dino Di Carlo
 Rob Dimatteo, Bioengineering  
 Advisor: Dino Di Carlo
 
+\end{multicols}
