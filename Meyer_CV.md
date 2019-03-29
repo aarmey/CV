@@ -164,6 +164,7 @@ _Mentor_, Bioengineering Capstone \hfill 2017 – Present
 UCLA, Department of Bioengineering
 
 - Mentored two capstone teams for the bioengineering senior design course.
+- 2019 poster competition winning team
 
 _Guest Speaker_, Introduction to Bioengineering \hfill 2017  
 UCLA, Department of Bioengineering
