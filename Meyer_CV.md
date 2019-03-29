@@ -338,6 +338,8 @@ _Faculty Representative_, Annual Biomedical Research Conference for Minority Stu
 
 _Faculty Volunteer_, Amgen Scholars Symposium \hfill 2018
 
+_Faculty Speaker_, UCLA Engineering Alumni Reunion \hfill 2018
+
 # Service to the Department
 
 _Field Co-Chair_, Biosystem Science and Engineering \hfill 2019 – Present
