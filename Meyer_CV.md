@@ -5,8 +5,6 @@ email: ameyer@ucla.edu
 phone: 310-794-4821
 addrOne: 4121G Engineering V
 addrTwo: Los Angeles, CA 90095
-header-includes:
-    - \usepackage{multicol}
 ---
 
 # Education
