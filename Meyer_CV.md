@@ -356,18 +356,23 @@ Miller, M.A., M.J. Oudin, **A.S. Meyer**, L.G. Griffith, F.B. Gertler, D.A. Lauf
 
 # Thesis Committee Membership
 
-Daniel Bradbury, Bioengineering  
+\begin{multicols}{2}
+
+Daniel Bradbury, Bioengineering\\
 Advisor: Daniel Kamei
 
-Giovanni Valdez, Bioengineering  
+Giovanni Valdez, Bioengineering\\
 Advisor: Grace Xiao
 
-Hiromi Miwa, Bioengineering  
+Hiromi Miwa, Bioengineering\\
 Advisor: Dino Di Carlo
 
-Mark van Zee, Bioengineering  
+\columnbreak
+
+Mark van Zee, Bioengineering\\
 Advisor: Dino Di Carlo
 
-Rob Dimatteo, Bioengineering  
+Rob Dimatteo, Bioengineering\\
 Advisor: Dino Di Carlo
 
+\end{multicols}
