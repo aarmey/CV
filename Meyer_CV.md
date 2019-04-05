@@ -52,7 +52,7 @@ Department of Bioengineering, University of California, Los Angeles, CA
 \leftskip 0.1in
 \parindent -0.1in
 
-Lee, C.-H., T.H. Kang, O. Godon, M. Watanabe, G. Delidakis, C.M. Gillis, M. Cogné, L.E. Macdonald, A.J. Murphy, J. Lee, J.R. McDaniel, A.S. Meyer, P. Bruhns, and G. Georgiou. "An Engineered, pH-Toggle Switch, Human Fc Domain for Ultra-Long Circulation Persistence." _Submitted._
+Lee, C.-H., T.H. Kang, O. Godon, M. Watanabe, G. Delidakis, C.M. Gillis, M. Cogné, L.E. Macdonald, A.J. Murphy, J. Lee, J.R. McDaniel, **A.S. Meyer**, P. Bruhns, and G. Georgiou. "An Engineered, pH-Toggle Switch, Human Fc Domain for Ultra-Long Circulation Persistence." _Submitted._
 
 \parskip 0.1in
 
