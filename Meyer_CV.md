@@ -52,9 +52,11 @@ Department of Bioengineering, University of California, Los Angeles, CA
 \leftskip 0.1in
 \parindent -0.1in
 
-Situ, K., B.A. Chua, S.Y. Bae, **A.S. Meyer**, K. Morizono. ["Versatile targeting system for lentiviral vectors involving biotinylated targeting molecules."](https://doi.org/10.1016/j.virol.2018.09.017) _Virology._ 2018 Oct 2; 525: 170--181.
+Lee, C.-H., T.H. Kang, O. Godon, M. Watanabe, G. Delidakis, C.M. Gillis, M. Cogné, L.E. Macdonald, A.J. Murphy, J. Lee, J.R. McDaniel, A.S. Meyer, P. Bruhns, and G. Georgiou. "An Engineered, pH-Toggle Switch, Human Fc Domain for Ultra-Long Circulation Persistence." _Submitted._
 
 \parskip 0.1in
+
+Situ, K., B.A. Chua, S.Y. Bae, **A.S. Meyer**, K. Morizono. ["Versatile targeting system for lentiviral vectors involving biotinylated targeting molecules."](https://doi.org/10.1016/j.virol.2018.09.017) _Virology._ 2018 Oct 2; 525: 170--181.
 
 Robinett, R.A., N. Guan, A. Lux, M. Biburger, F. Nimmerjahn, **A.S. Meyer**. ["Dissecting FcγR Regulation Through a Multivalent Binding Model."](https://doi.org/10.1016/j.cels.2018.05.018) _Cell Systems._ 2018 Jul 25; 6(7): 1--8.
 
