@@ -348,6 +348,8 @@ _Field Co-Chair_, Biosystem Science and Engineering \hfill 2019 – Present
 
 _Admissions Committee Co-Chair_, Bioengineering \hfill 2019 – Present
 
+_Undergraduate Curriculum Committee_, Bioengineering \hfill 2019 – Present
+
 # Patents/Disclosures
 
 Bae, S.Y., **A.S. Meyer**. "Small Molecule Competitive Inhibitors Of Phosphatidylserine-TAMR Ligand Interaction." Disclosure filed, 2018.
