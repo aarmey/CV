@@ -297,6 +297,8 @@ _Merrimack Pharmaceuticals_, Invited Oral Presentation \hfill January 2013
 - Rui Yan (Cathy Bank Scholarship) \hfill 2017 – Present
 - Ali Farhat (Rose Hills Foundation Scholar) \hfill 2017 – Present
 - Adam Weiner (Internet Research Initiative Award) \hfill 2017 – Present
+- Alexa Ning \hfill 2015 – 2017
+- Ryan Robinett (NSF Graduate Research Fellowship) \hfill 2015 – 2017
 
 # Service to the Profession
 
