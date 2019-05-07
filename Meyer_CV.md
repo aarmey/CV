@@ -183,6 +183,9 @@ MIT, Department of Biological Engineering, Cambridge, MA
 
 # Conference & Invited Presentations
 
+_CSBC West Coast Meeting_, Selected Oral Presentation \hfill May 2019  
+**Meyer, A.S.**. "Hidden Markov models on a tree as a general approach to single cell plasticity analysis."
+
 _Oregon Health & Science Univ., Dept. of Biomedical Engineering_, Invited Dept. Seminar \hfill March 2019  
 **Meyer, A.S.**. "Systems approaches to mapping and targeting immune system communication."
 
