@@ -52,7 +52,7 @@ Department of Bioengineering, University of California, Los Angeles, CA
 \leftskip 0.1in
 \parindent -0.1in
 
-Meyer, A.S., L.M. Heiser. "Systems biology approaches to measure and model phenotypic heterogeneity in cancer." _Submitted._
+**Meyer, A.S.**, L.M. Heiser. "Systems biology approaches to measure and model phenotypic heterogeneity in cancer." _Submitted._
 
 \parskip 0.1in
 
