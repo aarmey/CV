@@ -187,6 +187,9 @@ MIT, Department of Biological Engineering, Cambridge, MA
 
 # Conference & Invited Presentations
 
+_Antibodies & Complement_, Selected Oral Presentation \hfill May 2019  
+**Meyer, A.S.**. "A Multivalent Binding Model Predicts FcγR Regulation and Effector Cell-Elicited Killing."
+
 _CSBC West Coast Meeting_, Selected Oral Presentation \hfill May 2019  
 **Meyer, A.S.**. "Hidden Markov models on a tree as a general approach to single cell plasticity analysis."
 
