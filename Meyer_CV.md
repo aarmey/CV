@@ -101,6 +101,8 @@ Mashayekhi, F., **A.S. Meyer**, S.A. Shiigi, V. Nguyen, D.T. Kamei. ["Concentrat
 
 # Research Support & Awards
 
+_UCLA Hellman Fellow_ \hfill 2019 – 2020  
+
 _Administrative Supplement to U01-CA215709_ \hfill 2018 – 2019  
 "Cell lineage analysis to quantify heterogeneous cell cycle responses of cancer cells"
 
