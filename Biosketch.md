@@ -165,6 +165,13 @@ Invasion and dissemination of cells underlie many diseases including breast canc
 
 ### Ongoing Research Support
 
+UCLA Hellman Fellows Program  \hfill  7/01/2019 – 6/30/2020   
+Engineering anti-tumor antibody combinations for more effective and less toxic therapies   
+This project uses a binding model of IgG-FcγR engagement to predict combinations of anti-tumor antibodies that operate synergistically together.
+
+Role: PI
+
+\vspace{12pt}
 Visterra, Inc.  \hfill  4/01/2019 – 3/30/2021   
 Modeling the IL-2 pathway to engineer cell-selective signaling   
 This project applies a binding and activation model of the common gamma chain receptor cytokines to identify engineered changes in ligand affinity that translate to changes in cell selectivity.
