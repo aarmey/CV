@@ -393,4 +393,7 @@ Advisor: Dino Di Carlo
 Rob Dimatteo, Bioengineering\\
 Advisor: Dino Di Carlo
 
+Alexander Wickstrom  
+Advisor: Jonathan Kao
+
 \end{multicols}
