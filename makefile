@@ -3,7 +3,7 @@
 all: Output/Meyer_CV.pdf Output/Biosketch.pdf Output/MajorEquipment.pdf Output/FacilitiesResources.pdf Output/.git/HEAD
 
 res.cls: 
-	curl -o $@ -v -L https://www.ctan.org/tex-archive/macros/latex/contrib/resume/res.cls
+	curl -o $@ -L https://www.ctan.org/tex-archive/macros/latex/contrib/resume/res.cls
 
 Output/Meyer_CV.pdf: res.cls Meyer_CV.md CV-templ.tex
 	mkdir -p Output
