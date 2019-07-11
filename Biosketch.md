@@ -121,6 +121,11 @@ I have extensive experience with collaborative projects involving multiple labs 
 2016–2017
  ~ Fellowship, Terri Brodeur Breast Cancer Foundation
 
+2019
+ ~ UCLA Hellman Fellow
+
+2019
+ ~ UCLA Faculty Career Development Award
 
 ## C. Contribution to Science
 
