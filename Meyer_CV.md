@@ -189,6 +189,9 @@ MIT, Department of Biological Engineering, Cambridge, MA
 
 # Conference & Invited Presentations
 
+_Xencor, Inc._, Invited Oral Presentation \hfill July 2019  
+**Meyer, A.S.**. "Computational molecular models for immune engineering."
+
 _Antibodies & Complement_, Selected Oral Presentation \hfill May 2019  
 **Meyer, A.S.**. "A Multivalent Binding Model Predicts FcγR Regulation and Effector Cell-Elicited Killing."
 
