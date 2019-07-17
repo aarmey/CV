@@ -15,7 +15,7 @@ Output/%.pdf: %.md
 
 Output/.git/HEAD:
 	cd Output; git init; git config user.name "Jenkins CI"; git config user.email "jenkins@asmlab.org"
-	cd Output; git remote add upstream "git@github.com:aarmey/CV.git"; git fetch upstream; git reset upstream/gh-pages; touch .
+	cd Output; git remote add upstream "https://github.com/aarmey/CV.git"; git fetch upstream; git reset upstream/gh-pages; touch .
 
 upload: Output/.git/HEAD Output/Meyer_CV.pdf Output/Biosketch.pdf Output/MajorEquipment.pdf Output/FacilitiesResources.pdf
 	cd Output; git add -A .; git status
