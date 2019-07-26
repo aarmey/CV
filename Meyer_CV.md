@@ -189,6 +189,9 @@ MIT, Department of Biological Engineering, Cambridge, MA
 
 # Conference & Invited Presentations
 
+_Biomedical Engineering Society Annual Meeting_, Selected Oral Presentation \hfill October 2019  
+**Meyer, A.S.**. "A Binding Model Predicts In Vivo Effector Cell-Elicited Killing Across Multiple Disease Models."
+
 _Xencor, Inc._, Invited Oral Presentation \hfill July 2019  
 **Meyer, A.S.**. "Computational molecular models for immune engineering."
 
