@@ -363,9 +363,9 @@ _Ad Hoc Reviewer_, J. Cell Biol. \hfill 2011 – 2012
 
 # Service to UCLA
 
-_Faculty Representative_, Annual Biomedical Research Conference for Minority Students \hfill 2018
+_Faculty Volunteer_, Amgen Scholars Symposium \hfill 2018 – 2019
 
-_Faculty Volunteer_, Amgen Scholars Symposium \hfill 2018
+_Faculty Representative_, Annual Biomedical Research Conference for Minority Students \hfill 2018
 
 _Faculty Speaker_, UCLA Engineering Alumni Reunion \hfill 2018
 
