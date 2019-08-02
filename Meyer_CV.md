@@ -121,6 +121,10 @@ _AMIGOS Program Award_ \hfill 2016 – 2020
 Jayne Koskinas Ted Giovanis Foundation and Breast Cancer Research Foundation  
 "Understanding the Role of Cell Plasticity in Mediating Drug Resistance"
 
+_GPU Grant_ \hfill 2016  
+NVIDIA Corporation  
+"Parameterizing Stochastic Cell Signaling Pathways Through Variability Fitting"
+
 _Frontier Research Program Initiator Award_ \hfill 2015  
 Koch Institute for Integrative Cancer Research  
 "Multiplexed Tools for Probing Chemokine Receptor Activation State in Breast Cancer"
