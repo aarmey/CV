@@ -106,6 +106,9 @@ _UCLA Faculty Career Development Award_ \hfill 2019 – 2020
 _UCLA Hellman Fellow_ \hfill 2019 – 2020  
 "Engineering anti-tumor antibody combinations for more effective and less toxic therapies"
 
+_Visterra, Inc. Research Agreement_ \hfill 2019 – 2021  
+"IL-2 Receptor Binding Engineering"
+
 _Administrative Supplement to U01-CA215709_ \hfill 2018 – 2019  
 "Cell lineage analysis to quantify heterogeneous cell cycle responses of cancer cells"
 
