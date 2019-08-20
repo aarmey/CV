@@ -104,6 +104,7 @@ Mashayekhi, F., **A.S. Meyer**, S.A. Shiigi, V. Nguyen, D.T. Kamei. ["Concentrat
 _UCLA Faculty Career Development Award_ \hfill 2019 – 2020  
 
 _UCLA Hellman Fellow_ \hfill 2019 – 2020  
+"Engineering anti-tumor antibody combinations for more effective and less toxic therapies"
 
 _Administrative Supplement to U01-CA215709_ \hfill 2018 – 2019  
 "Cell lineage analysis to quantify heterogeneous cell cycle responses of cancer cells"
@@ -160,7 +161,7 @@ Massachusetts Institute of Technology
 _Advisor_, Integrated and Interdisciplinary Undergraduate Research Program \hfill 2019 – Present  
 UCLA, Undergraduate Research Center
 
-- Advise program participants on developing research, presentation, and professional skills.
+- Advise program participants on developing research, presentation, and professional skills
 
 _Instructor_, Machine Learning & Data-Driven Modeling in Bioengineering \hfill 2018 – Present  
 UCLA, Department of Bioengineering
@@ -175,8 +176,8 @@ UCLA, Department of Bioengineering
 _Mentor_, Bioengineering Capstone \hfill 2017 – Present  
 UCLA, Department of Bioengineering
 
-- Mentored two capstone teams for the bioengineering senior design course.
-- 2019 poster competition winning team
+- Mentored two capstone teams for the bioengineering senior design course
+- Poster competition winning team: 2018, 2019
 
 _Guest Speaker_, Introduction to Bioengineering \hfill 2017  
 UCLA, Department of Bioengineering
