@@ -52,11 +52,13 @@ Department of Bioengineering, University of California, Los Angeles, CA
 \leftskip 0.1in
 \parindent -0.1in
 
-Lee, C.-H., T.H. Kang, O. Godon, M. Watanabe, G. Delidakis, C.M. Gillis, M. Cogné, L.E. Macdonald, A.J. Murphy, J. Lee, J.R. McDaniel, **A.S. Meyer**, P. Bruhns, and G. Georgiou. "An Engineered, pH-Toggle Switch, Human Fc Domain for Ultra-Long Circulation Persistence." _Submitted._
+Farhat, A.M., A.C. Weiner, C. Posner, Z.S. Kim, S.M. Carlson, and **A.S. Meyer**. "Modeling Cell-Specific Dynamics and Regulation of the Common Gamma Chain Cytokines." _Submitted._
 
 \parskip 0.1in
 
-**Meyer, A.S.**, L.M. Heiser. "Systems biology approaches to measure and model phenotypic heterogeneity in cancer." _Current Opinion in Systems Biology._ 2019 Sept 4. _Accepted._
+Lee, C.-H., T.H. Kang, O. Godon, M. Watanabe, G. Delidakis, C.M. Gillis, M. Cogné, L.E. Macdonald, A.J. Murphy, J. Lee, J.R. McDaniel, **A.S. Meyer**, P. Bruhns, and G. Georgiou. "An Engineered, pH-Toggle Switch, Human Fc Domain for Ultra-Long Circulation Persistence." _Submitted._
+
+**Meyer, A.S.**, L.M. Heiser. ["Systems biology approaches to measure and model phenotypic heterogeneity in cancer."](https://doi.org/10.1016/j.coisb.2019.09.002) _Current Opinion in Systems Biology._ 2019 Sept 4. _In press._
 
 Situ, K., B.A. Chua, S.Y. Bae, **A.S. Meyer**, K. Morizono. ["Versatile targeting system for lentiviral vectors involving biotinylated targeting molecules."](https://doi.org/10.1016/j.virol.2018.09.017) _Virology._ 2018 Oct 2; 525: 170--181.
 
