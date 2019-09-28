@@ -90,7 +90,7 @@ I have extensive experience with collaborative projects involving multiple labs 
  ~ Organizer, Systems Approaches to Cancer Biology meeting
 
 2017–Present
- ~ Chair, Association of Early Career Cancer Systems Biologists
+ ~ Chair, Association of Cancer Systems Biologists
 
 ### Honors
 
