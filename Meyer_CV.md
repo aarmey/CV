@@ -199,7 +199,7 @@ MIT, Department of Biological Engineering, Cambridge, MA
 
 # Conference & Invited Presentations
 
-_Buffalo Quantitative Systems Pharmacology Symposium, Invited Speaker \hfill July 2020  
+_Buffalo Quantitative Systems Pharmacology Symposium_, Invited Speaker \hfill July 2020  
 **Meyer, A.S.**. "Lineage tree-based hidden Markov models to evaluate the structure of tumor cell plasticity."
 
 _Tufts University, Dept. of Bioengineering_, Invited Dept. Seminar \hfill March 2020  
