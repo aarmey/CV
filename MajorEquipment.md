@@ -26,13 +26,12 @@ Meyer Laboratory --- The laboratory is equipped all necessary equipment for perf
 - One –80℃ freezer
 - NanoDrop spectrophotometer
 
-Cell culture facilities (biological safety cabinets, incubators, microscopes, assorted other equipment) are all contained in a tissue culture room exclusive to the Meyer lab. Included in the Meyer lab's cell culture facility in one of the Meyer lab incubators is an Incucyte Zoom live-cell imaging system. This system provides real-time monitoring of cells in culture and is equipped with software and hardware for automated cell migration, proliferation, and apoptosis assays.
+Cell culture facilities (biological safety cabinets, incubators, microscopes, assorted other equipment) are all contained in a tissue culture room exclusive to the Meyer lab. Included in the Meyer lab's cell culture facility in one of the Meyer lab incubators is an Incucyte Zoom live-cell imaging system. This system provides real-time monitoring of cells in culture and is equipped with software and hardware for automated cell migration, proliferation, and apoptosis assays. A second inclubator contains a custom-built selective plane illumination (SPIM) imaging system for long-term 3D cultures.
 
-In addition, there is extensive shared equipment and services available across the UCLA campus. As a member of the Jonsson Cancer Center and the Broad Stem Cell Center, Dr. Meyer has access to extensive resources within the core facilities including flow cytometry, genomics, molecular screening, small animal imaging, translational pathology, high-throughput sequencing, imaging, and biostatistics. These services are available to members of the centers at a subsidized rate.
-
-### Common Equipment
+#### Shared Bioengineering Department Equipment
 
 - Dynamic light scattering analyzer
+- BD Accuri Benchtop Flow Cytometer
 - Backup freezers
 - Milli-Q water
 - Ice machine
@@ -41,11 +40,13 @@ In addition, there is extensive shared equipment and services available across t
 - Centrifuges
 - Autoclave
 
+In addition, there is extensive shared equipment and services available across the UCLA campus. As a member of the Jonsson Cancer Center and the Broad Stem Cell Center, Dr. Meyer has access to extensive resources within the core facilities including flow cytometry, genomics, molecular screening, small animal imaging, translational pathology, high-throughput sequencing, imaging, and biostatistics. These services are available to members of the centers at a subsidized rate.
+
 ### Shared Core Equipment
 
-#### Advanced Light Microscopy/ Spectroscopy Core
+#### Advanced Light Microscopy/Spectroscopy Core
 
-The Advanced Light Microscopy/ Spectroscopy Core is housed within the California NanoSystems Institute and provides consultation, services and support for the application of novel spectroscopic methods and advanced image analysis techniques for the study of macromolecules, cellular dynamics and nanoscale characterization of bio-materials.
+The Advanced Light Microscopy/Spectroscopy Core is housed within the California NanoSystems Institute and provides consultation, services and support for the application of novel spectroscopic methods and advanced image analysis techniques for the study of macromolecules, cellular dynamics and nanoscale characterization of bio-materials. Equipment includes:
 
 - Confocal SP8-SMD
 - Confocal SP8 Compact
