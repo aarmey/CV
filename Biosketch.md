@@ -172,6 +172,13 @@ Invasion and dissemination of cells underlie many diseases including breast canc
 
 ### Ongoing Research Support
 
+NIH U01-AI148119  \hfill  12/18/2019 – 11/30/2024   
+Mapping the effector response space of antibody combinations   
+We are extending a binding model for IgG-effector cell interaction to predict the effects of antibody combinations. With that, we will evaluate whether complex mixtures of antibodies have distinct properties from any single species.
+
+Role: Co-PI
+
+\vspace{12pt}
 UCLA Hellman Fellows Program  \hfill  7/01/2019 – 6/30/2020   
 Engineering anti-tumor antibody combinations for more effective and less toxic therapies   
 This project uses a binding model of IgG-FcγR engagement to predict combinations of anti-tumor antibodies that operate synergistically together.
