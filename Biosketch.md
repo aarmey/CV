@@ -195,7 +195,7 @@ Role: PI
 \vspace{12pt}
 NIH U01-CA215709  \hfill  9/01/2017 – 8/30/2022   
 Precision Lung Cancer Therapy Design Through Multiplexed Adapter Measurement   
-We propose to develop a global picture of bypass resistance mediated by receptor tyrosine kinases (RTKs) not targeted by therapy. By examining multiple RTKs variable in their resistance-promoting capacity at once, we will be able to determine features essential to the development of resistance. Examining receptor-proximal interactions, we will identify causally-important interactions that can be measured to identify which receptors are directing resistance.
+We propose to develop a global picture of bypass resistance mediated by receptor tyrosine kinases (RTKs) not targeted by therapy. By examining multiple RTKs variable in their resistance-promoting capacity at once, we will be able to determine features essential to the development of resistance.
 
 Role: Co-PI
 
