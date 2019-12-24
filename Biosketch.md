@@ -118,7 +118,7 @@ I have extensive experience with collaborative projects involving multiple labs 
 2016
  ~ Ten to Watch, Amgen Scholars Foundation
 
-2016–2017
+2017–2019
  ~ Fellowship, Terri Brodeur Breast Cancer Foundation
 
 2019
