@@ -118,7 +118,7 @@ I have extensive experience with collaborative projects involving multiple labs 
 2016
  ~ Ten to Watch, Amgen Scholars Foundation
 
-2016–2017
+2017–2019
  ~ Fellowship, Terri Brodeur Breast Cancer Foundation
 
 2019
@@ -174,7 +174,7 @@ Invasion and dissemination of cells underlie many diseases including breast canc
 
 NIH U01-AI148119  \hfill  12/18/2019 – 11/30/2024   
 Mapping the effector response space of antibody combinations   
-We are extending a binding model for IgG-effector cell interaction to predict the effects of antibody combinations. With that, we will evaluate whether complex mixtures of antibodies have distinct properties from any single species.
+We are extending a binding model for IgG-effector cell interaction to predict the effects of antibody combinations. With that, we will evaluate whether complex mixtures of antibodies have distinct properties from their individual constituents.
 
 Role: Co-PI
 
@@ -195,7 +195,7 @@ Role: PI
 \vspace{12pt}
 NIH U01-CA215709  \hfill  9/01/2017 – 8/30/2022   
 Precision Lung Cancer Therapy Design Through Multiplexed Adapter Measurement   
-We propose to develop a global picture of bypass resistance mediated by receptor tyrosine kinases (RTKs) not targeted by therapy. By examining multiple RTKs variable in their resistance-promoting capacity at once, we will be able to determine features essential to the development of resistance. Examining receptor-proximal interactions, we will identify causally-important interactions that can be measured to identify which receptors are directing resistance.
+We propose to develop a global picture of bypass resistance mediated by receptor tyrosine kinases (RTKs) not targeted by therapy. By examining multiple RTKs variable in their resistance-promoting capacity at once, we will be able to determine features essential to the development of resistance.
 
 Role: Co-PI
 
@@ -203,14 +203,14 @@ Role: Co-PI
 
 NIH DP5-OD019815  \hfill  9/22/2014 – 9/1/2019  
 Adapter-Layer RTK Signaling: Basic Understanding & Targeted Drug Resistance  
-The goal of this project is to study sets of resistance mechanisms to RTK-targeted therapies, in order to identify commonalities and ways to determine which mechanism may be driving individual tumors.
+The goal of this project was to study sets of resistance mechanisms to RTK-targeted therapies, in order to identify commonalities and ways to determine which mechanism may be driving individual tumors.
 
 Role: PI
 
 \vspace{12pt}
 Foundation Grant \hfill 7/1/2017 – 6/30/2019  
 Terri Brodeur Breast Cancer Foundation  
-This project aims to use a computational model to direct design of new inhibitors for the TAM receptors. Using these well-characterized compounds, we will examine the _in vivo_ effects of inhibiting different TAM receptor complements.
+This project used a computational model to direct design of new inhibitors for the TAM receptors. Using these well-characterized compounds, we examined the effects of inhibiting different TAM receptor complements.
 
 Role: PI
 
