@@ -203,14 +203,14 @@ Role: Co-PI
 
 NIH DP5-OD019815  \hfill  9/22/2014 – 9/1/2019  
 Adapter-Layer RTK Signaling: Basic Understanding & Targeted Drug Resistance  
-The goal of this project is to study sets of resistance mechanisms to RTK-targeted therapies, in order to identify commonalities and ways to determine which mechanism may be driving individual tumors.
+The goal of this project was to study sets of resistance mechanisms to RTK-targeted therapies, in order to identify commonalities and ways to determine which mechanism may be driving individual tumors.
 
 Role: PI
 
 \vspace{12pt}
 Foundation Grant \hfill 7/1/2017 – 6/30/2019  
 Terri Brodeur Breast Cancer Foundation  
-This project aims to use a computational model to direct design of new inhibitors for the TAM receptors. Using these well-characterized compounds, we will examine the _in vivo_ effects of inhibiting different TAM receptor complements.
+This project used a computational model to direct design of new inhibitors for the TAM receptors. Using these well-characterized compounds, we examined the effects of inhibiting different TAM receptor complements.
 
 Role: PI
 
