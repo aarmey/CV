@@ -174,7 +174,7 @@ Invasion and dissemination of cells underlie many diseases including breast canc
 
 NIH U01-AI148119  \hfill  12/18/2019 – 11/30/2024   
 Mapping the effector response space of antibody combinations   
-We are extending a binding model for IgG-effector cell interaction to predict the effects of antibody combinations. With that, we will evaluate whether complex mixtures of antibodies have distinct properties from any single species.
+We are extending a binding model for IgG-effector cell interaction to predict the effects of antibody combinations. With that, we will evaluate whether complex mixtures of antibodies have distinct properties from their individual constituents.
 
 Role: Co-PI
 
