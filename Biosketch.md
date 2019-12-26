@@ -71,6 +71,15 @@ I have extensive experience with projects that merge quantitative molecular biol
 
 2017–Present
  ~ Assistant Professor, Bioengineering Department, UCLA
+ 
+2017–Present
+ ~ Member, Broad Stem Cell Research Center, UCLA
+ 
+2017–Present
+ ~ Member, Jonsson Comprehensive Cancer Center, UCLA
+ 
+2018–Present
+ ~ Member, Bioinformatics Interdepartmental Program, UCLA
 
 ### Other Experience and Professional Memberships
 
