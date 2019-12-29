@@ -145,21 +145,24 @@ I have extensive experience with projects that merge quantitative molecular biol
 
 Often receptor families have many ligands and receptors while being expressed across many cell populations. This multi-layered multiplicity confounds intuition about how these receptors are regulated in homeostasis, dysregulated in disease, and might be targeted with therapies. Through a combination of modeling and experiment, we have been working to develop the tools enabling improved understanding of these families' regulation and how best to target them. Within the FcγR family, which enacts effector function in response to IgG antibodies, we recently showed that a multivalent binding model could predict effector function *in vivo* better than previously-used metrics, which will enable more potent anti-tumor antibodies (1). Within the TAM family of receptor tyrosine kinases, we identified that AXL can be transactivated from ErbB receptors and that this transactivation drives the invasiveness of breast carcinoma cells more so than the signaling from the ErbB receptors themselves (3). We then developed a kinetic model of AXL activation, mechanistically explaining the dependence of the receptor upon phosphatidylserine for activation (2, 4). This basic understanding of TAM and FcγR signaling enables more rationally designed therapies and understanding of which factors in the tumor microenvironment drive activation.
 
-1. Robinett, R.A., N. Guan, A. Lux, M. Biburger, F. Nimmerjahn, **A.S. Meyer**. (2018). "Dissecting FcγR Regulation Through a Multivalent Binding Model." _Cell Systems._ 2018 July 25; 6(7): 1–8.
-2. **Meyer, A.S.**^†^, A.J.M. Zweemer, D.A. Lauffenburger^†^. (2015). The AXL Receptor Is a Sensor of Ligand Spatial Heterogeneity. _Cell Systems_, 1(1):25--36. PMCID: 4520549.
-3. **Meyer, A.S.**, M.A. Miller, F.B. Gertler, D.A. Lauffenburger. (2013). The receptor AXL diversifies EGFR signaling and limits the response to EGFR-targeted inhibitors in triple-negative breast cancer cells. _Science Signaling_, 6(287), ra66. PMCID: 3947921.
-4. Zweemer, A., C.B. French, J. Mesfin, S. Gordonov, **A.S. Meyer**, and D.A. Lauffenburger. (2017). Apoptotic Bodies Elicit Gas6-mediated Migration of AXL-expressing Tumor Cells. _Molecular Cancer Research_. 2017 Dec; 15(12): 1656--1666. PMCID: 5957761.
+1. Farhat, A.M., A.C. Weiner, C. Posner, Z.S. Kim, S.M. Carlson, **A.S. Meyer**. (2019). Modeling Cell-Specific Dynamics and Regulation of the Common Gamma Chain Cytokines. _BioRXiv._ 2019 September 23.
+2. Robinett, R.A., N. Guan, A. Lux, M. Biburger, F. Nimmerjahn, **A.S. Meyer**. (2018). Dissecting FcγR Regulation Through a Multivalent Binding Model. _Cell Systems._ 2018 July 25; 6(7): 1–8.
+3. **Meyer, A.S.**^†^, A.J.M. Zweemer, D.A. Lauffenburger^†^. (2015). The AXL Receptor Is a Sensor of Ligand Spatial Heterogeneity. _Cell Systems_, 1(1):25--36. PMCID: 4520549.
+4. **Meyer, A.S.**, M.A. Miller, F.B. Gertler, D.A. Lauffenburger. (2013). The receptor AXL diversifies EGFR signaling and limits the response to EGFR-targeted inhibitors in triple-negative breast cancer cells. _Science Signaling_, 6(287), ra66. PMCID: 3947921.
 
 \noindent ^†^Co-corresponding authors.
 
 
 ### Problem-driven model development
 
-1. A
-2. B
-3. C
-4. D
+Studying complex signaling behavior often requires a systems-level approach, and new ways of analyzing these systems requires new analytical tools. To do so, we have applied a wide range of methods to provide new views of cell signaling mechanisms. For example, in (1) we applied tensor factorization to help visualize the high dimensional response of the common gamma chain cytokine receptor family. In (2) we uncovered that the TAM receptor family senses local clusters of ligand, and used a partial differential equation model to explore this process. Finally, we have used Bayesian inferrence technqieus of increasing scalability to perform robust parameterization of our models of interest (1, 3, 4).
 
+1. Farhat, A.M., A.C. Weiner, C. Posner, Z.S. Kim, S.M. Carlson, **A.S. Meyer**. (2019). Modeling Cell-Specific Dynamics and Regulation of the Common Gamma Chain Cytokines. _BioRXiv._ 2019 September 23.
+2. **Meyer, A.S.**^†^, A.J.M. Zweemer, D.A. Lauffenburger^†^. (2015). The AXL Receptor Is a Sensor of Ligand Spatial Heterogeneity. _Cell Systems_, 1(1):25--36. PMCID: 4520549.
+3. Lee, C.H., T.H. Kang, O. Godon, M. Watanabe, G. Delidakis, C.M. Gillis, D. Sterlin, D. Hardy, M. Cogné, L.E. Macdonald, A.J. Murphy, N. Tu, J. Lee, J.R. McDaniel, E. Makowski, P.M. Tessier, **A.S. Meyer**, P. Bruhns, G. Georgiou. An engineered human Fc domain that behaves like a pH-toggle switch for ultra-long circulation persistence. _Nature Communications_, 10(1):5031, November 2019.
+4. Bae, S.Y., N. Guan, R. Yan, K. Warner, **A.S. Meyer**. Measurement and models accounting for cell death capture hidden variation in compound response. bioRxiv, December 2019. Submitted.
+
+\noindent ^†^Co-corresponding authors.
 
 ### Therapeutic resistance and design
 
