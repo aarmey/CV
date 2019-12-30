@@ -153,7 +153,7 @@ Often receptor families have many ligands and receptors while being expressed ac
 \noindent ^†^Co-corresponding authors.
 
 
-### Problem-driven model development
+### Problem-driven computational model development
 
 Studying complex signaling behavior often requires a systems-level approach, and new ways of analyzing these systems requires new analytical tools. To do so, we have applied a wide range of methods to provide new views of cell signaling mechanisms. For example, in (1) we applied tensor factorization to help visualize the high dimensional response of the common gamma chain cytokine receptor family. In (2) we uncovered that the TAM receptor family senses local clusters of ligand, and used a partial differential equation model to explore this process. Finally, we have used Bayesian inferrence technqieus of increasing scalability to perform robust parameterization of our models of interest (1, 3, 4).
 
