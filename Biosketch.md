@@ -157,7 +157,7 @@ Receptor families can have many ligands and receptors while being expressed acro
 
 ### Problem-driven computational methods development
 
-Studying complex signaling requires approaches tailored to the biologic system and scientific challenge at hand. We have adopted a wide range of mathematical and computational methods to provide new views of cell signaling mechanisms. For example, in (1) we applied tensor factorization to help visualize the high-dimensional response of the common gamma chain receptor cytokine family. In (2) we uncovered that the TAM receptor family senses local clusters of ligand, and used a partial differential equation model to explore this process. Finally, we have used Bayesian inferrence techniques of increasing scalability to perform robust parameterization of our models of interest (1, 3, 4).
+Studying complex signaling requires approaches tailored to the biologic system and scientific challenge at hand. We have adopted a wide range of mathematical and computational methods to provide new views of cell signaling mechanisms. For example, in (1) we applied tensor factorization to help visualize the high-dimensional response of the common gamma chain receptor cytokine family. In (2) we uncovered that the TAM receptor family senses local clusters of ligand, and used a partial differential equation model to explore this process. Finally, we have used Bayesian inference techniques of increasing scalability to perform robust parameterization of our models of interest (1, 3, 4).
 
 1. Farhat, A.M., A.C. Weiner, C. Posner, Z.S. Kim, S.M. Carlson, **A.S. Meyer**. (2019). Modeling Cell-Specific Dynamics and Regulation of the Common Gamma Chain Cytokines. _BioRXiv_, 2019 Sept 23.
 2. **Meyer, A.S.**^†^, A.J.M. Zweemer, D.A. Lauffenburger^†^. (2015). The AXL Receptor Is a Sensor of Ligand Spatial Heterogeneity. _Cell Systems_, 1(1):25–36. PMCID: 4520549.
@@ -168,7 +168,7 @@ Studying complex signaling requires approaches tailored to the biologic system a
 
 ### Therapeutic resistance and design
 
-The benefits cancer patients derive from targeted therapies are limited by genetic and non-genetic mechanisms of resistance. This is in part due to an incomplete understanding of the many compensatory molecular changes that occur when one treats with a therapy. In (1) we explored a panel of resistance mechanisms to RTK inhibitors, showed that coordinate JNK/Erk/Akt measurement was essential to predict cellular response, and showed that the resistance mechanism's effects could be explained through their effects on these pathways. In (3) we showed that a complication of targeting autocrine growth factor signaling is the length-scales on which ligand release and recapture occur. Through a diffusion reaction model, we instead predicted and showed that inhibiting ligand release through protease inhibition is much more effective. In (2), we showed that a common consequence of kinase inhibitors is reduced proteolytic shedding on the cell surface. This change switches the kinase dependence of cells, in turn driving resistance to therapy (in large part via AXL). These results highlight the complexity underlying targeted inhibitor response and demonstrate methods to understand and overcome it.
+The benefits cancer patients derive from targeted therapies are limited by genetic and non-genetic mechanisms of resistance. This is in part due to an incomplete understanding of the many compensatory molecular changes that occur when one treats with a therapy. In (1) we explored a panel of resistance mechanisms to RTK inhibitors, showed that coordinate JNK/Erk/Akt measurement was essential to predict cellular response, and showed that the resistance mechanism's effects could be explained through their effects on these pathways. In (3) we showed that a complication of targeting autocrine growth factor signaling is the length-scales on which ligand release and recapture occur. Through a diffusion-reaction model, we instead predicted and showed that inhibiting ligand release through protease inhibition is much more effective. In (2), we showed that a common consequence of kinase inhibitors is reduced proteolytic shedding on the cell surface. This change switches the kinase dependence of cells, in turn driving resistance to therapy (in large part via AXL). These results highlight the complexity underlying targeted inhibitor response and demonstrate methods to understand and overcome it.
 
 1. Manole, S., E.J. Richards, **A.S. Meyer**. JNK pathway activation modulates acquired resistance to EGFR/HER2 targeted therapies. _Cancer Research._ 2016 Sept 15; 76 (18): 5219-5228. PMCID: 5026573.
 2. Miller, M.A., M.J. Oudin, R.J. Sullivan, S.J. Wang, **A.S. Meyer**, H. Im, D.T. Frederick, J. Tadros, L.G. Griffith, H. Lee, R. Weissleder, K.T. Flaherty, F.B. Gertler, D.A. Lauffenburger. (2016). Reduced Proteolytic Shedding of Receptor Tyrosine Kinases is a Post-Translational Mechanism of Kinase Inhibitor Resistance. _Cancer Discovery_, 6(4):331--333, April 2016. PMCID: 5087317.
@@ -178,7 +178,7 @@ The benefits cancer patients derive from targeted therapies are limited by genet
 
 ### Migration and metastasis mechanisms
 
-Invasion and dissemination of cells underlie many diseases including cancer. Studying these processes is challenging due to their complex regulation and the multiple biophysical steps involved. In earlier work, we quantified the growth factor responsiveness of cell migration overall and individual processes involved in cell migration, then compared them to 3D invasion through extracellular matrix (1). This identified that these same individual processes still regulated migration in 3D, but that the overall rate-limiting steps and thus migration response were different. By studying the signaling (3) and protease (2) regulation of migration, we then linked these processes and invasion to identify therapeutic possibilities.
+Invasion and dissemination of cells underlie many diseases including cancer. Studying these processes is challenging due to their complex regulation and the multiple biophysical steps involved. In earlier work, we quantified the growth factor responsiveness of cell migration overall and individual processes involved in cell migration, then compared each condition in its 3D invasion through the extracellular matrix (1). This identified that these same individual processes still regulated migration in 3D, but that the overall rate-limiting steps and thus migration response were different. By studying the signaling (3) and protease (2) regulation of migration, we then linked these processes and invasion to identify therapeutic possibilities.
 
 1. **Meyer, A.S.**, S.K. Hughes-Alford, J.E. Kay, A. Castillo, A. Wells, F.B. Gertler, D.A. Lauffenburger (2012). 2D protrusion but not motility predicts growth factor-induced cancer cell migration in 3D collagen. _Journal of Cell Biology_, 197(6), 721-729. PMCID: 3373410.
 2. Miller, M.A.^‡^, **A.S. Meyer**^‡^, M. Beste, Z. Lasisi, S. Reddy, Jeng, K., Chen, C.-H., Han, J., Isaacson, K., Griffith, L.G., Lauffenburger, D.A. (2013). ADAM-10 and -17 regulate endometriotic cell migration via concerted ligand and receptor shedding feedback on kinase signaling. _Proc. Natl. Acad. Sci. USA_, 110(22), E2074-E2083. PMCID: 3670354.
@@ -196,7 +196,7 @@ Invasion and dissemination of cells underlie many diseases including cancer. Stu
 
 NIH U01-AI148119  \hfill  12/18/2019 – 11/30/2024   
 Mapping the effector response space of antibody combinations   
-We are extending a binding model for IgG-effector cell interaction to predict the effects of antibody combinations. With that, we will evaluate whether complex mixtures of antibodies have distinct properties from their individual constituents.
+We are extending a binding model for IgG-effector cell interaction to predict the effects of antibody combinations. With that, we will evaluate whether complex mixtures of antibodies have distinct properties from their constituents.
 
 Role: Co-PI
 
@@ -225,14 +225,14 @@ Role: Co-PI
 
 NIH DP5-OD019815  \hfill  9/22/2014 – 9/1/2019  
 Adapter-Layer RTK Signaling: Basic Understanding & Targeted Drug Resistance  
-The goal of this project was to study sets of resistance mechanisms to RTK-targeted therapies, in order to identify commonalities and ways to determine which mechanism may be driving individual tumors.
+The goal of this project was to study sets of resistance mechanisms to RTK-targeted therapies, to identify commonalities and ways to determine which mechanism may be driving individual tumors.
 
 Role: PI
 
 \vspace{12pt}
 Foundation Grant \hfill 7/1/2017 – 6/30/2019  
 Terri Brodeur Breast Cancer Foundation  
-This project used a computational model to direct design of new inhibitors for the TAM receptors. Using these well-characterized compounds, we examined the effects of inhibiting different TAM receptor complements.
+This project used a computational model to direct the design of new inhibitors for the TAM receptors. Using these well-characterized compounds, we examined the effects of inhibiting different TAM receptor complements.
 
 Role: PI
 
