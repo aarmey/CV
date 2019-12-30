@@ -187,7 +187,7 @@ Invasion and dissemination of cells underlie many diseases including cancer. Stu
 
 \noindent ^‡^Equal contribution.
 
-**Complete List of Published Work: <https://www.ncbi.nlm.nih.gov/myncbi/aaron.meyer.1/bibliography/public/>**
+**Complete List: <https://www.ncbi.nlm.nih.gov/myncbi/aaron.meyer.1/bibliography/public/>**
 
 
 ## D. Research Support
