@@ -208,6 +208,9 @@ _Buffalo Quantitative Systems Pharmacology Symposium_, Invited Speaker \hfill Ju
 _Tufts University, Dept. of Bioengineering_, Invited Dept. Seminar \hfill March 2020  
 **Meyer, A.S.**. "Linking Statistical and Mechanistic Models for Drug Development."
 
+_Univ. of Calif., Los Angeles, Immunogenetics Center_, Invited Speaker \hfill Jan 2020  
+**Meyer, A.S.**. "Using models with incomplete information to study and engineer antibody effector response."
+
 _Biomedical Engineering Society Annual Meeting_, Selected Oral Presentation \hfill October 2019  
 **Meyer, A.S.**. "A Binding Model Predicts In Vivo Effector Cell-Elicited Killing Across Multiple Disease Models."
 
