@@ -437,4 +437,7 @@ Advisor: Dino Di Carlo
 Alexander Wickstrom, Bioengineering (M.S.)\\
 Advisor: Jonathan Kao
 
+Hector E Muñoz, Bioengineering\\
+Advisor: Dino Di Carlo
+
 \end{multicols}
