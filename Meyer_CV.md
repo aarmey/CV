@@ -411,6 +411,8 @@ _Undergraduate Curriculum Committee_, Bioengineering \hfill 2019 – Present
 
 # Patents/Disclosures
 
+**A.S. Meyer**. "Altering cytokine specificity through binding valency." Disclosure filed, 2019.
+
 Bae, S.Y., **A.S. Meyer**. "Small Molecule Competitive Inhibitors Of Phosphatidylserine-TAMR Ligand Interaction." Disclosure filed, 2018.
 
 Richards, E.J., S. Manole, **A.S. Meyer**. "Modulating JNK activation to impede lung & breast cancer RTK inhibitor bypass resistance." Disclosure filed, 2016.
