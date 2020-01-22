@@ -391,6 +391,8 @@ _Ad Hoc Reviewer_, J. Cell Biol. \hfill 2011 – 2012
 
 # Service to UCLA
 
+_Co-Organizer_, UCLA Systems Immunology Seminar Series \hfill 2019 – Present
+
 _Faculty Advisor_, Tau Beta Pi \hfill 2018 – Present
 
 _Faculty Volunteer_, Amgen Scholars Symposium \hfill 2018 – 2019
