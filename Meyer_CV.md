@@ -345,13 +345,15 @@ _Merrimack Pharmaceuticals_, Invited Oral Presentation \hfill January 2013
 
 # Service to the Profession
 
-Ad Hoc Reviewer, Integrative Biology \hfill 2019
+_Ad Hoc Reviewer_, APL Bioengineering \hfill 2020
 
-Ad Hoc Reviewer, Scientific Reports \hfill 2019
+_Ad Hoc Reviewer_, Integrative Biology \hfill 2019
 
-Ad Hoc Reviewer, PNAS \hfill 2019
+_Ad Hoc Reviewer_, Scientific Reports \hfill 2019
 
-Ad Hoc Reviewer, Current Opinion in Systems Biology \hfill 2019
+_Ad Hoc Reviewer_, PNAS \hfill 2019
+
+_Ad Hoc Reviewer_, Current Opinion in Systems Biology \hfill 2019
 
 _Co-Chair_, Association of Early Career Cancer Systems Biologists \hfill 2017 – Present
 
