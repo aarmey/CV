@@ -409,7 +409,7 @@ _Faculty Speaker_, UCLA Engineering Alumni Reunion \hfill 2018
 
 # Service to the Department
 
-_Field Co-Chair_, Biosystem Science and Engineering \hfill 2019 – Present
+_Field Chair_, Biosystem Science and Engineering \hfill 2019 – Present
 
 _Admissions Committee Co-Chair_, Bioengineering \hfill 2019 – Present
 
