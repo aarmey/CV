@@ -422,6 +422,12 @@ _Admissions Committee Co-Chair_, Bioengineering \hfill 2019 – Present
 
 _Undergraduate Curriculum Committee_, Bioengineering \hfill 2019 – Present
 
+_Chair_, Bioengineering Alumni Committee \hfill 2018 – Present
+
+_Chair_, Department of Bioengineering Seminar Series \hfill 2018 – 2019
+
+_Member_, Publicity Committee \hfill 2017 – 2018
+
 # Patents/Disclosures
 
 **A.S. Meyer**. "Altering cytokine specificity through binding valency." Disclosure filed, 2019.
