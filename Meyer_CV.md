@@ -205,118 +205,118 @@ MIT, Department of Biological Engineering, Cambridge, MA
 # Conference & Invited Presentations
 
 _Buffalo Quantitative Systems Pharmacology Symposium_, Invited Speaker \hfill July 2020  
-**Meyer, A.S.**. "Deeply profiling pharmacodynamic response with single cell dynamics."
+"Deeply profiling pharmacodynamic response with single cell dynamics."
 
 _Tufts University, Dept. of Bioengineering_, Invited Dept. Seminar \hfill March 2020  
- **Meyer, A.S.**. "Linking Statistical and Mechanistic Models for Drug Development."  
+"Linking Statistical and Mechanistic Models for Drug Development."  
  _Postponed due to COVID-19._
 
 _Univ. of Calif., Los Angeles, Immunogenetics Center_, Invited Speaker \hfill Jan 2020  
-**Meyer, A.S.**. "Using models with incomplete information to study and engineer antibody effector response."
+"Using models with incomplete information to study and engineer antibody effector response."
 
 _Biomedical Engineering Society Annual Meeting_, Selected Oral Presentation \hfill October 2019  
-**Meyer, A.S.**. "A Binding Model Predicts In Vivo Effector Cell-Elicited Killing Across Multiple Disease Models."
+"A Binding Model Predicts In Vivo Effector Cell-Elicited Killing Across Multiple Disease Models."
 
 _Xencor, Inc._, Invited Oral Presentation \hfill July 2019  
-**Meyer, A.S.**. "Computational molecular models for immune engineering."
+"Computational molecular models for immune engineering."
 
 _Antibodies & Complement_, Selected Oral Presentation \hfill May 2019  
-**Meyer, A.S.**. "A Multivalent Binding Model Predicts FcγR Regulation and Effector Cell-Elicited Killing."
+"A Multivalent Binding Model Predicts FcγR Regulation and Effector Cell-Elicited Killing."
 
 _CSBC West Coast Meeting_, Selected Oral Presentation \hfill May 2019  
-**Meyer, A.S.**. "Hidden Markov models on a tree as a general approach to single cell plasticity analysis."
+"Hidden Markov models on a tree as a general approach to single cell plasticity analysis."
 
 _Oregon Health & Science Univ., Dept. of Biomedical Engineering_, Invited Dept. Seminar \hfill March 2019  
-**Meyer, A.S.**. "Systems approaches to mapping and targeting immune system communication."
+"Systems approaches to mapping and targeting immune system communication."
 
 _Univ. of Calif., Los Angeles, MSTP Tutorial Series_, Invited Speaker \hfill October 2018  
-**Meyer, A.S.**. "Systems approaches to mapping and targeting immune system communication."
+"Systems approaches to mapping and targeting immune system communication."
 
 _Univ. of Illinois at Urbana-Champaign, Dept. of Bioengineering_, Invited Dept. Seminar \hfill Sept 2018  
-**Meyer, A.S.**. "High-dimensional analysis to map and manipulate immune receptor-ligand families."
+"High-dimensional analysis to map and manipulate immune receptor-ligand families."
 
 _Systems Biology of Human Disease_, Selected Oral Presentation \hfill June 2018  
-**Meyer, A.S.**. "Dissecting FcγR Regulation Through a Multivalent Binding Model."
+"Dissecting FcγR Regulation Through a Multivalent Binding Model."
 
 _Univ. of Calif., Riverside, Department of Bioengineering_, Invited Departmental Seminar \hfill April 2018  
-**Meyer, A.S.**. "Dissecting FcγR Regulation Through a Multivalent Binding Model."
+"Dissecting FcγR Regulation Through a Multivalent Binding Model."
 
 _Univ. of Bergen, Centre for Cancer Biomarkers_, Invited Speaker \hfill March 2018  
-**Meyer, A.S.**. "Engineering more precise and potent TAM-targeted therapies."
+"Engineering more precise and potent TAM-targeted therapies."
 
 _Univ. of Calif., Los Angeles, Department of Bioengineering_, Invited Departmental Seminar \hfill October 2017  
-**Meyer, A.S.**. "Dissecting FcγR Regulation Through a Multivalent Binding Model."
+"Dissecting FcγR Regulation Through a Multivalent Binding Model."
 
 _Univ. of Calif., Los Angeles, Broad Stem Cell Research Center_, Invited Speaker \hfill October 2017  
-**Meyer, A.S.**. "Engineering more precise and potent TAM-targeted therapies."
+"Engineering more precise and potent TAM-targeted therapies."
 
 _Momenta Pharmaceuticals_, Invited Oral Presentation \hfill April 2017  
-Robinett, R.A., N. Guan, **A.S. Meyer**. "Dissecting FcγR Regulation Through a Multivalent Binding Model."
+"Dissecting FcγR Regulation Through a Multivalent Binding Model."
 
 _Univ. of Pennsylvania, Department of Bioengineering_, Invited Departmental Speaker \hfill March 2017  
-**Meyer, A.S.**. "Engineering more precise and potent TAM-targeted therapies."
+"Engineering more precise and potent TAM-targeted therapies."
 
 _Univ. of Calif., Los Angeles, Department of Bioengineering_, Invited Departmental Speaker \hfill March 2017  
-**Meyer, A.S.**. "Engineering more precise and potent TAM-targeted therapies."
+"Engineering more precise and potent TAM-targeted therapies."
 
 _Moffitt Cancer Center_, Invited Speaker \hfill January 2017  
-**Meyer, A.S.**. "Engineering more precise and potent TAM-targeted therapies."
+"Engineering more precise and potent TAM-targeted therapies."
 
 _Biomedical Engineering Society Annual Meeting_, Selected Oral Presentation \hfill October 2016  
-Manole, S., E.J. Richards, **A.S. Meyer**. "JNK pathway activation modulates acquired resistance to EGFR/HER2 targeted therapies."
+"JNK pathway activation modulates acquired resistance to EGFR/HER2 targeted therapies."
 
 _MD Anderson Cancer Center, Dept. of Systems Biology_, Invited Departmental Speaker \hfill Sept 2016  
-Richards, E.J., A. Zweemer, **A.S. Meyer**. "Engineering more precise and potent TAM-targeted therapies."
+"Engineering more precise and potent TAM-targeted therapies."
 
 _MD Anderson Cancer Center, Future of Science Symposium_, Invited Oral Presentation \hfill Sept 2016  
-Manole, S., **A.S. Meyer**. "Toward precision therapy: Identifying molecular commonalities among RTK bypass resistance mechanisms."
+"Toward precision therapy: Identifying molecular commonalities among RTK bypass resistance mechanisms."
 
 _FASEB Protein Kinase Signaling Network Regulation_, Invited Oral Presentation \hfill July 2016  
-Richards, E.J., A. Zweemer, **A.S. Meyer**. "Engineering more precise and potent TAM-targeted therapies."
+"Engineering more precise and potent TAM-targeted therapies."
 
 _Univ. of Calif., Irvine, Center for Complex Biological Systems_, Invited Departmental Speaker \hfill May 2016  
-Manole, S., E.J. Richards, **A.S. Meyer**. "Data-driven design of targeted therapies and immunotherapies for cancer."
+"Data-driven design of targeted therapies and immunotherapies for cancer."
 
 _Systems Approaches to Cancer Biology_, NCI Invited Oral Presentation \hfill April 2016  
-Manole, S., E.J. Richards, **A.S. Meyer**. "Looking across resistance mechanisms to identify molecular commonalities and precision therapy approaches."
+"Looking across resistance mechanisms to identify molecular commonalities and precision therapy approaches."
 
 _Applied Mathematics in Germinating Oncology Solutions Workshop_, NCI Invited Participant \hfill March 2016
 
 _NIH Common Fund High-Risk High-Reward Symposium_ \hfill December 2015  
-Manole, S., E.J. Richards, **A.S. Meyer**. "Conserved RTK-intrinsic signaling consequences result in distinct bypass resistance capacity dependent upon pathway dependencies."
+"Conserved RTK-intrinsic signaling consequences result in distinct bypass resistance capacity dependent upon pathway dependencies."
 
 _Harvard Medical School, Brugge lab_, Invited Oral Presentation \hfill November 2015  
-Manole, S., E.J. Richards, **A.S. Meyer**. "Conserved RTK-intrinsic signaling consequences result in distinct bypass resistance capacity dependent upon pathway dependencies."
+"Conserved RTK-intrinsic signaling consequences result in distinct bypass resistance capacity dependent upon pathway dependencies."
 
 _Biomedical Engineering Society Annual Meeting_ \hfill October 2015  
-Manole, S., **A.S. Meyer**. "Conserved RTK-intrinsic signaling consequences result in distinct bypass resistance capacity dependent upon pathway dependencies."
+"Conserved RTK-intrinsic signaling consequences result in distinct bypass resistance capacity dependent upon pathway dependencies."
 
 _ICBP Principal Investigators Meeting_ \hfill May 2015  
-Manole, S., **A.S. Meyer**. "Conserved RTK-intrinsic signaling consequences result in distinct bypass resistance capacity dependent upon pathway dependencies."
+"Conserved RTK-intrinsic signaling consequences result in distinct bypass resistance capacity dependent upon pathway dependencies."
 
 _NIH Common Fund High-Risk High-Reward Symposium_ \hfill December 2014  
-**Meyer, A.S.**. "Adapter-Layer Integration of RTK Signaling: Basic Understanding and Application to Prediction of Targeted Drug Resistance."
+"Adapter-Layer Integration of RTK Signaling: Basic Understanding and Application to Prediction of Targeted Drug Resistance."
 
 _Biomedical Engineering Society Annual Meeting_, Selected Oral Presentation \hfill October 2014  
-**Meyer, A.S.**, C.A. Riley, D.A. Lauffenburger. "AXL Is a Spatial Ligand Differentiation Sensor."
+"AXL Is a Spatial Ligand Differentiation Sensor."
 
 _Interdisciplinary Signaling Workshop_, Selected Oral Presentation \hfill July 2014  
-**Meyer, A.S.**, C.A. Riley, D.A. Lauffenburger. "AXL Is a Spatial Ligand Differentiation Sensor."
+"AXL Is a Spatial Ligand Differentiation Sensor."
 
 _ICBP Principal Investigators Meeting_ \hfill May 2014  
-**Meyer, A.S.**, C.A. Riley, D.A. Lauffenburger. "AXL is a spatial ligand differentiation sensor."
+"AXL is a spatial ligand differentiation sensor."
 
 _AACR Molecular Targets and Cancer Therapeutics_ \hfill October 2013  
-**Meyer, A.S.**, F.B. Gertler, D.A. Lauffenburger. "AXL amplifies EGFR signaling and drives resistance in triple negative breast carcinoma cells."
+"AXL amplifies EGFR signaling and drives resistance in triple negative breast carcinoma cells."
 
 _Merrimack Pharmaceuticals_, Invited Oral Presentation \hfill October 2013  
-**Meyer, A.S.**, C.A. Riley, D.A. Lauffenburger. "AXL is a spatial ligand differentiation sensor."
+"AXL is a spatial ligand differentiation sensor."
 
 _ICBP Principal Investigators Meeting_ \hfill May 2013  
-**Meyer, A.S.**, F.B. Gertler, D.A. Lauffenburger. "AXL amplifies EGFR signaling and drives resistance in triple negative breast carcinoma cells."
+"AXL amplifies EGFR signaling and drives resistance in triple negative breast carcinoma cells."
 
 _Merrimack Pharmaceuticals_, Invited Oral Presentation \hfill January 2013  
-**Meyer, A.S.**, F.B. Gertler, D.A. Lauffenburger. "AXL amplifies EGFR signaling and drives resistance in triple negative breast carcinoma cells."
+"AXL amplifies EGFR signaling and drives resistance in triple negative breast carcinoma cells."
 
 # Research Supervision
 
