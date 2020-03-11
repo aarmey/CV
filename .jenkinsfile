@@ -1,9 +1,9 @@
 pipeline {
-  agent { label 'all' }
+  agent { label 'aretha' }
   stages {
     stage('Build') {
       steps {
-        sh 'make -j 8'
+        sh 'make'
         archiveArtifacts artifacts: 'Output/*.pdf', onlyIfSuccessful: true
       }
     }
