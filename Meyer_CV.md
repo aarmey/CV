@@ -402,9 +402,13 @@ _Co-Organizer_, UCLA Systems Immunology Seminar Series \hfill 2019 – Present
 
 _Faculty Volunteer_, Society of Women Engineers Recruitment Dinner \hfill 2019, 2020
 
+_Member_, HSSEAS SEASnet Review Committee \hfill 2019
+
 _Faculty Advisor_, Tau Beta Pi \hfill 2018 – Present
 
 _Faculty Volunteer_, Amgen Scholars Symposium \hfill 2018, 2019
+
+_Member_, HSSEAS Awards Committee for Outstanding Student Awards \hfill 2018
 
 _Faculty Representative_, Annual Biomedical Research Conference for Minority Students \hfill 2018
 
