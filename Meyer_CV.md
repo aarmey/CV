@@ -404,7 +404,7 @@ _Faculty Volunteer_, Society of Women Engineers Recruitment Dinner \hfill 2019, 
 
 _Member_, HSSEAS SEASnet Review Committee \hfill 2019
 
-_Faculty Advisor_, Tau Beta Pi \hfill 2018 – Present
+_Faculty Advisor_, Tau Beta Pi \hfill 2017 – Present
 
 _Faculty Volunteer_, Amgen Scholars Symposium \hfill 2018, 2019
 
