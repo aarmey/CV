@@ -207,9 +207,6 @@ MIT, Department of Biological Engineering, Cambridge, MA
 _Buffalo Quantitative Systems Pharmacology Symposium_, Invited Speaker \hfill July 2020  
 **Meyer, A.S.**. "Deeply profiling pharmacodynamic response with single cell dynamics."
 
-_Tufts University, Dept. of Bioengineering_, Invited Dept. Seminar \hfill March 2020  
-**Meyer, A.S.**. "Linking Statistical and Mechanistic Models for Drug Development."
-
 _Univ. of Calif., Los Angeles, Immunogenetics Center_, Invited Speaker \hfill Jan 2020  
 **Meyer, A.S.**. "Using models with incomplete information to study and engineer antibody effector response."
 
