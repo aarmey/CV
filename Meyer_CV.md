@@ -52,13 +52,15 @@ Department of Bioengineering, University of California, Los Angeles, CA
 \leftskip 0.1in
 \parindent -0.1in
 
-Farhat, A.M., A.C. Weiner, C. Posner, Z.S. Kim, S.M. Carlson, and **A.S. Meyer**. "Modeling Cell-Specific Dynamics and Regulation of the Common Gamma Chain Cytokines." _Submitted._
+Bae, S.Y., N. Guan, R. Yan, K. Warner, and **A.S. Meyer**. ["Measurement and models accounting for cell death capture hidden variation in compound response."](https://www.biorxiv.org/content/10.1101/863597v1) _bioRxiv._ 2019 Dec 4.
 
 \parskip 0.1in
 
-Lee, C.-H., T.H. Kang, O. Godon, M. Watanabe, G. Delidakis, C.M. Gillis, M. Cogné, L.E. Macdonald, A.J. Murphy, J. Lee, J.R. McDaniel, **A.S. Meyer**, P. Bruhns, and G. Georgiou. "An Engineered, pH-Toggle Switch, Human Fc Domain for Ultra-Long Circulation Persistence." _Submitted._
+Farhat, A.M., A.C. Weiner, C. Posner, Z.S. Kim, B. Orcutt-Jahns, S.M. Carlson, and **A.S. Meyer**. ["Modeling Cell-Specific Dynamics and Regulation of the Common Gamma Chain Cytokines."](https://www.biorxiv.org/content/10.1101/778894v1) _bioRxiv._ 2019 Sept 23.
 
-**Meyer, A.S.**, L.M. Heiser. ["Systems biology approaches to measure and model phenotypic heterogeneity in cancer."](https://doi.org/10.1016/j.coisb.2019.09.002) _Current Opinion in Systems Biology._ 2019 Sept 4. _In press._
+Lee, C.-H., T. H. Kang, O. Godon, M. Watanabe, G. Delidakis, C.M. Gillis, D. Sterlin, D. Hardy, M. Cogné, L.E. Macdonald, A.J. Murphy, N. Tu, J. Lee, J.R. McDaniel, E. Makowski, Peter M. Tessier, **A.S. Meyer**, P. Bruhns, and G. Georgiou. ["An engineered human Fc domain that behaves like a pH-toggle switch for ultra-long circulation persistence."](https://www.nature.com/articles/s41467-019-13108-2) _Nature Communications._, 2019 Nov 6; 10(1):5031.
+
+**Meyer, A.S.**, L.M. Heiser. ["Systems biology approaches to measure and model phenotypic heterogeneity in cancer."](https://doi.org/10.1016/j.coisb.2019.09.002) _Current Opinion in Systems Biology._ 2019 Oct 4; 17: 35--40.
 
 Situ, K., B.A. Chua, S.Y. Bae, **A.S. Meyer**, K. Morizono. ["Versatile targeting system for lentiviral vectors involving biotinylated targeting molecules."](https://doi.org/10.1016/j.virol.2018.09.017) _Virology._ 2018 Oct 2; 525: 170--181.
 
@@ -66,7 +68,7 @@ Robinett, R.A., N. Guan, A. Lux, M. Biburger, F. Nimmerjahn, **A.S. Meyer**. ["D
 
 Claas, A.M., L. Atta, S. Gordonov, **A.S. Meyer**, D.A. Lauffenburger. ["Systems Modeling Identifies Divergent Receptor Tyrosine Kinase Reprogramming to MAPK Pathway Inhibition."](https://link.springer.com/article/10.1007/s12195-018-0542-y) _Cellular and Molecular Bioengineering_ 2018 Jul 26; 1--19.
 
-Muffat, J., Y. Li, A. Omer, A. Durbin, I. Bosch, G. Bakiasi, E. Richards, **A.S. Meyer**, L. Gehrke, R. Jaenisch. "Human iPS-derived Glial Cells and Neural Progenitors Display Divergent Responses to Zika and Dengue Infections." _Proc. Natl. Acad. Sci. U.S.A._ 2018 Jun 18; 201719266.
+Muffat, J., Y. Li, A. Omer, A. Durbin, I. Bosch, G. Bakiasi, E. Richards, **A.S. Meyer**, L. Gehrke, R. Jaenisch. ["Human iPS-derived Glial Cells and Neural Progenitors Display Divergent Responses to Zika and Dengue Infections."](https://www.pnas.org/content/115/27/7117) _Proc. Natl. Acad. Sci. U.S.A._ 2018 Jun 18; 201719266.
 
 Schwartz, A.D., L.E. Barney, L.E. Jansen, T.V. Nguyen, C.L. Hall, **A.S. Meyer**, S.R. Peyton. ["A Biomaterial Screening Approach to Reveal Microenvironmental Mechanisms of Drug Resistance."](http://pubs.rsc.org/en/content/articlelanding/2017/ib/c7ib00128b) _Integrative Biology._ 2017 Nov 14; 9: 912--924.
 
