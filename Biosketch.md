@@ -38,6 +38,8 @@ header-includes: |
 
 ### Positions and Employment
 
+\vspace{-5pt}
+
 2006–2009
  ~ Undergraduate Researcher, Bioengineering Department, UCLA
 
@@ -66,6 +68,8 @@ header-includes: |
 
 ### Other Experience and Professional Memberships
 
+\vspace{-5pt}
+
 2010–2012
  ~ Member, MIT Biological Engineering Retreat Organizing Committee
 
@@ -87,6 +91,8 @@ header-includes: |
 \vspace{-5pt}
 
 ### Honors
+
+\vspace{-5pt}
 
 2009
  ~ Momenta Presidential Fellowship, MIT
