@@ -37,7 +37,7 @@ header-includes: |
 
 \vspace{20pt}
 
-## A. Personal Statement
+## Personal Statement
 
 <!-- Briefly describe why you are well-suited for your role(s) in the project described in this application. The relevant factors may include aspects of your training; your previous experimental work on this specific topic or related topics; your technical expertise; your collaborators or scientific environment; and your past performance in this or related fields (you may mention specific contributions to science that are not included in Section C). -->
 
@@ -53,7 +53,7 @@ I have extensive experience with projects that merge quantitative molecular biol
 \noindent ^†^Co-corresponding authors.
 
 
-## B. Positions and Honors
+## Positions and Honors
 
 ### Positions and Employment
 
@@ -138,21 +138,9 @@ I have extensive experience with projects that merge quantitative molecular biol
 
 <!-- TODO: Add selected presentations? -->
 
-## C. Contribution to Science
+## Contribution to Science
 
 <!-- Briefly describe up to five of your most significant contributions to science. For each contribution, indicate the historical background that frames the scientific problem; the central finding(s); the influence of the finding(s) on the progress of science or the application of those finding(s) to health or technology; and your specific role in the described work. For each of these contributions, reference up to four peer-reviewed publications or other non-publication research products (can include audio or video products; patents; data and research materials; databases; educational aids or curricula; instruments or equipment; models; protocols; and software or netware) that are relevant to the described contribution. The description of each contribution should be no longer than one half page including figures and citations. Also provide a URL to a full list of your published work as found in a publicly available digital database such as SciENcv or My Bibliography, which are maintained by the US National Library of Medicine. -->
-
-
-### Understanding and targeting receptor family communication
-
-Receptor families can have many ligands and receptors while being expressed in distinct configurations across cell populations. This multi-layered multiplicity confounds intuition about how these receptors are regulated in homeostasis, dysregulated in disease, and might be targeted with therapies. Through a combination of modeling and experiment, we have been working to develop tools enabling improved understanding of these families' regulation and how best to target them. For example, we recently used a pharmacodynamic model of IL-2 signaling across cell populations to engineer cell-specific cytokines (1). Within the FcγR family, which enacts effector function in response to IgG antibodies, we showed that a multivalent binding model could predict effector function *in vivo* better than previously-used metrics, which will enable more potent anti-tumor antibodies (2). Within the TAM family of receptor tyrosine kinases, we identified that AXL can be transactivated from ErbB receptors and that this transactivation drives the invasiveness of breast carcinoma cells more so than the signaling from the ErbB receptors themselves (4). We then developed a kinetic model of AXL activation, mechanistically explaining the dependence of the receptor upon phosphatidylserine for activation (3). This basic understanding of γ~c~, TAM and FcγR signaling enables more rationally designed therapies and understanding of which factors in the extracellular environment drive response.
-
-1. Farhat, A.M., A.C. Weiner, C. Posner, Z.S. Kim, S.M. Carlson, **A.S. Meyer**. (2019). Modeling Cell-Specific Dynamics and Regulation of the Common Gamma Chain Cytokines. _bioRviv._ 2019 Sept 23.
-2. Robinett, R.A., N. Guan, A. Lux, M. Biburger, F. Nimmerjahn, **A.S. Meyer**. (2018). Dissecting FcγR Regulation Through a Multivalent Binding Model. _Cell Systems._ 2018 July 25; 6(7): 1–8.
-3. **Meyer, A.S.**^†^, A.J.M. Zweemer, D.A. Lauffenburger^†^. (2015). The AXL Receptor Is a Sensor of Ligand Spatial Heterogeneity. _Cell Systems_, 1(1):25--36. PMCID: 4520549.
-4. **Meyer, A.S.**, M.A. Miller, F.B. Gertler, D.A. Lauffenburger. (2013). The receptor AXL diversifies EGFR signaling and limits the response to EGFR-targeted inhibitors in triple-negative breast cancer cells. _Science Signaling_, 6(287), ra66. PMCID: 3947921.
-
-\noindent ^†^Co-corresponding authors.
 
 
 ### Problem-driven computational methods development
@@ -188,56 +176,3 @@ Invasion and dissemination of cells underlie many diseases including cancer. Stu
 \noindent ^‡^Equal contribution.
 
 **Complete List: <https://www.ncbi.nlm.nih.gov/myncbi/aaron.meyer.1/bibliography/public/>**
-
-
-## D. Research Support
-
-### Ongoing Research Support
-
-NIH U01-AI148119  \hfill  12/18/2019 – 11/30/2024   
-Mapping the effector response space of antibody combinations   
-We are extending a binding model for IgG-effector cell interaction to predict the effects of antibody combinations. With that, we will evaluate whether complex mixtures of antibodies have distinct properties from their constituents.
-
-Role: Co-PI
-
-\vspace{12pt}
-UCLA Hellman Fellows Program  \hfill  7/01/2019 – 6/30/2020   
-Engineering anti-tumor antibody combinations for more effective and less toxic therapies   
-This project uses a binding model of IgG-FcγR engagement to predict combinations of anti-tumor antibodies that operate synergistically together.
-
-Role: PI
-
-\vspace{12pt}
-Visterra, Inc.  \hfill  4/01/2019 – 3/30/2021   
-Modeling the IL-2 pathway to engineer cell-selective signaling   
-This project applies a binding and activation model of the common gamma chain receptor cytokines to identify engineered changes in ligand affinity that translate to changes in cell selectivity.
-
-Role: PI
-
-\vspace{12pt}
-NIH U01-CA215709  \hfill  9/01/2017 – 8/30/2022   
-Precision Lung Cancer Therapy Design Through Multiplexed Adapter Measurement   
-We propose to develop a global picture of bypass resistance mediated by receptor tyrosine kinases (RTKs) not targeted by therapy. By examining multiple RTKs variable in their resistance-promoting capacity at once, we will be able to determine features essential to the development of resistance.
-
-Role: Co-PI
-
-### Completed Research Support
-
-NIH DP5-OD019815  \hfill  9/22/2014 – 9/1/2019  
-Adapter-Layer RTK Signaling: Basic Understanding & Targeted Drug Resistance  
-The goal of this project was to study sets of resistance mechanisms to RTK-targeted therapies, to identify commonalities and ways to determine which mechanism may be driving individual tumors.
-
-Role: PI
-
-\vspace{12pt}
-Foundation Grant \hfill 7/1/2017 – 6/30/2019  
-Terri Brodeur Breast Cancer Foundation  
-This project used a computational model to direct the design of new inhibitors for the TAM receptors. Using these well-characterized compounds, we examined the effects of inhibiting different TAM receptor complements.
-
-Role: PI
-
-\vspace{12pt}
-Frontier Research Program Initiator Award, Koch Institute, MIT \hfill 6/1/2015 – 6/1/2016  
-Quantitative and Multiplexed Tools for Probing G-Protein Coupled Receptor Activation  
-The goal of this project was to develop a novel multiplexed G-protein activation assay able to globally assess their activity.  
-Role: Co-PI
