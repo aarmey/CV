@@ -129,11 +129,9 @@ header-includes: |
 Studying complex signaling requires approaches tailored to the biologic system and scientific challenge at hand. We have adopted a wide range of mathematical and computational methods to provide new views of cell signaling mechanisms. For example, in (1) we demonstrated how tensor factorization can help to visualize the high-dimensional response of the common gamma chain receptor cytokine family. In (2) we uncovered that the TAM receptor family senses local clusters of ligand, and used a partial differential equation model to explore this process. Finally, we have used Bayesian inference techniques of increasing scalability to perform robust parameterization of our models of interest (1, 3, 4).
 
 1. Farhat, A.M., A.C. Weiner, C. Posner, Z.S. Kim, S.M. Carlson, **A.S. Meyer**. (2019). Modeling Cell-Specific Dynamics and Regulation of the Common Gamma Chain Cytokines. _bioRxiv_, 2019 Sept 23.
-2. **Meyer, A.S.**^†^, A.J.M. Zweemer, D.A. Lauffenburger^†^. (2015). The AXL Receptor Is a Sensor of Ligand Spatial Heterogeneity. _Cell Systems_, 1(1):25–36. PMCID: 4520549.
+2. **Meyer, A.S.**^†^, A.J.M. Zweemer, D.A. Lauffenburger^†^. (2015). The AXL Receptor Is a Sensor of Ligand Spatial Heterogeneity. _Cell Systems_, 1(1):25–36. PMCID: 4520549. ^†^Co-corresponding authors.
 3. Lee, C.H., T.H. Kang, O. Godon, M. Watanabe, G. Delidakis, C.M. Gillis, D. Sterlin, D. Hardy, M. Cogné, L.E. Macdonald, A.J. Murphy, N. Tu, J. Lee, J.R. McDaniel, E. Makowski, P.M. Tessier, **A.S. Meyer**, P. Bruhns, G. Georgiou. (2019). An engineered human Fc domain that behaves like a pH-toggle switch for ultra-long circulation persistence. _Nature Communications_, 10(1):5031, Nov 2019.
 4. Bae, S.Y., N. Guan, R. Yan, K. Warner, **A.S. Meyer**. (2019). Measurement and models accounting for cell death capture hidden variation in compound response. _bioRxiv_, 2019 Dec 4.
-
-\noindent ^†^Co-corresponding authors.
 
 ### Therapeutic resistance and design
 
@@ -149,10 +147,8 @@ The benefits cancer patients derive from targeted therapies are limited by genet
 Invasion and dissemination of cells underlie many diseases including cancer. Studying these processes is hindered by the complex regulation and the multiple biophysical steps involved. In earlier work, we quantified the growth factor responsiveness of cell migration overall and individual processes involved in cell migration, then compared each condition in its 3D invasion through the extracellular matrix (1). This identified that these same individual processes still regulated migration in 3D, but that the overall rate-limiting steps and thus migration response were different. By studying the signaling (3) and protease (2) regulation of migration, we then linked these processes and invasion to identify therapeutic possibilities.
 
 1. **Meyer, A.S.**, S.K. Hughes-Alford, J.E. Kay, A. Castillo, A. Wells, F.B. Gertler, D.A. Lauffenburger (2012). 2D protrusion but not motility predicts growth factor-induced cancer cell migration in 3D collagen. _Journal of Cell Biology_, 197(6), 721-729. PMCID: 3373410.
-2. Miller, M.A.^‡^, **A.S. Meyer**^‡^, M. Beste, Z. Lasisi, S. Reddy, Jeng, K., Chen, C.-H., Han, J., Isaacson, K., Griffith, L.G., Lauffenburger, D.A. (2013). ADAM-10 and -17 regulate endometriotic cell migration via concerted ligand and receptor shedding feedback on kinase signaling. _Proc. Natl. Acad. Sci. USA_, 110(22), E2074-E2083. PMCID: 3670354.
+2. Miller, M.A.^‡^, **A.S. Meyer**^‡^, M. Beste, Z. Lasisi, S. Reddy, Jeng, K., Chen, C.-H., Han, J., Isaacson, K., Griffith, L.G., Lauffenburger, D.A. (2013). ADAM-10 and -17 regulate endometriotic cell migration via concerted ligand and receptor shedding feedback on kinase signaling. _Proc. Natl. Acad. Sci. USA_, 110(22), E2074-E2083. PMCID: 3670354. ^‡^Equal contribution.
 3. Kim, H.D., **Meyer, A.S.**, Wagner, J.P., Alford, S.K., Wells, A., Gertler, F.B., Lauffenburger, D.A. (2011). Signaling network state predicts Twist-mediated effects on breast cell migration across diverse growth factor contexts. _Molecular & Cellular Proteomics_, 10(11), M111.008433. PMCID: 3226401.
 4. Riquelme, D.N., **A.S. Meyer**, M. Barzik, A. Keating, F.B. Gertler. (2015). Selectivity in Subunit Composition of Ena/VASP Tetramers. _Bioscience Reports_, 2015. PMCID: 4721544.
-
-\noindent ^‡^Equal contribution.
 
 **Complete List: <https://www.ncbi.nlm.nih.gov/myncbi/aaron.meyer.1/bibliography/public/>**
