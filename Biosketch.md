@@ -35,7 +35,7 @@ header-includes: |
 \end{tabular}
 
 
-\vspace{15pt}
+\vspace{5pt}
 
 ## Personal Statement
 
@@ -162,7 +162,6 @@ The benefits cancer patients derive from targeted therapies are limited by genet
 2. Miller, M.A., M.J. Oudin, R.J. Sullivan, S.J. Wang, **A.S. Meyer**, H. Im, D.T. Frederick, J. Tadros, L.G. Griffith, H. Lee, R. Weissleder, K.T. Flaherty, F.B. Gertler, D.A. Lauffenburger. (2016). Reduced Proteolytic Shedding of Receptor Tyrosine Kinases is a Post-Translational Mechanism of Kinase Inhibitor Resistance. _Cancer Discovery_, 6(4):331--333, April 2016. PMCID: 5087317.
 3. M.A. Miller, M.L. Moss, G. Powell, R. Petrovich, L. Edwards, **A.S. Meyer**, Linda G. Griffith, D.A. Lauffenburger. Targeting autocrine HB-EGF signaling with specific ADAM12 inhibition using recombinant ADAM12 prodomain. _Scientific Reports_, 5:15150 EP --, October 2015. PMCID: 4609913.
 4. Schwartz, A.D., L.E. Barney, L.E. Jansen, T.V. Nguyen, C.L. Hall, **A.S. Meyer**, S. Peyton. (2017). A Biomaterial Screening Approach to Reveal Microenvironmental Mechanisms of Drug Resistance. _Integrative Biology_. 2017 Dec 11; 9(12):912-924. PMCID: PMC5725273.
-
 
 ### Migration and metastasis mechanisms
 
