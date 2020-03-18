@@ -9,7 +9,6 @@ header-includes: |
     \usepackage{ragged2e, enumitem}
     \usepackage[euler]{textgreek}
     \renewcommand{\arraystretch}{1.1}
-    \usepackage[subtle]{savetrees}
 ---
 
 \begin{flushright}
@@ -63,6 +62,8 @@ header-includes: |
 2018–Present
  ~ Member, Bioinformatics Interdepartmental Program, UCLA
 
+\vspace{-5pt}
+
 ### Other Experience and Professional Memberships
 
 2010–2012
@@ -83,6 +84,8 @@ header-includes: |
 2017–Present
  ~ Chair, Association of Cancer Systems Biologists
 
+\vspace{-5pt}
+
 ### Honors
 
 2009
@@ -101,10 +104,7 @@ header-includes: |
  ~ Travel grant to attend PTMs in Cell Signaling Conference in Copenhagen, Denmark
 
 2013
- ~ Whitaker Fellowship, MIT
-
-2013
- ~ Siebel Scholar, Class of 2014
+ ~ Whitaker Fellowship, MIT; Siebel Scholar, Class of 2014
 
 2016
  ~ Ten to Watch, Amgen Scholars Foundation
@@ -113,10 +113,7 @@ header-includes: |
  ~ Fellowship, Terri Brodeur Breast Cancer Foundation
 
 2019
- ~ UCLA Hellman Fellow
-
-2019
- ~ UCLA Faculty Career Development Award
+ ~ UCLA Hellman Fellow; UCLA Faculty Career Development Award
 
 <!-- TODO: Add selected presentations? -->
 
