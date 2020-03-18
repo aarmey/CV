@@ -9,6 +9,7 @@ header-includes: |
     \usepackage{ragged2e, enumitem}
     \usepackage[euler]{textgreek}
     \renewcommand{\arraystretch}{1.1}
+    \usepackage[subtle]{savetrees}
 ---
 
 \begin{flushright}
