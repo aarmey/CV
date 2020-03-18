@@ -44,7 +44,7 @@ header-includes: |
  ~ Undergraduate Researcher, Bioengineering Department, UCLA
 
 2008
- ~ Summer intern, Bioprocess Development Division, Schering-Plough Corporation, Watchung, NJ
+ ~ Summer Intern, Bioprocess Development Division, Schering-Plough Corporation, Watchung, NJ
 
 2009–2014
  ~ Graduate Researcher, Department of Biological Engineering, MIT
