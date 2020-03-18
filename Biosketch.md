@@ -35,7 +35,7 @@ header-includes: |
 \end{tabular}
 
 
-\vspace{20pt}
+\vspace{15pt}
 
 ## Personal Statement
 
