@@ -205,11 +205,12 @@ MIT, Department of Biological Engineering, Cambridge, MA
 # Conference & Invited Presentations
 
 _Buffalo Quantitative Systems Pharmacology Symposium_, Invited Speaker \hfill July 2020  
-"Deeply profiling pharmacodynamic response with single cell dynamics."
+"Deeply profiling pharmacodynamic response with single cell dynamics."  
+_Postponed due to COVID-19._
 
 _Tufts University, Dept. of Bioengineering_, Invited Dept. Seminar \hfill March 2020  
 "Linking Statistical and Mechanistic Models for Drug Development."  
- _Postponed due to COVID-19._
+_Postponed due to COVID-19._
 
 _Univ. of Calif., Los Angeles, Immunogenetics Center_, Invited Speaker \hfill Jan 2020  
 "Using models with incomplete information to study and engineer antibody effector response."
