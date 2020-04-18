@@ -52,9 +52,11 @@ Department of Bioengineering, University of California, Los Angeles, CA
 \leftskip 0.1in
 \parindent -0.1in
 
-Orcutt-Jahns, B., C. Tan, and **A.S. Meyer**. "Exploiting multivalency for engineering cell-selective therapies." _In preparation._
+Orcutt-Jahns, B., Z. Kim, P. Emmel, C. Posner, S.M. Carlson, and **A.S. Meyer**. "Moment propagation enables model fitting to single cell measurements." _In preparation._
 
 \parskip 0.1in
+
+Tan, C., B. Orcutt-Jahns, and **A.S. Meyer**. "Exploiting multivalency for engineering cell-selective therapies." _In preparation._
 
 Visagan, S., F. Mohammadi, and **A.S. Meyer**. "Tracking tumor cell plasticity in single cell populations using lineage tree-based hidden Markov models." _In preparation._
 
