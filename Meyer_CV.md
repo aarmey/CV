@@ -109,6 +109,8 @@ Mashayekhi, F., **A.S. Meyer**, S.A. Shiigi, V. Nguyen, D.T. Kamei. ["Concentrat
 \leftskip 0.0in
 \parindent 0.0in
 
+\cleardoublepage
+
 # Research Support & Awards
 
 _NIH NIAID U01_  \hfill 2019 – 2024  
