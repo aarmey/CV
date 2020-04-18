@@ -52,11 +52,15 @@ Department of Bioengineering, University of California, Los Angeles, CA
 \leftskip 0.1in
 \parindent -0.1in
 
-Bae, S.Y., N. Guan, R. Yan, K. Warner, and **A.S. Meyer**. ["Measurement and models accounting for cell death capture hidden variation in compound response."](https://www.biorxiv.org/content/10.1101/863597v1) _bioRxiv._ 2019 Dec 4.
+Orcutt-Jahns, B., C. Tan, and **A.S. Meyer**. "Exploiting multivalency for engineering cell-selective therapies." _In preparation._
 
 \parskip 0.1in
 
+Visagan, S., F. Mohammadi, and **A.S. Meyer**. "Tracking tumor cell plasticity in single cell populations using lineage tree-based hidden Markov models." _In preparation._
+
 Farhat, A.M., A.C. Weiner, C. Posner, Z.S. Kim, B. Orcutt-Jahns, S.M. Carlson, and **A.S. Meyer**. ["Modeling Cell-Specific Dynamics and Regulation of the Common Gamma Chain Cytokines."](https://www.biorxiv.org/content/10.1101/778894v1) _bioRxiv._ 2019 Sept 23.
+
+Bae, S.Y., N. Guan, R. Yan, K. Warner, Scott D. Taylor, and **A.S. Meyer**. "Measurement and models accounting for cell death capture hidden variation in compound response." _Cell Death & Disease._ 2019 Dec 4. _Accepted._
 
 Lee, C.-H., T. H. Kang, O. Godon, M. Watanabe, G. Delidakis, C.M. Gillis, D. Sterlin, D. Hardy, M. Cogné, L.E. Macdonald, A.J. Murphy, N. Tu, J. Lee, J.R. McDaniel, E. Makowski, Peter M. Tessier, **A.S. Meyer**, P. Bruhns, and G. Georgiou. ["An engineered human Fc domain that behaves like a pH-toggle switch for ultra-long circulation persistence."](https://www.nature.com/articles/s41467-019-13108-2) _Nature Communications._, 2019 Nov 6; 10(1):5031.
 
