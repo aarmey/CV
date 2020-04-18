@@ -253,7 +253,7 @@ _Univ. of Calif., Riverside, Department of Bioengineering_, Invited Departmental
 _Univ. of Bergen, Centre for Cancer Biomarkers_, Invited Speaker \hfill March 2018  
 "Engineering more precise and potent TAM-targeted therapies."
 
-_Univ. of Calif., Los Angeles, Department of Bioengineering_, Invited Departmental Seminar \hfill October 2017  
+_Univ. of Calif., Los Angeles, Dept. of Bioengineering_, Invited Departmental Seminar \hfill October 2017  
 "Dissecting FcγR Regulation Through a Multivalent Binding Model."
 
 _Univ. of Calif., Los Angeles, Broad Stem Cell Research Center_, Invited Speaker \hfill October 2017  
