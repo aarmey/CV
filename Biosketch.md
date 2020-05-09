@@ -200,6 +200,8 @@ We are extending a binding model for IgG-effector cell interaction to predict th
 
 Role: Co-PI
 
+\cleardoublepage
+
 \vspace{12pt}
 UCLA Hellman Fellows Program  \hfill  7/01/2019 – 6/30/2020   
 Engineering anti-tumor antibody combinations for more effective and less toxic therapies   
