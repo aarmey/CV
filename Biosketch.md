@@ -13,7 +13,7 @@ header-includes: |
 
 \begin{flushright}
 \footnotesize
-	OMB No. 0925-0001 and 0925-0002 (Rev. 09/17 Approved Through 03/31/2020)
+	OMB No. 0925-0001 and 0925-0002 (Rev. 03/2020 Approved Through 02/28/2023)
 \end{flushright}
 
 \begin{tabular}{l|c|c|c}
@@ -203,13 +203,6 @@ Role: Co-PI
 \cleardoublepage
 
 \vspace{12pt}
-UCLA Hellman Fellows Program  \hfill  7/01/2019 – 6/30/2020   
-Engineering anti-tumor antibody combinations for more effective and less toxic therapies   
-This project uses a binding model of IgG-FcγR engagement to predict combinations of anti-tumor antibodies that operate synergistically together.
-
-Role: PI
-
-\vspace{12pt}
 Visterra, Inc.  \hfill  4/01/2019 – 3/30/2021   
 Modeling the IL-2 pathway to engineer cell-selective signaling   
 This project applies a binding and activation model of the common gamma chain receptor cytokines to identify engineered changes in ligand affinity that translate to changes in cell selectivity.
@@ -225,6 +218,14 @@ Role: Co-PI
 
 ### Completed Research Support
 
+\vspace{12pt}
+UCLA Hellman Fellows Program  \hfill  7/01/2019 – 6/30/2020   
+Engineering anti-tumor antibody combinations for more effective and less toxic therapies   
+This project uses a binding model of IgG-FcγR engagement to predict combinations of anti-tumor antibodies that operate synergistically together.
+
+Role: PI
+
+\vspace{12pt}
 NIH DP5-OD019815  \hfill  9/22/2014 – 9/1/2019  
 Adapter-Layer RTK Signaling: Basic Understanding & Targeted Drug Resistance  
 The goal of this project was to study sets of resistance mechanisms to RTK-targeted therapies, to identify commonalities and ways to determine which mechanism may be driving individual tumors.
@@ -237,9 +238,3 @@ Terri Brodeur Breast Cancer Foundation
 This project used a computational model to direct the design of new inhibitors for the TAM receptors. Using these well-characterized compounds, we examined the effects of inhibiting different TAM receptor complements.
 
 Role: PI
-
-\vspace{12pt}
-Frontier Research Program Initiator Award, Koch Institute, MIT \hfill 6/1/2015 – 6/1/2016  
-Quantitative and Multiplexed Tools for Probing G-Protein Coupled Receptor Activation  
-The goal of this project was to develop a novel multiplexed G-protein activation assay able to globally assess their activity.  
-Role: Co-PI
