@@ -218,7 +218,6 @@ Role: Co-PI
 
 ### Completed Research Support
 
-\vspace{12pt}
 UCLA Hellman Fellows Program  \hfill  7/01/2019 – 6/30/2020   
 Engineering anti-tumor antibody combinations for more effective and less toxic therapies   
 This project uses a binding model of IgG-FcγR engagement to predict combinations of anti-tumor antibodies that operate synergistically together.
