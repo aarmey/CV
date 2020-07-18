@@ -417,6 +417,8 @@ _Mentor_, B.I.G. Summer \hfill 2020
 
 _Member_, SPUR "Life of a Faculty Member" Panel \hfill 2020
 
+_Ad Hoc Member_, HSSEAS Faculty Executive Committee \hfill April 2020
+
 _Reviewer_, Amgen Scholars Program \hfill 2020
 
 _Reviewer_, Graduate Division’s Faculty Review Committee \hfill 2020
