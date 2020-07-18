@@ -19,7 +19,9 @@ University of California, Los Angeles, CA
 # Professional Experience
 
 _Assistant Professor_ \hfill 2017 – Present  
-Bioengineering Department, University of California, Los Angeles
+Bioengineering Department, University of California, Los Angeles  
+Bioinformatics Interdepartmental Graduate Program, University of California, Los Angeles  
+Computational & Systems Biology Interdepartmental Program, University of California, Los Angeles
 
 - Assembling mechanistic model of FcγR engagement and activation sufficient to accurately predict *in vivo* IgG-driven effector function
 - Further refining our understanding of TAM receptor activation response and role in targeted therapy and chemotherapy resistance
