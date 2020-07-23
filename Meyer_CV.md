@@ -320,9 +320,9 @@ _Merrimack Pharmaceuticals_, Invited Oral Presentation \hfill January 2013
 *Postdoctoral Fellows*
 
 - Catera Wilder, Ph.D. (Co-advised by Alexander Hoffman) \hfill 2018 – Present
-- Song Yi Bae, Ph.D. \hfill 2016 – 2019
+- Song Yi Bae, Ph.D. (Postdoctoral Fellow, U. Minnesota) \hfill 2016 – 2019
 - Edward Richards, Ph.D. (American Cancer Society Postdoctoral Fellowship) \hfill 2015 – Present
-- Annelien Zweemer, Ph.D. (Co-advised by Douglas Lauffenburger) \hfill 2014 – 2017
+- Annelien Zweemer, Ph.D. (Asst. Prof., Leiden U.) \hfill 2014 – 2017
 
 *Ph.D. Students*
 
@@ -346,15 +346,16 @@ _Merrimack Pharmaceuticals_, Invited Oral Presentation \hfill January 2013
 - Linnet Chang \hfill 2018 – Present
 - Stephen Lees \hfill 2018 – Present
 - Zoe Kim \hfill 2018 – 2020
+- Micah Bryant \hfill 2018 – 2020
 - Robby Theisen \hfill 2018 – 2020
 - Alison Tran \hfill 2018 – 2020
 - Willie Wu \hfill 2018 – 2019
-- Katrina Warner (Amgen Scholar) \hfill 2018
+- Katrina Warner (Amgen Scholar; Ph.D. Student, Biomedical Sciences, Harvard) \hfill 2018
 - Donya Khashayar \hfill 2018
-- Rui Yan (Cathy Bank Scholarship) \hfill 2017 – 2019
-- Ali Farhat (Rose Hills Foundation Scholar) \hfill 2017 – 2019
-- Adam Weiner (Internet Research Initiative Award) \hfill 2017 – 2019
-- Alexa Ning \hfill 2015 – 2017
+- Rui Yan (Cathy Bank Scholarship; Ph.D. Student, ICME, Stanford) \hfill 2017 – 2019
+- Ali Farhat (Rose Hills Foundation Scholar; M.D./Ph.D. Student, U Illinois) \hfill 2017 – 2019
+- Adam Weiner (Internet Research Initiative Award; Ph.D. Student, Tri-Institute CompBio) \hfill 2017 – 2019
+- Ning Guan (Ph.D. Student, Systems Biology, Harvard) \hfill 2015 – 2017
 - Ryan Robinett (NSF Graduate Research Fellowship; Ph.D. Student, Comp. Sci., U. Chicago) \hfill 2015 – 2017
 
 # Service to the Profession
