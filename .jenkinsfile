@@ -1,5 +1,5 @@
 pipeline {
-  agent { label 'aretha' }
+  agent { label 'docker' }
   stages {
     stage('Build') {
       steps {
