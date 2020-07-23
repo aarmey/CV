@@ -98,8 +98,11 @@ Mashayekhi, F., **A.S. Meyer**, S.A. Shiigi, V. Nguyen, D.T. Kamei. ["Concentrat
 
 # Research Support & Awards
 
+_American Cancer Society, Research Scholar Grant (co-I)_  \hfill 2020 – 2023  
+"Tissue-engineered models of glioblastoma for evaluating treatment responses"
+
 _NIH NIAID, U01-AI148119_  \hfill 2019 – 2024  
- – "Mapping the effector response space of antibody combinations"
+"Mapping the effector response space of antibody combinations"
 
 _UCLA Faculty Career Development Award_ \hfill 2019 – 2020  
 
