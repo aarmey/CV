@@ -167,8 +167,8 @@ Koch Institute for Integrative Cancer Research
 "Global Growth Factor Reprogramming and Invasion By AXL Expression And Shedding In Breast Carcinoma"
 
 _Breast Cancer Research Predoctoral Fellowship_ \hfill 2010 – 2014  
-Department of Defense  
-W81XWH-11-1-0088 – "Molecular Regulatory Network Dysregulation in Breast Cancer Cell Migration & Invasion"
+Department of Defense, W81XWH-11-1-0088  
+"Molecular Regulatory Network Dysregulation in Breast Cancer Cell Migration & Invasion"
 
 _Graduate Research Fellowship_ \hfill 2009 – 2014  
 National Science Foundation
@@ -447,7 +447,7 @@ _Co-Chair_, Bioengineering and Computational Medicine Joint Hiring Search \hfill
 
 _Field Chair_, Biosystem Science and Engineering \hfill 2019 – Present
 
-_Admissions Committee Co-Chair_, Bioengineering \hfill 2019 – Present
+_Graduate Admissions Committee Co-Chair_, Bioengineering \hfill 2019 – Present
 
 _Undergraduate Curriculum Committee_, Bioengineering \hfill 2019 – Present
 
@@ -471,27 +471,27 @@ Miller, M.A., M.J. Oudin, **A.S. Meyer**, L.G. Griffith, F.B. Gertler, D.A. Lauf
 
 \begin{multicols}{2}
 
-Daniel Bradbury, Bioengineering\\
+Daniel Bradbury, Bioengineering  
 Advisor: Daniel Kamei
 
-Giovanni Valdez, Bioengineering\\
+Giovanni Valdez, Bioengineering  
 Advisor: Grace Xiao
 
-Hiromi Miwa, Bioengineering\\
+Hiromi Miwa, Bioengineering  
 Advisor: Dino Di Carlo
 
 \columnbreak
 
-Mark van Zee, Bioengineering\\
+Mark van Zee, Bioengineering  
 Advisor: Dino Di Carlo
 
-Rob Dimatteo, Bioengineering\\
+Rob Dimatteo, Bioengineering  
 Advisor: Dino Di Carlo
 
-Alexander Wickstrom, Bioengineering (M.S.)\\
+Alexander Wickstrom, Bioengineering (M.S.)  
 Advisor: Jonathan Kao
 
-Hector E Muñoz, Bioengineering\\
+Hector E Muñoz, Bioengineering  
 Advisor: Dino Di Carlo
 
 \end{multicols}
