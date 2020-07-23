@@ -94,8 +94,6 @@ Mashayekhi, F., **A.S. Meyer**, S.A. Shiigi, V. Nguyen, D.T. Kamei. ["Concentrat
 \leftskip 0.0in
 \parindent 0.0in
 
-\cleardoublepage
-
 # Research Support & Awards
 
 _American Cancer Society, Research Scholar Grant (co-I)_  \hfill 2020 – 2023  
@@ -277,7 +275,7 @@ _Univ. of Calif., Irvine, Center for Complex Biological Systems_, Invited Depart
 _Systems Approaches to Cancer Biology_, NCI Invited Oral Presentation \hfill April 2016  
 "Looking across resistance mechanisms to identify molecular commonalities and precision therapy approaches."
 
-_Applied Mathematics in Germinating Oncology Solutions Workshop_, NCI Invited Participant \hfill March 2016
+_Applied Math in Germinating Oncology Solutions Workshop_, NCI Invited Participant \hfill March 2016
 
 _NIH Common Fund High-Risk High-Reward Symposium_ \hfill December 2015  
 "Conserved RTK-intrinsic signaling consequences result in distinct bypass resistance capacity dependent upon pathway dependencies."
