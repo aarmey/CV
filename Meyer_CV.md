@@ -226,7 +226,7 @@ _Univ. of Calif., Los Angeles, Immunogenetics Center_, Invited Speaker \hfill Ja
 "Using models with incomplete information to study and engineer antibody effector response."
 
 _Biomedical Engineering Society Annual Meeting_, Selected Oral Presentation \hfill October 2019  
-"A Binding Model Predicts In Vivo Effector Cell-Elicited Killing Across Multiple Disease Models."
+"A Binding Model Predicts _In Vivo_ Effector Cell-Elicited Killing Across Multiple Disease Models."
 
 _Xencor, Inc._, Invited Oral Presentation \hfill July 2019  
 "Computational molecular models for immune engineering."
