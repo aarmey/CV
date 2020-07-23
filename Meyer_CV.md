@@ -23,31 +23,14 @@ Bioengineering Department, University of California, Los Angeles
 Bioinformatics Interdepartmental Graduate Program, University of California, Los Angeles  
 Computational & Systems Biology Interdepartmental Program, University of California, Los Angeles
 
-- Assembling mechanistic model of FcγR engagement and activation sufficient to accurately predict *in vivo* IgG-driven effector function
-- Further refining our understanding of TAM receptor activation response and role in targeted therapy and chemotherapy resistance
-
 _Principal Investigator & Research Fellow_ \hfill 2014 – 2017  
 Koch Cancer Institute, MIT, Cambridge, MA
-
-- Developed systems cancer cell resistance model allowing predictive precision therapy selection
-- Refined models of TAM receptor activation for optimal immunotherapeutic targeting
 
 _Graduate Researcher in the labs of Douglas Lauffenburger & Frank Gertler_ \hfill 2009 – 2014  
 Department of Biological Engineering & Koch Cancer Institute, MIT, Cambridge, MA
 
-- Identified similarities in migration response between dimensionalities, suggesting relevant migration assays for invasive disease
-- Studied transactivation of TAM receptors and its role in promoting motility response
-- Developed systems models of TAM signaling, unifying conflicting observations regarding the receptors in normal biology and suggesting new methods of intervention to modulate activity
-
-
 _Undergraduate Researcher in the lab of Daniel Kamei_ \hfill 2006 – 2009  
 Department of Bioengineering, University of California, Los Angeles, CA
-
-- Investigated biomarker purification using novel aqueous micellar systems
-- Extended a previous statistical mechanics model to nucleic acid partitioning
-- Designed and executed experiments to analyze the partitioning of surfactant systems
-- Developed assays for quantifying the concentration of charged and uncharged surfactants
-
 
 # Refereed Publications
 
