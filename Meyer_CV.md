@@ -351,13 +351,13 @@ _Merrimack Pharmaceuticals_, Invited Oral Presentation \hfill January 2013
 - Robby Theisen \hfill 2018 – 2020
 - Alison Tran \hfill 2018 – 2020
 - Willie Wu \hfill 2018 – 2019
-- Katrina Warner (Amgen Scholar; Ph.D. Student, Biomedical Sciences, Harvard) \hfill 2018
+- Katrina Warner (Amgen Scholar; Ph.D., Biomedical Sciences, Harvard) \hfill 2018
 - Donya Khashayar \hfill 2018
-- Rui Yan (Cathy Bank Scholarship; Ph.D. Student, ICME, Stanford) \hfill 2017 – 2019
-- Ali Farhat (Rose Hills Foundation Scholar; M.D./Ph.D. Student, U Illinois) \hfill 2017 – 2019
-- Adam Weiner (Internet Research Initiative Award; Ph.D. Student, Tri-Institute CompBio) \hfill 2017 – 2019
-- Ning Guan (Ph.D. Student, Systems Biology, Harvard) \hfill 2015 – 2017
-- Ryan Robinett (NSF Graduate Research Fellowship; Ph.D. Student, Comp. Sci., U. Chicago) \hfill 2015 – 2017
+- Rui Yan (Cathy Bank Scholarship; Ph.D., ICME, Stanford) \hfill 2017 – 2019
+- Ali Farhat (Rose Hills Foundation Scholar; M.D./Ph.D., U Illinois) \hfill 2017 – 2019
+- Adam Weiner (Internet Research Initiative Award; Ph.D., Tri-Institute CompBio) \hfill 2017 – 2019
+- Ning Guan (Ph.D., Systems Biology, Harvard) \hfill 2015 – 2017
+- Ryan Robinett (NSF GRFP; Ph.D., Comp. Sci., U. Chicago) \hfill 2015 – 2017
 
 # Service to the Profession
 
@@ -473,27 +473,27 @@ Miller, M.A., M.J. Oudin, **A.S. Meyer**, L.G. Griffith, F.B. Gertler, D.A. Lauf
 
 \begin{multicols}{2}
 
-Daniel Bradbury, Bioengineering  
+Daniel Bradbury, Bioengineering\\
 Advisor: Daniel Kamei
 
-Giovanni Valdez, Bioengineering  
+Giovanni Valdez, Bioengineering\\
 Advisor: Grace Xiao
 
-Hiromi Miwa, Bioengineering  
+Hiromi Miwa, Bioengineering\\
 Advisor: Dino Di Carlo
 
 \columnbreak
 
-Mark van Zee, Bioengineering  
+Mark van Zee, Bioengineering\\
 Advisor: Dino Di Carlo
 
-Rob Dimatteo, Bioengineering  
+Rob Dimatteo, Bioengineering\\
 Advisor: Dino Di Carlo
 
-Alexander Wickstrom, Bioengineering (M.S.)  
+Alexander Wickstrom, Bioengineering (M.S.)\\
 Advisor: Jonathan Kao
 
-Hector E Muñoz, Bioengineering  
+Hector E Muñoz, Bioengineering\\
 Advisor: Dino Di Carlo
 
 \end{multicols}
