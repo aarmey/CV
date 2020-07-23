@@ -45,9 +45,11 @@ Tan, C., B. Orcutt-Jahns, and **A.S. Meyer**. "Exploiting multivalency for engin
 
 Visagan, S., F. Mohammadi, and **A.S. Meyer**. "Tracking tumor cell plasticity in single cell populations using lineage tree-based hidden Markov models." _In preparation._
 
-Farhat, A.M., A.C. Weiner, C. Posner, Z.S. Kim, B. Orcutt-Jahns, S.M. Carlson, and **A.S. Meyer**. ["Modeling Cell-Specific Dynamics and Regulation of the Common Gamma Chain Cytokines."](https://www.biorxiv.org/content/10.1101/778894v1) _bioRxiv._ 2019 Sept 23.
+Majumder, A., S. Hosseinian, M. Stroud, E. Adhikari, J. Saller, M.A. Smith, G. Zhang, S. Agarwal, F. Kinose, K. Browers, B. Fang, P. Stewart, E.A. Welsh, T.A. Boyle, **A.S. Meyer**, J.M. Koomen, and E.B. Haura. "Proteomic Characterization of AXL Kinase Inhibitors and Signaling Pathways." _Submitted._
 
-Bae, S.Y., N. Guan, R. Yan, K. Warner, Scott D. Taylor, and **A.S. Meyer**. "Measurement and models accounting for cell death capture hidden variation in compound response." _Cell Death & Disease. Accepted._
+Farhat, A.M., A.C. Weiner, C. Posner, Z.S. Kim, B. Orcutt-Jahns, S.M. Carlson, and **A.S. Meyer**. ["Modeling Cell-Specific Dynamics and Regulation of the Common Gamma Chain Cytokines."](https://www.biorxiv.org/content/10.1101/778894v2) _bioRxiv._ 2020 Mar 19. _Submitted._
+
+Bae, S.Y., N. Guan, R. Yan, K. Warner, S.D. Taylor, and **A.S. Meyer**. "Measurement and models accounting for cell death capture hidden variation in compound response." _Cell Death & Disease._, 2020 Apr 20; 255(11). 
 
 Lee, C.-H., T. H. Kang, O. Godon, M. Watanabe, G. Delidakis, C.M. Gillis, D. Sterlin, D. Hardy, M. Cogné, L.E. Macdonald, A.J. Murphy, N. Tu, J. Lee, J.R. McDaniel, E. Makowski, Peter M. Tessier, **A.S. Meyer**, P. Bruhns, and G. Georgiou. ["An engineered human Fc domain that behaves like a pH-toggle switch for ultra-long circulation persistence."](https://www.nature.com/articles/s41467-019-13108-2) _Nature Communications._, 2019 Nov 6; 10(1):5031.
 
