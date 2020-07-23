@@ -116,7 +116,7 @@ _Administrative Supplement to U01-CA215709_ \hfill 2018 – 2019
 "Cell lineage analysis to quantify heterogeneous cell cycle responses of cancer cells"
 
 _NCI Cancer Systems Biology Consortium, U01-CA215709_  \hfill 2017 – 2022  
- – "Precision Lung Cancer Therapy Design through Multiplexed Adapter Measurement"
+"Precision Lung Cancer Therapy Design through Multiplexed Adapter Measurement"
 
 _Fellowship Grant_ \hfill 2017 – 2019  
 Terri Brodeur Breast Cancer Foundation  
@@ -334,6 +334,7 @@ _Merrimack Pharmaceuticals_, Invited Oral Presentation \hfill January 2013
 
 *Undergraduate Students*
 
+- Luka Karginov (NCI CSBC Summer Scholar) \hfill 2020
 - Madeleine Murphy \hfill 2020 – Present
 - Aditya Sivakumar \hfill 2020 – Present
 - Eli Snyder \hfill 2020 – Present
