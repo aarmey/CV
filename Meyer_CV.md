@@ -49,7 +49,7 @@ Majumder, A., S. Hosseinian, M. Stroud, E. Adhikari, J. Saller, M.A. Smith, G. Z
 
 Farhat, A.M., A.C. Weiner, C. Posner, Z.S. Kim, B. Orcutt-Jahns, S.M. Carlson, and **A.S. Meyer**. ["Modeling Cell-Specific Dynamics and Regulation of the Common Gamma Chain Cytokines."](https://www.biorxiv.org/content/10.1101/778894v2) _bioRxiv._ 2020 Mar 19. _Submitted._
 
-Bae, S.Y., N. Guan, R. Yan, K. Warner, S.D. Taylor, and **A.S. Meyer**. "Measurement and models accounting for cell death capture hidden variation in compound response." _Cell Death & Disease._, 2020 Apr 20; 255(11). 
+Bae, S.Y., N. Guan, R. Yan, K. Warner, S.D. Taylor, and **A.S. Meyer**. ["Measurement and models accounting for cell death capture hidden variation in compound response."](https://www.nature.com/articles/s41419-020-2462-8) _Cell Death & Disease._, 2020 Apr 20; 255(11). 
 
 Lee, C.-H., T. H. Kang, O. Godon, M. Watanabe, G. Delidakis, C.M. Gillis, D. Sterlin, D. Hardy, M. Cogné, L.E. Macdonald, A.J. Murphy, N. Tu, J. Lee, J.R. McDaniel, E. Makowski, Peter M. Tessier, **A.S. Meyer**, P. Bruhns, and G. Georgiou. ["An engineered human Fc domain that behaves like a pH-toggle switch for ultra-long circulation persistence."](https://www.nature.com/articles/s41467-019-13108-2) _Nature Communications._, 2019 Nov 6; 10(1):5031.
 
@@ -73,7 +73,7 @@ Manole, S., E.J. Richards, **A.S. Meyer**. "JNK pathway activation modulates acq
 
 McConnell, R.E., J.E. Van Veen, M. Vidaki, A.V. Kwiatkowski, **A.S. Meyer**, D.A. Lauffenburger, F.B. Gertler. ["A Requirement for Filopodia Extension Towards Slit During Robo-Mediated Axon Repulsion."](http://jcb.rupress.org/content/213/2/261.full) _Journal of Cell Biology._ 2016 Apr 18; 213 (2): 261.
 
-Miller, M.A., M.J. Oudin, R.J. Sullivan, D.T. Frederick, **A.S. Meyer**, S. Wang, H. Im, J. Tadros, L.G. Griffith, H. Lee, R. Weissleder, K.T. Flaherty, F.B. Gertler, D.A. Lauffenburger. ["Reduced proteolytic shedding of receptor tyrosine kinases is a post-translational mechanism of kinase inhibitor resistance."](http://cancerdiscovery.aacrjournals.org/content/early/2016/03/15/2159-8290.CD-15-0933) _Cancer Discovery._ 2016 Apr; 6:331-333.
+Miller, M.A., M.J. Oudin, R.J. Sullivan, D.T. Frederick, **A.S. Meyer**, S. Wang, H. Im, J. Tadros, L.G. Griffith, H. Lee, R. Weissleder, K.T. Flaherty, F.B. Gertler, D.A. Lauffenburger. ["Reduced proteolytic shedding of receptor tyrosine kinases is a post-translational mechanism of kinase inhibitor resistance."](http://cancerdiscovery.aacrjournals.org/content/early/2016/03/15/2159-8290.CD-15-0933) _Cancer Discovery._ 2016 Apr; 6:331-333.
 
 Miller, M.A., M. Moss, G. Powell, R. Petrovich, L. Edwards, **A.S. Meyer**, L.G. Griffith, D.A. Lauffenburger. ["Targeting autocrine HB-EGF signaling with specific ADAM12 inhibition using recombinant ADAM12 prodomain."](http://www.ncbi.nlm.nih.gov/pubmed/26477568) _Scientific Reports._ 2015 Oct 19; 5:15150.
 
@@ -338,7 +338,7 @@ _Merrimack Pharmaceuticals_, Invited Oral Presentation \hfill January 2013
 - Madeleine Murphy \hfill 2020 – Present
 - Aditya Sivakumar \hfill 2020 – Present
 - Eli Snyder \hfill 2020 – Present
-- Vedant Sathye \hfill 2020 – Present
+- Vedant Sathye \hfill 2020 – Present
 - Amanda Tsao \hfill 2019 – Present
 - Shashank Venkat \hfill 2019 – Present
 - JC Lagarde \hfill 2019 – Present
