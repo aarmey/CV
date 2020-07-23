@@ -98,8 +98,8 @@ Mashayekhi, F., **A.S. Meyer**, S.A. Shiigi, V. Nguyen, D.T. Kamei. ["Concentrat
 
 # Research Support & Awards
 
-_NIH NIAID U01_  \hfill 2019 – 2024  
-U01-AI148119 – "Mapping the effector response space of antibody combinations"
+_NIH NIAID, U01-AI148119_  \hfill 2019 – 2024  
+ – "Mapping the effector response space of antibody combinations"
 
 _UCLA Faculty Career Development Award_ \hfill 2019 – 2020  
 
@@ -112,8 +112,8 @@ _Visterra, Inc. Research Agreement_ \hfill 2019 – 2021
 _Administrative Supplement to U01-CA215709_ \hfill 2018 – 2019  
 "Cell lineage analysis to quantify heterogeneous cell cycle responses of cancer cells"
 
-_NCI Cancer Systems Biology Consortium U01_  \hfill 2017 – 2022  
-U01-CA215709 – "Precision Lung Cancer Therapy Design through Multiplexed Adapter Measurement"
+_NCI Cancer Systems Biology Consortium, U01-CA215709_  \hfill 2017 – 2022  
+ – "Precision Lung Cancer Therapy Design through Multiplexed Adapter Measurement"
 
 _Fellowship Grant_ \hfill 2017 – 2019  
 Terri Brodeur Breast Cancer Foundation  
@@ -133,8 +133,8 @@ _Frontier Research Program Initiator Award_ \hfill 2015
 Koch Institute for Integrative Cancer Research  
 "Multiplexed Tools for Probing Chemokine Receptor Activation State in Breast Cancer"
 
-_NIH Director's Early Independence Award_  \hfill 2014 – 2019  
-DP5-OD019815 – "Adapter-Layer RTK Signaling: Basic Understanding & Targeted Drug Resistance"  
+_NIH Director's Early Independence Award, DP5-OD019815_  \hfill 2014 – 2019  
+"Adapter-Layer RTK Signaling: Basic Understanding & Targeted Drug Resistance"  
 **[Highlighted by the NIH director's office.](https://directorsblog.nih.gov/2014/10/28/creative-minds-tackling-chemotherapy-resistance/)**
 
 _Siebel Scholar, Class of 2014_ \hfill 2013 
