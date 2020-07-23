@@ -334,18 +334,32 @@ _Merrimack Pharmaceuticals_, Invited Oral Presentation \hfill January 2013
 
 *Undergraduate Students*
 
+- Madeleine Murphy \hfill 2020 – Present
+- Aditya Sivakumar \hfill 2020 – Present
+- Eli Snyder \hfill 2020 – Present
+- Vedant Sathye \hfill 2020 – Present
+- Amanda Tsao \hfill 2019 – Present
+- Shashank Venkat \hfill 2019 – Present
+- JC Lagarde \hfill 2019 – Present
+- Sumedha Kanthamneni \hfill 2019 – Present
+- Heather Carmen Mercieca (Amgen Scholar) \hfill 2019
 - Linnet Chang \hfill 2018 – Present
 - Stephen Lees \hfill 2018 – Present
-- Robby Theisen \hfill 2018 – Present
-- Alison Tran \hfill 2018 – Present
-- Willie Wu \hfill 2018
+- Zoe Kim \hfill 2018 – 2020
+- Robby Theisen \hfill 2018 – 2020
+- Alison Tran \hfill 2018 – 2020
+- Willie Wu \hfill 2018 – 2019
+- Katrina Warner (Amgen Scholar) \hfill 2018
+- Donya Khashayar \hfill 2018
 - Rui Yan (Cathy Bank Scholarship) \hfill 2017 – 2019
 - Ali Farhat (Rose Hills Foundation Scholar) \hfill 2017 – 2019
 - Adam Weiner (Internet Research Initiative Award) \hfill 2017 – 2019
 - Alexa Ning \hfill 2015 – 2017
-- Ryan Robinett (NSF Graduate Research Fellowship) \hfill 2015 – 2017
+- Ryan Robinett (NSF Graduate Research Fellowship; Ph.D. Student, Comp. Sci., U. Chicago) \hfill 2015 – 2017
 
 # Service to the Profession
+
+_Panelist_, Amgen Scholars Summer Science Series \hfill 2020
 
 _Ad Hoc Reviewer_, PLOS Biology \hfill 2020
 
