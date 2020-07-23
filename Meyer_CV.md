@@ -23,31 +23,14 @@ Bioengineering Department, University of California, Los Angeles
 Bioinformatics Interdepartmental Graduate Program, University of California, Los Angeles  
 Computational & Systems Biology Interdepartmental Program, University of California, Los Angeles
 
-- Assembling mechanistic model of FcγR engagement and activation sufficient to accurately predict *in vivo* IgG-driven effector function
-- Further refining our understanding of TAM receptor activation response and role in targeted therapy and chemotherapy resistance
-
 _Principal Investigator & Research Fellow_ \hfill 2014 – 2017  
 Koch Cancer Institute, MIT, Cambridge, MA
-
-- Developed systems cancer cell resistance model allowing predictive precision therapy selection
-- Refined models of TAM receptor activation for optimal immunotherapeutic targeting
 
 _Graduate Researcher in the labs of Douglas Lauffenburger & Frank Gertler_ \hfill 2009 – 2014  
 Department of Biological Engineering & Koch Cancer Institute, MIT, Cambridge, MA
 
-- Identified similarities in migration response between dimensionalities, suggesting relevant migration assays for invasive disease
-- Studied transactivation of TAM receptors and its role in promoting motility response
-- Developed systems models of TAM signaling, unifying conflicting observations regarding the receptors in normal biology and suggesting new methods of intervention to modulate activity
-
-
 _Undergraduate Researcher in the lab of Daniel Kamei_ \hfill 2006 – 2009  
 Department of Bioengineering, University of California, Los Angeles, CA
-
-- Investigated biomarker purification using novel aqueous micellar systems
-- Extended a previous statistical mechanics model to nucleic acid partitioning
-- Designed and executed experiments to analyze the partitioning of surfactant systems
-- Developed assays for quantifying the concentration of charged and uncharged surfactants
-
 
 # Refereed Publications
 
@@ -62,9 +45,11 @@ Tan, C., B. Orcutt-Jahns, and **A.S. Meyer**. "Exploiting multivalency for engin
 
 Visagan, S., F. Mohammadi, and **A.S. Meyer**. "Tracking tumor cell plasticity in single cell populations using lineage tree-based hidden Markov models." _In preparation._
 
-Farhat, A.M., A.C. Weiner, C. Posner, Z.S. Kim, B. Orcutt-Jahns, S.M. Carlson, and **A.S. Meyer**. ["Modeling Cell-Specific Dynamics and Regulation of the Common Gamma Chain Cytokines."](https://www.biorxiv.org/content/10.1101/778894v1) _bioRxiv._ 2019 Sept 23.
+Majumder, A., S. Hosseinian, M. Stroud, E. Adhikari, J. Saller, M.A. Smith, G. Zhang, S. Agarwal, F. Kinose, K. Browers, B. Fang, P. Stewart, E.A. Welsh, T.A. Boyle, **A.S. Meyer**, J.M. Koomen, and E.B. Haura. "Proteomic Characterization of AXL Kinase Inhibitors and Signaling Pathways." _Submitted._
 
-Bae, S.Y., N. Guan, R. Yan, K. Warner, Scott D. Taylor, and **A.S. Meyer**. "Measurement and models accounting for cell death capture hidden variation in compound response." _Cell Death & Disease. Accepted._
+Farhat, A.M., A.C. Weiner, C. Posner, Z.S. Kim, B. Orcutt-Jahns, S.M. Carlson, and **A.S. Meyer**. ["Modeling Cell-Specific Dynamics and Regulation of the Common Gamma Chain Cytokines."](https://www.biorxiv.org/content/10.1101/778894v2) _bioRxiv._ 2020 Mar 19. _Submitted._
+
+Bae, S.Y., N. Guan, R. Yan, K. Warner, S.D. Taylor, and **A.S. Meyer**. ["Measurement and models accounting for cell death capture hidden variation in compound response."](https://www.nature.com/articles/s41419-020-2462-8) _Cell Death & Disease._, 2020 Apr 20; 255(11). 
 
 Lee, C.-H., T. H. Kang, O. Godon, M. Watanabe, G. Delidakis, C.M. Gillis, D. Sterlin, D. Hardy, M. Cogné, L.E. Macdonald, A.J. Murphy, N. Tu, J. Lee, J.R. McDaniel, E. Makowski, Peter M. Tessier, **A.S. Meyer**, P. Bruhns, and G. Georgiou. ["An engineered human Fc domain that behaves like a pH-toggle switch for ultra-long circulation persistence."](https://www.nature.com/articles/s41467-019-13108-2) _Nature Communications._, 2019 Nov 6; 10(1):5031.
 
@@ -88,7 +73,7 @@ Manole, S., E.J. Richards, **A.S. Meyer**. "JNK pathway activation modulates acq
 
 McConnell, R.E., J.E. Van Veen, M. Vidaki, A.V. Kwiatkowski, **A.S. Meyer**, D.A. Lauffenburger, F.B. Gertler. ["A Requirement for Filopodia Extension Towards Slit During Robo-Mediated Axon Repulsion."](http://jcb.rupress.org/content/213/2/261.full) _Journal of Cell Biology._ 2016 Apr 18; 213 (2): 261.
 
-Miller, M.A., M.J. Oudin, R.J. Sullivan, D.T. Frederick, **A.S. Meyer**, S. Wang, H. Im, J. Tadros, L.G. Griffith, H. Lee, R. Weissleder, K.T. Flaherty, F.B. Gertler, D.A. Lauffenburger. ["Reduced proteolytic shedding of receptor tyrosine kinases is a post-translational mechanism of kinase inhibitor resistance."](http://cancerdiscovery.aacrjournals.org/content/early/2016/03/15/2159-8290.CD-15-0933) _Cancer Discovery._ 2016 Apr; 6:331-333.
+Miller, M.A., M.J. Oudin, R.J. Sullivan, D.T. Frederick, **A.S. Meyer**, S. Wang, H. Im, J. Tadros, L.G. Griffith, H. Lee, R. Weissleder, K.T. Flaherty, F.B. Gertler, D.A. Lauffenburger. ["Reduced proteolytic shedding of receptor tyrosine kinases is a post-translational mechanism of kinase inhibitor resistance."](http://cancerdiscovery.aacrjournals.org/content/early/2016/03/15/2159-8290.CD-15-0933) _Cancer Discovery._ 2016 Apr; 6:331-333.
 
 Miller, M.A., M. Moss, G. Powell, R. Petrovich, L. Edwards, **A.S. Meyer**, L.G. Griffith, D.A. Lauffenburger. ["Targeting autocrine HB-EGF signaling with specific ADAM12 inhibition using recombinant ADAM12 prodomain."](http://www.ncbi.nlm.nih.gov/pubmed/26477568) _Scientific Reports._ 2015 Oct 19; 5:15150.
 
@@ -111,12 +96,13 @@ Mashayekhi, F., **A.S. Meyer**, S.A. Shiigi, V. Nguyen, D.T. Kamei. ["Concentrat
 \leftskip 0.0in
 \parindent 0.0in
 
-\cleardoublepage
-
 # Research Support & Awards
 
-_NIH NIAID U01_  \hfill 2019 – 2024  
-U01-AI148119 – "Mapping the effector response space of antibody combinations"
+_American Cancer Society, Research Scholar Grant (co-I)_  \hfill 2020 – 2023  
+"Tissue-engineered models of glioblastoma for evaluating treatment responses"
+
+_NIH NIAID, U01-AI148119_  \hfill 2019 – 2024  
+"Mapping the effector response space of antibody combinations"
 
 _UCLA Faculty Career Development Award_ \hfill 2019 – 2020  
 
@@ -129,8 +115,8 @@ _Visterra, Inc. Research Agreement_ \hfill 2019 – 2021
 _Administrative Supplement to U01-CA215709_ \hfill 2018 – 2019  
 "Cell lineage analysis to quantify heterogeneous cell cycle responses of cancer cells"
 
-_NCI Cancer Systems Biology Consortium U01_  \hfill 2017 – 2022  
-U01-CA215709 – "Precision Lung Cancer Therapy Design through Multiplexed Adapter Measurement"
+_NCI Cancer Systems Biology Consortium, U01-CA215709_  \hfill 2017 – 2022  
+"Precision Lung Cancer Therapy Design through Multiplexed Adapter Measurement"
 
 _Fellowship Grant_ \hfill 2017 – 2019  
 Terri Brodeur Breast Cancer Foundation  
@@ -150,8 +136,8 @@ _Frontier Research Program Initiator Award_ \hfill 2015
 Koch Institute for Integrative Cancer Research  
 "Multiplexed Tools for Probing Chemokine Receptor Activation State in Breast Cancer"
 
-_NIH Director's Early Independence Award_  \hfill 2014 – 2019  
-DP5-OD019815 – "Adapter-Layer RTK Signaling: Basic Understanding & Targeted Drug Resistance"  
+_NIH Director's Early Independence Award, DP5-OD019815_  \hfill 2014 – 2019  
+"Adapter-Layer RTK Signaling: Basic Understanding & Targeted Drug Resistance"  
 **[Highlighted by the NIH director's office.](https://directorsblog.nih.gov/2014/10/28/creative-minds-tackling-chemotherapy-resistance/)**
 
 _Siebel Scholar, Class of 2014_ \hfill 2013 
@@ -167,8 +153,8 @@ Koch Institute for Integrative Cancer Research
 "Global Growth Factor Reprogramming and Invasion By AXL Expression And Shedding In Breast Carcinoma"
 
 _Breast Cancer Research Predoctoral Fellowship_ \hfill 2010 – 2014  
-Department of Defense  
-W81XWH-11-1-0088 – "Molecular Regulatory Network Dysregulation in Breast Cancer Cell Migration & Invasion"
+Department of Defense, W81XWH-11-1-0088  
+"Molecular Regulatory Network Dysregulation in Breast Cancer Cell Migration & Invasion"
 
 _Graduate Research Fellowship_ \hfill 2009 – 2014  
 National Science Foundation
@@ -226,7 +212,7 @@ _Univ. of Calif., Los Angeles, Immunogenetics Center_, Invited Speaker \hfill Ja
 "Using models with incomplete information to study and engineer antibody effector response."
 
 _Biomedical Engineering Society Annual Meeting_, Selected Oral Presentation \hfill October 2019  
-"A Binding Model Predicts In Vivo Effector Cell-Elicited Killing Across Multiple Disease Models."
+"A Binding Model Predicts _In Vivo_ Effector Cell-Elicited Killing Across Multiple Disease Models."
 
 _Xencor, Inc._, Invited Oral Presentation \hfill July 2019  
 "Computational molecular models for immune engineering."
@@ -291,7 +277,7 @@ _Univ. of Calif., Irvine, Center for Complex Biological Systems_, Invited Depart
 _Systems Approaches to Cancer Biology_, NCI Invited Oral Presentation \hfill April 2016  
 "Looking across resistance mechanisms to identify molecular commonalities and precision therapy approaches."
 
-_Applied Mathematics in Germinating Oncology Solutions Workshop_, NCI Invited Participant \hfill March 2016
+_Applied Math in Germinating Oncology Solutions Workshop_, NCI Invited Participant \hfill March 2016
 
 _NIH Common Fund High-Risk High-Reward Symposium_ \hfill December 2015  
 "Conserved RTK-intrinsic signaling consequences result in distinct bypass resistance capacity dependent upon pathway dependencies."
@@ -334,9 +320,9 @@ _Merrimack Pharmaceuticals_, Invited Oral Presentation \hfill January 2013
 *Postdoctoral Fellows*
 
 - Catera Wilder, Ph.D. (Co-advised by Alexander Hoffman) \hfill 2018 – Present
-- Song Yi Bae, Ph.D. \hfill 2016 – 2019
+- Song Yi Bae, Ph.D. (Postdoctoral Fellow, U. Minnesota) \hfill 2016 – 2019
 - Edward Richards, Ph.D. (American Cancer Society Postdoctoral Fellowship) \hfill 2015 – Present
-- Annelien Zweemer, Ph.D. (Co-advised by Douglas Lauffenburger) \hfill 2014 – 2017
+- Annelien Zweemer, Ph.D. (Asst. Prof., Leiden U.) \hfill 2014 – 2017
 
 *Ph.D. Students*
 
@@ -348,18 +334,34 @@ _Merrimack Pharmaceuticals_, Invited Oral Presentation \hfill January 2013
 
 *Undergraduate Students*
 
+- Luka Karginov (NCI CSBC Summer Scholar) \hfill 2020
+- Madeleine Murphy \hfill 2020 – Present
+- Aditya Sivakumar \hfill 2020 – Present
+- Eli Snyder \hfill 2020 – Present
+- Vedant Sathye \hfill 2020 – Present
+- Amanda Tsao \hfill 2019 – Present
+- Shashank Venkat \hfill 2019 – Present
+- JC Lagarde \hfill 2019 – Present
+- Sumedha Kanthamneni \hfill 2019 – Present
+- Heather Carmen Mercieca (Amgen Scholar) \hfill 2019
 - Linnet Chang \hfill 2018 – Present
 - Stephen Lees \hfill 2018 – Present
-- Robby Theisen \hfill 2018 – Present
-- Alison Tran \hfill 2018 – Present
-- Willie Wu \hfill 2018
-- Rui Yan (Cathy Bank Scholarship) \hfill 2017 – 2019
-- Ali Farhat (Rose Hills Foundation Scholar) \hfill 2017 – 2019
-- Adam Weiner (Internet Research Initiative Award) \hfill 2017 – 2019
-- Alexa Ning \hfill 2015 – 2017
-- Ryan Robinett (NSF Graduate Research Fellowship) \hfill 2015 – 2017
+- Zoe Kim \hfill 2018 – 2020
+- Micah Bryant \hfill 2018 – 2020
+- Robby Theisen \hfill 2018 – 2020
+- Alison Tran \hfill 2018 – 2020
+- Willie Wu \hfill 2018 – 2019
+- Katrina Warner (Amgen Scholar; Ph.D., Biomedical Sciences, Harvard) \hfill 2018
+- Donya Khashayar \hfill 2018
+- Rui Yan (Cathy Bank Scholarship; Ph.D., ICME, Stanford) \hfill 2017 – 2019
+- Ali Farhat (Rose Hills Foundation Scholar; M.D./Ph.D., U Illinois) \hfill 2017 – 2019
+- Adam Weiner (Internet Research Initiative Award; Ph.D., Tri-Institute CompBio) \hfill 2017 – 2019
+- Ning Guan (Ph.D., Systems Biology, Harvard) \hfill 2015 – 2017
+- Ryan Robinett (NSF GRFP; Ph.D., Comp. Sci., U. Chicago) \hfill 2015 – 2017
 
 # Service to the Profession
+
+_Panelist_, Amgen Scholars Summer Science Series \hfill 2020
 
 _Ad Hoc Reviewer_, PLOS Biology \hfill 2020
 
@@ -447,7 +449,7 @@ _Co-Chair_, Bioengineering and Computational Medicine Joint Hiring Search \hfill
 
 _Field Chair_, Biosystem Science and Engineering \hfill 2019 – Present
 
-_Admissions Committee Co-Chair_, Bioengineering \hfill 2019 – Present
+_Graduate Admissions Committee Co-Chair_, Bioengineering \hfill 2019 – Present
 
 _Undergraduate Curriculum Committee_, Bioengineering \hfill 2019 – Present
 
