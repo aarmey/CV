@@ -361,6 +361,8 @@ _Merrimack Pharmaceuticals_, Invited Oral Presentation \hfill January 2013
 
 # Service to the Profession
 
+_Ad Hoc Reviewer (2x)_, Science Advances \hfill 2020
+
 _Panelist_, Amgen Scholars Summer Science Series \hfill 2020
 
 _Ad Hoc Reviewer_, PLOS Biology \hfill 2020
