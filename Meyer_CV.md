@@ -419,6 +419,8 @@ _Ad Hoc Reviewer_, J. Cell Biol. \hfill 2011 – 2012
 
 # Service to UCLA
 
+_Written Qualifying Exam Evaluator_, Bioinformatics IDP \hfill 2020
+
 _Mentor_, B.I.G. Summer \hfill 2020
 
 _Member_, SPUR "Life of a Faculty Member" Panel \hfill 2020
