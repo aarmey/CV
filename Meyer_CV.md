@@ -486,10 +486,10 @@ Advisor: Grace Xiao
 Hiromi Miwa, Bioengineering\\
 Advisor: Dino Di Carlo
 
-\columnbreak
-
 Mark van Zee, Bioengineering\\
 Advisor: Dino Di Carlo
+
+\columnbreak
 
 Rob Dimatteo, Bioengineering\\
 Advisor: Dino Di Carlo
@@ -499,5 +499,8 @@ Advisor: Jonathan Kao
 
 Hector E Muñoz, Bioengineering\\
 Advisor: Dino Di Carlo
+
+Wei-Chia Elizabeth Luo, Bioengineering\\
+Advisor: Gerard Wong
 
 \end{multicols}
