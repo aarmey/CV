@@ -1,0 +1,33 @@
+name: Build
+
+# Controls when the action will run. Triggers the workflow on push or pull request
+# events but only for the master branch
+on: [push]
+
+jobs:
+  build:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-20.04
+
+    steps:
+    - uses: actions/checkout@v2
+
+    # Build products
+    - name: Build products
+      run: |
+        sudo apt update
+        sudo apt install pandoc texlive-latex-extra texlive-latex-base texlive-xetex texlive-extra-utils
+        pip3 install pandocfilters
+        make
+    - name: Upload lecture notes
+      uses: actions/upload-artifact@v2
+      with:
+        name: lectures
+        path: lectures/*.pdf
+    - name: Deploy 🚀
+      uses: JamesIves/github-pages-deploy-action@releases/v3
+      if: github.ref == 'refs/heads/master'
+      with:
+        ACCESS_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        BRANCH: gh-pages # The branch the action should deploy to.
+        FOLDER: website/_site # The folder the action should deploy.
