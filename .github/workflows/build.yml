@@ -13,12 +13,12 @@ jobs:
     - uses: actions/checkout@v2
 
     # Build products
-    - name: Build products
+    - name: Build
       run: |
         sudo apt update
         sudo apt install pandoc texlive-latex-extra texlive-latex-base texlive-xetex texlive-extra-utils
         make
-    - name: Upload lecture notes
+    - name: Upload files
       uses: actions/upload-artifact@v2
       with:
         name: files
