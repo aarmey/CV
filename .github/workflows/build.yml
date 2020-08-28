@@ -17,7 +17,6 @@ jobs:
       run: |
         sudo apt update
         sudo apt install pandoc texlive-latex-extra texlive-latex-base texlive-xetex texlive-extra-utils
-        pip3 install pandocfilters
         make
     - name: Upload lecture notes
       uses: actions/upload-artifact@v2
