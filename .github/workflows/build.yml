@@ -16,7 +16,7 @@ jobs:
     - name: Build
       run: |
         sudo apt update
-        sudo apt install pandoc texlive-latex-extra texlive-latex-base texlive-xetex texlive-extra-utils
+        sudo apt install pandoc texlive-latex-extra texlive-latex-base texlive-xetex texlive-extra-utils texlive-science
         make
     - name: Upload files
       uses: actions/upload-artifact@v2
