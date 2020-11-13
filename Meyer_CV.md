@@ -455,6 +455,8 @@ _Faculty Speaker_, UCLA Engineering Alumni Reunion \hfill 2018
 
 # Service to the Department
 
+_Member_, Strategic Planning Committee \hfill 2020
+
 _Co-Chair_, Bioengineering and Computational Medicine Joint Hiring Search \hfill 2019 – 2020
 
 _Field Chair_, Biosystem Science and Engineering \hfill 2019 – Present
