@@ -34,9 +34,6 @@ header-includes: |
   Massachusetts Institute of Technology (MIT) & Ph.D. & 6/2014 & Biological Engineering \\
 \end{tabular}
 
-
-\vspace{20pt}
-
 ## A. Personal Statement
 
 <!-- Briefly describe why you are well-suited for your role(s) in the project described in this application. The relevant factors may include aspects of your training; your previous experimental work on this specific topic or related topics; your technical expertise; your collaborators or scientific environment; and your past performance in this or related fields (you may mention specific contributions to science that are not included in Section C). -->
