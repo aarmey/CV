@@ -425,6 +425,8 @@ _Ad Hoc Reviewer_, J. Cell Biol. \hfill 2011 – 2012
 
 _Faculty Representative_, Samueli Engineering Grad School Info Session \hfill 2020
 
+_Faculty Representative_, Annual Biomedical Research Conference for Minority Students \hfill 2018, 2020
+
 _Curriculum Advisory Committee_, Computational & Systems Biology \hfill 2020 – Present
 
 _Written Qualifying Exam Evaluator_, Bioinformatics IDP \hfill 2020
@@ -450,8 +452,6 @@ _Faculty Advisor_, Tau Beta Pi \hfill 2017 – Present
 _Faculty Volunteer_, Amgen Scholars Symposium \hfill 2018, 2019
 
 _Member_, HSSEAS Awards Committee for Outstanding Student Awards \hfill 2018
-
-_Faculty Representative_, Annual Biomedical Research Conference for Minority Students \hfill 2018
 
 _Faculty Speaker_, UCLA Engineering Alumni Reunion \hfill 2018
 
