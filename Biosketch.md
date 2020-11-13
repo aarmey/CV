@@ -194,6 +194,24 @@ Invasion and dissemination of cells underlie many diseases including cancer. Stu
 
 ### Ongoing Research Support
 
+NCI Administrative Supplement \hfill 9/01/2020 – 8/30/2021   
+Mechanistic Autoencoders for Patient-Specific Phosphoproteomic Models   
+This project aims to integrate the machine learning concept of an autoencoder into a mechanistic model. This will be used to fit patient-derived phosphoproteomic data, to predict individualized responses to FLT3 inhibitors in AML. 
+
+Role: Co-PI
+
+American Cancer Society \hfill 1/1/2020 – 12/31/2023   
+Tissue-engineered models of glioblastoma for evaluating treatment responses   
+The major goal of this project is to characterize how well biomaterial-based models of GBM tumors recapitulate treatment responses across the patient population and within a single tumor composed of patient-specific, heterogeneous subpopulations.
+
+Role: Co-I
+
+Jayne Koskinas Ted Giovanis Fdn \hfill 9/1/2020 – 8/30/2022   
+Cell cycle-specific drug responses in breast cancer   
+We are developing lineage tree-based hidden Markov models as a way to analyze the plasticity of breast cancer cells. This is combined with live cell cycle reporters to quantify the cell cycle-specific effects of drug response.
+
+Role: Co-PI
+
 NIH U01-AI148119  \hfill  12/18/2019 – 11/30/2024   
 Mapping the effector response space of antibody combinations   
 We are extending a binding model for IgG-effector cell interaction to predict the effects of antibody combinations. With that, we will evaluate whether complex mixtures of antibodies have distinct properties from their constituents.
