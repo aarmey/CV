@@ -218,8 +218,6 @@ We are extending a binding model for IgG-effector cell interaction to predict th
 
 Role: Co-PI
 
-\cleardoublepage
-
 \vspace{12pt}
 Visterra, Inc.  \hfill  4/01/2019 – 3/30/2021   
 Modeling the IL-2 pathway to engineer cell-selective signaling   
