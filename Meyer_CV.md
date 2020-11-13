@@ -423,6 +423,8 @@ _Ad Hoc Reviewer_, J. Cell Biol. \hfill 2011 – 2012
 
 # Service to UCLA
 
+_Faculty Representative_, Samueli Engineering Grad School Info Session \hfill 2020
+
 _Curriculum Advisory Committee_, Computational & Systems Biology \hfill 2020 – Present
 
 _Written Qualifying Exam Evaluator_, Bioinformatics IDP \hfill 2020
