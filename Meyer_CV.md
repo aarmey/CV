@@ -361,6 +361,8 @@ _Merrimack Pharmaceuticals_, Invited Oral Presentation \hfill January 2013
 
 # Service to the Profession
 
+_Session Co-Chair_, Biomedical Engineering Society Annual Meeting \hfill 2020
+
 _Ad Hoc Reviewer_, Science Signaling \hfill 2020
 
 _Ad Hoc Reviewer (2x)_, Science Advances \hfill 2020
