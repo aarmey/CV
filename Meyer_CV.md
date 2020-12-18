@@ -185,7 +185,7 @@ UCLA, Department of Bioengineering
 - Mentored three capstone teams for the bioengineering senior design course
 - Poster competition winning team: 2018, 2019
 
-_Guest Speaker_, Introduction to Bioengineering \hfill 2017, 2019  
+_Guest Speaker_, Introduction to Bioengineering \hfill 2017, 2019, 2020  
 UCLA, Department of Bioengineering
 
 - Guest speaker to discuss research program and opportunities in bioengineering
@@ -361,6 +361,8 @@ _Merrimack Pharmaceuticals_, Invited Oral Presentation \hfill January 2013
 
 # Service to the Profession
 
+_Session Co-Chair_, Biomedical Engineering Society Annual Meeting \hfill 2020
+
 _Ad Hoc Reviewer_, Science Signaling \hfill 2020
 
 _Ad Hoc Reviewer (2x)_, Science Advances \hfill 2020
@@ -421,6 +423,12 @@ _Ad Hoc Reviewer_, J. Cell Biol. \hfill 2011 – 2012
 
 # Service to UCLA
 
+_Faculty Representative_, Samueli Engineering Grad School Info Session \hfill 2020
+
+_Faculty Representative_, Annual Biomedical Research Conference for Minority Students \hfill 2018, 2020
+
+_Curriculum Advisory Committee_, Computational & Systems Biology \hfill 2020 – Present
+
 _Written Qualifying Exam Evaluator_, Bioinformatics IDP \hfill 2020
 
 _Mentor_, B.I.G. Summer \hfill 2020
@@ -445,11 +453,11 @@ _Faculty Volunteer_, Amgen Scholars Symposium \hfill 2018, 2019
 
 _Member_, HSSEAS Awards Committee for Outstanding Student Awards \hfill 2018
 
-_Faculty Representative_, Annual Biomedical Research Conference for Minority Students \hfill 2018
-
 _Faculty Speaker_, UCLA Engineering Alumni Reunion \hfill 2018
 
 # Service to the Department
+
+_Member_, Strategic Planning Committee \hfill 2020
 
 _Co-Chair_, Bioengineering and Computational Medicine Joint Hiring Search \hfill 2019 – 2020
 
