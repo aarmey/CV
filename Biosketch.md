@@ -78,6 +78,30 @@ I have extensive experience with projects that merge quantitative molecular biol
 2018–Present
  ~ Member, Bioinformatics Interdepartmental Program, UCLA
 
+### Teaching Experience
+
+2019–Present
+ ~ Instructor, Integrated and Interdisciplinary Undergraduate Research Program, Undergraduate Research Center
+
+2018 – Present
+ ~ Instructor, Machine Learning & Data-Driven Modeling in Bioengineering, Department of Bioengineering, UCLA
+
+
+_Instructor_, Bioengineering Laboratory \hfill 2018 – Present  
+UCLA, Department of Bioengineering
+
+_Mentor_, Bioengineering Capstone \hfill 2017 – Present  
+UCLA, Department of Bioengineering
+
+_Guest Speaker_, Introduction to Bioengineering \hfill 2017, 2019, 2020  
+UCLA, Department of Bioengineering
+
+_Faculty of the Citizen Science Program_ \hfill July 2015 – January 2016  
+Bard College, Citizen Science Program, Annandale-on-Hudson, NY
+
+_Teaching Assistant_, Thermodynamics of Biomolecular Systems \hfill 2010  
+MIT, Department of Biological Engineering, Cambridge, MA
+
 ### Other Experience and Professional Memberships
 
 2010–Present
@@ -92,6 +116,9 @@ I have extensive experience with projects that merge quantitative molecular biol
 2017–Present
  ~ Chair, Association of Cancer Systems Biologists
 
+2019–Present
+ ~ Member, Out in Science, Technology, Engineering, and Mathematics (oSTEM)
+
 ### Honors
 
 2009
@@ -105,9 +132,6 @@ I have extensive experience with projects that merge quantitative molecular biol
 
 2012
  ~ Repligen Fellowship in Cancer Research, Koch Institute
-
-2012
- ~ Travel grant to attend PTMs in Cell Signaling Conference in Copenhagen, Denmark
 
 2013
  ~ Whitaker Fellowship, MIT
@@ -132,6 +156,21 @@ I have extensive experience with projects that merge quantitative molecular biol
 ## C. Contribution to Science
 
 <!-- Briefly describe up to five of your most significant contributions to science. For each contribution, indicate the historical background that frames the scientific problem; the central finding(s); the influence of the finding(s) on the progress of science or the application of those finding(s) to health or technology; and your specific role in the described work. For each of these contributions, reference up to four peer-reviewed publications or other non-publication research products (can include audio or video products; patents; data and research materials; databases; educational aids or curricula; instruments or equipment; models; protocols; and software or netware) that are relevant to the described contribution. The description of each contribution should be no longer than one half page including figures and citations. Also provide a URL to a full list of your published work as found in a publicly available digital database such as SciENcv or My Bibliography, which are maintained by the US National Library of Medicine. -->
+
+### Undergraduate and graduate research mentorship
+
+I see research as central to undergraduate education and an excellent activity to develop one’s communication skills and independent critical thinking. Undergraduate students in our lab are fully integrated into the research process, including presenting within lab meetings, meeting with me directly during weekly project-specific updates, and eventually independently defining their research direction. More experienced students also present in external campus and national settings, including at the QCBio Annual Retreat and the Biomedical Engineering Society Annual Meeting, and Annual Biomedical Research Conference for Minority Students (ABRCMS).
+
+The scale of undergraduate research in our lab speaks to its importance. I have mentored 30 undergraduate students for at least one quarter since 2017. The majority of these students spend 10–15 hours/week on research, continue for more than a year, and elect to receive BE 199 course credit. Currently, he mentors 10 undergraduates on independent research projects.
+
+Ensuring access to undergraduate research, particularly for students of diverse backgrounds, requires financially supporting their work. Prof. Meyer explicitly budgets funds for summer undergraduate student stipends in their grants and has consistently supported at least two students each summer full-time. His students have also received campus and national awards including from the Undergraduate Research Fellows Program, Undergraduate Research Scholars Program, Rose Hills Foundation Fellowship, NSF Graduate Research Fellowship, and Cathy Bank Scholarship.
+
+
+
+1. Farhat, A.M., A.C. Weiner, C. Posner, Z.S. Kim, B. Orcutt-Jahns, S.M. Carlson, **A.S. Meyer**. (2020). Modeling Cell-Specific Dynamics and Regulation of the Common Gamma Chain Cytokines. _bioRxiv._ 2020 March 19.
+2. Robinett, R.A., N. Guan, A. Lux, M. Biburger, F. Nimmerjahn, **A.S. Meyer**. (2018). Dissecting FcγR Regulation Through a Multivalent Binding Model. _Cell Systems._ 2018 July 25; 6(7): 1–8.
+
+4. Bae, S.Y., N. Guan, R. Yan, K. Warner, S.D. Taylor, **A.S. Meyer**. (2020). Measurement and models accounting for cell death capture hidden variation in compound response. _Cell Death & Disease_, 255(11), Apr 2020.
 
 
 ### Understanding and targeting receptor family communication
@@ -160,15 +199,6 @@ The benefits cancer patients derive from targeted therapies are limited by genet
 2. Miller, M.A., M.J. Oudin, R.J. Sullivan, S.J. Wang, **A.S. Meyer**, H. Im, D.T. Frederick, J. Tadros, L.G. Griffith, H. Lee, R. Weissleder, K.T. Flaherty, F.B. Gertler, D.A. Lauffenburger. (2016). Reduced Proteolytic Shedding of Receptor Tyrosine Kinases is a Post-Translational Mechanism of Kinase Inhibitor Resistance. _Cancer Discovery_, 6(4):331--333, April 2016. PMCID: 5087317.
 3. M.A. Miller, M.L. Moss, G. Powell, R. Petrovich, L. Edwards, **A.S. Meyer**, Linda G. Griffith, D.A. Lauffenburger. Targeting autocrine HB-EGF signaling with specific ADAM12 inhibition using recombinant ADAM12 prodomain. _Scientific Reports_, 5:15150 EP --, October 2015. PMCID: 4609913.
 4. Schwartz, A.D., L.E. Barney, L.E. Jansen, T.V. Nguyen, C.L. Hall, **A.S. Meyer**, S. Peyton. (2017). A Biomaterial Screening Approach to Reveal Microenvironmental Mechanisms of Drug Resistance. _Integrative Biology_. 2017 Dec 11; 9(12):912-924. PMCID: PMC5725273.
-
-### Migration and metastasis mechanisms
-
-Invasion and dissemination of cells underlie many diseases including cancer. Studying these processes is hindered by the complex regulation and the multiple biophysical steps involved. In earlier work, we quantified the growth factor responsiveness of cell migration overall and individual processes involved in cell migration, then compared each condition in its 3D invasion through the extracellular matrix (1). This identified that these same individual processes still regulated migration in 3D, but that the overall rate-limiting steps and thus migration response were different. By studying the signaling (3) and protease (2) regulation of migration, we then linked these processes and invasion to identify therapeutic possibilities.
-
-1. **Meyer, A.S.**, S.K. Hughes-Alford, J.E. Kay, A. Castillo, A. Wells, F.B. Gertler, D.A. Lauffenburger (2012). 2D protrusion but not motility predicts growth factor-induced cancer cell migration in 3D collagen. _Journal of Cell Biology_, 197(6), 721-729. PMCID: 3373410.
-2. Miller, M.A.^‡^, **A.S. Meyer**^‡^, M. Beste, Z. Lasisi, S. Reddy, Jeng, K., Chen, C.-H., Han, J., Isaacson, K., Griffith, L.G., Lauffenburger, D.A. (2013). ADAM-10 and -17 regulate endometriotic cell migration via concerted ligand and receptor shedding feedback on kinase signaling. _Proc. Natl. Acad. Sci. USA_, 110(22), E2074-E2083. PMCID: 3670354. ^‡^Equal contribution.
-3. Kim, H.D., **Meyer, A.S.**, Wagner, J.P., Alford, S.K., Wells, A., Gertler, F.B., Lauffenburger, D.A. (2011). Signaling network state predicts Twist-mediated effects on breast cell migration across diverse growth factor contexts. _Molecular & Cellular Proteomics_, 10(11), M111.008433. PMCID: 3226401.
-4. Riquelme, D.N., **A.S. Meyer**, M. Barzik, A. Keating, F.B. Gertler. (2015). Selectivity in Subunit Composition of Ena/VASP Tetramers. _Bioscience Reports_, 2015. PMCID: 4721544.
 
 **Complete List: <https://www.ncbi.nlm.nih.gov/myncbi/aaron.meyer.1/bibliography/public/>**
 
@@ -208,22 +238,3 @@ NIH U01-CA215709  \hfill  9/01/2017 – 8/30/2022
 Precision Lung Cancer Therapy Design Through Multiplexed Adapter Measurement   
 We propose to develop a global picture of bypass resistance mediated by receptor tyrosine kinases (RTKs) not targeted by therapy. By examining multiple RTKs variable in their resistance-promoting capacity at once, we will be able to determine features essential to the development of resistance.   
 Role: Co-PI
-
-### Completed Research Support
-
-UCLA Hellman Fellows Program  \hfill  7/01/2019 – 6/30/2020   
-Engineering anti-tumor antibody combinations for more effective and less toxic therapies   
-This project uses a binding model of IgG-FcγR engagement to predict combinations of anti-tumor antibodies that operate synergistically together.   
-Role: PI
-
-\vspace{12pt}
-NIH DP5-OD019815  \hfill  9/22/2014 – 9/1/2019  
-Adapter-Layer RTK Signaling: Basic Understanding & Targeted Drug Resistance  
-The goal of this project was to study sets of resistance mechanisms to RTK-targeted therapies, to identify commonalities and ways to determine which mechanism may be driving individual tumors.   
-Role: PI
-
-\vspace{12pt}
-Foundation Grant \hfill 7/1/2017 – 6/30/2019  
-Terri Brodeur Breast Cancer Foundation  
-This project used a computational model to direct the design of new inhibitors for the TAM receptors. Using these well-characterized compounds, we examined the effects of inhibiting different TAM receptor complements.   
-Role: PI
