@@ -40,6 +40,8 @@ header-includes: |
 
 I have a background in biological engineering, with training in applied machine learning, cell signaling, and pharmacodynamics. My research broadly applies integrated experimental and theoretical approaches to study the complex signaling that underlies cell-to-cell communication and resistance to therapies. My lab is particularly interested in how signaling cues operate in combination to direct cancer and immune effector cell behavior and how we might optimally target their dysregulation. For example, my previous work has shown how (1) to use a pharmacodynamic model of IL-2 signaling across cell populations to engineer cell-specific cytokines, (2) IgG antibody effector function is transduced through multiple receptors and effector cells, (3) an RTK family expressed in cancer and innate immune cells is activated in response to extracellular cues in the tumor microenvironment, and (4) receptor crosstalk is a mechanism of signal diversification promoting breast tumor invasion.
 
+UCLA Computational Biosciences Post-Baccalaureate Research Education Program
+
 I have extensive experience with projects that merge quantitative molecular biology with computational analysis such as in the work described here. This experience includes a track record of success mentoring graduate students, postdoctoral associates, and technical associates.
 
 1. Farhat, A.M., A.C. Weiner, C. Posner, Z.S. Kim, B. Orcutt-Jahns, S.M. Carlson, **A.S. Meyer**. (2020). Modeling Cell-Specific Dynamics and Regulation of the Common Gamma Chain Cytokines. _bioRxiv._ 2020 March 19.
