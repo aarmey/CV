@@ -82,26 +82,26 @@ I have extensive experience with projects that merge quantitative molecular biol
 
 ### Teaching Experience
 
-2019–Present
- ~ Instructor, Integrated and Interdisciplinary Undergraduate Research Program, Undergraduate Research Center
-
-2018 – Present
- ~ Instructor, Machine Learning & Data-Driven Modeling in Bioengineering, Department of Bioengineering, UCLA
-
-2018 – Present
- ~ Instructor, Bioengineering Laboratory, Department of Bioengineering, UCLA
-
-2017 – Present
- ~ Mentor, Bioengineering Capstone, Department of Bioengineering, UCLA
-
-2017, 2019, 2020
- ~ Guest Speaker, Introduction to Bioengineering, Department of Bioengineering, UCLA
+2010
+ ~ Teaching Assistant, Thermodynamics of Biomolecular Systems, Department of Biological Engineering, MIT
 
 July 2015 – January 2016
  ~ Faculty of the Citizen Science Program, Bard College
 
-2010
- ~ Teaching Assistant, Thermodynamics of Biomolecular Systems, Department of Biological Engineering, MIT
+2017, 2019, 2020
+ ~ Guest Speaker, Introduction to Bioengineering, Department of Bioengineering, UCLA
+
+2017 – Present
+ ~ Mentor, Bioengineering Capstone, Department of Bioengineering, UCLA
+
+2018 – Present
+ ~ Instructor, Bioengineering Laboratory, Department of Bioengineering, UCLA
+
+2018 – Present
+ ~ Instructor, Machine Learning & Data-Driven Modeling in Bioengineering, Department of Bioengineering, UCLA
+
+2019–Present
+ ~ Instructor, Integrated and Interdisciplinary Undergraduate Research Program, Undergraduate Research Center
 
 ### Other Experience and Professional Memberships
 
