@@ -83,7 +83,7 @@ I have extensive experience with projects that merge quantitative molecular biol
 ### Teaching Experience
 
 2010
- ~ Teaching Assistant, Thermodynamics of Biomolecular Systems, Department of Biological Engineering, MIT
+ ~ Teaching Assistant, Thermodynamics of Biomolecular Systems, Biological Engineering, MIT
 
 July 2015 – January 2016
  ~ Faculty of the Citizen Science Program, Bard College
@@ -101,7 +101,7 @@ July 2015 – January 2016
  ~ Instructor, Machine Learning & Data-Driven Modeling in Bioengineering, Department of Bioengineering, UCLA
 
 2019–Present
- ~ Instructor, Integrated and Interdisciplinary Undergraduate Research Program, Undergraduate Research Center
+ ~ Instructor, Integrated and Interdisciplinary Undergraduate Research Program, UCLA
 
 ### Other Experience and Professional Memberships
 
