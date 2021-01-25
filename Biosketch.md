@@ -46,7 +46,7 @@ Ensuring access to undergraduate research, particularly for students of diverse 
 
 1. _Murphy, M._, S.D. Taylor, **A.S. Meyer.** (2021). Structured decomposition improves systems serology prediction and interpretation. _bioRxiv_ [Preprint]. 2021 Jan 4.
 2. _Farhat, A.M., A.C. Weiner_, C. Posner, _Z.S. Kim_, B. Orcutt-Jahns, S.M. Carlson, **A.S. Meyer**. (2020). Modeling Cell-Specific Dynamics and Regulation of the Common Gamma Chain Cytokines. _bioRxiv_ [Preprint]. 2020 March 19.
-3. Bae, S.Y., _N. Guan, R. Yan, K. Warner_, S.D. Taylor, **A.S. Meyer**. (2020). Measurement and models accounting for cell death capture hidden variation in compound response. _Cell Death & Disease_, 255(11), 2020 Apr.
+3. Bae, S.Y., _N. Guan, R. Yan, K. Warner_, S.D. Taylor, **A.S. Meyer**. (2020). Measurement and models accounting for cell death capture hidden variation in compound response. _Cell Death & Disease_, 255(11), 2020 Apr. PMCID: 7171175.
 4. _Robinett, R.A., N. Guan_, A. Lux, M. Biburger, F. Nimmerjahn, **A.S. Meyer**. (2018). Dissecting FcγR Regulation Through a Multivalent Binding Model. _Cell Systems._ 2018 July 25; 6(7): 1–8. PMCID: 6062446.
 
 
@@ -175,8 +175,8 @@ Studying complex signaling requires approaches tailored to the biologic system a
 
 1. Farhat, A.M., A.C. Weiner, C. Posner, Z.S. Kim, B. Orcutt-Jahns, S.M. Carlson, **A.S. Meyer**. (2020). Modeling Cell-Specific Dynamics and Regulation of the Common Gamma Chain Cytokines. _bioRxiv_ [Preprint]. 2020 March 19.
 2. **Meyer, A.S.**^†^, A.J.M. Zweemer, D.A. Lauffenburger^†^. (2015). The AXL Receptor Is a Sensor of Ligand Spatial Heterogeneity. _Cell Systems_, 1(1):25–36. PMCID: 4520549. ^†^Co-corresponding authors.
-3. Lee, C.H., T.H. Kang, O. Godon, M. Watanabe, G. Delidakis, C.M. Gillis, D. Sterlin, D. Hardy, M. Cogné, L.E. Macdonald, A.J. Murphy, N. Tu, J. Lee, J.R. McDaniel, E. Makowski, P.M. Tessier, **A.S. Meyer**, P. Bruhns, G. Georgiou. (2019). An engineered human Fc domain that behaves like a pH-toggle switch for ultra-long circulation persistence. _Nature Communications_, 10(1):5031, Nov 2019.
-4. Bae, S.Y., N. Guan, R. Yan, K. Warner, S.D. Taylor, **A.S. Meyer**. (2020). Measurement and models accounting for cell death capture hidden variation in compound response. _Cell Death & Disease_, 255(11), Apr 2020.
+3. Lee, C.H., T.H. Kang, O. Godon, M. Watanabe, G. Delidakis, C.M. Gillis, D. Sterlin, D. Hardy, M. Cogné, L.E. Macdonald, A.J. Murphy, N. Tu, J. Lee, J.R. McDaniel, E. Makowski, P.M. Tessier, **A.S. Meyer**, P. Bruhns, G. Georgiou. (2019). An engineered human Fc domain that behaves like a pH-toggle switch for ultra-long circulation persistence. _Nature Communications_, 10(1):5031, Nov 2019. PMCID: 6834678.
+4. Bae, S.Y., N. Guan, R. Yan, K. Warner, S.D. Taylor, **A.S. Meyer**. (2020). Measurement and models accounting for cell death capture hidden variation in compound response. _Cell Death & Disease_, 255(11), Apr 2020. PMCID: 7171175.
 
 ### Therapeutic resistance and design
 
