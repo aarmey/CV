@@ -369,7 +369,7 @@ _Ad Hoc Reviewer (2x)_, Science Advances \hfill 2020
 
 _Panelist_, Amgen Scholars Summer Science Series \hfill 2020
 
-_Ad Hoc Reviewer_, PLOS Biology \hfill 2020
+_Ad Hoc Reviewer_, PLOS Biology \hfill 2020, 2021
 
 _Ad Hoc Reviewer_, Cancer Research \hfill 2020
 
