@@ -43,7 +43,7 @@ Tan, Z.C., and **A.S. Meyer**. ["A general model of multivalent ligand binding w
 
 Murphy, M., S.D. Taylor, and **A.S. Meyer**. ["Structured decomposition improves systems serology prediction and interpretation."](https://www.biorxiv.org/content/10.1101/2021.01.03.425138v2) _bioRxiv._ 2021 Jan 22. _Submitted._
 
-Tan, Z.C., B. Orcutt-Jahns, and **A.S. Meyer** ["A quantitative view of strategies to engineer cell-selective ligand binding."](https://www.biorxiv.org/content/10.1101/2020.11.25.398974v1) _bioRxiv._ 2020 Dec 1. _Submitted._
+Tan, Z.C., B. Orcutt-Jahns, and **A.S. Meyer**. ["A quantitative view of strategies to engineer cell-selective ligand binding."](https://www.biorxiv.org/content/10.1101/2020.11.25.398974v1) _bioRxiv._ 2020 Dec 1. _Submitted._
 
 Majumder, A., S. Hosseinian, M. Stroud, E. Adhikari, J. Saller, M.A. Smith, G. Zhang, S. Agarwal, F. Kinose, K. Browers, B. Fang, P. Stewart, E.A. Welsh, T.A. Boyle, **A.S. Meyer**, J.M. Koomen, and E.B. Haura. "Proteomic Characterization of AXL Kinase Inhibitors and Signaling Pathways." _Submitted._
 
