@@ -37,17 +37,17 @@ Department of Bioengineering, University of California, Los Angeles, CA
 \leftskip 0.1in
 \parindent -0.1in
 
-Orcutt-Jahns, B., Z. Kim, P. Emmel, C. Posner, S.M. Carlson, and **A.S. Meyer**. "Moment propagation enables model fitting to single cell measurements." _In preparation._
+Tan, Z.C., and **A.S. Meyer**. ["A general model of multivalent ligand binding with ligands of heterotypic subunits and multiple surface receptors."](https://biorxiv.org/cgi/content/short/2021.03.10.434776v1) _bioRxiv._ 2021 Mar 11. _Submitted._
 
 \parskip 0.1in
 
-Tan, C., B. Orcutt-Jahns, and **A.S. Meyer**. "Exploiting multivalency for engineering cell-selective therapies." _In preparation._
+Murphy, M., S.D. Taylor, and **A.S. Meyer**. ["Structured decomposition improves systems serology prediction and interpretation."](https://www.biorxiv.org/content/10.1101/2021.01.03.425138v2) _bioRxiv._ 2021 Jan 22. _Submitted._
 
-Visagan, S., F. Mohammadi, and **A.S. Meyer**. "Tracking tumor cell plasticity in single cell populations using lineage tree-based hidden Markov models." _In preparation._
+Tan, Z.C., B. Orcutt-Jahns, and **A.S. Meyer** ["A quantitative view of strategies to engineer cell-selective ligand binding."](https://www.biorxiv.org/content/10.1101/2020.11.25.398974v1) _bioRxiv._ 2020 Dec 1. _Submitted._
 
 Majumder, A., S. Hosseinian, M. Stroud, E. Adhikari, J. Saller, M.A. Smith, G. Zhang, S. Agarwal, F. Kinose, K. Browers, B. Fang, P. Stewart, E.A. Welsh, T.A. Boyle, **A.S. Meyer**, J.M. Koomen, and E.B. Haura. "Proteomic Characterization of AXL Kinase Inhibitors and Signaling Pathways." _Submitted._
 
-Farhat, A.M., A.C. Weiner, C. Posner, Z.S. Kim, B. Orcutt-Jahns, S.M. Carlson, and **A.S. Meyer**. ["Modeling Cell-Specific Dynamics and Regulation of the Common Gamma Chain Cytokines."](https://www.biorxiv.org/content/10.1101/778894v2) _bioRxiv._ 2020 Mar 19. _Submitted._
+Farhat, A.M., A.C. Weiner, C. Posner, Z.S. Kim, B. Orcutt-Jahns, S.M. Carlson, and **A.S. Meyer**. ["Modeling Cell-Specific Dynamics and Regulation of the Common Gamma Chain Cytokines."](https://www.biorxiv.org/content/10.1101/778894v2) _Cell Reports._ 2021 Mar 1. _Accepted._
 
 Bae, S.Y., N. Guan, R. Yan, K. Warner, S.D. Taylor, and **A.S. Meyer**. ["Measurement and models accounting for cell death capture hidden variation in compound response."](https://www.nature.com/articles/s41419-020-2462-8) _Cell Death & Disease._, 2020 Apr 20; 255(11). 
 
