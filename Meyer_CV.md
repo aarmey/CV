@@ -98,6 +98,8 @@ Mashayekhi, F., **A.S. Meyer**, S.A. Shiigi, V. Nguyen, D.T. Kamei. ["Concentrat
 
 # Research Support & Awards
 
+_Northrop Grumman Excellence in Teaching Award_ \hfill 2021  
+
 _American Cancer Society, Research Scholar Grant (co-I)_  \hfill 2020 – 2023  
 "Tissue-engineered models of glioblastoma for evaluating treatment responses"
 
