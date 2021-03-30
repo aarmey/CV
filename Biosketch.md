@@ -144,7 +144,7 @@ Receptor families can have many ligands and receptors while being expressed in d
 1. Farhat, A.M., A.C. Weiner, C. Posner, Z.S. Kim, B. Orcutt-Jahns, S.M. Carlson, **A.S. Meyer**. (2021). Modeling Cell-Specific Dynamics and Regulation of the Common Gamma Chain Cytokines. _Cell Reports._ _Accepted._
 2. Robinett, R.A., N. Guan, A. Lux, M. Biburger, F. Nimmerjahn, **A.S. Meyer**. (2018). Dissecting FcγR Regulation Through a Multivalent Binding Model. _Cell Systems._ 6(7): 1–8. PMCID: 6062446.
 3. **Meyer, A.S.**^†^, A.J.M. Zweemer, D.A. Lauffenburger^†^. (2015). The AXL Receptor Is a Sensor of Ligand Spatial Heterogeneity. _Cell Systems_, 1(1):25--36. PMCID: 4520549. ^†^Co-corresponding authors.
-4. Tan, Z.C., B. Orcutt-Jahns, **A.S. Meyer**. (2020). A quantitative view of strategies to engineer cell-selective ligand binding. _bioRXiv._ 
+4. Tan, Z.C., B. Orcutt-Jahns, **A.S. Meyer**. (2020). A quantitative view of strategies to engineer cell-selective ligand binding. _bioRXiv._ 2020.11.25.398974 [Preprint].
 
 ### Problem-driven computational methods development
 
