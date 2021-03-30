@@ -127,6 +127,9 @@ I have extensive experience with projects that merge quantitative molecular biol
 2019
  ~ UCLA Faculty Career Development Award
 
+2021
+ ~ Northrop Grumman Excellence in Teaching Award
+
 <!-- TODO: Add selected presentations? -->
 
 ## C. Contribution to Science
