@@ -201,7 +201,7 @@ We are extending a binding model for IgG-effector cell interaction to predict th
 Role: Co-PI
 
 \vspace{12pt}
-Visterra, Inc.  \hfill  4/01/2019 – 3/30/2021   
+Visterra, Inc.  \hfill  4/01/2019 – 5/31/2021   
 Modeling the IL-2 pathway to engineer cell-selective signaling   
 This project applies a binding and activation model of the common gamma chain receptor cytokines to identify engineered changes in ligand affinity that translate to changes in cell selectivity.   
 Role: PI
