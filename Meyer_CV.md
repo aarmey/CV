@@ -202,6 +202,12 @@ MIT, Department of Biological Engineering, Cambridge, MA
 
 # Conference & Invited Presentations
 
+_CSHL Systems Immunology_, Selected Oral Presentation \hfill April 2021  
+"Developing a Mechanistic View of Mixed IgG Antibody Immune Effector Responses."
+
+_International Conference on Biomolecular Engineering_, Selected Oral Presentation \hfill January 2021  
+"Developing a Mechanistic View of Mixed IgG Antibody Immune Effector Responses."
+
 _Buffalo Quantitative Systems Pharmacology Symposium_, Invited Speaker \hfill July 2020  
 "Deeply profiling pharmacodynamic response with single cell dynamics."  
 _Postponed due to COVID-19._
