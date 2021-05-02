@@ -205,8 +205,14 @@ MIT, Department of Biological Engineering, Cambridge, MA
 _CSHL Systems Immunology_, Selected Oral Presentation \hfill April 2021  
 "Developing a Mechanistic View of Mixed IgG Antibody Immune Effector Responses."
 
+_University of Massachusetts, Mol & Cell Biol Program_, Invited Seminar \hfill March 2021  
+"Mixture models of cell populations and signaling to understand heterogeneous drug response."
+
 _International Conference on Biomolecular Engineering_, Selected Oral Presentation \hfill January 2021  
 "Developing a Mechanistic View of Mixed IgG Antibody Immune Effector Responses."
+
+_Vanderbilt University, QSBC Center_, Invited Center Seminar \hfill October 2020  
+"Mixture models of cell populations and signaling to understand heterogeneous drug response."
 
 _Buffalo Quantitative Systems Pharmacology Symposium_, Invited Speaker \hfill July 2020  
 "Deeply profiling pharmacodynamic response with single cell dynamics."  
