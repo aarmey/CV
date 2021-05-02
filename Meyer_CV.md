@@ -495,24 +495,24 @@ Miller, M.A., M.J. Oudin, **A.S. Meyer**, L.G. Griffith, F.B. Gertler, D.A. Lauf
 
 \begin{multicols}{2}
 
-Daniel Bradbury, Bioengineering\\
+Daniel Bradbury, Bioengineering  
 Advisor: Daniel Kamei
 
-Giovanni Valdez, Bioengineering\\
+Giovanni Valdez, Bioengineering  
 Advisor: Grace Xiao
 
-Hiromi Miwa, Bioengineering\\
+Hiromi Miwa, Bioengineering  
 Advisor: Dino Di Carlo
 
-Mark van Zee, Bioengineering\\
+Mark van Zee, Bioengineering  
+Advisor: Dino Di Carlo
+
+Rob Dimatteo, Bioengineering  
 Advisor: Dino Di Carlo
 
 \columnbreak
 
-Rob Dimatteo, Bioengineering\\
-Advisor: Dino Di Carlo
-
-Alexander Wickstrom, Bioengineering (M.S.)\\
+Alexander Wickstrom, Bioengineering (M.S.)  
 Advisor: Jonathan Kao
 
 Hector E Muñoz, Bioengineering  
@@ -523,5 +523,8 @@ Advisor: Gerard Wong
 
 Mohammadali Alidoost, Bioengineering  
 Advisor: X. Sharon Qi
+
+Cameron S. Movassaghi, Chemistry  
+Advisor: Anne M. Andrews
 
 \end{multicols}
