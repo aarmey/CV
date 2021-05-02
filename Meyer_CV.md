@@ -200,7 +200,7 @@ Bard College, Citizen Science Program, Annandale-on-Hudson, NY
 _Teaching Assistant_, Thermodynamics of Biomolecular Systems \hfill 2010  
 MIT, Department of Biological Engineering, Cambridge, MA
 
-# Conference & Invited Presentations
+# Conference & Invited Presentations (Last Five Years)
 
 _CSHL Systems Immunology_, Selected Oral Presentation \hfill April 2021  
 "Developing a Mechanistic View of Mixed IgG Antibody Immune Effector Responses."
@@ -287,47 +287,6 @@ _FASEB Protein Kinase Signaling Network Regulation_, Invited Oral Presentation \
 
 _Univ. of Calif., Irvine, Center for Complex Biological Systems_, Invited Departmental Speaker \hfill May 2016  
 "Data-driven design of targeted therapies and immunotherapies for cancer."
-
-_Systems Approaches to Cancer Biology_, NCI Invited Oral Presentation \hfill April 2016  
-"Looking across resistance mechanisms to identify molecular commonalities and precision therapy approaches."
-
-_Applied Math in Germinating Oncology Solutions Workshop_, NCI Invited Participant \hfill March 2016
-
-_NIH Common Fund High-Risk High-Reward Symposium_ \hfill December 2015  
-"Conserved RTK-intrinsic signaling consequences result in distinct bypass resistance capacity dependent upon pathway dependencies."
-
-_Harvard Medical School, Brugge lab_, Invited Oral Presentation \hfill November 2015  
-"Conserved RTK-intrinsic signaling consequences result in distinct bypass resistance capacity dependent upon pathway dependencies."
-
-_Biomedical Engineering Society Annual Meeting_ \hfill October 2015  
-"Conserved RTK-intrinsic signaling consequences result in distinct bypass resistance capacity dependent upon pathway dependencies."
-
-_ICBP Principal Investigators Meeting_ \hfill May 2015  
-"Conserved RTK-intrinsic signaling consequences result in distinct bypass resistance capacity dependent upon pathway dependencies."
-
-_NIH Common Fund High-Risk High-Reward Symposium_ \hfill December 2014  
-"Adapter-Layer Integration of RTK Signaling: Basic Understanding and Application to Prediction of Targeted Drug Resistance."
-
-_Biomedical Engineering Society Annual Meeting_, Selected Oral Presentation \hfill October 2014  
-"AXL Is a Spatial Ligand Differentiation Sensor."
-
-_Interdisciplinary Signaling Workshop_, Selected Oral Presentation \hfill July 2014  
-"AXL Is a Spatial Ligand Differentiation Sensor."
-
-_ICBP Principal Investigators Meeting_ \hfill May 2014  
-"AXL is a spatial ligand differentiation sensor."
-
-_AACR Molecular Targets and Cancer Therapeutics_ \hfill October 2013  
-"AXL amplifies EGFR signaling and drives resistance in triple negative breast carcinoma cells."
-
-_Merrimack Pharmaceuticals_, Invited Oral Presentation \hfill October 2013  
-"AXL is a spatial ligand differentiation sensor."
-
-_ICBP Principal Investigators Meeting_ \hfill May 2013  
-"AXL amplifies EGFR signaling and drives resistance in triple negative breast carcinoma cells."
-
-_Merrimack Pharmaceuticals_, Invited Oral Presentation \hfill January 2013  
-"AXL amplifies EGFR signaling and drives resistance in triple negative breast carcinoma cells."
 
 # Research Supervision
 
@@ -501,36 +460,36 @@ Miller, M.A., M.J. Oudin, **A.S. Meyer**, L.G. Griffith, F.B. Gertler, D.A. Lauf
 
 \begin{multicols}{2}
 
-Daniel Bradbury, Bioengineering  
+Daniel Bradbury, Bioengineering\\
 Advisor: Daniel Kamei
 
-Giovanni Valdez, Bioengineering  
+Giovanni Valdez, Bioengineering\\
 Advisor: Grace Xiao
 
-Hiromi Miwa, Bioengineering  
+Hiromi Miwa, Bioengineering\\
 Advisor: Dino Di Carlo
 
-Mark van Zee, Bioengineering  
+Mark van Zee, Bioengineering\\
 Advisor: Dino Di Carlo
 
-Rob Dimatteo, Bioengineering  
+Rob Dimatteo, Bioengineering\\
 Advisor: Dino Di Carlo
 
 \columnbreak
 
-Alexander Wickstrom, Bioengineering (M.S.)  
+Alexander Wickstrom, Bioengineering (M.S.)\\
 Advisor: Jonathan Kao
 
-Hector E Muñoz, Bioengineering  
+Hector E Muñoz, Bioengineering\\
 Advisor: Dino Di Carlo
 
-Wei-Chia Elizabeth Luo, Bioengineering  
+Wei-Chia Elizabeth Luo, Bioengineering\\
 Advisor: Gerard Wong
 
-Mohammadali Alidoost, Bioengineering  
+Mohammadali Alidoost, Bioengineering\\
 Advisor: X. Sharon Qi
 
-Cameron S. Movassaghi, Chemistry  
+Cameron S. Movassaghi, Chemistry\\
 Advisor: Anne M. Andrews
 
 \end{multicols}
