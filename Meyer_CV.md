@@ -509,10 +509,13 @@ Advisor: Dino Di Carlo
 Alexander Wickstrom, Bioengineering (M.S.)\\
 Advisor: Jonathan Kao
 
-Hector E Muñoz, Bioengineering\\
+Hector E Muñoz, Bioengineering  
 Advisor: Dino Di Carlo
 
-Wei-Chia Elizabeth Luo, Bioengineering\\
+Wei-Chia Elizabeth Luo, Bioengineering  
 Advisor: Gerard Wong
+
+Mohammadali Alidoost, Bioengineering  
+Advisor: X. Sharon Qi
 
 \end{multicols}
