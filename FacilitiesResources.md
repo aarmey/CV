@@ -25,8 +25,4 @@ All members of the Meyer lab receive regular feedback and career planning formal
 
 **Shared Resources:**
 
-As a member of the Jonsson Cancer Center and the Broad Stem Cell Center, Dr. Meyer has access to extensive resources within the core facilities including flow cytometry, genomics, molecular screening, small animal imaging, translational pathology, high-throughput sequencing, imaging, and biostatistics. These services are available to members of the centers at a subsidized rate. Particularly relevant to the work proposed here:
-
-The Advanced Light Microscopy/ Spectroscopy Core is housed within the California NanoSystems Institute and provides consultation, services, and support for the application of novel spectroscopic methods and advanced image analysis techniques for the study of macromolecules, cellular dynamics and nanoscale characterization of bio-materials.
-
-The Janis V. Giorgi Flow Cytometry Core Laboratory is a part of the UCLA medical school and offers consultation, services, and support for flow analysis and sorting. As a member of the Jonsson Comprehensive Cancer Center, the Meyer lab receives a discounted rate on all services.
+As a member of the Jonsson Cancer Center and the Broad Stem Cell Center, Dr. Meyer has access to extensive resources within the core facilities including flow cytometry, genomics, molecular screening, small animal imaging, translational pathology, high-throughput sequencing, imaging, and biostatistics. These services are available to members of the centers at a subsidized rate.
