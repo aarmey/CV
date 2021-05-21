@@ -158,7 +158,7 @@ July 2015 – January 2016
 
 <!-- TODO: Add selected presentations? -->
 
-## C. Contribution to Science
+## C. Contributions to Science
 
 <!-- Briefly describe up to five of your most significant contributions to science. For each contribution, indicate the historical background that frames the scientific problem; the central finding(s); the influence of the finding(s) on the progress of science or the application of those finding(s) to health or technology; and your specific role in the described work. For each of these contributions, reference up to four peer-reviewed publications or other non-publication research products (can include audio or video products; patents; data and research materials; databases; educational aids or curricula; instruments or equipment; models; protocols; and software or netware) that are relevant to the described contribution. The description of each contribution should be no longer than one half page including figures and citations. Also provide a URL to a full list of your published work as found in a publicly available digital database such as SciENcv or My Bibliography, which are maintained by the US National Library of Medicine. -->
 
