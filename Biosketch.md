@@ -38,14 +38,14 @@ header-includes: |
 
 <!-- Briefly describe why you are well-suited for your role(s) in the project described in this application. The relevant factors may include aspects of your training; your previous experimental work on this specific topic or related topics; your technical expertise; your collaborators or scientific environment; and your past performance in this or related fields (you may mention specific contributions to science that are not included in Section C). -->
 
-Our lab's focus on undergraduate research and preparing students for graduate training makes it an excellent environment for the UCLA Computational Biosciences Post-Baccalaureate Research Education Program. I see research as central to undergraduate education and an excellent activity to develop one’s communication skills and independent critical thinking. Undergraduate students in our lab are fully integrated into the research process, including presenting within lab meetings, meeting with me directly during weekly project-specific updates, and eventually independently defining their research direction. More experienced students also present in external campus and national settings, including at the QCBio Annual Retreat and the Biomedical Engineering Society Annual Meeting, and Annual Biomedical Research Conference for Minority Students (ABRCMS).
+Our lab's focus on undergraduate research and preparing students for graduate training makes it an excellent environment for our NIH R25 proposal on cancer genomics. I see research as central to undergraduate education and an excellent activity to develop one’s communication skills and independent critical thinking. Undergraduate students in our lab are fully integrated into the research process, including presenting within lab meetings, meeting with me directly during weekly project-specific updates, and eventually independently defining their research direction. More experienced students also present in external campus and national settings, including at the QCBio Annual Retreat and the Biomedical Engineering Society Annual Meeting, and Annual Biomedical Research Conference for Minority Students (ABRCMS).
 
 The scale of undergraduate research in our lab speaks to its importance. I have mentored over 30 undergraduate students for at least one quarter since moving to UCLA in 2017. The majority of these students spend 10–15 hours/week on research, continue for more than a year, and elect to receive course credit. Currently, I mentor 10 undergraduates on independent research projects. Authors who participated as undergraduate researchers in our lab are italicized below. Additionally, S.D. Taylor and C. Posner participated as post-baccaulaureate staff and have now gone on to graduate training.
 
 Ensuring access to undergraduate research, particularly for students of diverse backgrounds, requires financially supporting their work. I explicitly budget funds for summer undergraduate student stipends in our grants and have consistently supported at least two students each summer full-time. Our students have also received campus and national awards including from the Undergraduate Research Fellows Program, Undergraduate Research Scholars Program, Rose Hills Foundation Fellowship, NSF Graduate Research Fellowship, and Cathy Bank Scholarship. To ensure that I am offering the best possible training environment for our diverse lab members, I have undergone mentorship training through programs in Out in Science, Technology, Engineering, and Mathematics; the Citizen Science Program; and the Biomedical Engineering Society. I am scheduled to complete mentorship training at UCLA in the coming months as well.
 
 1. _Murphy, M._, S.D. Taylor, **A.S. Meyer.** (2021). Structured decomposition improves systems serology prediction and interpretation. _bioRxiv_ [Preprint]. 2021 Jan 4.
-2. _Farhat, A.M., A.C. Weiner_, C. Posner, _Z.S. Kim_, B. Orcutt-Jahns, S.M. Carlson, **A.S. Meyer**. (2020). Modeling Cell-Specific Dynamics and Regulation of the Common Gamma Chain Cytokines. _bioRxiv_ [Preprint]. 2020 March 19.
+2. _Farhat, A.M., A.C. Weiner_, C. Posner, _Z.S. Kim_, B. Orcutt-Jahns, S.M. Carlson, **A.S. Meyer**. (2020). Modeling Cell-Specific Dynamics and Regulation of the Common Gamma Chain Cytokines. _Cell Reports._ _Accepted._
 3. Bae, S.Y., _N. Guan, R. Yan, K. Warner_, S.D. Taylor, **A.S. Meyer**. (2020). Measurement and models accounting for cell death capture hidden variation in compound response. _Cell Death & Disease_, 255(11), 2020 Apr. PMCID: 7171175.
 4. _Robinett, R.A., N. Guan_, A. Lux, M. Biburger, F. Nimmerjahn, **A.S. Meyer**. (2018). Dissecting FcγR Regulation Through a Multivalent Binding Model. _Cell Systems._ 2018 July 25; 6(7): 1–8. PMCID: 6062446.
 
@@ -153,6 +153,9 @@ July 2015 – January 2016
 2019
  ~ UCLA Faculty Career Development Award
 
+2021
+ ~ Northrop Grumman Excellence in Teaching Award
+
 <!-- TODO: Add selected presentations? -->
 
 ## C. Contribution to Science
@@ -162,20 +165,20 @@ July 2015 – January 2016
 
 ### Understanding and targeting receptor family communication
 
-Receptor families can have many ligands and receptors while being expressed in distinct configurations across cell populations. This multi-layered multiplicity confounds intuition about how these receptors are regulated in homeostasis, dysregulated in disease, and might be targeted with therapies. Through a combination of modeling and experiment, we have been working to develop tools enabling improved understanding of these families' regulation and how best to target them. For example, we recently used a pharmacodynamic model of IL-2 signaling across cell populations to engineer cell-specific cytokines (1). Within the FcγR family, which enacts effector function in response to IgG antibodies, we showed that a multivalent binding model could predict effector function *in vivo* better than previously-used metrics, which will enable more potent anti-tumor antibodies (2). Within the TAM family of receptor tyrosine kinases, we identified that AXL can be transactivated from ErbB receptors and that this transactivation drives the invasiveness of breast carcinoma cells more so than the signaling from the ErbB receptors themselves (4). We then developed a kinetic model of AXL activation, mechanistically explaining the dependence of the receptor upon phosphatidylserine for activation (3). This basic understanding of γ~c~, TAM and FcγR signaling enables more rationally designed therapies and understanding of which factors in the extracellular environment drive response.
+Receptor families can have many ligands and receptors while being expressed in distinct configurations across cell populations. This multi-layered multiplicity confounds intuition about how these receptors are regulated in homeostasis, dysregulated in disease, and might be targeted with therapies. Through a combination of modeling and experiment, we have been working to develop tools enabling improved understanding of these families' regulation and how best to target them (4). For example, we recently used a pharmacodynamic model of IL-2 signaling across cell populations to engineer cell-specific cytokines (1). Within the FcγR family, which enacts effector function in response to IgG antibodies, we showed that a multivalent binding model could predict effector function *in vivo* better than previously-used metrics, which will enable more potent anti-tumor antibodies (2). Within the TAM family of receptor tyrosine kinases, we developed a kinetic model of AXL activation, mechanistically explaining the dependence of the receptor upon phosphatidylserine for activation (3). This basic understanding of γ~c~, TAM and FcγR signaling enables more rationally designed therapies and understanding of which factors in the extracellular environment drive response.
 
-1. Farhat, A.M., A.C. Weiner, C. Posner, Z.S. Kim, B. Orcutt-Jahns, S.M. Carlson, **A.S. Meyer**. (2020). Modeling Cell-Specific Dynamics and Regulation of the Common Gamma Chain Cytokines. _bioRxiv_ [Preprint]. 2020 March 19.
+1. Farhat, A.M., A.C. Weiner, C. Posner, Z.S. Kim, B. Orcutt-Jahns, S.M. Carlson, **A.S. Meyer**. (2021). Modeling Cell-Specific Dynamics and Regulation of the Common Gamma Chain Cytokines. _Cell Reports._ _Accepted._
 2. Robinett, R.A., N. Guan, A. Lux, M. Biburger, F. Nimmerjahn, **A.S. Meyer**. (2018). Dissecting FcγR Regulation Through a Multivalent Binding Model. _Cell Systems._ 2018 July 25; 6(7): 1–8. PMCID: 6062446.
 3. **Meyer, A.S.**^†^, A.J.M. Zweemer, D.A. Lauffenburger^†^. (2015). The AXL Receptor Is a Sensor of Ligand Spatial Heterogeneity. _Cell Systems_, 1(1):25--36. PMCID: 4520549. ^†^Co-corresponding authors.
-4. **Meyer, A.S.**, M.A. Miller, F.B. Gertler, D.A. Lauffenburger. (2013). The receptor AXL diversifies EGFR signaling and limits the response to EGFR-targeted inhibitors in triple-negative breast cancer cells. _Science Signaling_, 6(287), ra66. PMCID: 3947921.
+4. Tan, Z.C., B. Orcutt-Jahns, **A.S. Meyer**. (2020). A quantitative view of strategies to engineer cell-selective ligand binding. _bioRXiv._ 2020.11.25.398974 [Preprint].
 
 ### Problem-driven computational methods development
 
 Studying complex signaling requires approaches tailored to the biologic system and scientific challenge at hand. We have adopted a wide range of mathematical and computational methods to provide new views of cell signaling mechanisms. For example, in (1) we demonstrated how tensor factorization can help to visualize the high-dimensional response of the common gamma chain receptor cytokine family. In (2) we uncovered that the TAM receptor family senses local clusters of ligand, and used a partial differential equation model to explore this process. Finally, we have used Bayesian inference techniques of increasing scalability to perform robust parameterization of our models of interest (1, 3, 4).
 
-1. Farhat, A.M., A.C. Weiner, C. Posner, Z.S. Kim, B. Orcutt-Jahns, S.M. Carlson, **A.S. Meyer**. (2020). Modeling Cell-Specific Dynamics and Regulation of the Common Gamma Chain Cytokines. _bioRxiv_ [Preprint]. 2020 March 19.
+1. Farhat, A.M., A.C. Weiner, C. Posner, Z.S. Kim, B. Orcutt-Jahns, S.M. Carlson, **A.S. Meyer**. (2021). Modeling Cell-Specific Dynamics and Regulation of the Common Gamma Chain Cytokines. _Cell Reports._ _Accepted._
 2. **Meyer, A.S.**^†^, A.J.M. Zweemer, D.A. Lauffenburger^†^. (2015). The AXL Receptor Is a Sensor of Ligand Spatial Heterogeneity. _Cell Systems_, 1(1):25–36. PMCID: 4520549. ^†^Co-corresponding authors.
-3. Lee, C.H., T.H. Kang, O. Godon, M. Watanabe, G. Delidakis, C.M. Gillis, D. Sterlin, D. Hardy, M. Cogné, L.E. Macdonald, A.J. Murphy, N. Tu, J. Lee, J.R. McDaniel, E. Makowski, P.M. Tessier, **A.S. Meyer**, P. Bruhns, G. Georgiou. (2019). An engineered human Fc domain that behaves like a pH-toggle switch for ultra-long circulation persistence. _Nature Communications_, 10(1):5031, Nov 2019. PMCID: 6834678.
+3. Lee, C.H., T.H. Kang, O. Godon, M. Watanabe, G. Delidakis, C.M. Gillis, D. Sterlin, D. Hardy, M. Cogné, L.E. Macdonald, A.J. Murphy, N. Tu, J. Lee, J.R. McDaniel, E. Makowski, P.M. Tessier, **A.S. Meyer**, P. Bruhns, G. Georgiou. (2019). An engineered human Fc domain that behaves like a pH-toggle switch for ultra-long circulation persistence. _Nature Communications_, 10(1):5031. PMCID: 6834678.
 4. Bae, S.Y., N. Guan, R. Yan, K. Warner, S.D. Taylor, **A.S. Meyer**. (2020). Measurement and models accounting for cell death capture hidden variation in compound response. _Cell Death & Disease_, 255(11), Apr 2020. PMCID: 7171175.
 
 ### Therapeutic resistance and design
@@ -224,7 +227,7 @@ We are extending a binding model for IgG-effector cell interaction to predict th
 Role: Co-PI
 
 \vspace{12pt}
-Visterra, Inc.  \hfill  4/01/2019 – 3/30/2021   
+Visterra, Inc.  \hfill  4/01/2019 – 5/31/2021   
 Modeling the IL-2 pathway to engineer cell-selective signaling   
 This project applies a binding and activation model of the common gamma chain receptor cytokines to identify engineered changes in ligand affinity that translate to changes in cell selectivity.   
 Role: PI

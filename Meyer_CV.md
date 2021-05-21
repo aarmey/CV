@@ -37,17 +37,17 @@ Department of Bioengineering, University of California, Los Angeles, CA
 \leftskip 0.1in
 \parindent -0.1in
 
-Orcutt-Jahns, B., Z. Kim, P. Emmel, C. Posner, S.M. Carlson, and **A.S. Meyer**. "Moment propagation enables model fitting to single cell measurements." _In preparation._
+Tan, Z.C., and **A.S. Meyer**. ["A general model of multivalent ligand binding with ligands of heterotypic subunits and multiple surface receptors."](https://biorxiv.org/cgi/content/short/2021.03.10.434776v1) _bioRxiv._ 2021 Mar 11. _Submitted._
 
 \parskip 0.1in
 
-Tan, C., B. Orcutt-Jahns, and **A.S. Meyer**. "Exploiting multivalency for engineering cell-selective therapies." _In preparation._
+Murphy, M., S.D. Taylor, and **A.S. Meyer**. ["Structured decomposition improves systems serology prediction and interpretation."](https://www.biorxiv.org/content/10.1101/2021.01.03.425138v2) _bioRxiv._ 2021 Jan 22. _Submitted._
 
-Visagan, S., F. Mohammadi, and **A.S. Meyer**. "Tracking tumor cell plasticity in single cell populations using lineage tree-based hidden Markov models." _In preparation._
+Tan, Z.C., B. Orcutt-Jahns, and **A.S. Meyer**. ["A quantitative view of strategies to engineer cell-selective ligand binding."](https://www.biorxiv.org/content/10.1101/2020.11.25.398974v1) _bioRxiv._ 2020 Dec 1. _Submitted._
 
 Majumder, A., S. Hosseinian, M. Stroud, E. Adhikari, J. Saller, M.A. Smith, G. Zhang, S. Agarwal, F. Kinose, K. Browers, B. Fang, P. Stewart, E.A. Welsh, T.A. Boyle, **A.S. Meyer**, J.M. Koomen, and E.B. Haura. "Proteomic Characterization of AXL Kinase Inhibitors and Signaling Pathways." _Submitted._
 
-Farhat, A.M., A.C. Weiner, C. Posner, Z.S. Kim, B. Orcutt-Jahns, S.M. Carlson, and **A.S. Meyer**. ["Modeling Cell-Specific Dynamics and Regulation of the Common Gamma Chain Cytokines."](https://www.biorxiv.org/content/10.1101/778894v2) _bioRxiv._ 2020 Mar 19. _Submitted._
+Farhat, A.M., A.C. Weiner, C. Posner, Z.S. Kim, B. Orcutt-Jahns, S.M. Carlson, and **A.S. Meyer**. ["Modeling Cell-Specific Dynamics and Regulation of the Common Gamma Chain Cytokines."](https://www.biorxiv.org/content/10.1101/778894v2) _Cell Reports._ 2021 Mar 1. _Accepted._
 
 Bae, S.Y., N. Guan, R. Yan, K. Warner, S.D. Taylor, and **A.S. Meyer**. ["Measurement and models accounting for cell death capture hidden variation in compound response."](https://www.nature.com/articles/s41419-020-2462-8) _Cell Death & Disease._, 2020 Apr 20; 255(11). 
 
@@ -97,6 +97,8 @@ Mashayekhi, F., **A.S. Meyer**, S.A. Shiigi, V. Nguyen, D.T. Kamei. ["Concentrat
 \parindent 0.0in
 
 # Research Support & Awards
+
+_Northrop Grumman Excellence in Teaching Award_ \hfill 2021  
 
 _American Cancer Society, Research Scholar Grant (co-I)_  \hfill 2020 – 2023  
 "Tissue-engineered models of glioblastoma for evaluating treatment responses"
@@ -198,7 +200,19 @@ Bard College, Citizen Science Program, Annandale-on-Hudson, NY
 _Teaching Assistant_, Thermodynamics of Biomolecular Systems \hfill 2010  
 MIT, Department of Biological Engineering, Cambridge, MA
 
-# Conference & Invited Presentations
+# Conference & Invited Presentations (Last Five Years)
+
+_CSHL Systems Immunology_, Selected Oral Presentation \hfill April 2021  
+"Developing a Mechanistic View of Mixed IgG Antibody Immune Effector Responses."
+
+_University of Massachusetts, Mol & Cell Biol Program_, Invited Seminar \hfill March 2021  
+"Mixture models of cell populations and signaling to understand heterogeneous drug response."
+
+_International Conference on Biomolecular Engineering_, Selected Oral Presentation \hfill January 2021  
+"Developing a Mechanistic View of Mixed IgG Antibody Immune Effector Responses."
+
+_Vanderbilt University, QSBC Center_, Invited Center Seminar \hfill October 2020  
+"Mixture models of cell populations and signaling to understand heterogeneous drug response."
 
 _Buffalo Quantitative Systems Pharmacology Symposium_, Invited Speaker \hfill July 2020  
 "Deeply profiling pharmacodynamic response with single cell dynamics."  
@@ -274,47 +288,6 @@ _FASEB Protein Kinase Signaling Network Regulation_, Invited Oral Presentation \
 _Univ. of Calif., Irvine, Center for Complex Biological Systems_, Invited Departmental Speaker \hfill May 2016  
 "Data-driven design of targeted therapies and immunotherapies for cancer."
 
-_Systems Approaches to Cancer Biology_, NCI Invited Oral Presentation \hfill April 2016  
-"Looking across resistance mechanisms to identify molecular commonalities and precision therapy approaches."
-
-_Applied Math in Germinating Oncology Solutions Workshop_, NCI Invited Participant \hfill March 2016
-
-_NIH Common Fund High-Risk High-Reward Symposium_ \hfill December 2015  
-"Conserved RTK-intrinsic signaling consequences result in distinct bypass resistance capacity dependent upon pathway dependencies."
-
-_Harvard Medical School, Brugge lab_, Invited Oral Presentation \hfill November 2015  
-"Conserved RTK-intrinsic signaling consequences result in distinct bypass resistance capacity dependent upon pathway dependencies."
-
-_Biomedical Engineering Society Annual Meeting_ \hfill October 2015  
-"Conserved RTK-intrinsic signaling consequences result in distinct bypass resistance capacity dependent upon pathway dependencies."
-
-_ICBP Principal Investigators Meeting_ \hfill May 2015  
-"Conserved RTK-intrinsic signaling consequences result in distinct bypass resistance capacity dependent upon pathway dependencies."
-
-_NIH Common Fund High-Risk High-Reward Symposium_ \hfill December 2014  
-"Adapter-Layer Integration of RTK Signaling: Basic Understanding and Application to Prediction of Targeted Drug Resistance."
-
-_Biomedical Engineering Society Annual Meeting_, Selected Oral Presentation \hfill October 2014  
-"AXL Is a Spatial Ligand Differentiation Sensor."
-
-_Interdisciplinary Signaling Workshop_, Selected Oral Presentation \hfill July 2014  
-"AXL Is a Spatial Ligand Differentiation Sensor."
-
-_ICBP Principal Investigators Meeting_ \hfill May 2014  
-"AXL is a spatial ligand differentiation sensor."
-
-_AACR Molecular Targets and Cancer Therapeutics_ \hfill October 2013  
-"AXL amplifies EGFR signaling and drives resistance in triple negative breast carcinoma cells."
-
-_Merrimack Pharmaceuticals_, Invited Oral Presentation \hfill October 2013  
-"AXL is a spatial ligand differentiation sensor."
-
-_ICBP Principal Investigators Meeting_ \hfill May 2013  
-"AXL amplifies EGFR signaling and drives resistance in triple negative breast carcinoma cells."
-
-_Merrimack Pharmaceuticals_, Invited Oral Presentation \hfill January 2013  
-"AXL amplifies EGFR signaling and drives resistance in triple negative breast carcinoma cells."
-
 # Research Supervision
 
 *Postdoctoral Fellows*
@@ -369,7 +342,7 @@ _Ad Hoc Reviewer (2x)_, Science Advances \hfill 2020
 
 _Panelist_, Amgen Scholars Summer Science Series \hfill 2020
 
-_Ad Hoc Reviewer_, PLOS Biology \hfill 2020
+_Ad Hoc Reviewer_, PLOS Biology \hfill 2020, 2021
 
 _Ad Hoc Reviewer_, Cancer Research \hfill 2020
 
@@ -499,10 +472,10 @@ Advisor: Dino Di Carlo
 Mark van Zee, Bioengineering\\
 Advisor: Dino Di Carlo
 
-\columnbreak
-
 Rob Dimatteo, Bioengineering\\
 Advisor: Dino Di Carlo
+
+\columnbreak
 
 Alexander Wickstrom, Bioengineering (M.S.)\\
 Advisor: Jonathan Kao
@@ -512,5 +485,11 @@ Advisor: Dino Di Carlo
 
 Wei-Chia Elizabeth Luo, Bioengineering\\
 Advisor: Gerard Wong
+
+Mohammadali Alidoost, Bioengineering\\
+Advisor: X. Sharon Qi
+
+Cameron S. Movassaghi, Chemistry\\
+Advisor: Anne M. Andrews
 
 \end{multicols}

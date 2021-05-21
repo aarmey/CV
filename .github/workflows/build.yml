@@ -1,7 +1,5 @@
 name: Build
 
-# Controls when the action will run. Triggers the workflow on push or pull request
-# events but only for the master branch
 on: [push]
 
 jobs:
@@ -25,7 +23,7 @@ jobs:
         path: Output/*.pdf
     - name: Deploy 🚀
       uses: JamesIves/github-pages-deploy-action@releases/v3
-      if: github.ref == 'refs/heads/master'
+      if: github.ref == 'refs/heads/main'
       with:
         ACCESS_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         BRANCH: gh-pages # The branch the action should deploy to.
