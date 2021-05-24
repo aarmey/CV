@@ -42,7 +42,7 @@ I have a background in biological engineering with training in applied machine l
 
 I have extensive experience with projects that merge quantitative molecular biology with computational analysis such as in the work described here. This experience includes a track record of success mentoring graduate students, postdoctoral associates, and technical associates.
 
-1. Farhat, A.M., A.C. Weiner, C. Posner, Z.S. Kim, B. Orcutt-Jahns, S.M. Carlson, **A.S. Meyer**. (2021). Modeling Cell-Specific Dynamics and Regulation of the Common Gamma Chain Cytokines. _Cell Reports._ 35, 109044. PMID: 33910015.
+1. Farhat, A.M., A.C. Weiner, C. Posner, Z.S. Kim, B. Orcutt-Jahns, S.M. Carlson, **A.S. Meyer**. (2021). Modeling Cell-Specific Dynamics and Regulation of the Common Gamma Chain Cytokines. _Cell Reports._ 35(4): 109044. PMID: 33910015.
 2. Robinett, R.A., N. Guan, A. Lux, M. Biburger, F. Nimmerjahn, **A.S. Meyer**. (2018). "Dissecting FcγR Regulation Through a Multivalent Binding Model." _Cell Systems._ 6(7): 1–8. PMCID: 6062446.
 3. Murphy, M., S.D. Taylor, **A.S. Meyer**. Structured decomposition improves systems serology prediction and interpretation. _bioRXiv._ 2021.01.03.425138 [Preprint].
 4. **Meyer, A.S.**^†^, A.J.M. Zweemer, D.A. Lauffenburger^†^. (2015). The AXL Receptor Is a Sensor of Ligand Spatial Heterogeneity. _Cell Systems_, 1(1): 25–36. PMCID: 4520549.
@@ -132,7 +132,7 @@ I have extensive experience with projects that merge quantitative molecular biol
 
 <!-- TODO: Add selected presentations? -->
 
-## C. Contribution to Science
+## C. Contributions to Science
 
 <!-- Briefly describe up to five of your most significant contributions to science. For each contribution, indicate the historical background that frames the scientific problem; the central finding(s); the influence of the finding(s) on the progress of science or the application of those finding(s) to health or technology; and your specific role in the described work. For each of these contributions, reference up to four peer-reviewed publications or other non-publication research products (can include audio or video products; patents; data and research materials; databases; educational aids or curricula; instruments or equipment; models; protocols; and software or netware) that are relevant to the described contribution. The description of each contribution should be no longer than one half page including figures and citations. Also provide a URL to a full list of your published work as found in a publicly available digital database such as SciENcv or My Bibliography, which are maintained by the US National Library of Medicine. -->
 
@@ -149,7 +149,7 @@ Studying complex signaling requires approaches tailored to the biologic system a
 
 Receptor families can have many ligands and receptors while being expressed in distinct configurations across cell populations. This multi-layered multiplicity confounds intuition about how these receptors are regulated in homeostasis, dysregulated in disease, and might be targeted with therapies. Through a combination of modeling and experiment, we have been working to develop tools enabling improved understanding of these families' regulation and how best to target them (4). For example, we recently used a pharmacodynamic model of IL-2 signaling across cell populations to engineer cell-specific cytokines (1). Within the FcγR family, which enacts effector function in response to IgG antibodies, we showed that a multivalent binding model could predict effector function *in vivo* better than previously-used metrics, which will enable more potent anti-tumor antibodies (2). Within the TAM family of receptor tyrosine kinases, we developed a kinetic model of AXL activation, mechanistically explaining the dependence of the receptor upon phosphatidylserine for activation (3). This basic understanding of γ~c~, TAM and FcγR signaling enables more rationally designed therapies and understanding of which factors in the extracellular environment drive response.
 
-1. Farhat, A.M., A.C. Weiner, C. Posner, Z.S. Kim, B. Orcutt-Jahns, S.M. Carlson, **A.S. Meyer**. (2021). Modeling Cell-Specific Dynamics and Regulation of the Common Gamma Chain Cytokines. _Cell Reports._ 35, 109044. PMID: 33910015.
+1. Farhat, A.M., A.C. Weiner, C. Posner, Z.S. Kim, B. Orcutt-Jahns, S.M. Carlson, **A.S. Meyer**. (2021). Modeling Cell-Specific Dynamics and Regulation of the Common Gamma Chain Cytokines. _Cell Reports._ 35(4): 109044. PMID: 33910015.
 2. Robinett, R.A., N. Guan, A. Lux, M. Biburger, F. Nimmerjahn, **A.S. Meyer**. (2018). Dissecting FcγR Regulation Through a Multivalent Binding Model. _Cell Systems._ 6(7): 1–8. PMCID: 6062446.
 3. **Meyer, A.S.**^†^, A.J.M. Zweemer, D.A. Lauffenburger^†^. (2015). The AXL Receptor Is a Sensor of Ligand Spatial Heterogeneity. _Cell Systems_, 1(1):25--36. PMCID: 4520549. ^†^Co-corresponding authors.
 4. Tan, Z.C., B. Orcutt-Jahns, **A.S. Meyer**. (2020). A quantitative view of strategies to engineer cell-selective ligand binding. _bioRXiv._ 2020.11.25.398974 [Preprint].
