@@ -492,4 +492,7 @@ Advisor: X. Sharon Qi
 Cameron S. Movassaghi, Chemistry\\
 Advisor: Anne M. Andrews
 
+Felis Doyeon Koo, Bioengineering\\
+Advisor: Dino Di Carlo
+
 \end{multicols}
