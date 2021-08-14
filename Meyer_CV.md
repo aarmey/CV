@@ -98,6 +98,9 @@ Mashayekhi, F., **A.S. Meyer**, S.A. Shiigi, V. Nguyen, D.T. Kamei. ["Concentrat
 
 # Research Support & Awards
 
+_Milstein Abstract Award_, Cytokine Society \hfill 2021  
+"Multivalency enhances the specificity of Fc-cytokine fusions"
+
 _Northrop Grumman Excellence in Teaching Award_ \hfill 2021  
 
 _American Cancer Society, Research Scholar Grant (co-I)_  \hfill 2020 – 2023  
