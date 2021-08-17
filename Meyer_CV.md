@@ -169,6 +169,11 @@ Massachusetts Institute of Technology
 
 # Teaching Experience
 
+_Discussion Leader_, Ethics and Accountability in Biomedical Research \hfill 2021  
+UCLA, Microbiology, Immunology, & Molecular Genetics
+
+- Led discussion of various ethics case studies
+
 _Advisor_, Integrated and Interdisciplinary Undergraduate Research Program \hfill 2019 – Present  
 UCLA, Undergraduate Research Center
 
@@ -462,7 +467,7 @@ _Member_, Publicity Committee \hfill 2017 – 2018
 
 # Patents/Disclosures
 
-**A.S. Meyer**. "Altering cytokine specificity through binding valency." Disclosure filed, 2019.
+**A.S. Meyer**. "Altering cytokine specificity through binding valency." U.S. provisional patent application 63/216,718, 2021.
 
 Bae, S.Y., **A.S. Meyer**. "Small Molecule Competitive Inhibitors Of Phosphatidylserine-TAMR Ligand Interaction." Disclosure filed, 2018.
 
