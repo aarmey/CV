@@ -103,6 +103,13 @@ _Milstein Abstract Award_, Cytokine Society \hfill 2021
 
 _Northrop Grumman Excellence in Teaching Award_ \hfill 2021  
 
+_NCI Administrative Supplement_ \hfill 2020 – 2021  
+"Mechanistic Autoencoders for Patient-Specific Phosphoproteomic Models"
+
+_Grant_ \hfill 2020 – 2022  
+Jayne Koskinas Ted Giovanis Foundation
+"Cell cycle-specific drug responses in breast cancer"
+
 _American Cancer Society, Research Scholar Grant (co-I)_  \hfill 2020 – 2023  
 "Tissue-engineered models of glioblastoma for evaluating treatment responses"
 
@@ -169,6 +176,18 @@ Massachusetts Institute of Technology
 
 # Teaching Experience
 
+_Guest Lecturer_, Fundamentals of Digital Imaging and Image Processing \hfill 2021  
+UCLA, Molecular, Cell, and Developmental Biology M130
+
+- Led discussion of a paper from the lab used as a project within the class
+
+_Discussion Leader_, Ethics and Accountability in Biomedical Research \hfill 2021  
+UCLA, Microbiology, Immunology, & Molecular Genetics
+
+- Led discussion of various ethics case studies
+
+<!-- Evaluations are available for file. -->
+
 _Advisor_, Integrated and Interdisciplinary Undergraduate Research Program \hfill 2019 – Present  
 UCLA, Undergraduate Research Center
 
@@ -204,6 +223,9 @@ _Teaching Assistant_, Thermodynamics of Biomolecular Systems \hfill 2010
 MIT, Department of Biological Engineering, Cambridge, MA
 
 # Conference & Invited Presentations (Last Five Years)
+
+_Biomedical Engineering Society Annual Meeting_, Invited Podium Presentation \hfill October 2021  
+"Tensor Factorization-Based Data Fusion Improves Predictions and Interpretation of MRSA Outcome."
 
 _CSHL Systems Immunology_, Selected Oral Presentation \hfill April 2021  
 "Developing a Mechanistic View of Mixed IgG Antibody Immune Effector Responses."
@@ -337,7 +359,13 @@ _Univ. of Calif., Irvine, Center for Complex Biological Systems_, Invited Depart
 
 # Service to the Profession
 
+_Abstract Reviewer_, Biomedical Engineering Society Annual Meeting \hfill 2021
+
 _Session Co-Chair_, Biomedical Engineering Society Annual Meeting \hfill 2020
+
+_Volunteer Speed Interviewer_, Biomedical Engineering Society Annual Meeting \hfill 2020
+
+_Volunteer Resume Reviewer_, Biomedical Engineering Society Annual Meeting \hfill 2020
 
 _Ad Hoc Reviewer_, Science Signaling \hfill 2020
 
@@ -399,6 +427,10 @@ _Ad Hoc Reviewer_, J. Cell Biol. \hfill 2011 – 2012
 
 # Service to UCLA
 
+_Bioengineering Representative_, Legislative Assembly \hfill 2021 – Present
+
+_Panelist_, Graduate School Panel, Computational & Systems Biology \hfill 2021
+
 _Faculty Representative_, Samueli Engineering Grad School Info Session \hfill 2020
 
 _Faculty Representative_, Annual Biomedical Research Conference for Minority Students \hfill 2018, 2020
@@ -453,7 +485,7 @@ _Member_, Publicity Committee \hfill 2017 – 2018
 
 # Patents/Disclosures
 
-**A.S. Meyer**. "Altering cytokine specificity through binding valency." Disclosure filed, 2019.
+**A.S. Meyer**. "Altering cytokine specificity through binding valency." U.S. provisional patent application 63/216,718, 2021.
 
 Bae, S.Y., **A.S. Meyer**. "Small Molecule Competitive Inhibitors Of Phosphatidylserine-TAMR Ligand Interaction." Disclosure filed, 2018.
 
