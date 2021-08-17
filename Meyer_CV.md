@@ -169,6 +169,11 @@ Massachusetts Institute of Technology
 
 # Teaching Experience
 
+_Guest Lecturer_, Fundamentals of Digital Imaging and Image Processing \hfill 2021  
+UCLA, Molecular, Cell, and Developmental Biology M130
+
+- Led discussion of a paper from the lab used as a project within the class
+
 _Discussion Leader_, Ethics and Accountability in Biomedical Research \hfill 2021  
 UCLA, Microbiology, Immunology, & Molecular Genetics
 
