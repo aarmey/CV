@@ -363,7 +363,9 @@ _Abstract Reviewer_, Biomedical Engineering Society Annual Meeting \hfill 2021
 
 _Session Co-Chair_, Biomedical Engineering Society Annual Meeting \hfill 2020
 
-_Volunteer Speed Interviewer / Resume Reviewer_, Biomedical Engineering Society Annual Meeting \hfill 2020
+_Volunteer Speed Interviewer_, Biomedical Engineering Society Annual Meeting \hfill 2020
+
+_Volunteer Resume Reviewer_, Biomedical Engineering Society Annual Meeting \hfill 2020
 
 _Ad Hoc Reviewer_, Science Signaling \hfill 2020
 
