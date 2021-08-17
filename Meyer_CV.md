@@ -103,6 +103,13 @@ _Milstein Abstract Award_, Cytokine Society \hfill 2021
 
 _Northrop Grumman Excellence in Teaching Award_ \hfill 2021  
 
+_NCI Administrative Supplement_ \hfill 2020 – 2021  
+"Mechanistic Autoencoders for Patient-Specific Phosphoproteomic Models"
+
+_Grant_ \hfill 2020 – 2022  
+Jayne Koskinas Ted Giovanis Foundation
+"Cell cycle-specific drug responses in breast cancer"
+
 _American Cancer Society, Research Scholar Grant (co-I)_  \hfill 2020 – 2023  
 "Tissue-engineered models of glioblastoma for evaluating treatment responses"
 
