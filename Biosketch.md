@@ -36,7 +36,7 @@ header-includes: |
 
 ## A. Personal Statement
 
-<!-- Briefly describe why you are well-suited for your role(s) in the project described in this application. The relevant factors may include aspects of your training; your previous experimental work on this specific topic or related topics; your technical expertise; your collaborators or scientific environment; and your past performance in this or related fields (you may mention specific contributions to science that are not included in Section C). -->
+<!-- Briefly describe why you are well-suited for your role(s) in this project. Relevant factors may include: aspects of your training; your previous experimental work on this specific topic or related topics; your technical expertise; your collaborators or scientific environment; and/or your past performance in this or related fields, including ongoing and completed research projects from the past three years that you want to draw attention to (previously known as research support). -->
 
 I have a background in biological engineering, with training in applied machine learning, cell signaling, and pharmacodynamics. My research broadly applies integrated experimental and theoretical approaches to study the complex signaling that underlies cell-to-cell communication and resistance to therapies. My lab is particularly interested in how signaling cues operate in combination to direct cancer and immune effector cell behavior and how we might optimally target their dysregulation. For example, my previous work has shown how (1) to use a pharmacodynamic model of IL-2 signaling across cell populations to engineer cell-specific cytokines, (2) IgG antibody effector function is transduced through multiple receptors and effector cells, (3) an RTK family expressed in cancer and innate immune cells is activated in response to extracellular cues in the tumor microenvironment, and (4) receptor crosstalk is a mechanism of signal diversification promoting breast tumor invasion.
 
@@ -49,8 +49,11 @@ I have extensive experience with projects that merge quantitative molecular biol
 
 \noindent ^†^Co-corresponding authors.
 
+<!-- TODO: Add selected funding information? -->
 
 ## B. Positions, Scientific Appointments, and Honors
+
+<!-- List in reverse chronological order all positions and scientific appointments both domestic and foreign, including affiliations with foreign entities or governments. This includes titled academic, professional, or institutional appointments whether or not remuneration is received, and whether full-time, part-time, or voluntary (including adjunct, visiting, or honorary). -->
 
 ### Positions and Employment
 
@@ -175,59 +178,4 @@ Invasion and dissemination of cells underlie many diseases including cancer. Stu
 
 **Complete List: <https://www.ncbi.nlm.nih.gov/myncbi/aaron.meyer.1/bibliography/public/>**
 
-
-## D. Research Support
-
-### Ongoing Research Support
-
-American Cancer Society \hfill 1/1/2020 – 12/31/2023   
-Tissue-engineered models of glioblastoma for evaluating treatment responses   
-The major goal of this project is to characterize how well biomaterial-based models of GBM tumors recapitulate treatment responses across the patient population and within a single tumor composed of patient-specific, heterogeneous subpopulations.   
-Role: Co-I
-
-Jayne Koskinas Ted Giovanis Foundation \hfill 9/1/2020 – 8/30/2022   
-Cell cycle-specific drug responses in breast cancer   
-We are developing lineage tree-based hidden Markov models as a way to analyze the plasticity of breast cancer cells. This is combined with live cell cycle reporters to quantify the cell cycle-specific effects of drug response.   
-Role: Co-PI
-
-NIH U01-AI148119  \hfill  12/18/2019 – 11/30/2024   
-Mapping the effector response space of antibody combinations   
-We are extending a binding model for IgG-effector cell interaction to predict the effects of antibody combinations. With that, we will evaluate whether complex mixtures of antibodies have distinct properties from their constituents.   
-Role: Co-PI
-
-\vspace{12pt}
-NIH U01-CA215709  \hfill  9/01/2017 – 8/30/2022   
-Precision Lung Cancer Therapy Design Through Multiplexed Adapter Measurement   
-We propose to develop a global picture of bypass resistance mediated by receptor tyrosine kinases (RTKs) not targeted by therapy. By examining multiple RTKs variable in their resistance-promoting capacity at once, we will be able to determine features essential to the development of resistance.   
-Role: Co-PI
-
-### Completed Research Support
-
-NCI Administrative Supplement \hfill 9/01/2020 – 8/30/2021   
-Mechanistic Autoencoders for Patient-Specific Phosphoproteomic Models   
-This project aims to integrate the machine learning concept of an autoencoder into a mechanistic model. This will be used to fit patient-derived phosphoproteomic data, to predict individualized responses to FLT3 inhibitors in AML.   
-Role: Co-PI
-
-\vspace{12pt}
-Visterra, Inc.  \hfill  4/01/2019 – 5/31/2021   
-Modeling the IL-2 pathway to engineer cell-selective signaling   
-This project applies a binding and activation model of the common gamma chain receptor cytokines to identify engineered changes in ligand affinity that translate to changes in cell selectivity.   
-Role: PI
-
-\vspace{12pt}
-UCLA Hellman Fellows Program  \hfill  7/01/2019 – 6/30/2020   
-Engineering anti-tumor antibody combinations for more effective and less toxic therapies   
-This project uses a binding model of IgG-FcγR engagement to predict combinations of anti-tumor antibodies that operate synergistically together.   
-Role: PI
-
-\vspace{12pt}
-NIH DP5-OD019815  \hfill  9/22/2014 – 9/1/2019  
-Adapter-Layer RTK Signaling: Basic Understanding & Targeted Drug Resistance  
-The goal of this project was to study sets of resistance mechanisms to RTK-targeted therapies, to identify commonalities and ways to determine which mechanism may be driving individual tumors.   
-Role: PI
-
-\vspace{12pt}
-Foundation Grant \hfill 7/1/2017 – 6/30/2019  
-Terri Brodeur Breast Cancer Foundation  
-This project used a computational model to direct the design of new inhibitors for the TAM receptors. Using these well-characterized compounds, we examined the effects of inhibiting different TAM receptor complements.   
-Role: PI
+<!-- TODO: Check this list. -->
