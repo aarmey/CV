@@ -13,7 +13,7 @@ header-includes: |
 
 \begin{flushright}
 \footnotesize
-	OMB No. 0925-0001 and 0925-0002 (Rev. 03/2020 Approved Through 02/28/2023)
+	OMB No. 0925-0001 and 0925-0002 (Rev. 12/2020 Approved Through 02/28/2023)
 \end{flushright}
 
 \begin{tabular}{l|c|c|c}
@@ -50,7 +50,7 @@ I have extensive experience with projects that merge quantitative molecular biol
 \noindent ^†^Co-corresponding authors.
 
 
-## B. Positions and Honors
+## B. Positions, Scientific Appointments, and Honors
 
 ### Positions and Employment
 
@@ -180,11 +180,6 @@ Invasion and dissemination of cells underlie many diseases including cancer. Stu
 
 ### Ongoing Research Support
 
-NCI Administrative Supplement \hfill 9/01/2020 – 8/30/2021   
-Mechanistic Autoencoders for Patient-Specific Phosphoproteomic Models   
-This project aims to integrate the machine learning concept of an autoencoder into a mechanistic model. This will be used to fit patient-derived phosphoproteomic data, to predict individualized responses to FLT3 inhibitors in AML.   
-Role: Co-PI
-
 American Cancer Society \hfill 1/1/2020 – 12/31/2023   
 Tissue-engineered models of glioblastoma for evaluating treatment responses   
 The major goal of this project is to characterize how well biomaterial-based models of GBM tumors recapitulate treatment responses across the patient population and within a single tumor composed of patient-specific, heterogeneous subpopulations.   
@@ -201,12 +196,6 @@ We are extending a binding model for IgG-effector cell interaction to predict th
 Role: Co-PI
 
 \vspace{12pt}
-Visterra, Inc.  \hfill  4/01/2019 – 5/31/2021   
-Modeling the IL-2 pathway to engineer cell-selective signaling   
-This project applies a binding and activation model of the common gamma chain receptor cytokines to identify engineered changes in ligand affinity that translate to changes in cell selectivity.   
-Role: PI
-
-\vspace{12pt}
 NIH U01-CA215709  \hfill  9/01/2017 – 8/30/2022   
 Precision Lung Cancer Therapy Design Through Multiplexed Adapter Measurement   
 We propose to develop a global picture of bypass resistance mediated by receptor tyrosine kinases (RTKs) not targeted by therapy. By examining multiple RTKs variable in their resistance-promoting capacity at once, we will be able to determine features essential to the development of resistance.   
@@ -214,6 +203,18 @@ Role: Co-PI
 
 ### Completed Research Support
 
+NCI Administrative Supplement \hfill 9/01/2020 – 8/30/2021   
+Mechanistic Autoencoders for Patient-Specific Phosphoproteomic Models   
+This project aims to integrate the machine learning concept of an autoencoder into a mechanistic model. This will be used to fit patient-derived phosphoproteomic data, to predict individualized responses to FLT3 inhibitors in AML.   
+Role: Co-PI
+
+\vspace{12pt}
+Visterra, Inc.  \hfill  4/01/2019 – 5/31/2021   
+Modeling the IL-2 pathway to engineer cell-selective signaling   
+This project applies a binding and activation model of the common gamma chain receptor cytokines to identify engineered changes in ligand affinity that translate to changes in cell selectivity.   
+Role: PI
+
+\vspace{12pt}
 UCLA Hellman Fellows Program  \hfill  7/01/2019 – 6/30/2020   
 Engineering anti-tumor antibody combinations for more effective and less toxic therapies   
 This project uses a binding model of IgG-FcγR engagement to predict combinations of anti-tumor antibodies that operate synergistically together.   
