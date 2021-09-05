@@ -427,8 +427,6 @@ _Ad Hoc Reviewer_, J. Cell Biol. \hfill 2011 – 2012
 
 # Service to UCLA
 
-_Bioengineering Representative_, Legislative Assembly \hfill 2021 – Present
-
 _Panelist_, Graduate School Panel, Computational & Systems Biology \hfill 2021
 
 _Faculty Representative_, Samueli Engineering Grad School Info Session \hfill 2020
