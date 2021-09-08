@@ -1,6 +1,6 @@
 .PHONY: clean
 
-all: Output/Meyer_CV.pdf Output/Biosketch.pdf Output/MajorEquipment.pdf Output/FacilitiesResources.pdf
+all: Output/Meyer_CV.pdf Output/MajorEquipment.pdf Output/FacilitiesResources.pdf
 
 res.cls: 
 	curl -o $@ -L https://www.ctan.org/tex-archive/macros/latex/contrib/resume/res.cls
