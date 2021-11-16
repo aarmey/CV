@@ -37,17 +37,17 @@ Department of Bioengineering, University of California, Los Angeles, CA
 \leftskip 0.1in
 \parindent -0.1in
 
-Tan, Z.C., and **A.S. Meyer**. ["A general model of multivalent ligand binding with ligands of heterotypic subunits and multiple surface receptors."](https://biorxiv.org/cgi/content/short/2021.03.10.434776v1) _bioRxiv._ 2021 Mar 11. _Submitted._
+Tan, Z.C., B. Orcutt-Jahns, and **A.S. Meyer**. ["A quantitative view of strategies to engineer cell-selective ligand binding."](https://www.biorxiv.org/content/10.1101/2020.11.25.398974v1) _bioRxiv._ 2020 Dec 1. _Submitted._
 
 \parskip 0.1in
 
-Murphy, M., S.D. Taylor, and **A.S. Meyer**. ["Structured decomposition improves systems serology prediction and interpretation."](https://www.biorxiv.org/content/10.1101/2021.01.03.425138v2) _bioRxiv._ 2021 Jan 22. _Submitted._
+Majumder, A., S. Hosseinian, M. Stroud, E. Adhikari, J. Saller, M.A. Smith, G. Zhang, S. Agarwal, F. Kinose, K. Browers, B. Fang, P. Stewart, E.A. Welsh, T.A. Boyle, **A.S. Meyer**, J.M. Koomen, and E.B. Haura. "Proteomic Characterization of AXL Kinase Inhibitors and Signaling Pathways." _Molecular Cancer Research._ _Accepted._
 
-Tan, Z.C., B. Orcutt-Jahns, and **A.S. Meyer**. ["A quantitative view of strategies to engineer cell-selective ligand binding."](https://www.biorxiv.org/content/10.1101/2020.11.25.398974v1) _bioRxiv._ 2020 Dec 1. _Submitted._
+Tan, Z.C., and **A.S. Meyer**. ["A general model of multivalent binding with ligands of heterotypic subunits and multiple surface receptors."](https://doi.org/10.1016/j.mbs.2021.108714) _Mathematical Biosciences._ 2021 Dec; 342:108714.
 
-Majumder, A., S. Hosseinian, M. Stroud, E. Adhikari, J. Saller, M.A. Smith, G. Zhang, S. Agarwal, F. Kinose, K. Browers, B. Fang, P. Stewart, E.A. Welsh, T.A. Boyle, **A.S. Meyer**, J.M. Koomen, and E.B. Haura. "Proteomic Characterization of AXL Kinase Inhibitors and Signaling Pathways." _Submitted._
+Tan, Z.C., M.C. Murphy, H.S. Alpay, S.D. Taylor, and **A.S. Meyer**. ["Tensor-structured decomposition improves systems serology analysis."](https://doi.org/10.15252/msb.202110243) _Molecular Systems Biology._ 2021 Sept 6; 17:e10243.
 
-Farhat, A.M., A.C. Weiner, C. Posner, Z.S. Kim, B. Orcutt-Jahns, S.M. Carlson, and **A.S. Meyer**. ["Modeling Cell-Specific Dynamics and Regulation of the Common Gamma Chain Cytokines."](https://www.biorxiv.org/content/10.1101/778894v2) _Cell Reports._ 2021 Mar 1. _Accepted._
+Farhat, A.M., A.C. Weiner, C. Posner, Z.S. Kim, B. Orcutt-Jahns, S.M. Carlson, and **A.S. Meyer**. ["Modeling Cell-Specific Dynamics and Regulation of the Common Gamma Chain Cytokines."](https://doi.org/10.1016/j.celrep.2021.109044) _Cell Reports._ 2021 April 27; 35(4):109044.
 
 Bae, S.Y., N. Guan, R. Yan, K. Warner, S.D. Taylor, and **A.S. Meyer**. ["Measurement and models accounting for cell death capture hidden variation in compound response."](https://www.nature.com/articles/s41419-020-2462-8) _Cell Death & Disease._, 2020 Apr 20; 255(11). 
 
@@ -319,7 +319,7 @@ _Univ. of Calif., Irvine, Center for Complex Biological Systems_, Invited Depart
 
 - Catera Wilder, Ph.D. (Co-advised by Alexander Hoffman) \hfill 2018 – Present
 - Song Yi Bae, Ph.D. (Postdoctoral Fellow, U. Minnesota) \hfill 2016 – 2019
-- Edward Richards, Ph.D. (American Cancer Society Postdoctoral Fellowship) \hfill 2015 – Present
+- Edward Richards, Ph.D. (American Cancer Society Postdoctoral Fellowship) \hfill 2015 – 2020
 - Annelien Zweemer, Ph.D. (Asst. Prof., Leiden U.) \hfill 2014 – 2017
 
 *Ph.D. Students*
@@ -335,15 +335,13 @@ _Univ. of Calif., Irvine, Center for Complex Biological Systems_, Invited Depart
 - Luka Karginov (NCI CSBC Summer Scholar) \hfill 2020
 - Madeleine Murphy \hfill 2020 – Present
 - Aditya Sivakumar \hfill 2020 – Present
-- Eli Snyder \hfill 2020 – Present
-- Vedant Sathye \hfill 2020 – Present
-- Amanda Tsao \hfill 2019 – Present
-- Shashank Venkat \hfill 2019 – Present
+- Eli Snyder \hfill 2020 – 2021
+- Amanda Tsao \hfill 2019 – 2021
 - JC Lagarde \hfill 2019 – Present
 - Sumedha Kanthamneni \hfill 2019 – Present
 - Heather Carmen Mercieca (Amgen Scholar) \hfill 2019
-- Linnet Chang \hfill 2018 – Present
-- Stephen Lees \hfill 2018 – Present
+- Linnet Chang \hfill 2018 – 2021
+- Stephen Lees \hfill 2018 – 2021
 - Zoe Kim \hfill 2018 – 2020
 - Micah Bryant \hfill 2018 – 2020
 - Robby Theisen \hfill 2018 – 2020
