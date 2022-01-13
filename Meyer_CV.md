@@ -224,6 +224,9 @@ MIT, Department of Biological Engineering, Cambridge, MA
 
 # Conference & Invited Presentations (Last Five Years)
 
+_Johns Hopkins Univ., Institute for Comp. Medicine_, Invited Seminar \hfill February 2022  
+"Mechanistic and Data-Driven Dissection of Cell Communication Through Tensor Methods."
+
 _Biomedical Engineering Society Annual Meeting_, Invited Podium Presentation \hfill October 2021  
 "Tensor Factorization-Based Data Fusion Improves Predictions and Interpretation of MRSA Outcome."
 
