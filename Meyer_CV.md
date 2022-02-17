@@ -348,6 +348,8 @@ _Moffitt Cancer Center_, Invited Speaker \hfill January 2017
 
 # Service to the Profession
 
+_Ad Hoc Reviewer_, Soft Matter \hfill 2022
+
 _Ad Hoc Reviewer_, Science Signaling \hfill 2021
 
 _Abstract Reviewer_, Biomedical Engineering Society Annual Meeting \hfill 2021
