@@ -304,21 +304,6 @@ _Univ. of Calif., Los Angeles, Department of Bioengineering_, Invited Department
 _Moffitt Cancer Center_, Invited Speaker \hfill January 2017  
 "Engineering more precise and potent TAM-targeted therapies."
 
-_Biomedical Engineering Society Annual Meeting_, Selected Oral Presentation \hfill October 2016  
-"JNK pathway activation modulates acquired resistance to EGFR/HER2 targeted therapies."
-
-_MD Anderson Cancer Center, Dept. of Systems Biology_, Invited Departmental Speaker \hfill Sept 2016  
-"Engineering more precise and potent TAM-targeted therapies."
-
-_MD Anderson Cancer Center, Future of Science Symposium_, Invited Oral Presentation \hfill Sept 2016  
-"Toward precision therapy: Identifying molecular commonalities among RTK bypass resistance mechanisms."
-
-_FASEB Protein Kinase Signaling Network Regulation_, Invited Oral Presentation \hfill July 2016  
-"Engineering more precise and potent TAM-targeted therapies."
-
-_Univ. of Calif., Irvine, Center for Complex Biological Systems_, Invited Departmental Speaker \hfill May 2016  
-"Data-driven design of targeted therapies and immunotherapies for cancer."
-
 # Research Supervision
 
 *Postdoctoral Fellows*
