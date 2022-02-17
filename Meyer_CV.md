@@ -531,4 +531,7 @@ Advisor: Anne M. Andrews
 Felis Doyeon Koo, Bioengineering\\
 Advisor: Dino Di Carlo
 
+Favour Esedebe, Bioinformatics\\
+Advisor: Tom Graeber
+
 \end{multicols}
