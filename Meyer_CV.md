@@ -227,6 +227,9 @@ MIT, Department of Biological Engineering, Cambridge, MA
 _Johns Hopkins Univ., Institute for Comp. Medicine_, Invited Seminar \hfill February 2022  
 "Mechanistic and Data-Driven Dissection of Cell Communication Through Tensor Methods."
 
+_Cellular and Molecular Bioengineering_, Selected Oral Presentation \hfill January 2022  
+"Rapid Prototyping of Multivalent And Multi-Specific Drugs To Overcome The Limited Selectivity Of IL-2 Toward Regulatory T Cells"
+
 _Biomedical Engineering Society Annual Meeting_, Invited Podium Presentation \hfill October 2021  
 "Tensor Factorization-Based Data Fusion Improves Predictions and Interpretation of MRSA Outcome."
 
