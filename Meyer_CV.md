@@ -348,6 +348,8 @@ _Moffitt Cancer Center_, Invited Speaker \hfill January 2017
 
 # Service to the Profession
 
+_Local Organizing Committee_, Southern California Systems Biology Conference \hfill 2022
+
 _Ad Hoc Reviewer_, Soft Matter \hfill 2022
 
 _Ad Hoc Reviewer_, Science Signaling \hfill 2021
