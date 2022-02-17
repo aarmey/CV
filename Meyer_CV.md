@@ -227,7 +227,7 @@ MIT, Department of Biological Engineering, Cambridge, MA
 _Johns Hopkins Univ., Institute for Comp. Medicine_, Invited Seminar \hfill February 2022  
 "Mechanistic and Data-Driven Dissection of Cell Communication Through Tensor Methods."
 
-_Cellular and Molecular Bioengineering_, Selected Oral Presentation \hfill January 2022  
+_Cellular \& Molecular Bioengineering_, Selected Oral Presentation \hfill January 2022  
 "Rapid Prototyping of Multivalent And Multi-Specific Drugs To Overcome The Limited Selectivity Of IL-2 Toward Regulatory T Cells"
 
 _Biomedical Engineering Society Annual Meeting_, Invited Podium Presentation \hfill October 2021  
@@ -347,6 +347,8 @@ _Moffitt Cancer Center_, Invited Speaker \hfill January 2017
 - Ryan Robinett (NSF GRFP; Ph.D., Comp. Sci., U. Chicago) \hfill 2015 – 2017
 
 # Service to the Profession
+
+_Poster Judge_, Cellular \& Molecular Bioengineering Meeting \hfill 2022
 
 [_Example U01 proposal_](https://www.niaid.nih.gov/grants-contracts/sample-applications), NIH National Institute of Allergy and Infectious Diseases \hfill 2021
 
