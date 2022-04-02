@@ -41,6 +41,8 @@ VanDyke, D., M. Iglesias, J. Tomala, A. Young, J. Bridge, J. Perry, E. Gebara, A
 
 \parskip 0.1in
 
+Creixell, M. and **A.S. Meyer**. ["Dual data and motif clustering improves the modeling and interpretation of phosphoproteomic data."](https://doi.org/10.1016/j.crmeth.2022.100167) _Cell Reports Methods._ 2022 Feb 28; 2(2): 100167.
+
 Tan, Z.C., B.T. Orcutt-Jahns, and **A.S. Meyer**. ["A quantitative view of strategies to engineer cell-selective ligand binding."](https://doi.org/10.1093/intbio/zyab019) _Integrative Biology._ 2021 Nov 23; 13(11): 269–282.
 
 Majumder, A., S. Hosseinian, M. Stroud, E. Adhikari, J. Saller, M.A. Smith, G. Zhang, S. Agarwal, F. Kinose, K. Browers, B. Fang, P. Stewart, E.A. Welsh, T.A. Boyle, **A.S. Meyer**, J.M. Koomen, and E.B. Haura. "Proteomic Characterization of AXL Kinase Inhibitors and Signaling Pathways." _Molecular Cancer Research._ _Accepted._
