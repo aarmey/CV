@@ -43,9 +43,9 @@ VanDyke, D., M. Iglesias, J. Tomala, A. Young, J. Bridge, J. Perry, E. Gebara, A
 
 Creixell, M. and **A.S. Meyer**. ["Dual data and motif clustering improves the modeling and interpretation of phosphoproteomic data."](https://doi.org/10.1016/j.crmeth.2022.100167) _Cell Reports Methods._ 2022 Feb 28; 2(2): 100167.
 
-Tan, Z.C., B.T. Orcutt-Jahns, and **A.S. Meyer**. ["A quantitative view of strategies to engineer cell-selective ligand binding."](https://doi.org/10.1093/intbio/zyab019) _Integrative Biology._ 2021 Nov 23; 13(11): 269–282.
+Majumder, A., S. Hosseinian, M. J. Stroud, E. Adhikari, J. J. Saller, D. M. A. Smith, D. G. Zhang, S. Agarwal, M. Creixell, B. S. Meyer, M. F. Kinose, K. S. Bowers, B. Fang, P. A. Stewart, E. A. Welsh, T. A. Boyle, **A.S. Meyer**, J. M. Koomen, & E. B. Haura. ["Proteomic Characterization of AXL Kinase Inhibitors and Signaling Pathways."](https://mcr.aacrjournals.org/content/early/2022/01/12/1541-7786.MCR-21-0275.abstract) _Molecular Cancer Research._ 2022 Jan 7; 20(4): 542–555.
 
-Majumder, A., S. Hosseinian, M. Stroud, E. Adhikari, J. Saller, M.A. Smith, G. Zhang, S. Agarwal, F. Kinose, K. Browers, B. Fang, P. Stewart, E.A. Welsh, T.A. Boyle, **A.S. Meyer**, J.M. Koomen, and E.B. Haura. "Proteomic Characterization of AXL Kinase Inhibitors and Signaling Pathways." _Molecular Cancer Research._ _Accepted._
+Tan, Z.C., B.T. Orcutt-Jahns, and **A.S. Meyer**. ["A quantitative view of strategies to engineer cell-selective ligand binding."](https://doi.org/10.1093/intbio/zyab019) _Integrative Biology._ 2021 Nov 23; 13(11): 269–282.
 
 Tan, Z.C., and **A.S. Meyer**. ["A general model of multivalent binding with ligands of heterotypic subunits and multiple surface receptors."](https://doi.org/10.1016/j.mbs.2021.108714) _Mathematical Biosciences._ 2021 Dec; 342:108714.
 
@@ -73,7 +73,7 @@ Zweemer, A.J.M., C.B. French, J. Mesfin, S. Gordonov, **A.S. Meyer**, D.A. Lauff
 
 Archer, T.C., E.J. Fertig, S.J.C. Gosline, M. Hafner, S.K. Hughes, B.A. Joughin, **A.S. Meyer\footnote{Corresponding author.}**, S.P. Piccolo, A. Shajahan-Haq. "Systems Approaches to Cancer Biology." _Cancer Research._ 2016 Nov 18; 76 (23); 1--4.
 
-Manole, S., E.J. Richards, **A.S. Meyer**. "JNK pathway activation modulates acquired resistance to EGFR/HER2 targeted therapies." _Cancer Research._ 2016 Sept 15; 76 (18): 5219--5228.
+Manole, S., E.J. Richards, **A.S. Meyer**. ["JNK pathway activation modulates acquired resistance to EGFR/HER2 targeted therapies."](https://aacrjournals.org/cancerres/article/76/18/5219/615800/JNK-Pathway-Activation-Modulates-Acquired) _Cancer Research._ 2016 Sept 15; 76 (18): 5219--5228.
 
 McConnell, R.E., J.E. Van Veen, M. Vidaki, A.V. Kwiatkowski, **A.S. Meyer**, D.A. Lauffenburger, F.B. Gertler. ["A Requirement for Filopodia Extension Towards Slit During Robo-Mediated Axon Repulsion."](http://jcb.rupress.org/content/213/2/261.full) _Journal of Cell Biology._ 2016 Apr 18; 213 (2): 261.
 
