@@ -228,6 +228,9 @@ MIT, Department of Biological Engineering, Cambridge, MA
 
 # Conference & Invited Presentations (Last Five Years)
 
+_SIAM Conference on Mathematics of Data Science_, Invited Talk \hfill September 2022  
+"Mechanistic and Data-Driven Dissection of Cell Communication Through Tensor Methods."
+
 _American Association for Cancer Research_, Invited Talk \hfill April 2022  
 "Systems approaches for identifying cell states and pathways modulating therapy response."
 
