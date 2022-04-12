@@ -530,19 +530,22 @@ Advisor: Jonathan Kao
 Hector E Muñoz, Bioengineering\\
 Advisor: Dino Di Carlo
 
-Wei-Chia Elizabeth Luo, Bioengineering\\
+Wei-Chia Elizabeth Luo, Bioengineering  
 Advisor: Gerard Wong
 
-Mohammadali Alidoost, Bioengineering\\
+Mohammadali Alidoost, Bioengineering  
 Advisor: X. Sharon Qi
 
-Cameron S. Movassaghi, Chemistry\\
+Cameron S. Movassaghi, Chemistry  
 Advisor: Anne M. Andrews
 
-Felis Doyeon Koo, Bioengineering\\
+Felis Doyeon Koo, Bioengineering  
 Advisor: Dino Di Carlo
 
-Favour Esedebe, Bioinformatics\\
+Favour Esedebe, Bioinformatics  
 Advisor: Tom Graeber
+
+Connor Razma, Bioinformatics  
+Advisor: Alexander Hoffmann
 
 \end{multicols}
