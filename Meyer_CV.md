@@ -550,7 +550,7 @@ Advisor: Tom Graeber
 Connor Razma, Bioinformatics (M.S.)  
 Advisor: Alexander Hoffmann
 
-Mai Tran, Earth, Planetary & Space Sciences  
+Mai Tran, Earth, Planetary \& Space Sciences  
 Advisor: William Newman
 
 \end{multicols}
