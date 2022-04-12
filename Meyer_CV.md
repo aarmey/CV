@@ -228,6 +228,9 @@ MIT, Department of Biological Engineering, Cambridge, MA
 
 # Conference & Invited Presentations (Last Five Years)
 
+_Southern California Systems Biology Conference_, Invited Talk \hfill April 2022  
+"Mechanistic and Data-Driven Dissection of Cell Communication Through Tensor Methods."
+
 _Johns Hopkins Univ., Institute for Comp. Medicine_, Invited Seminar \hfill February 2022  
 "Mechanistic and Data-Driven Dissection of Cell Communication Through Tensor Methods."
 
@@ -298,15 +301,6 @@ _Univ. of Calif., Los Angeles, Broad Stem Cell Research Center_, Invited Speaker
 
 _Momenta Pharmaceuticals_, Invited Oral Presentation \hfill April 2017  
 "Dissecting FcγR Regulation Through a Multivalent Binding Model."
-
-_Univ. of Pennsylvania, Department of Bioengineering_, Invited Departmental Speaker \hfill March 2017  
-"Engineering more precise and potent TAM-targeted therapies."
-
-_Univ. of Calif., Los Angeles, Department of Bioengineering_, Invited Departmental Speaker \hfill March 2017  
-"Engineering more precise and potent TAM-targeted therapies."
-
-_Moffitt Cancer Center_, Invited Speaker \hfill January 2017  
-"Engineering more precise and potent TAM-targeted therapies."
 
 # Research Supervision
 
