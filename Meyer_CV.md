@@ -434,6 +434,9 @@ _Ad Hoc Reviewer_, J. Cell Biol. \hfill 2011 – 2012
 
 # Service to UCLA
 
+_Award Selection Committee_, Faculty Career Development Award \hfill 2022  
+Office of Equity, Diversity and Inclusion
+
 _Member_, Minors Committee, Computational & Systems Biology \hfill 2021, 2022
 
 _Panelist_, Graduate School Panel, Computational & Systems Biology \hfill 2021
