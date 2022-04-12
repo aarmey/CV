@@ -545,7 +545,10 @@ Advisor: Dino Di Carlo
 Favour Esedebe, Bioinformatics  
 Advisor: Tom Graeber
 
-Connor Razma, Bioinformatics  
+Connor Razma, Bioinformatics (M.S.)  
 Advisor: Alexander Hoffmann
+
+Mai Tran, Earth, Planetary & Space Sciences  
+Advisor: William Newman
 
 \end{multicols}
