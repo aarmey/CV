@@ -353,6 +353,9 @@ _Momenta Pharmaceuticals_, Invited Oral Presentation \hfill April 2017
 
 # Service to the Profession
 
+_Co-Chair_, Resource & Data Sharing Working Group \hfill 2022 – Present  
+Cancer Systems Biology Consortium
+
 _Ad Hoc Reviewer_, iScience \hfill 2022
 
 _Poster Judge_, Cellular \& Molecular Bioengineering Meeting \hfill 2022
