@@ -347,11 +347,11 @@ _Momenta Pharmaceuticals_, Invited Oral Presentation \hfill April 2017
 
 *Undergraduate Students*
 
-- Luka Karginov (NCI CSBC Summer Scholar) \hfill 2020
-- Madeleine Murphy \hfill 2020 – Present
+- Luka Karginov (NCI CSBC Summer Scholar; Ph.D., Biological Engineering, MIT) \hfill 2020 – 2021
+- Madeleine Murphy (Computational Biologist, Broad Institute of MIT \& Harvard) \hfill 2020 – Present
 - Aditya Sivakumar \hfill 2020 – Present
-- Eli Snyder \hfill 2020 – 2021
-- Amanda Tsao \hfill 2019 – 2021
+- Eli Snyder (Associate Consultant, Putnam Associates) \hfill 2020 – 2021
+- Amanda Tsao (M.D., University of Southern California) \hfill 2019 – 2021
 - JC Lagarde \hfill 2019 – Present
 - Sumedha Kanthamneni \hfill 2019 – Present
 - Heather Carmen Mercieca (Amgen Scholar) \hfill 2019
