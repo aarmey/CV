@@ -84,9 +84,9 @@ Muffat, J., Y. Li, A. Omer, A. Durbin, I. Bosch, G. Bakiasi, **E. Richards**, **
 
 Schwartz, A.D., L.E. Barney, L.E. Jansen, T.V. Nguyen, C.L. Hall, **A.S. Meyer**, S.R. Peyton. ["A Biomaterial Screening Approach to Reveal Microenvironmental Mechanisms of Drug Resistance."](http://pubs.rsc.org/en/content/articlelanding/2017/ib/c7ib00128b) _Integrative Biology._ 2017 Nov 14; 9: 912--924.
 
-**Zweemer, A.J.M.**, C.B. French, J. Mesfin, S. Gordonov, **A.S. Meyer**, D.A. Lauffenburger. "Apoptotic Cell Bodies Elicit Gas6-Mediated Migration Of AXL-Expressing Tumor Cells." _Molecular Cancer Research._ 2017 Sept 18.
+**Zweemer, A.J.M.**, C.B. French, J. Mesfin, S. Gordonov, **A.S. Meyer**, D.A. Lauffenburger. ["Apoptotic Cell Bodies Elicit Gas6-Mediated Migration Of AXL-Expressing Tumor Cells."](https://doi.org/10.1158/1541-7786.MCR-17-0012) _Molecular Cancer Research._ 2017 Sept 18.
 
-Archer, T.C., E.J. Fertig, S.J.C. Gosline, M. Hafner, S.K. Hughes, B.A. Joughin, **A.S. Meyer\footnote{Corresponding author.}**, S.P. Piccolo, A. Shajahan-Haq. "Systems Approaches to Cancer Biology." _Cancer Research._ 2016 Nov 18; 76 (23); 1--4.
+Archer, T.C., E.J. Fertig, S.J.C. Gosline, M. Hafner, S.K. Hughes, B.A. Joughin, **A.S. Meyer\footnote{Corresponding author.}**, S.P. Piccolo, A. Shajahan-Haq. ["Systems Approaches to Cancer Biology."](https://dx.doi.org/10.1158%2F0008-5472.CAN-16-1580) _Cancer Research._ 2016 Nov 18; 76 (23); 1--4.
 
 **Manole, S.**, **E.J. Richards**, **A.S. Meyer**. ["JNK pathway activation modulates acquired resistance to EGFR/HER2 targeted therapies."](https://aacrjournals.org/cancerres/article/76/18/5219/615800/JNK-Pathway-Activation-Modulates-Acquired) _Cancer Research._ 2016 Sept 15; 76 (18): 5219--5228.
 
