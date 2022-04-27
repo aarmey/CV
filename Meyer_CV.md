@@ -117,12 +117,14 @@ Mashayekhi, F., **A.S. Meyer**, S.A. Shiigi, V. Nguyen, D.T. Kamei. ["Concentrat
 
 # Research Support & Awards
 
+_COVID Relief Funds_, Vice Chancellor for Research Office \hfill 2022
+
 _Milstein Abstract Award_, Cytokine Society \hfill 2021  
 "Multivalency enhances the specificity of Fc-cytokine fusions"
 
 _Northrop Grumman Excellence in Teaching Award_ \hfill 2021  
 
-_NCI Administrative Supplement_ \hfill 2020 – 2021  
+_Administrative Supplement to U01-CA215709_ \hfill 2020 – 2021  
 "Mechanistic Autoencoders for Patient-Specific Phosphoproteomic Models"
 
 _Grant_ \hfill 2020 – 2022  
@@ -132,7 +134,8 @@ Jayne Koskinas Ted Giovanis Foundation
 _American Cancer Society, Research Scholar Grant (co-I)_  \hfill 2020 – 2023  
 "Tissue-engineered models of glioblastoma for evaluating treatment responses"
 
-_NIH NIAID, U01-AI148119_  \hfill 2019 – 2024  
+_NIH NIAID U01-AI148119_ \hfill 2019 – 2024  
+Fc-Dependent Mechanisms of Antibody-Mediated Killing Consortium  
 "Mapping the effector response space of antibody combinations"
 
 _UCLA Faculty Career Development Award_ \hfill 2019 – 2020  
@@ -146,7 +149,8 @@ _Visterra, Inc. Research Agreement_ \hfill 2019 – 2021
 _Administrative Supplement to U01-CA215709_ \hfill 2018 – 2019  
 "Cell lineage analysis to quantify heterogeneous cell cycle responses of cancer cells"
 
-_NCI Cancer Systems Biology Consortium, U01-CA215709_  \hfill 2017 – 2022  
+_NIH NCI U01-CA215709_ \hfill 2017 – 2022  
+Cancer Systems Biology Consortium  
 "Precision Lung Cancer Therapy Design through Multiplexed Adapter Measurement"
 
 _Fellowship Grant_ \hfill 2017 – 2019  
