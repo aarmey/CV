@@ -536,36 +536,36 @@ Advisor: Dino Di Carlo
 Rob Dimatteo, Bioengineering\\
 Advisor: Dino Di Carlo
 
-\columnbreak
-
 Alexander Wickstrom, Bioengineering (M.S.)\\
 Advisor: Jonathan Kao
 
 Hector E Muñoz, Bioengineering\\
 Advisor: Dino Di Carlo
 
-Wei-Chia Elizabeth Luo, Bioengineering  
+\columnbreak
+
+Wei-Chia Elizabeth Luo, Bioengineering\\
 Advisor: Gerard Wong
 
-Mohammadali Alidoost, Bioengineering  
-Advisor: X. Sharon Qi
+Mohammadali Alidoost, Bioengineering\\
+Advisor: Jennifer Wilson
 
-Cameron S. Movassaghi, Chemistry  
+Cameron S. Movassaghi, Chemistry\\
 Advisor: Anne M. Andrews
 
-Felis Doyeon Koo, Bioengineering  
+Felis Doyeon Koo, Bioengineering\\
 Advisor: Dino Di Carlo
 
-Favour Esedebe, Bioinformatics  
+Favour Esedebe, Bioinformatics\\
 Advisor: Tom Graeber
 
-Connor Razma, Bioinformatics (M.S.)  
+Connor Razma, Bioinformatics (M.S.)\\
 Advisor: Alexander Hoffmann
 
-Mai Tran, Earth, Planetary \& Space Sciences  
+Mai Tran, Earth, Planetary \& Space Sciences\\
 Advisor: William Newman
 
-Nilay Shah, Computer Science (M.S.)  
+Nilay Shah, Computer Science (M.S.)\\
 Advisor: Bolei Zhou
 
 \end{multicols}
