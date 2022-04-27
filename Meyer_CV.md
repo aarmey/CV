@@ -32,16 +32,25 @@ Department of Biological Engineering & Koch Cancer Institute, MIT, Cambridge, MA
 _Undergraduate Researcher in the lab of Daniel Kamei_ \hfill 2006 – 2009  
 Department of Bioengineering, University of California, Los Angeles, CA
 
+# Submitted Publications Under Review/Revision
+
+\leftskip 0.1in
+\parindent -0.1in
+
+VanDyke, D., M. Iglesias, J. Tomala, A. Young, J. Bridge, J. Perry, E. Gebara, A.R. Cross, L.S. Cheung, A.G. Dykema, **B. Orcutt-Jahns**, T. Henclová, J. Golias, J. Balolong, L.M. Tomasovic, D. Funda, **A.S. Meyer**, D.M. Pardoll, J. Hester, F. Issa, C.A. Hunter, M.S. Anderson, J.A. Bluestone, G. Raimondi, J.B. Spangler. Engineered human cytokine/antibody fusion proteins elicit targeted expansion of regulatory T cells and confer protection against autoimmune diseases." _Submitted._
+
+\parskip 0.1in
+
+**Orcutt-Jahns, B**, **P.C. Emmel**, **E.M. Snyder**, Cori Posner, Scott M. Carlson, **Aaron S. Meyer**. "Multivalency enhances the specificity of Fc-cytokine fusions." _Submitted._ [(bioRxiv link)](https://www.biorxiv.org/content/10.1101/2021.07.03.451002v1)
+
 # Refereed Publications
 
 \leftskip 0.1in
 \parindent -0.1in
 
-VanDyke, D., M. Iglesias, J. Tomala, A. Young, J. Bridge, J. Perry, E. Gebara, A.R. Cross, L.S. Cheung, A.G. Dykema, B. Orcutt-Jahns, T. Henclová, J. Golias, J. Balolong, L.M. Tomasovic, D. Funda, **A.S. Meyer**, D.M. Pardoll, J. Hester, F. Issa, C.A. Hunter, M.S. Anderson, J.A. Bluestone, G. Raimondi, J.B. Spangler. Engineered human cytokine/antibody fusion proteins elicit targeted expansion of regulatory T cells and confer protection against autoimmune diseases." _Submitted._
+Creixell, M. and **A.S. Meyer**. ["Dual data and motif clustering improves the modeling and interpretation of phosphoproteomic data."](https://doi.org/10.1016/j.crmeth.2022.100167) _Cell Reports Methods._ 2022 Feb 28; 2(2): 100167.
 
 \parskip 0.1in
-
-Creixell, M. and **A.S. Meyer**. ["Dual data and motif clustering improves the modeling and interpretation of phosphoproteomic data."](https://doi.org/10.1016/j.crmeth.2022.100167) _Cell Reports Methods._ 2022 Feb 28; 2(2): 100167.
 
 Majumder, A., S. Hosseinian, M. J. Stroud, E. Adhikari, J. J. Saller, D. M. A. Smith, D. G. Zhang, S. Agarwal, M. Creixell, B. S. Meyer, M. F. Kinose, K. S. Bowers, B. Fang, P. A. Stewart, E. A. Welsh, T. A. Boyle, **A.S. Meyer**, J. M. Koomen, & E. B. Haura. ["Proteomic Characterization of AXL Kinase Inhibitors and Signaling Pathways."](https://mcr.aacrjournals.org/content/early/2022/01/12/1541-7786.MCR-21-0275.abstract) _Molecular Cancer Research._ 2022 Jan 7; 20(4): 542–555.
 
