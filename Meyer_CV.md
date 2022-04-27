@@ -58,19 +58,19 @@ Creixell, M. and **A.S. Meyer**. ["Dual data and motif clustering improves the m
 
 \parskip 0.1in
 
-Majumder, A., S. Hosseinian, M. J. Stroud, E. Adhikari, J. J. Saller, D. M. A. Smith, D. G. Zhang, S. Agarwal, M. Creixell, B. S. Meyer, M. F. Kinose, K. S. Bowers, B. Fang, P. A. Stewart, E. A. Welsh, T. A. Boyle, **A.S. Meyer**, J. M. Koomen, & E. B. Haura. ["Proteomic Characterization of AXL Kinase Inhibitors and Signaling Pathways."](https://mcr.aacrjournals.org/content/early/2022/01/12/1541-7786.MCR-21-0275.abstract) _Molecular Cancer Research._ 2022 Jan 7; 20(4): 542–555.
+Majumder, A., S. Hosseinian, M.J. Stroud, E. Adhikari, J.J. Saller, D.M.A. Smith, D.G. Zhang, S. Agarwal, **M. Creixell**, B.S. Meyer, M.F. Kinose, K.S. Bowers, B. Fang, P.A. Stewart, E.A. Welsh, T.A. Boyle, **A.S. Meyer**, J.M. Koomen, E.B. Haura. ["Proteomic Characterization of AXL Kinase Inhibitors and Signaling Pathways."](https://mcr.aacrjournals.org/content/early/2022/01/12/1541-7786.MCR-21-0275.abstract) _Molecular Cancer Research._ 2022 Jan 7; 20(4): 542–555.
 
-Tan, Z.C., B.T. Orcutt-Jahns, and **A.S. Meyer**. ["A quantitative view of strategies to engineer cell-selective ligand binding."](https://doi.org/10.1093/intbio/zyab019) _Integrative Biology._ 2021 Nov 23; 13(11): 269–282.
+Tan, Z.C., B.T. Orcutt-Jahns, **A.S. Meyer**. ["A quantitative view of strategies to engineer cell-selective ligand binding."](https://doi.org/10.1093/intbio/zyab019) _Integrative Biology._ 2021 Nov 23; 13(11): 269–282.
 
-Tan, Z.C., and **A.S. Meyer**. ["A general model of multivalent binding with ligands of heterotypic subunits and multiple surface receptors."](https://doi.org/10.1016/j.mbs.2021.108714) _Mathematical Biosciences._ 2021 Dec; 342:108714.
+Tan, Z.C., **A.S. Meyer**. ["A general model of multivalent binding with ligands of heterotypic subunits and multiple surface receptors."](https://doi.org/10.1016/j.mbs.2021.108714) _Mathematical Biosciences._ 2021 Dec; 342:108714.
 
-Tan, Z.C., M.C. Murphy, H.S. Alpay, S.D. Taylor, and **A.S. Meyer**. ["Tensor-structured decomposition improves systems serology analysis."](https://doi.org/10.15252/msb.202110243) _Molecular Systems Biology._ 2021 Sept 6; 17:e10243.
+Tan, Z.C., M.C. Murphy, H.S. Alpay, S.D. Taylor, **A.S. Meyer**. ["Tensor-structured decomposition improves systems serology analysis."](https://doi.org/10.15252/msb.202110243) _Molecular Systems Biology._ 2021 Sept 6; 17:e10243.
 
-Farhat, A.M., A.C. Weiner, C. Posner, Z.S. Kim, B. Orcutt-Jahns, S.M. Carlson, and **A.S. Meyer**. ["Modeling Cell-Specific Dynamics and Regulation of the Common Gamma Chain Cytokines."](https://doi.org/10.1016/j.celrep.2021.109044) _Cell Reports._ 2021 April 27; 35(4):109044.
+Farhat, A.M., A.C. Weiner, C. Posner, Z.S. Kim, B. Orcutt-Jahns, S.M. Carlson, **A.S. Meyer**. ["Modeling Cell-Specific Dynamics and Regulation of the Common Gamma Chain Cytokines."](https://doi.org/10.1016/j.celrep.2021.109044) _Cell Reports._ 2021 April 27; 35(4):109044.
 
-Bae, S.Y., N. Guan, R. Yan, K. Warner, S.D. Taylor, and **A.S. Meyer**. ["Measurement and models accounting for cell death capture hidden variation in compound response."](https://www.nature.com/articles/s41419-020-2462-8) _Cell Death & Disease._, 2020 Apr 20; 255(11). 
+Bae, S.Y., N. Guan, R. Yan, K. Warner, S.D. Taylor, **A.S. Meyer**. ["Measurement and models accounting for cell death capture hidden variation in compound response."](https://www.nature.com/articles/s41419-020-2462-8) _Cell Death & Disease._, 2020 Apr 20; 255(11). 
 
-Lee, C.-H., T. H. Kang, O. Godon, M. Watanabe, G. Delidakis, C.M. Gillis, D. Sterlin, D. Hardy, M. Cogné, L.E. Macdonald, A.J. Murphy, N. Tu, J. Lee, J.R. McDaniel, E. Makowski, Peter M. Tessier, **A.S. Meyer**, P. Bruhns, and G. Georgiou. ["An engineered human Fc domain that behaves like a pH-toggle switch for ultra-long circulation persistence."](https://www.nature.com/articles/s41467-019-13108-2) _Nature Communications._, 2019 Nov 6; 10(1):5031.
+Lee, C.-H., T. H. Kang, O. Godon, M. Watanabe, G. Delidakis, C.M. Gillis, D. Sterlin, D. Hardy, M. Cogné, L.E. Macdonald, A.J. Murphy, N. Tu, J. Lee, J.R. McDaniel, E. Makowski, Peter M. Tessier, **A.S. Meyer**, P. Bruhns, G. Georgiou. ["An engineered human Fc domain that behaves like a pH-toggle switch for ultra-long circulation persistence."](https://www.nature.com/articles/s41467-019-13108-2) _Nature Communications._, 2019 Nov 6; 10(1):5031.
 
 **Meyer, A.S.**, L.M. Heiser. ["Systems biology approaches to measure and model phenotypic heterogeneity in cancer."](https://doi.org/10.1016/j.coisb.2019.09.002) _Current Opinion in Systems Biology._ 2019 Oct 4; 17: 35--40.
 
