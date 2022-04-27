@@ -128,7 +128,7 @@ _Administrative Supplement to U01-CA215709_ \hfill 2020 – 2021
 "Mechanistic Autoencoders for Patient-Specific Phosphoproteomic Models"
 
 _Grant_ \hfill 2020 – 2022  
-Jayne Koskinas Ted Giovanis Foundation
+Jayne Koskinas Ted Giovanis Foundation  
 "Cell cycle-specific drug responses in breast cancer"
 
 _American Cancer Society, Research Scholar Grant (co-I)_  \hfill 2020 – 2023  
