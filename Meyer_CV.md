@@ -565,4 +565,7 @@ Advisor: Alexander Hoffmann
 Mai Tran, Earth, Planetary \& Space Sciences  
 Advisor: William Newman
 
+Nilay Shah, Computer Science (M.S.)  
+Advisor: Bolei Zhou
+
 \end{multicols}
