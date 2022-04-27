@@ -41,7 +41,9 @@ VanDyke, D., M. Iglesias, J. Tomala, A. Young, J. Bridge, J. Perry, E. Gebara, A
 
 \parskip 0.1in
 
-**Orcutt-Jahns, B**, **P.C. Emmel**, **E.M. Snyder**, Cori Posner, Scott M. Carlson, **Aaron S. Meyer**. "Multivalency enhances the specificity of Fc-cytokine fusions." _Submitted._ [(bioRxiv link)](https://www.biorxiv.org/content/10.1101/2021.07.03.451002v1)
+**Orcutt-Jahns, B**, **P.C. Emmel**, **E.M. Snyder**, Cori Posner, Scott M. Carlson, **Aaron S. Meyer**. "Multivalency enhances the specificity of Fc-cytokine fusions." _Submitted._ ([bioRxiv link](https://www.biorxiv.org/content/10.1101/2021.07.03.451002v1))
+
+**Mohammadi, F.**, **S. Visagan**, S.M. Gross, **L. Karginov**, **JC Lagarde**, L.M. Heiser, **A.S. Meyer**. "A lineage tree-based hidden Markov model to quantify cellular heterogeneity and plasticity." _Submitted._ ([bioRxiv link](https://www.biorxiv.org/content/10.1101/2021.06.25.449922v1))
 
 # Refereed Publications
 
