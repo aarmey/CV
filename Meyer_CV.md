@@ -45,6 +45,10 @@ VanDyke, D., M. Iglesias, J. Tomala, A. Young, J. Bridge, J. Perry, E. Gebara, A
 
 **Mohammadi, F.**, **S. Visagan**, S.M. Gross, **L. Karginov**, **JC Lagarde**, L.M. Heiser, **A.S. Meyer**. "A lineage tree-based hidden Markov model to quantify cellular heterogeneity and plasticity." _Submitted._ ([bioRxiv link](https://www.biorxiv.org/content/10.1101/2021.06.25.449922v1))
 
+S.M. Gross, **F. Mohammadi**, C. Sanchez-Aguila, P.J. Zhan, **A.S. Meyer**, L.M. Heiser. "Analysis and modeling of cancer drug responses using cell cycle phase-specific rate effects." _Submitted._ ([bioRxiv link](https://www.biorxiv.org/content/10.1101/2020.07.24.219907v2))
+
+**Creixell, M.**, Hyuna Kim, **F. Mohammadi**, S.R. Peyton, **A.S. Meyer**. "Systems approaches to uncovering the contribution of environment-mediated drug resistance." _Submitted._
+
 # Refereed Publications
 
 \leftskip 0.1in
