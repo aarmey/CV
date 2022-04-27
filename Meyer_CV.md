@@ -469,7 +469,7 @@ _Application Reviewer_, Amgen Scholars Program \hfill 2020, 2022
 
 _Reviewer_, Graduate Division’s Faculty Review Committee \hfill 2020
 
-_Co-Organizer_, UCLA Systems Immunology Seminar Series \hfill 2019 – Present
+_Co-Organizer_, UCLA Systems Immunology Seminar Series \hfill 2019 – 2020
 
 _Faculty Volunteer_, Society of Women Engineers Recruitment Dinner \hfill 2019, 2020
 
