@@ -331,14 +331,14 @@ _Momenta Pharmaceuticals_, Invited Oral Presentation \hfill April 2017
 
 *Postdoctoral Fellows*
 
-- Catera Wilder, Ph.D. (Co-advised by Alexander Hoffman) \hfill 2018 – Present
-- Song Yi Bae, Ph.D. (Postdoctoral Fellow, U. Minnesota) \hfill 2016 – 2019
+- Catera Wilder, Ph.D. (Assistant Professor, UCSF) \hfill 2018 – 2022
+- Song Yi Bae, Ph.D. (Postdoctoral Fellow, University of Minnesota) \hfill 2016 – 2019
 - Edward Richards, Ph.D. (American Cancer Society Postdoctoral Fellowship) \hfill 2015 – 2020
-- Annelien Zweemer, Ph.D. (Asst. Prof., Leiden U.) \hfill 2014 – 2017
+- Annelien Zweemer, Ph.D. (Asst. Prof., Leiden University) \hfill 2014 – 2017
 
 *Ph.D. Students*
 
-- Andrew Ramirez \hfill 2021 – Present
+- Andrew Ramirez (NSF GRFP; Cota Robles) \hfill 2021 – Present
 - Jackson Chin \hfill 2020 – Present
 - Brian Orcutt-Jahns \hfill 2019 – Present
 - Cyrillus Tan \hfill 2019 – Present
@@ -347,23 +347,24 @@ _Momenta Pharmaceuticals_, Invited Oral Presentation \hfill April 2017
 
 *Undergraduate Students*
 
+- Hakan Alpay (Frontend Engineer, Facebook) \hfill 2021
 - Luka Karginov (NCI CSBC Summer Scholar; Ph.D., Biological Engineering, MIT) \hfill 2020 – 2021
 - Madeleine Murphy (Computational Biologist, Broad Institute of MIT \& Harvard) \hfill 2020 – Present
-- Aditya Sivakumar \hfill 2020 – Present
+- Aditya Sivakumar \hfill 2020 – 2021
 - Eli Snyder (Associate Consultant, Putnam Associates) \hfill 2020 – 2021
 - Amanda Tsao (M.D., University of Southern California) \hfill 2019 – 2021
 - JC Lagarde \hfill 2019 – Present
 - Sumedha Kanthamneni \hfill 2019 – Present
 - Heather Carmen Mercieca (Amgen Scholar) \hfill 2019
-- Linnet Chang \hfill 2018 – 2021
-- Stephen Lees \hfill 2018 – 2021
-- Zoe Kim \hfill 2018 – 2020
-- Micah Bryant \hfill 2018 – 2020
-- Robby Theisen \hfill 2018 – 2020
-- Alison Tran \hfill 2018 – 2020
-- Willie Wu \hfill 2018 – 2019
+- Linnet Chang (Analyst, Accenture) \hfill 2018 – 2021
+- Stephen Lees (Ph.D., Biomedical Engineering, UVA) \hfill 2018 – 2021
+- Zoe Kim (Engineer, GaN Corporation) \hfill 2018 – 2020
+- Micah Bryant (M.S., Mechanical Engineering, UCSD) \hfill 2018 – 2020
+- Robby Theisen (Ph.D., Biomedical Engineering, University of Michigan) \hfill 2018 – 2020
+- Alison Tran (Biosciences Account Manager, Thermo Fisher Scientific) \hfill 2018 – 2020
+- Willie Wu (Software Engineer, Rivian) \hfill 2018 – 2019
 - Katrina Warner (Amgen Scholar; Ph.D., Biomedical Sciences, Harvard) \hfill 2018
-- Donya Khashayar \hfill 2018
+- Donya Khashayar (Transfer Student Summer Research Program) \hfill 2018
 - Rui Yan (Cathy Bank Scholarship; Ph.D., ICME, Stanford) \hfill 2017 – 2019
 - Ali Farhat (Rose Hills Foundation Scholar; M.D./Ph.D., U Illinois) \hfill 2017 – 2019
 - Adam Weiner (Internet Research Initiative Award; Ph.D., Tri-Institute CompBio) \hfill 2017 – 2019
