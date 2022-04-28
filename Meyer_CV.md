@@ -52,7 +52,7 @@ S.M. Gross, **F. Mohammadi**, C. Sanchez-Aguila, P.J. Zhan, **A.S. Meyer**, L.M.
 \leftskip 0.1in
 \parindent -0.1in
 
-**Creixell, M.**, Hyuna Kim, **F. Mohammadi**, S.R. Peyton, **A.S. Meyer**. "Systems approaches to uncovering the contribution of environment-mediated drug resistance." _Current Opinion in Solid State & Materials Science. _Accepted._
+**Creixell, M.**, Hyuna Kim, **F. Mohammadi**, S.R. Peyton, **A.S. Meyer**. "Systems approaches to uncovering the contribution of environment-mediated drug resistance." _Current Opinion in Solid State & Materials Science._ _Accepted._
 
 \parskip 0.1in
 
