@@ -47,16 +47,16 @@ VanDyke, D., M. Iglesias, J. Tomala, A. Young, J. Bridge, J. Perry, E. Gebara, A
 
 S.M. Gross, **F. Mohammadi**, C. Sanchez-Aguila, P.J. Zhan, **A.S. Meyer**, L.M. Heiser. "Analysis and modeling of cancer drug responses using cell cycle phase-specific rate effects." _Submitted._ ([bioRxiv link](https://www.biorxiv.org/content/10.1101/2020.07.24.219907v2))
 
-**Creixell, M.**, Hyuna Kim, **F. Mohammadi**, S.R. Peyton, **A.S. Meyer**. "Systems approaches to uncovering the contribution of environment-mediated drug resistance." _Submitted._
-
 # Refereed Publications
 
 \leftskip 0.1in
 \parindent -0.1in
 
-Creixell, M. and **A.S. Meyer**. ["Dual data and motif clustering improves the modeling and interpretation of phosphoproteomic data."](https://doi.org/10.1016/j.crmeth.2022.100167) _Cell Reports Methods._ 2022 Feb 28; 2(2): 100167.
+**Creixell, M.**, Hyuna Kim, **F. Mohammadi**, S.R. Peyton, **A.S. Meyer**. "Systems approaches to uncovering the contribution of environment-mediated drug resistance." _Current Opinion in Solid State & Materials Science. _Accepted._
 
 \parskip 0.1in
+
+Creixell, M. and **A.S. Meyer**. ["Dual data and motif clustering improves the modeling and interpretation of phosphoproteomic data."](https://doi.org/10.1016/j.crmeth.2022.100167) _Cell Reports Methods._ 2022 Feb 28; 2(2): 100167.
 
 Majumder, A., S. Hosseinian, M.J. Stroud, E. Adhikari, J.J. Saller, D.M.A. Smith, D.G. Zhang, S. Agarwal, **M. Creixell**, B.S. Meyer, M.F. Kinose, K.S. Bowers, B. Fang, P.A. Stewart, E.A. Welsh, T.A. Boyle, **A.S. Meyer**, J.M. Koomen, E.B. Haura. ["Proteomic Characterization of AXL Kinase Inhibitors and Signaling Pathways."](https://mcr.aacrjournals.org/content/early/2022/01/12/1541-7786.MCR-21-0275.abstract) _Molecular Cancer Research._ 2022 Jan 7; 20(4): 542–555.
 
