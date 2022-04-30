@@ -268,6 +268,8 @@ _Cellular \& Molecular Bioengineering_, Selected Oral Presentation \hfill Januar
 _Biomedical Engineering Society Annual Meeting_, Invited Podium Presentation \hfill October 2021  
 "Tensor Factorization-Based Data Fusion Improves Predictions and Interpretation of MRSA Outcome."
 
+\clearpage
+
 _CSHL Systems Immunology_, Selected Oral Presentation \hfill April 2021  
 "Developing a Mechanistic View of Mixed IgG Antibody Immune Effector Responses."
 
