@@ -387,6 +387,8 @@ _Ad Hoc Reviewer_, Cancer Immunology Research \hfill 2022
 _Co-Chair_, Resource & Data Sharing Working Group \hfill 2022 – Present  
 Cancer Systems Biology Consortium
 
+_Webmaster_, BME Underrepresented Needs In Technology & Engineering (UNITE) \hfill 2022 – Present
+
 _Ad Hoc Reviewer_, iScience \hfill 2022
 
 _Poster Judge_, Cellular \& Molecular Bioengineering Meeting \hfill 2022
@@ -405,6 +407,9 @@ _Ad Hoc Reviewer_, Science Signaling \hfill 2021
 
 _Ad Hoc Reviewer_, FEBS Letters \hfill 2021
 
+_Co-Organizer_, BME UNITE Webinar Series \hfill 2021 – Present  
+Showcase of current and future faculty candidates diverse and underrepresented in BME
+
 _Abstract Reviewer_, Biomedical Engineering Society Annual Meeting \hfill 2021
 
 _Financial Officer_, Association of Cancer Systems Biologists \hfill 2021 – Present
@@ -414,6 +419,9 @@ _Session Co-Chair_, Biomedical Engineering Society Annual Meeting \hfill 2020
 _Volunteer Speed Interviewer_, Biomedical Engineering Society Annual Meeting \hfill 2020
 
 _Volunteer Resume Reviewer_, Biomedical Engineering Society Annual Meeting \hfill 2020
+
+_Member_, BME Underrepresented Needs In Technology & Engineering (UNITE) \hfill 2020 – Present  
+Lead for Project 7: Coordinated graduate student recruiting
 
 _Ad Hoc Reviewer_, Science Signaling \hfill 2020
 
