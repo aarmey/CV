@@ -226,7 +226,7 @@ UCLA, Department of Bioengineering
 
 - Lead lab-based course introduction to laboratory work in bioengineering and basics of experimental design and analysis
 
-_Mentor_, Bioengineering Capstone \hfill 2017 – Present  
+_Mentor_, Bioengineering Capstone \hfill 2017, 2018, 2019, 2020  
 UCLA, Department of Bioengineering
 
 - Mentored three capstone teams for the bioengineering senior design course
@@ -237,7 +237,7 @@ UCLA, Department of Bioengineering
 
 - Guest speaker to discuss research program and opportunities in bioengineering
 
-_Faculty of the Citizen Science Program_ \hfill July 2015 – January 2016  
+_Faculty of the Citizen Science Program_ \hfill 2015 – 2016  
 Bard College, Citizen Science Program, Annandale-on-Hudson, NY
 
 - Led a short course introducing students to the natural sciences and scientific method
@@ -250,7 +250,7 @@ MIT, Department of Biological Engineering, Cambridge, MA
 _SIAM Conference on Mathematics of Data Science_, Invited Podium Presentation \hfill September 2022  
 "Mechanistic and Data-Driven Dissection of Cell Communication Through Tensor Methods."
 
-_American Association for Cancer Research_, Invited Podium Presentation \hfill April 2022  
+_American Assoc. for Cancer Research Annual Meeting_, Invited Podium Presentation \hfill April 2022  
 "Systems approaches for identifying cell states and pathways modulating therapy response."
 
 _Southern California Systems Biology Conference_, Invited Podium Presentation \hfill April 2022  
@@ -523,7 +523,7 @@ _Graduate Admissions Committee Co-Chair_, Bioengineering \hfill 2019 – Present
 
 _Undergraduate Curriculum Committee_, Bioengineering \hfill 2019 – Present
 
-_Chair_, Bioengineering Alumni Committee \hfill 2018 – Present
+_Member_, Bioengineering Alumni Committee \hfill 2018 – Present
 
 _Chair_, Department of Bioengineering Seminar Series \hfill 2018 – 2019
 
@@ -563,8 +563,6 @@ Advisor: Jonathan Kao
 
 Hector E Muñoz, Bioengineering\\
 Advisor: Dino Di Carlo
-
-\columnbreak
 
 Wei-Chia Elizabeth Luo, Bioengineering\\
 Advisor: Gerard Wong
