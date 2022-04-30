@@ -398,6 +398,8 @@ _Ad Hoc Reviewer_, FEBS Letters \hfill 2021
 
 _Abstract Reviewer_, Biomedical Engineering Society Annual Meeting \hfill 2021
 
+_Financial Officer_, Association of Cancer Systems Biologists \hfill 2021 – Present
+
 _Session Co-Chair_, Biomedical Engineering Society Annual Meeting \hfill 2020
 
 _Volunteer Speed Interviewer_, Biomedical Engineering Society Annual Meeting \hfill 2020
@@ -428,7 +430,7 @@ _Ad Hoc Reviewer_, PNAS \hfill 2019
 
 _Ad Hoc Reviewer_, Current Opinion in Systems Biology \hfill 2019
 
-_Co-Chair_, Association of Early Career Cancer Systems Biologists \hfill 2017 – Present
+_Co-Chair_, Association of Cancer Systems Biologists \hfill 2017 – 2021
 
 _Ad Hoc Reviewer_, PLOS Computational Biology \hfill 2018
 
