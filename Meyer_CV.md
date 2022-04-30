@@ -550,6 +550,8 @@ Richards, E.J., S. Manole, **A.S. Meyer**. "Modulating JNK activation to impede 
 
 Miller, M.A., M.J. Oudin, **A.S. Meyer**, L.G. Griffith, F.B. Gertler, D.A. Lauffenburger. "Methods of Reducing Kinase Inhibitor Resistance." US patent application 14/690,001, 2015.
 
+\clearpage
+
 # Thesis Committee Membership
 
 \begin{multicols}{2}
