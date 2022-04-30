@@ -352,6 +352,8 @@ _Momenta Pharmaceuticals_, Invited Oral Presentation \hfill April 2017
 
 *Undergraduate Students*
 
+- Ethan Hung \hfill 2021 – Present
+- Eva Hunter \hfill 2021 – Present
 - Hakan Alpay (Frontend Engineer, Facebook) \hfill 2021
 - Luka Karginov (NCI CSBC Summer Scholar; Ph.D., Biological Engineering, MIT) \hfill 2020 – 2021
 - Madeleine Murphy (Computational Biologist, Broad Institute of MIT \& Harvard) \hfill 2020 – Present
