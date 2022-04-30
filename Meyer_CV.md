@@ -352,6 +352,7 @@ _Momenta Pharmaceuticals_, Invited Oral Presentation \hfill April 2017
 
 *Undergraduate Students*
 
+- Jamie Stickelmaier \hfill 2021 – Present
 - Ethan Hung \hfill 2021 – Present
 - Eva Hunter \hfill 2021 – Present
 - Hakan Alpay (Frontend Engineer, Facebook) \hfill 2021
@@ -359,6 +360,7 @@ _Momenta Pharmaceuticals_, Invited Oral Presentation \hfill April 2017
 - Madeleine Murphy (Computational Biologist, Broad Institute of MIT \& Harvard) \hfill 2020 – Present
 - Aditya Sivakumar \hfill 2020 – 2021
 - Eli Snyder (Associate Consultant, Putnam Associates) \hfill 2020 – 2021
+- Peter Emmel \hfill 2019 – Present
 - Amanda Tsao (M.D., University of Southern California) \hfill 2019 – 2021
 - JC Lagarde \hfill 2019 – Present
 - Sumedha Kanthamneni \hfill 2019 – Present
