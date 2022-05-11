@@ -563,50 +563,65 @@ Miller, M.A., M.J. Oudin, **A.S. Meyer**, L.G. Griffith, F.B. Gertler, D.A. Lauf
 \begin{multicols}{2}
 
 Daniel Bradbury, Bioengineering\\
-Advisor: Daniel Kamei
+Advisor: Daniel Kamei\\
+2017–2020
 
 Giovanni Valdez, Bioengineering\\
-Advisor: Grace Xiao
+Advisor: Grace Xiao\\
+2018–2021
 
 Hiromi Miwa, Bioengineering\\
-Advisor: Dino Di Carlo
+Advisor: Dino Di Carlo\\
+2019–Present
 
 Mark van Zee, Bioengineering\\
-Advisor: Dino Di Carlo
+Advisor: Dino Di Carlo\\
+2019–2022
 
 Rob Dimatteo, Bioengineering\\
-Advisor: Dino Di Carlo
+Advisor: Dino Di Carlo\\
+2019–2021
 
 Alexander Wickstrom, Bioengineering (M.S.)\\
-Advisor: Jonathan Kao
+Advisor: Jonathan Kao\\
+2019
 
 Hector E Muñoz, Bioengineering\\
-Advisor: Dino Di Carlo
+Advisor: Dino Di Carlo\\
+2019–2020
 
 \columnbreak
 
 Wei-Chia Elizabeth Luo, Bioengineering\\
-Advisor: Gerard Wong
+Advisor: Gerard Wong\\
+2020–Present
 
 Mohammadali Alidoost, Bioengineering\\
-Advisor: Jennifer Wilson
+Advisor: Jennifer Wilson\\
+2021–Present
 
 Cameron S. Movassaghi, Chemistry\\
-Advisor: Anne M. Andrews
+Advisor: Anne M. Andrews\\
+2021–Present
 
 Felis Doyeon Koo, Bioengineering\\
-Advisor: Dino Di Carlo
+Advisor: Dino Di Carlo\\
+2021–Present
 
 Favour Esedebe, Bioinformatics\\
-Advisor: Tom Graeber
+Advisor: Tom Graeber\\
+2021–Present
 
 Connor Razma, Bioinformatics (M.S.)\\
-Advisor: Alexander Hoffmann
+Advisor: Alexander Hoffmann\\
+2022–Present
 
 Mai Tran, Earth, Planetary \& Space Sciences\\
-Advisor: William Newman
+Advisor: William Newman\\
+2022–Present
 
 Nilay Shah, Computer Science (M.S.)\\
-Advisor: Bolei Zhou
+Advisor: Bolei Zhou\\
+2022–Present
 
 \end{multicols}
