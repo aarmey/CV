@@ -37,7 +37,7 @@ Department of Bioengineering, University of California, Los Angeles, CA
 \leftskip 0.1in
 \parindent -0.1in
 
-33. VanDyke, D., M. Iglesias, J. Tomala, A. Young, J. Bridge, J. Perry, E. Gebara, A.R. Cross, L.S. Cheung, A.G. Dykema, **B. Orcutt-Jahns**, T. Henclová, J. Golias, J. Balolong, L.M. Tomasovic, D. Funda, **A.S. Meyer**, D.M. Pardoll, J. Hester, F. Issa, C.A. Hunter, M.S. Anderson, J.A. Bluestone, G. Raimondi, J.B. Spangler. Engineered human cytokine/antibody fusion proteins elicit targeted expansion of regulatory T cells and confer protection against autoimmune diseases." _Submitted._
+33\. VanDyke, D., M. Iglesias, J. Tomala, A. Young, J. Bridge, J. Perry, E. Gebara, A.R. Cross, L.S. Cheung, A.G. Dykema, **B. Orcutt-Jahns**, T. Henclová, J. Golias, J. Balolong, L.M. Tomasovic, D. Funda, **A.S. Meyer**, D.M. Pardoll, J. Hester, F. Issa, C.A. Hunter, M.S. Anderson, J.A. Bluestone, G. Raimondi, J.B. Spangler. Engineered human cytokine/antibody fusion proteins elicit targeted expansion of regulatory T cells and confer protection against autoimmune diseases." _Submitted._
 
 \parskip 0.1in
 
