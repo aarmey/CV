@@ -550,13 +550,15 @@ _Member_, Publicity Committee \hfill 2017 – 2018
 
 # Patents/Disclosures
 
-**A.S. Meyer**. "Altering cytokine specificity through binding valency." U.S. provisional patent application 63/216,718, 2021.
+Orcutt-Jahns, B., P.C. Emmel, A.S. Meyer. "Multi-specific engineered cytokines." Disclosure filed, 2022.
 
-Bae, S.Y., **A.S. Meyer**. "Small Molecule Competitive Inhibitors Of Phosphatidylserine-TAMR Ligand Interaction." Disclosure filed, 2018.
+A.S. Meyer. "Altering cytokine specificity through binding valency." U.S. provisional patent application 63/216,718, 2021.
 
-Richards, E.J., S. Manole, **A.S. Meyer**. "Modulating JNK activation to impede lung & breast cancer RTK inhibitor bypass resistance." Disclosure filed, 2016.
+Bae, S.Y., A.S. Meyer. "Small Molecule Competitive Inhibitors Of Phosphatidylserine-TAMR Ligand Interaction." Disclosure filed, 2018.
 
-Miller, M.A., M.J. Oudin, **A.S. Meyer**, L.G. Griffith, F.B. Gertler, D.A. Lauffenburger. "Methods of Reducing Kinase Inhibitor Resistance." US patent application 14/690,001, 2015.
+Richards, E.J., S. Manole, A.S. Meyer. "Modulating JNK activation to impede lung & breast cancer RTK inhibitor bypass resistance." Disclosure filed, 2016.
+
+Miller, M.A., M.J. Oudin, A.S. Meyer, L.G. Griffith, F.B. Gertler, D.A. Lauffenburger. "Methods of Reducing Kinase Inhibitor Resistance." US patent application 14/690,001, 2015.
 
 # Thesis Committee Membership
 
