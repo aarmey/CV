@@ -552,6 +552,8 @@ _Member_, Publicity Committee \hfill 2017 – 2018
 
 Orcutt-Jahns, B., P.C. Emmel, A.S. Meyer. "Multi-specific engineered cytokines." Disclosure filed, 2022.
 
+A.S. Meyer. "Systems serology analysis of tumors." Disclosure filed, 2022.
+
 A.S. Meyer. "Altering cytokine specificity through binding valency." U.S. provisional patent application 63/216,718, 2021.
 
 Bae, S.Y., A.S. Meyer. "Small Molecule Competitive Inhibitors Of Phosphatidylserine-TAMR Ligand Interaction." Disclosure filed, 2018.
