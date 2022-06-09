@@ -209,6 +209,8 @@ UCLA, Molecular, Cell, and Developmental Biology M130
 
 - Led discussion of a paper from the lab used as a project within the class
 
+\clearpage
+
 _Discussion Leader_, Ethics and Accountability in Biomedical Research \hfill 2021  
 UCLA, Microbiology, Immunology, & Molecular Genetics
 
