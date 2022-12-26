@@ -37,9 +37,11 @@ Department of Bioengineering, University of California, Los Angeles, CA
 \leftskip 0.1in
 \parindent -0.1in
 
-33\. **Orcutt-Jahns, B**, **P.C. Emmel**, **E.M. Snyder**, **S.D. Taylor**, **Aaron S. Meyer**. "Multivalent, asymmetric IL-2-Fc fusions provide optimally enhanced regulatory T cell selectivity." _Submitted, [bioRxiv preprint](https://www.biorxiv.org/content/10.1101/2021.07.03.451002v2)._
+34\. **Chin, J.L.**, **Z.C. Tan**, L.C. Chan, F. Ruffin, R. Parmar, R. Ahn, S. Taylor, A.S. Bayer, A. Hoffmann, J. Vance G Fowler, E.F. Reed, M.R. Yeaman, **A.S. Meyer**, MRSA Systems Immunobiology Group. "Cytokine-expression patterns reveal coordinated immunological programs associated with persistent MRSA bacteremia." _Submitted._
 
 \parskip 0.1in
+
+33\. **Orcutt-Jahns, B**, **P.C. Emmel**, **E.M. Snyder**, **S.D. Taylor**, **Aaron S. Meyer**. "Multivalent, asymmetric IL-2-Fc fusions provide optimally enhanced regulatory T cell selectivity." _Submitted, [bioRxiv preprint](https://www.biorxiv.org/content/10.1101/2021.07.03.451002v2)._
 
 32\. S.M. Gross, **F. Mohammadi**, C. Sanchez-Aguila, P.J. Zhan, **A.S. Meyer**, L.M. Heiser. "Analysis and modeling of cancer drug responses using cell cycle phase-specific rate effects." _Submitted, [bioRxiv preprint](https://www.biorxiv.org/content/10.1101/2020.07.24.219907v2)._
 
