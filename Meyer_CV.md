@@ -37,7 +37,7 @@ Department of Bioengineering, University of California, Los Angeles, CA
 \leftskip 0.1in
 \parindent -0.1in
 
-34\. **Chin, J.L.**, **Z.C. Tan**, L.C. Chan, F. Ruffin, R. Parmar, R. Ahn, S. Taylor, A.S. Bayer, A. Hoffmann, J. Vance G Fowler, E.F. Reed, M.R. Yeaman, **A.S. Meyer**, MRSA Systems Immunobiology Group. "Cytokine-expression patterns reveal coordinated immunological programs associated with persistent MRSA bacteremia." _Submitted._
+34\. **Chin, J.L.**, **Z.C. Tan**, L.C. Chan, F. Ruffin, R. Parmar, R. Ahn, **S. Taylor**, A.S. Bayer, A. Hoffmann, J. Vance G Fowler, E.F. Reed, M.R. Yeaman, **A.S. Meyer**, MRSA Systems Immunobiology Group. "Cytokine-expression patterns reveal coordinated immunological programs associated with persistent MRSA bacteremia." _Submitted._
 
 \parskip 0.1in
 
