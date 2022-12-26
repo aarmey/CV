@@ -37,13 +37,9 @@ Department of Bioengineering, University of California, Los Angeles, CA
 \leftskip 0.1in
 \parindent -0.1in
 
-VanDyke, D., M. Iglesias, J. Tomala, A. Young, J. Bridge, J. Perry, E. Gebara, A.R. Cross, L.S. Cheung, A.G. Dykema, **B. Orcutt-Jahns**, T. Henclová, J. Golias, J. Balolong, L.M. Tomasovic, D. Funda, **A.S. Meyer**, D.M. Pardoll, J. Hester, F. Issa, C.A. Hunter, M.S. Anderson, J.A. Bluestone, G. Raimondi, J.B. Spangler. Engineered human cytokine/antibody fusion proteins elicit targeted expansion of regulatory T cells and confer protection against autoimmune diseases." _Submitted._
+**Orcutt-Jahns, B**, **P.C. Emmel**, **E.M. Snyder**, **S.D. Taylor**, **Aaron S. Meyer**. "Multivalent, asymmetric IL-2-Fc fusions provide optimally enhanced regulatory T cell selectivity." _Submitted, [bioRxiv preprint](https://www.biorxiv.org/content/10.1101/2021.07.03.451002v2)._
 
 \parskip 0.1in
-
-**Orcutt-Jahns, B**, **P.C. Emmel**, **E.M. Snyder**, Cori Posner, Scott M. Carlson, **Aaron S. Meyer**. "Multivalency enhances the specificity of Fc-cytokine fusions." _Submitted, [bioRxiv preprint](https://www.biorxiv.org/content/10.1101/2021.07.03.451002v1)._
-
-**Mohammadi, F.**, **S. Visagan**, S.M. Gross, **L. Karginov**, **JC Lagarde**, L.M. Heiser, **A.S. Meyer**. "A lineage tree-based hidden Markov model to quantify cellular heterogeneity and plasticity." _Submitted, [bioRxiv preprint](https://www.biorxiv.org/content/10.1101/2021.06.25.449922v1)._
 
 S.M. Gross, **F. Mohammadi**, C. Sanchez-Aguila, P.J. Zhan, **A.S. Meyer**, L.M. Heiser. "Analysis and modeling of cancer drug responses using cell cycle phase-specific rate effects." _Submitted, [bioRxiv preprint](https://www.biorxiv.org/content/10.1101/2020.07.24.219907v2)._
 
@@ -52,9 +48,13 @@ S.M. Gross, **F. Mohammadi**, C. Sanchez-Aguila, P.J. Zhan, **A.S. Meyer**, L.M.
 \leftskip 0.1in
 \parindent -0.1in
 
-**Creixell, M.**, Hyuna Kim, **F. Mohammadi**, S.R. Peyton, **A.S. Meyer**. "Systems approaches to uncovering the contribution of environment-mediated drug resistance." _Current Opinion in Solid State & Materials Science._ _Accepted._
+**Mohammadi, F.**, **S. Visagan**, S.M. Gross, **L. Karginov**, **JC Lagarde**, L.M. Heiser, **A.S. Meyer**. ["A lineage tree-based hidden Markov model to quantify cellular heterogeneity and plasticity."](https://doi.org/10.1038/s42003-022-04208-9) _Communications Biology_. 2022 Nov 17; 5(1): 1528.
 
 \parskip 0.1in
+
+VanDyke, D., M. Iglesias, J. Tomala, A. Young, J. Bridge, J. Perry, E. Gebara, A.R. Cross, L.S. Cheung, A.G. Dykema, **B. Orcutt-Jahns**, T. Henclová, J. Golias, J. Balolong, L.M. Tomasovic, D. Funda, **A.S. Meyer**, D.M. Pardoll, J. Hester, F. Issa, C.A. Hunter, M.S. Anderson, J.A. Bluestone, G. Raimondi, J.B. Spangler. ["Engineered human cytokine/antibody fusion proteins elicit targeted expansion of regulatory T cells and confer protection against autoimmune diseases."](https://doi.org/10.1016/j.celrep.2022.111478) _Cell Reports._ 2022 Oct 18; 41(3): 111478.
+
+**Creixell, M.**, H. Kim, **F. Mohammadi**, S.R. Peyton, **A.S. Meyer**. ["Systems approaches to uncovering the contribution of environment-mediated drug resistance."](https://doi.org/10.1016/j.cossms.2022.101005) _Current Opinion in Solid State & Materials Science._ 2022 Oct; 26(5): 101005.
 
 **Creixell, M.**, **A.S. Meyer**. ["Dual data and motif clustering improves the modeling and interpretation of phosphoproteomic data."](https://doi.org/10.1016/j.crmeth.2022.100167) _Cell Reports Methods._ 2022 Feb 28; 2(2): 100167.
 
