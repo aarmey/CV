@@ -37,85 +37,87 @@ Department of Bioengineering, University of California, Los Angeles, CA
 \leftskip 0.1in
 \parindent -0.1in
 
-**Orcutt-Jahns, B**, **P.C. Emmel**, **E.M. Snyder**, **S.D. Taylor**, **Aaron S. Meyer**. "Multivalent, asymmetric IL-2-Fc fusions provide optimally enhanced regulatory T cell selectivity." _Submitted, [bioRxiv preprint](https://www.biorxiv.org/content/10.1101/2021.07.03.451002v2)._
+33\. **Orcutt-Jahns, B**, **P.C. Emmel**, **E.M. Snyder**, **S.D. Taylor**, **Aaron S. Meyer**. "Multivalent, asymmetric IL-2-Fc fusions provide optimally enhanced regulatory T cell selectivity." _Submitted, [bioRxiv preprint](https://www.biorxiv.org/content/10.1101/2021.07.03.451002v2)._
 
 \parskip 0.1in
 
-S.M. Gross, **F. Mohammadi**, C. Sanchez-Aguila, P.J. Zhan, **A.S. Meyer**, L.M. Heiser. "Analysis and modeling of cancer drug responses using cell cycle phase-specific rate effects." _Submitted, [bioRxiv preprint](https://www.biorxiv.org/content/10.1101/2020.07.24.219907v2)._
+32\. S.M. Gross, **F. Mohammadi**, C. Sanchez-Aguila, P.J. Zhan, **A.S. Meyer**, L.M. Heiser. "Analysis and modeling of cancer drug responses using cell cycle phase-specific rate effects." _Submitted, [bioRxiv preprint](https://www.biorxiv.org/content/10.1101/2020.07.24.219907v2)._
 
 # Refereed Publications
 
 \leftskip 0.1in
 \parindent -0.1in
 
-**Mohammadi, F.**, **S. Visagan**, S.M. Gross, **L. Karginov**, **JC Lagarde**, L.M. Heiser, **A.S. Meyer**. ["A lineage tree-based hidden Markov model to quantify cellular heterogeneity and plasticity."](https://doi.org/10.1038/s42003-022-04208-9) _Communications Biology_. 2022 Nov 17; 5(1): 1528.
+31\. **Mohammadi, F.**, **S. Visagan**, S.M. Gross, **L. Karginov**, **JC Lagarde**, L.M. Heiser, **A.S. Meyer**. ["A lineage tree-based hidden Markov model to quantify cellular heterogeneity and plasticity."](https://doi.org/10.1038/s42003-022-04208-9) _Communications Biology_. 2022 Nov 17; 5(1): 1528.
 
 \parskip 0.1in
 
-VanDyke, D., M. Iglesias, J. Tomala, A. Young, J. Bridge, J. Perry, E. Gebara, A.R. Cross, L.S. Cheung, A.G. Dykema, **B. Orcutt-Jahns**, T. Henclová, J. Golias, J. Balolong, L.M. Tomasovic, D. Funda, **A.S. Meyer**, D.M. Pardoll, J. Hester, F. Issa, C.A. Hunter, M.S. Anderson, J.A. Bluestone, G. Raimondi, J.B. Spangler. ["Engineered human cytokine/antibody fusion proteins elicit targeted expansion of regulatory T cells and confer protection against autoimmune diseases."](https://doi.org/10.1016/j.celrep.2022.111478) _Cell Reports._ 2022 Oct 18; 41(3): 111478.
+30\. VanDyke, D., M. Iglesias, J. Tomala, A. Young, J. Bridge, J. Perry, E. Gebara, A.R. Cross, L.S. Cheung, A.G. Dykema, **B. Orcutt-Jahns**, T. Henclová, J. Golias, J. Balolong, L.M. Tomasovic, D. Funda, **A.S. Meyer**, D.M. Pardoll, J. Hester, F. Issa, C.A. Hunter, M.S. Anderson, J.A. Bluestone, G. Raimondi, J.B. Spangler. ["Engineered human cytokine/antibody fusion proteins elicit targeted expansion of regulatory T cells and confer protection against autoimmune diseases."](https://doi.org/10.1016/j.celrep.2022.111478) _Cell Reports._ 2022 Oct 18; 41(3): 111478.
 
-**Creixell, M.**, H. Kim, **F. Mohammadi**, S.R. Peyton, **A.S. Meyer**. ["Systems approaches to uncovering the contribution of environment-mediated drug resistance."](https://doi.org/10.1016/j.cossms.2022.101005) _Current Opinion in Solid State & Materials Science._ 2022 Oct; 26(5): 101005.
+29\. **Creixell, M.**, H. Kim, **F. Mohammadi**, S.R. Peyton, **A.S. Meyer**. ["Systems approaches to uncovering the contribution of environment-mediated drug resistance."](https://doi.org/10.1016/j.cossms.2022.101005) _Current Opinion in Solid State & Materials Science._ 2022 Oct; 26(5): 101005.
 
-**Creixell, M.**, **A.S. Meyer**. ["Dual data and motif clustering improves the modeling and interpretation of phosphoproteomic data."](https://doi.org/10.1016/j.crmeth.2022.100167) _Cell Reports Methods._ 2022 Feb 28; 2(2): 100167.
+28\. **Creixell, M.**, **A.S. Meyer**. ["Dual data and motif clustering improves the modeling and interpretation of phosphoproteomic data."](https://doi.org/10.1016/j.crmeth.2022.100167) _Cell Reports Methods._ 2022 Feb 28; 2(2): 100167.
 
-Majumder, A., S. Hosseinian, M.J. Stroud, E. Adhikari, J.J. Saller, D.M.A. Smith, D.G. Zhang, S. Agarwal, **M. Creixell**, B.S. Meyer, M.F. Kinose, K.S. Bowers, B. Fang, P.A. Stewart, E.A. Welsh, T.A. Boyle, **A.S. Meyer**, J.M. Koomen, E.B. Haura. ["Proteomic Characterization of AXL Kinase Inhibitors and Signaling Pathways."](https://mcr.aacrjournals.org/content/early/2022/01/12/1541-7786.MCR-21-0275.abstract) _Molecular Cancer Research._ 2022 Jan 7; 20(4): 542–555.
+27\. Majumder, A., S. Hosseinian, M.J. Stroud, E. Adhikari, J.J. Saller, D.M.A. Smith, D.G. Zhang, S. Agarwal, **M. Creixell**, B.S. Meyer, M.F. Kinose, K.S. Bowers, B. Fang, P.A. Stewart, E.A. Welsh, T.A. Boyle, **A.S. Meyer**, J.M. Koomen, E.B. Haura. ["Proteomic Characterization of AXL Kinase Inhibitors and Signaling Pathways."](https://mcr.aacrjournals.org/content/early/2022/01/12/1541-7786.MCR-21-0275.abstract) _Molecular Cancer Research._ 2022 Jan 7; 20(4): 542–555.
 
-**Tan, Z.C.**, **B.T. Orcutt-Jahns**, **A.S. Meyer**. ["A quantitative view of strategies to engineer cell-selective ligand binding."](https://doi.org/10.1093/intbio/zyab019) _Integrative Biology._ 2021 Nov 23; 13(11): 269–282.
+26\. **Tan, Z.C.**, **B.T. Orcutt-Jahns**, **A.S. Meyer**. ["A quantitative view of strategies to engineer cell-selective ligand binding."](https://doi.org/10.1093/intbio/zyab019) _Integrative Biology._ 2021 Nov 23; 13(11): 269–282.
 
-**Tan, Z.C.**, **A.S. Meyer**. ["A general model of multivalent binding with ligands of heterotypic subunits and multiple surface receptors."](https://doi.org/10.1016/j.mbs.2021.108714) _Mathematical Biosciences._ 2021 Dec; 342:108714.
+25\. **Tan, Z.C.**, **A.S. Meyer**. ["A general model of multivalent binding with ligands of heterotypic subunits and multiple surface receptors."](https://doi.org/10.1016/j.mbs.2021.108714) _Mathematical Biosciences._ 2021 Dec; 342:108714.
 
-**Tan, Z.C.**, **M.C. Murphy**, **H.S. Alpay**, **S.D. Taylor**, **A.S. Meyer**. ["Tensor-structured decomposition improves systems serology analysis."](https://doi.org/10.15252/msb.202110243) _Molecular Systems Biology._ 2021 Sept 6; 17:e10243.
+24\. **Tan, Z.C.**, **M.C. Murphy**, **H.S. Alpay**, **S.D. Taylor**, **A.S. Meyer**. ["Tensor-structured decomposition improves systems serology analysis."](https://doi.org/10.15252/msb.202110243) _Molecular Systems Biology._ 2021 Sept 6; 17:e10243.
 
-**Farhat, A.M.**, **A.C. Weiner**, C. Posner, **Z.S. Kim**, **B. Orcutt-Jahns**, S.M. Carlson, **A.S. Meyer**. ["Modeling Cell-Specific Dynamics and Regulation of the Common Gamma Chain Cytokines."](https://doi.org/10.1016/j.celrep.2021.109044) _Cell Reports._ 2021 April 27; 35(4):109044.
+23\. **Farhat, A.M.**, **A.C. Weiner**, C. Posner, **Z.S. Kim**, **B. Orcutt-Jahns**, S.M. Carlson, **A.S. Meyer**. ["Modeling Cell-Specific Dynamics and Regulation of the Common Gamma Chain Cytokines."](https://doi.org/10.1016/j.celrep.2021.109044) _Cell Reports._ 2021 April 27; 35(4):109044.
 
-**Bae, S.Y.**, **N. Guan**, **R. Yan**, **K. Warner**, **S.D. Taylor**, **A.S. Meyer**. ["Measurement and models accounting for cell death capture hidden variation in compound response."](https://www.nature.com/articles/s41419-020-2462-8) _Cell Death & Disease._, 2020 Apr 20; 255(11). 
+22\. **Bae, S.Y.**, **N. Guan**, **R. Yan**, **K. Warner**, **S.D. Taylor**, **A.S. Meyer**. ["Measurement and models accounting for cell death capture hidden variation in compound response."](https://www.nature.com/articles/s41419-020-2462-8) _Cell Death & Disease._, 2020 Apr 20; 255(11). 
 
-Lee, C.-H., T. H. Kang, O. Godon, M. Watanabe, G. Delidakis, C.M. Gillis, D. Sterlin, D. Hardy, M. Cogné, L.E. Macdonald, A.J. Murphy, N. Tu, J. Lee, J.R. McDaniel, E. Makowski, Peter M. Tessier, **A.S. Meyer**, P. Bruhns, G. Georgiou. ["An engineered human Fc domain that behaves like a pH-toggle switch for ultra-long circulation persistence."](https://www.nature.com/articles/s41467-019-13108-2) _Nature Communications._, 2019 Nov 6; 10(1):5031.
+21\. Lee, C.-H., T. H. Kang, O. Godon, M. Watanabe, G. Delidakis, C.M. Gillis, D. Sterlin, D. Hardy, M. Cogné, L.E. Macdonald, A.J. Murphy, N. Tu, J. Lee, J.R. McDaniel, E. Makowski, Peter M. Tessier, **A.S. Meyer**, P. Bruhns, G. Georgiou. ["An engineered human Fc domain that behaves like a pH-toggle switch for ultra-long circulation persistence."](https://www.nature.com/articles/s41467-019-13108-2) _Nature Communications._, 2019 Nov 6; 10(1):5031.
 
-**Meyer, A.S.**, L.M. Heiser. ["Systems biology approaches to measure and model phenotypic heterogeneity in cancer."](https://doi.org/10.1016/j.coisb.2019.09.002) _Current Opinion in Systems Biology._ 2019 Oct 4; 17: 35--40.
+20\. **Meyer, A.S.**, L.M. Heiser. ["Systems biology approaches to measure and model phenotypic heterogeneity in cancer."](https://doi.org/10.1016/j.coisb.2019.09.002) _Current Opinion in Systems Biology._ 2019 Oct 4; 17: 35--40.
 
-Situ, K., B.A. Chua, **S.Y. Bae**, **A.S. Meyer**, K. Morizono. ["Versatile targeting system for lentiviral vectors involving biotinylated targeting molecules."](https://doi.org/10.1016/j.virol.2018.09.017) _Virology._ 2018 Oct 2; 525: 170--181.
+19\. Situ, K., B.A. Chua, **S.Y. Bae**, **A.S. Meyer**, K. Morizono. ["Versatile targeting system for lentiviral vectors involving biotinylated targeting molecules."](https://doi.org/10.1016/j.virol.2018.09.017) _Virology._ 2018 Oct 2; 525: 170--181.
 
-**Robinett, R.A.**, **N. Guan**, A. Lux, M. Biburger, F. Nimmerjahn, **A.S. Meyer**. ["Dissecting FcγR Regulation Through a Multivalent Binding Model."](https://doi.org/10.1016/j.cels.2018.05.018) _Cell Systems._ 2018 Jul 25; 6(7): 1--8.
+18\. **Robinett, R.A.**, **N. Guan**, A. Lux, M. Biburger, F. Nimmerjahn, **A.S. Meyer**. ["Dissecting FcγR Regulation Through a Multivalent Binding Model."](https://doi.org/10.1016/j.cels.2018.05.018) _Cell Systems._ 2018 Jul 25; 6(7): 1--8.
 
-Claas, A.M., L. Atta, S. Gordonov, **A.S. Meyer**, D.A. Lauffenburger. ["Systems Modeling Identifies Divergent Receptor Tyrosine Kinase Reprogramming to MAPK Pathway Inhibition."](https://link.springer.com/article/10.1007/s12195-018-0542-y) _Cellular and Molecular Bioengineering_ 2018 Jul 26; 1--19.
+17\. Claas, A.M., L. Atta, S. Gordonov, **A.S. Meyer**, D.A. Lauffenburger. ["Systems Modeling Identifies Divergent Receptor Tyrosine Kinase Reprogramming to MAPK Pathway Inhibition."](https://link.springer.com/article/10.1007/s12195-018-0542-y) _Cellular and Molecular Bioengineering_ 2018 Jul 26; 1--19.
 
-Muffat, J., Y. Li, A. Omer, A. Durbin, I. Bosch, G. Bakiasi, **E. Richards**, **A.S. Meyer**, L. Gehrke, R. Jaenisch. ["Human iPS-derived Glial Cells and Neural Progenitors Display Divergent Responses to Zika and Dengue Infections."](https://www.pnas.org/content/115/27/7117) _Proc. Natl. Acad. Sci. U.S.A._ 2018 Jun 18; 201719266.
+16\. Muffat, J., Y. Li, A. Omer, A. Durbin, I. Bosch, G. Bakiasi, **E. Richards**, **A.S. Meyer**, L. Gehrke, R. Jaenisch. ["Human iPS-derived Glial Cells and Neural Progenitors Display Divergent Responses to Zika and Dengue Infections."](https://www.pnas.org/content/115/27/7117) _Proc. Natl. Acad. Sci. U.S.A._ 2018 Jun 18; 201719266.
 
-Schwartz, A.D., L.E. Barney, L.E. Jansen, T.V. Nguyen, C.L. Hall, **A.S. Meyer**, S.R. Peyton. ["A Biomaterial Screening Approach to Reveal Microenvironmental Mechanisms of Drug Resistance."](http://pubs.rsc.org/en/content/articlelanding/2017/ib/c7ib00128b) _Integrative Biology._ 2017 Nov 14; 9: 912--924.
+15\. Schwartz, A.D., L.E. Barney, L.E. Jansen, T.V. Nguyen, C.L. Hall, **A.S. Meyer**, S.R. Peyton. ["A Biomaterial Screening Approach to Reveal Microenvironmental Mechanisms of Drug Resistance."](http://pubs.rsc.org/en/content/articlelanding/2017/ib/c7ib00128b) _Integrative Biology._ 2017 Nov 14; 9: 912--924.
 
-**Zweemer, A.J.M.**, C.B. French, J. Mesfin, S. Gordonov, **A.S. Meyer**, D.A. Lauffenburger. ["Apoptotic Cell Bodies Elicit Gas6-Mediated Migration Of AXL-Expressing Tumor Cells."](https://doi.org/10.1158/1541-7786.MCR-17-0012) _Molecular Cancer Research._ 2017 Sept 18; 15 (12): 1656--1666.
+14\. **Zweemer, A.J.M.**, C.B. French, J. Mesfin, S. Gordonov, **A.S. Meyer**, D.A. Lauffenburger. ["Apoptotic Cell Bodies Elicit Gas6-Mediated Migration Of AXL-Expressing Tumor Cells."](https://doi.org/10.1158/1541-7786.MCR-17-0012) _Molecular Cancer Research._ 2017 Sept 18; 15 (12): 1656--1666.
 
-Archer, T.C., E.J. Fertig, S.J.C. Gosline, M. Hafner, S.K. Hughes, B.A. Joughin, **A.S. Meyer\footnote{Corresponding author.}**, S.P. Piccolo, A. Shajahan-Haq. ["Systems Approaches to Cancer Biology."](https://dx.doi.org/10.1158%2F0008-5472.CAN-16-1580) _Cancer Research._ 2016 Nov 18; 76 (23); 1--4.
+13\. Archer, T.C., E.J. Fertig, S.J.C. Gosline, M. Hafner, S.K. Hughes, B.A. Joughin, **A.S. Meyer\footnote{Corresponding author.}**, S.P. Piccolo, A. Shajahan-Haq. ["Systems Approaches to Cancer Biology."](https://dx.doi.org/10.1158%2F0008-5472.CAN-16-1580) _Cancer Research._ 2016 Nov 18; 76 (23); 1--4.
 
-**Manole, S.**, **E.J. Richards**, **A.S. Meyer**. ["JNK pathway activation modulates acquired resistance to EGFR/HER2 targeted therapies."](https://aacrjournals.org/cancerres/article/76/18/5219/615800/JNK-Pathway-Activation-Modulates-Acquired) _Cancer Research._ 2016 Sept 15; 76 (18): 5219--5228.
+12\. **Manole, S.**, **E.J. Richards**, **A.S. Meyer**. ["JNK pathway activation modulates acquired resistance to EGFR/HER2 targeted therapies."](https://aacrjournals.org/cancerres/article/76/18/5219/615800/JNK-Pathway-Activation-Modulates-Acquired) _Cancer Research._ 2016 Sept 15; 76 (18): 5219--5228.
 
-McConnell, R.E., J.E. Van Veen, M. Vidaki, A.V. Kwiatkowski, **A.S. Meyer**, D.A. Lauffenburger, F.B. Gertler. ["A Requirement for Filopodia Extension Towards Slit During Robo-Mediated Axon Repulsion."](http://jcb.rupress.org/content/213/2/261.full) _Journal of Cell Biology._ 2016 Apr 18; 213 (2): 261.
+11\. McConnell, R.E., J.E. Van Veen, M. Vidaki, A.V. Kwiatkowski, **A.S. Meyer**, D.A. Lauffenburger, F.B. Gertler. ["A Requirement for Filopodia Extension Towards Slit During Robo-Mediated Axon Repulsion."](http://jcb.rupress.org/content/213/2/261.full) _Journal of Cell Biology._ 2016 Apr 18; 213 (2): 261.
 
-Miller, M.A., M.J. Oudin, R.J. Sullivan, D.T. Frederick, **A.S. Meyer**, S. Wang, H. Im, J. Tadros, L.G. Griffith, H. Lee, R. Weissleder, K.T. Flaherty, F.B. Gertler, D.A. Lauffenburger. ["Reduced proteolytic shedding of receptor tyrosine kinases is a post-translational mechanism of kinase inhibitor resistance."](http://cancerdiscovery.aacrjournals.org/content/early/2016/03/15/2159-8290.CD-15-0933) _Cancer Discovery._ 2016 Apr; 6:331-333.
+10\. Miller, M.A., M.J. Oudin, R.J. Sullivan, D.T. Frederick, **A.S. Meyer**, S. Wang, H. Im, J. Tadros, L.G. Griffith, H. Lee, R. Weissleder, K.T. Flaherty, F.B. Gertler, D.A. Lauffenburger. ["Reduced proteolytic shedding of receptor tyrosine kinases is a post-translational mechanism of kinase inhibitor resistance."](http://cancerdiscovery.aacrjournals.org/content/early/2016/03/15/2159-8290.CD-15-0933) _Cancer Discovery._ 2016 Apr; 6:331-333.
 
-Miller, M.A., M. Moss, G. Powell, R. Petrovich, L. Edwards, **A.S. Meyer**, L.G. Griffith, D.A. Lauffenburger. ["Targeting autocrine HB-EGF signaling with specific ADAM12 inhibition using recombinant ADAM12 prodomain."](http://www.ncbi.nlm.nih.gov/pubmed/26477568) _Scientific Reports._ 2015 Oct 19; 5:15150.
+9\. Miller, M.A., M. Moss, G. Powell, R. Petrovich, L. Edwards, **A.S. Meyer**, L.G. Griffith, D.A. Lauffenburger. ["Targeting autocrine HB-EGF signaling with specific ADAM12 inhibition using recombinant ADAM12 prodomain."](http://www.ncbi.nlm.nih.gov/pubmed/26477568) _Scientific Reports._ 2015 Oct 19; 5:15150.
 
-**Meyer\footnote{Co-corresponding authors.}, A.S.**, **A.J.M. Zweemer**, D.A. Lauffenburger\footnotemark[\value{footnote}]. ["The AXL receptor is a sensor of ligand spatial heterogeneity."](http://dx.doi.org/10.1016/j.cels.2015.06.002) _Cell Systems._ 2015 Nov 29; 1(1):25-36.
+8\. **Meyer\footnote{Co-corresponding authors.}, A.S.**, **A.J.M. Zweemer**, D.A. Lauffenburger\footnotemark[\value{footnote}]. ["The AXL receptor is a sensor of ligand spatial heterogeneity."](http://dx.doi.org/10.1016/j.cels.2015.06.002) _Cell Systems._ 2015 Nov 29; 1(1):25-36.
 
-Riquelme, D.N., **A.S. Meyer**, M. Barzik, A. Keating, F.B. Gertler. ["Selectivity in subunit composition of Ena/VASP tetramers."](http://www.ncbi.nlm.nih.gov/pubmed/26221026) _Biosci. Rep._ 2015 Jul 28;35(5). pii: e00246.
+7\. Riquelme, D.N., **A.S. Meyer**, M. Barzik, A. Keating, F.B. Gertler. ["Selectivity in subunit composition of Ena/VASP tetramers."](http://www.ncbi.nlm.nih.gov/pubmed/26221026) _Biosci. Rep._ 2015 Jul 28;35(5). pii: e00246.
 
-**Meyer, A.S.**, M.A. Miller, F.B. Gertler, D.A. Lauffenburger. ["The receptor AXL diversifies EGFR signaling and limits the response to EGFR-targeted inhibitors in triple-negative breast cancer cells."](http://www.ncbi.nlm.nih.gov/pubmed/23921085) _Science Signaling._ 2013 Aug 6; 6(287):ra66.
+6\. **Meyer, A.S.**, M.A. Miller, F.B. Gertler, D.A. Lauffenburger. ["The receptor AXL diversifies EGFR signaling and limits the response to EGFR-targeted inhibitors in triple-negative breast cancer cells."](http://www.ncbi.nlm.nih.gov/pubmed/23921085) _Science Signaling._ 2013 Aug 6; 6(287):ra66.
 
-Miller\footnote{Equally contributing authors.}, M.A., **A.S. Meyer**\footnotemark[\value{footnote}], M. Beste, Z. Lasisi, S. Reddy, K. Jeng, C.-H. Chen, J. Han, K. Isaacson, L.G. Griffith, D.A. Lauffenburger. ["ADAM-10 and -17 regulate endometriotic cell migration via concerted ligand and receptor shedding feedback on kinase signaling."](http://www.ncbi.nlm.nih.gov/pubmed/23674691) _Proc. Natl. Acad. Sci. U.S.A._ 2013 May 28; 110(22):E2074-83.
+5\. Miller\footnote{Equally contributing authors.}, M.A., **A.S. Meyer**\footnotemark[\value{footnote}], M. Beste, Z. Lasisi, S. Reddy, K. Jeng, C.-H. Chen, J. Han, K. Isaacson, L.G. Griffith, D.A. Lauffenburger. ["ADAM-10 and -17 regulate endometriotic cell migration via concerted ligand and receptor shedding feedback on kinase signaling."](http://www.ncbi.nlm.nih.gov/pubmed/23674691) _Proc. Natl. Acad. Sci. U.S.A._ 2013 May 28; 110(22):E2074-83.
 
-**Meyer, A.S.**, S.K. Hughes-Alford, J.E. Kay, A. Castillo, A. Wells, F.B. Gertler, D.A. Lauffenburger. ["2D protrusion but not motility predicts growth factor-induced cancer cell migration in 3D collagen."](http://www.ncbi.nlm.nih.gov/pubmed/22665521) _Journal of Cell Biology._ 2012 Jun 11; 197(6):721-9.
+4\. **Meyer, A.S.**, S.K. Hughes-Alford, J.E. Kay, A. Castillo, A. Wells, F.B. Gertler, D.A. Lauffenburger. ["2D protrusion but not motility predicts growth factor-induced cancer cell migration in 3D collagen."](http://www.ncbi.nlm.nih.gov/pubmed/22665521) _Journal of Cell Biology._ 2012 Jun 11; 197(6):721-9.
 
-Kim, H.D., **A.S. Meyer**, J.P. Wagner, S.K. Alford, A. Wells, F.B. Gertler, D.A. Lauffenburger. ["Signaling network state predicts Twist-mediated effects on breast cell migration across diverse growth factor contexts."](http://www.ncbi.nlm.nih.gov/pubmed/21832255) _Mol. Cell. Proteomics._ 2011 Nov;10(11):M111.008433.
+3\. Kim, H.D., **A.S. Meyer**, J.P. Wagner, S.K. Alford, A. Wells, F.B. Gertler, D.A. Lauffenburger. ["Signaling network state predicts Twist-mediated effects on breast cell migration across diverse growth factor contexts."](http://www.ncbi.nlm.nih.gov/pubmed/21832255) _Mol. Cell. Proteomics._ 2011 Nov;10(11):M111.008433.
 
-**Meyer, A.S.**, R.G. Condon, G. Keil, N. Jhaveri, Z. Liu, Y.-S. Tsao. ["Fluorinert, an oxygen carrier, improves cell culture performance in deep square 96-well plates by facilitating oxygen transfer."](http://www.ncbi.nlm.nih.gov/pubmed/21954223) _Biotechnol. Prog._ 2012 Jan; 28(1):171-8.
+2\. **Meyer, A.S.**, R.G. Condon, G. Keil, N. Jhaveri, Z. Liu, Y.-S. Tsao. ["Fluorinert, an oxygen carrier, improves cell culture performance in deep square 96-well plates by facilitating oxygen transfer."](http://www.ncbi.nlm.nih.gov/pubmed/21954223) _Biotechnol. Prog._ 2012 Jan; 28(1):171-8.
 
-Mashayekhi, F., **A.S. Meyer**, S.A. Shiigi, V. Nguyen, D.T. Kamei. ["Concentration of mammalian genomic DNA using two-phase aqueous micellar systems."](http://www.ncbi.nlm.nih.gov/pubmed/19061237) _Biotechnol. Bioeng._ 2009 Apr 15; 102(6):1613-23.
+1\. Mashayekhi, F., **A.S. Meyer**, S.A. Shiigi, V. Nguyen, D.T. Kamei. ["Concentration of mammalian genomic DNA using two-phase aqueous micellar systems."](http://www.ncbi.nlm.nih.gov/pubmed/19061237) _Biotechnol. Bioeng._ 2009 Apr 15; 102(6):1613-23.
 
 \leftskip 0.0in
 \parindent 0.0in
 
 # Research Support & Awards
+
+_Contact PI on all grants unless indicated otherwise._
 
 _COVID Relief Funds_, Vice Chancellor for Research Office \hfill 2022
 
@@ -152,6 +154,8 @@ _Administrative Supplement to U01-CA215709_ \hfill 2018 – 2019
 _NIH NCI U01-CA215709_ \hfill 2017 – 2022  
 Cancer Systems Biology Consortium  
 "Precision Lung Cancer Therapy Design through Multiplexed Adapter Measurement"
+
+\clearpage
 
 _Fellowship Grant_ \hfill 2017 – 2019  
 Terri Brodeur Breast Cancer Foundation  
@@ -267,8 +271,6 @@ _Cellular \& Molecular Bioengineering_, Selected Oral Presentation \hfill Januar
 
 _Biomedical Engineering Society Annual Meeting_, Invited Podium Presentation \hfill October 2021  
 "Tensor Factorization-Based Data Fusion Improves Predictions and Interpretation of MRSA Outcome."
-
-\clearpage
 
 _CSHL Systems Immunology_, Selected Oral Presentation \hfill April 2021  
 "Developing a Mechanistic View of Mixed IgG Antibody Immune Effector Responses."
@@ -528,6 +530,8 @@ _Faculty Speaker_, UCLA Engineering Alumni Reunion \hfill 2018
 
 _Judge_, Biomedical Engineering Society BioHack \hfill 2022
 
+_Member_, Diversity, Equity and Inclusion Committee \hfill 2021 – Present
+
 _Member_, Bioengineering Hiring Search Committee \hfill 2021 – 2022
 
 _Member_, Teaching Facility & Shared Equipment Committee \hfill 2021 – Present
@@ -550,13 +554,17 @@ _Member_, Publicity Committee \hfill 2017 – 2018
 
 # Patents/Disclosures
 
-**A.S. Meyer**. "Altering cytokine specificity through binding valency." U.S. provisional patent application 63/216,718, 2021.
+Orcutt-Jahns, B., P.C. Emmel, A.S. Meyer. "Multi-specific engineered cytokines." Disclosure filed, 2022.
 
-Bae, S.Y., **A.S. Meyer**. "Small Molecule Competitive Inhibitors Of Phosphatidylserine-TAMR Ligand Interaction." Disclosure filed, 2018.
+A.S. Meyer. "Systems serology analysis of tumors." Disclosure filed, 2022.
 
-Richards, E.J., S. Manole, **A.S. Meyer**. "Modulating JNK activation to impede lung & breast cancer RTK inhibitor bypass resistance." Disclosure filed, 2016.
+A.S. Meyer. "Altering cytokine specificity through binding valency." U.S. provisional patent application 63/216,718, 2021.
 
-Miller, M.A., M.J. Oudin, **A.S. Meyer**, L.G. Griffith, F.B. Gertler, D.A. Lauffenburger. "Methods of Reducing Kinase Inhibitor Resistance." US patent application 14/690,001, 2015.
+Bae, S.Y., A.S. Meyer. "Small Molecule Competitive Inhibitors Of Phosphatidylserine-TAMR Ligand Interaction." Disclosure filed, 2018.
+
+Richards, E.J., S. Manole, A.S. Meyer. "Modulating JNK activation to impede lung & breast cancer RTK inhibitor bypass resistance." Disclosure filed, 2016.
+
+Miller, M.A., M.J. Oudin, A.S. Meyer, L.G. Griffith, F.B. Gertler, D.A. Lauffenburger. "Methods of Reducing Kinase Inhibitor Resistance." US patent application 14/690,001, 2015.
 
 # Thesis Committee Membership
 
