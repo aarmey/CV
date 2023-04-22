@@ -132,6 +132,8 @@ Department of Bioengineering, University of California, Los Angeles, CA
 
 _Contact PI on all grants unless indicated otherwise._
 
+_Outstanding Mentor Award_, Bruins-In-Genomics \hfill 2022
+
 _COVID Relief Funds_, Vice Chancellor for Research Office \hfill 2022
 
 _Milstein Abstract Award_, Cytokine Society \hfill 2021  
