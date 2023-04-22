@@ -670,8 +670,12 @@ Emily Bozich, Bioengineering (Ph.D.)\\
 Advisor: Jennifer Wilson\\
 2023–Present
 
-Jingwen Sun, Chemistry & Biochemistry (Ph.D.)\\
+Jingwen Sun, Chemistry \& Biochemistry (Ph.D.)\\
 Advisor: Chong Liu\\
+2023–Present
+
+Seth Hilliard, Computational \& Quantitative Medicine (Ph.D.)\\
+Advisor: Andrei Rodin (City of Hope)\\
 2023–Present
 
 \end{multicols}
