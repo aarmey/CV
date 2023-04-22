@@ -647,4 +647,8 @@ Nilay Shah, Computer Science (M.S.)\\
 Advisor: Bolei Zhou\\
 2022–Present
 
+Rayo Suseno, Bioengineering (M.S.)\\
+Advisor: Jennifer Wilson\\
+2022–Present
+
 \end{multicols}
