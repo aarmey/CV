@@ -429,7 +429,7 @@ _Ad Hoc Reviewer_, FEBS Letters \hfill 2021
 _Co-Organizer_, BME UNITE Webinar Series \hfill 2021 – Present  
 Showcase of current and future faculty candidates diverse and underrepresented in BME
 
-_Abstract Reviewer_, Biomedical Engineering Society Annual Meeting \hfill 2021
+_Abstract Reviewer_, Biomedical Engineering Society Annual Meeting \hfill 2021, 2022
 
 _Financial Officer_, Association of Cancer Systems Biologists \hfill 2021 – Present
 
