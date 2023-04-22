@@ -354,22 +354,27 @@ _Univ. of Calif., Riverside, Department of Bioengineering_, Invited Departmental
 
 *Ph.D. Students*
 
-- Andrew Ramirez (NSF GRFP; Cota Robles) \hfill 2021 – Present
+- Andrew Ramirez \hfill 2021 – Present
+    - NSF Graduate Research Fellowship
+    - Cota Robles Fellowship
 - Jackson Chin \hfill 2020 – Present
     - Best Poster Award, QC Bio Retreat, 2022
 - Brian Orcutt-Jahns \hfill 2019 – Present
 - Cyrillus Tan \hfill 2019 – Present
-- Farnaz Mohammadi \hfill 2018 – Present
-- Marc Creixell \hfill 2018 – Present
+    - Dissertation Year Fellowship, UCLA Graduate Division
+- Farnaz Mohammadi \hfill 2018 – 2023
+    - Dissertation Year Fellowship, UCLA Graduate Division
+- Marc Creixell \hfill 2018 – 2023
+    - JCCC Fellowship
 
 *Undergraduate Students*
 
-- Jamie Stickelmaier \hfill 2021 – Present
+- Jamie Stickelmaier \hfill 2021 – 2023
 - Ethan Hung \hfill 2021 – Present
-- Eva Hunter \hfill 2021 – Present
+- Eva Hunter \hfill 2021 – 2022
 - Hakan Alpay (Frontend Engineer, Facebook) \hfill 2021
 - Luka Karginov (NCI CSBC Summer Scholar; Ph.D., Biological Engineering, MIT) \hfill 2020 – 2021
-- Madeleine Murphy (Computational Biologist, Broad Institute of MIT \& Harvard) \hfill 2020 – Present
+- Madeleine Murphy (Computational Biologist, Broad Institute of MIT \& Harvard) \hfill 2020 – 2022
 - Aditya Sivakumar \hfill 2020 – 2021
 - Eli Snyder (Associate Consultant, Putnam Associates) \hfill 2020 – 2021
 - Peter Emmel \hfill 2019 – Present
@@ -393,6 +398,8 @@ _Univ. of Calif., Riverside, Department of Bioengineering_, Invited Departmental
 - Ryan Robinett (NSF GRFP; Ph.D., Comp. Sci., U. Chicago) \hfill 2015 – 2017
 
 # Service to the Profession
+
+_Abstract Reviewer_, UC Systemwide Bioengineering Symposium \hfill 2023
 
 _Ad Hoc Reviewer_, Cancer Immunology Research \hfill 2022
 
@@ -494,6 +501,11 @@ _Member_, MIT Biological Engineering Retreat Organizing Committee \hfill 2010 �
 _Ad Hoc Reviewer_, J. Cell Biol. \hfill 2011 – 2012
 
 # Service to UCLA
+
+_Poster Judge_, Undergraduate Research and Creativity Showcase \hfill 2023  
+Science Dean's Prize
+
+_Poster Judge_, Jonsson Cancer Center Annual Retreat \hfill 2023
 
 _Reviewer_, Tau Beta Pi Chapter Excellence Scholarship \hfill 2021, 2022
 
