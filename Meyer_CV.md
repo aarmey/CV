@@ -651,4 +651,16 @@ Rayo Suseno, Bioengineering (M.S.)\\
 Advisor: Jennifer Wilson\\
 2022–Present
 
+Shawn Liu, Bioengineering (M.S.)\\
+Advisor: Jennifer Wilson\\
+2023–Present
+
+Emily Bozich, Bioengineering (Ph.D.)\\
+Advisor: Jennifer Wilson\\
+2023–Present
+
+Jingwen Sun, Chemistry & Biochemistry (Ph.D.)\\
+Advisor: Chong Liu\\
+2023–Present
+
 \end{multicols}
