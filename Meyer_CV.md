@@ -269,6 +269,12 @@ MIT, Department of Biological Engineering, Cambridge, MA
 
 # Conference & Invited Presentations (Last Five Years)
 
+_Antibodies & Complement_, Selected Oral Presentation \hfill June 2023  
+"Cancer systems serology reveals active humoral immunity but disrupted Fc-elicited interactions."
+
+_UCLA Musculoskeletal Devices and Technologies Development Group_, Invited Seminar \hfill September 2022  
+"Uncovering immunologic mechanisms of MRSA persistence by tensor-mediated data integration."
+
 _SIAM Conference on Mathematics of Data Science_, Invited Podium Presentation \hfill September 2022  
 "Mechanistic and Data-Driven Dissection of Cell Communication Through Tensor Methods."
 
@@ -337,18 +343,6 @@ _Systems Biology of Human Disease_, Selected Oral Presentation \hfill June 2018
 _Univ. of Calif., Riverside, Department of Bioengineering_, Invited Departmental Seminar \hfill April 2018  
 "Dissecting FcγR Regulation Through a Multivalent Binding Model."
 
-_Univ. of Bergen, Centre for Cancer Biomarkers_, Invited Speaker \hfill March 2018  
-"Engineering more precise and potent TAM-targeted therapies."
-
-_Univ. of Calif., Los Angeles, Dept. of Bioengineering_, Invited Departmental Seminar \hfill October 2017  
-"Dissecting FcγR Regulation Through a Multivalent Binding Model."
-
-_Univ. of Calif., Los Angeles, Broad Stem Cell Research Center_, Invited Speaker \hfill October 2017  
-"Engineering more precise and potent TAM-targeted therapies."
-
-_Momenta Pharmaceuticals_, Invited Oral Presentation \hfill April 2017  
-"Dissecting FcγR Regulation Through a Multivalent Binding Model."
-
 # Research Supervision
 
 *Postdoctoral Fellows*
@@ -362,6 +356,7 @@ _Momenta Pharmaceuticals_, Invited Oral Presentation \hfill April 2017
 
 - Andrew Ramirez (NSF GRFP; Cota Robles) \hfill 2021 – Present
 - Jackson Chin \hfill 2020 – Present
+    - Best Poster Award, QC Bio Retreat, 2022
 - Brian Orcutt-Jahns \hfill 2019 – Present
 - Cyrillus Tan \hfill 2019 – Present
 - Farnaz Mohammadi \hfill 2018 – Present
@@ -517,7 +512,7 @@ _Curriculum Advisory Committee_, Computational & Systems Biology \hfill 2020 –
 
 _Written Qualifying Exam Evaluator_, Bioinformatics IDP \hfill 2020
 
-_Mentor_, B.I.G. Summer \hfill 2020
+_Mentor_, B.I.G. Summer \hfill 2020 – 2022
 
 _Member_, SPUR "Life of a Faculty Member" Panel \hfill 2020
 
