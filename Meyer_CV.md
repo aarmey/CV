@@ -595,7 +595,7 @@ Advisor: Grace Xiao\\
 
 Hiromi Miwa, Bioengineering\\
 Advisor: Dino Di Carlo\\
-2019–Present
+2019–2022
 
 Mark van Zee, Bioengineering\\
 Advisor: Dino Di Carlo\\
@@ -654,6 +654,10 @@ Advisor: Jennifer Wilson\\
 Shawn Liu, Bioengineering (M.S.)\\
 Advisor: Jennifer Wilson\\
 2023–Present
+
+Helen Huang, Bioinformatics (Ph.D.)\\
+Advisor: Alexander Hoffman\\
+2022–Present
 
 Emily Bozich, Bioengineering (Ph.D.)\\
 Advisor: Jennifer Wilson\\
