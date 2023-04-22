@@ -8,7 +8,7 @@ jobs:
     runs-on: ubuntu-20.04
 
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v3
 
     # Build products
     - name: Build
@@ -17,12 +17,12 @@ jobs:
         sudo apt install pandoc texlive-latex-extra texlive-latex-base texlive-xetex texlive-extra-utils texlive-science
         make
     - name: Upload files
-      uses: actions/upload-artifact@v2
+      uses: actions/upload-artifact@v3
       with:
         name: files
         path: Output/*.pdf
     - name: Deploy 🚀
-      uses: JamesIves/github-pages-deploy-action@4.1.4
+      uses: JamesIves/github-pages-deploy-action@v4
       if: github.ref == 'refs/heads/main'
       with:
         BRANCH: gh-pages # The branch the action should deploy to.
