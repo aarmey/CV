@@ -132,12 +132,20 @@ Department of Bioengineering, UCLA
 
 _Contact PI on all grants unless indicated otherwise._
 
+_NIH NIAID U19 (Co-PI)_ \hfill 2023 – 2028  
+Systems Biology for Infectious Diseases Consortium  
+"Systems Epigenomics of Persistent Bloodstream Infection"
+
 _Emerging Leader Award_, Mark Foundation for Cancer Research \hfill 2023–2025  
 "Tracking and Reactivating Humoral Immunity through Systems Serology"
 
 _SEEDS Grant_ \hfill 2023 – 2024  
 Merck & Co., Inc.  
 "Systematic and Receptor-Specific Dissection of Fc Receptor Functions"
+
+_NIH NIAID P01-AI120944 (Co-I)_ \hfill 2022 – 2027  
+Transplant Immunology Program Project Grant  
+"Innate-Adaptive Immunoregulation in Liver Transplant Ischemia/Reperfusion Injury"
 
 _Outstanding Mentor Award_, Bruins-In-Genomics \hfill 2022
 
