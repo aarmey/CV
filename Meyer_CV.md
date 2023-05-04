@@ -14,15 +14,15 @@ Massachusetts Institute of Technology, Cambridge, MA
 Thesis: Quantitative approaches to understanding signaling regulation of 3D cell migration
  
 _B.S._, Bioengineering, magna cum laude \hfill June 2009  
-University of California, Los Angeles, CA
+University of California, Los Angeles (UCLA), CA
 
 # Professional Experience
 
 _Associate Professor_ \hfill 2023 – Present  
 _Assistant Professor_ \hfill 2017 – 2023  
-Bioengineering Department, University of California, Los Angeles  
-Bioinformatics Interdepartmental Graduate Program, University of California, Los Angeles  
-Computational & Systems Biology Interdepartmental Program, University of California, Los Angeles
+Bioengineering Department, UCLA  
+Bioinformatics Interdepartmental Graduate Program, UCLA  
+Computational & Systems Biology Interdepartmental Program, UCLA
 
 _Principal Investigator & Research Fellow_ \hfill 2014 – 2017  
 Koch Cancer Institute, MIT, Cambridge, MA
@@ -31,7 +31,7 @@ _Graduate Researcher in the labs of Douglas Lauffenburger & Frank Gertler_ \hfil
 Department of Biological Engineering & Koch Cancer Institute, MIT, Cambridge, MA
 
 _Undergraduate Researcher in the lab of Daniel Kamei_ \hfill 2006 – 2009  
-Department of Bioengineering, University of California, Los Angeles, CA
+Department of Bioengineering, UCLA
 
 # Submitted Publications Under Review/Revision
 
@@ -48,22 +48,22 @@ Department of Bioengineering, University of California, Los Angeles, CA
 
 36\. **Orcutt-Jahns, B**, **P.C. Emmel**, **E.M. Snyder**, **S.D. Taylor**, **Aaron S. Meyer**. "Multivalent, asymmetric IL-2-Fc fusions provide optimally enhanced regulatory T cell selectivity." _Submitted, [bioRxiv preprint](https://www.biorxiv.org/content/10.1101/2021.07.03.451002v2)._
 
-35\. S.M. Gross, **F. Mohammadi**, C. Sanchez-Aguila, P.J. Zhan, **A.S. Meyer**, L.M. Heiser. "Analysis and modeling of cancer drug responses using cell cycle phase-specific rate effects." _Submitted, [bioRxiv preprint](https://www.biorxiv.org/content/10.1101/2020.07.24.219907v2)._
-
 # Refereed Publications
 
 \leftskip 0.1in
 \parindent -0.1in
 
+35\. S.M. Gross, **F. Mohammadi**, C. Sanchez-Aguila, P.J. Zhan, **A.S. Meyer**, L.M. Heiser. "Analysis and modeling of cancer drug responses using cell cycle phase-specific rate effects." _Nature Communications (Accepted), [bioRxiv preprint](https://www.biorxiv.org/content/10.1101/2020.07.24.219907v2)._
+
+\parskip 0.1in
+
 34\. Yang, H., U.Y. Ulge, A. Quijano-Rubio, Z.J. Bernstein, D.R. Maestas, J.-H. Chun, W. Wang, J.-X. Lin, K.M. Jude, S. Singh, **B.T. Orcutt-Jahns**, P. Li, J. Mou, L. Chung, Y.-H. Kuo, Y.H. Ali, **A.S. Meyer**, W.L. Grayson, N.M. Heller, K.C. Garcia, W.J. Leonard, D.-A. Silva, J.H. Elisseeff, D. Baker, J.B. Spangler. ["Design of cell-type-specific hyperstable IL-4 mimetics via modular de novo scaffolds."](https://doi.org/10.1038/s41589-023-01313-6) _Nature Chemical Biology_. 2023 April 6. 1552-4469.
 
-33\. **J.L. Chin**, L.C. Chan, M.R. Yeaman, **A.S. Meyer**. ["Tensor-based insights into systems immunity and infectious disease."](https://doi.org/10.1016/j.it.2023.03.003) _Trends in Immunology_. 2023 March 29. In press.
+33\. **J.L. Chin**, L.C. Chan, M.R. Yeaman, **A.S. Meyer**. ["Tensor-based insights into systems immunity and infectious disease."](https://doi.org/10.1016/j.it.2023.03.003) _Trends in Immunology_. 2023 May; 44(5): 329–332.
 
 32\. **Wilder, C.**, D. Lefaudeux, R. Mathenge, K. Kishimoto, A.Z. Munoz, M.A. Nguyen, **A.S. Meyer**, Q.J. Cheng, A. Hoffmann. ["A stimulus-contingent positive feedback loop enables IFN-β dose-dependent activation of pro-inflammatory genes."](https://doi.org/10.15252/msb.202211294) _Molecular Systems Biology_. 2023 March 17; e11294.
 
 31\. **Mohammadi, F.**, **S. Visagan**, S.M. Gross, **L. Karginov**, **JC Lagarde**, L.M. Heiser, **A.S. Meyer**. ["A lineage tree-based hidden Markov model to quantify cellular heterogeneity and plasticity."](https://doi.org/10.1038/s42003-022-04208-9) _Communications Biology_. 2022 Nov 17; 5(1): 1528.
-
-\parskip 0.1in
 
 30\. VanDyke, D., M. Iglesias, J. Tomala, A. Young, J. Bridge, J. Perry, E. Gebara, A.R. Cross, L.S. Cheung, A.G. Dykema, **B. Orcutt-Jahns**, T. Henclová, J. Golias, J. Balolong, L.M. Tomasovic, D. Funda, **A.S. Meyer**, D.M. Pardoll, J. Hester, F. Issa, C.A. Hunter, M.S. Anderson, J.A. Bluestone, G. Raimondi, J.B. Spangler. ["Engineered human cytokine/antibody fusion proteins elicit targeted expansion of regulatory T cells and confer protection against autoimmune diseases."](https://doi.org/10.1016/j.celrep.2022.111478) _Cell Reports._ 2022 Oct 18; 41(3): 111478.
 
@@ -131,6 +131,13 @@ Department of Bioengineering, University of California, Los Angeles, CA
 # Research Support & Awards
 
 _Contact PI on all grants unless indicated otherwise._
+
+_Emerging Leader Award_, Mark Foundation for Cancer Research \hfill 2023–2025  
+"Tracking and Reactivating Humoral Immunity through Systems Serology"
+
+_SEEDS Grant_ \hfill 2023 – 2024  
+Merck & Co., Inc.  
+"Systematic and Receptor-Specific Dissection of Fc Receptor Functions"
 
 _Outstanding Mentor Award_, Bruins-In-Genomics \hfill 2022
 
@@ -272,7 +279,7 @@ MIT, Department of Biological Engineering, Cambridge, MA
 _Antibodies & Complement_, Selected Oral Presentation \hfill June 2023  
 "Cancer systems serology reveals active humoral immunity but disrupted Fc-elicited interactions."
 
-_UCLA Musculoskeletal Devices and Technologies Development Group_, Invited Seminar \hfill September 2022  
+_UCLA Musculoskeletal Devices & Tech. Development Group_, Invited Seminar \hfill September 2022  
 "Uncovering immunologic mechanisms of MRSA persistence by tensor-mediated data integration."
 
 _SIAM Conference on Mathematics of Data Science_, Invited Podium Presentation \hfill September 2022  
@@ -592,23 +599,23 @@ Miller, M.A., M.J. Oudin, A.S. Meyer, L.G. Griffith, F.B. Gertler, D.A. Lauffenb
 
 \begin{multicols}{2}
 
-Daniel Bradbury, Bioengineering\\
+Daniel Bradbury, Bioengineering (Ph.D.)\\
 Advisor: Daniel Kamei\\
 2017–2020
 
-Giovanni Valdez, Bioengineering\\
+Giovanni Valdez, Bioengineering (Ph.D.)\\
 Advisor: Grace Xiao\\
 2018–2021
 
-Hiromi Miwa, Bioengineering\\
+Hiromi Miwa, Bioengineering (Ph.D.)\\
 Advisor: Dino Di Carlo\\
 2019–2022
 
-Mark van Zee, Bioengineering\\
+Mark van Zee, Bioengineering (Ph.D.)\\
 Advisor: Dino Di Carlo\\
 2019–2022
 
-Rob Dimatteo, Bioengineering\\
+Rob Dimatteo, Bioengineering (Ph.D.)\\
 Advisor: Dino Di Carlo\\
 2019–2021
 
@@ -616,37 +623,35 @@ Alexander Wickstrom, Bioengineering (M.S.)\\
 Advisor: Jonathan Kao\\
 2019
 
-Hector E Muñoz, Bioengineering\\
+Hector E Muñoz, Bioengineering (Ph.D.)\\
 Advisor: Dino Di Carlo\\
 2019–2020
 
-\columnbreak
-
-Wei-Chia Elizabeth Luo, Bioengineering\\
+Wei-Chia Elizabeth Luo, Bioengineering (Ph.D.)\\
 Advisor: Gerard Wong\\
 2020–Present
 
-Mohammadali Alidoost, Bioengineering\\
+Mohammadali Alidoost, Bioengineering (Ph.D.)\\
 Advisor: Jennifer Wilson\\
 2021–Present
 
-Cameron S. Movassaghi, Chemistry\\
+Cameron S. Movassaghi, Chemistry (Ph.D.)\\
 Advisor: Anne M. Andrews\\
 2021–Present
 
-Felis Doyeon Koo, Bioengineering\\
+Felis Doyeon Koo, Bioengineering (Ph.D.)\\
 Advisor: Dino Di Carlo\\
 2021–Present
 
-Favour Esedebe, Bioinformatics\\
+Favour Esedebe, Bioinformatics (Ph.D.)\\
 Advisor: Tom Graeber\\
 2021–Present
 
 Connor Razma, Bioinformatics (M.S.)\\
 Advisor: Alexander Hoffmann\\
-2022–Present
+2022–2023
 
-Mai Tran, Earth, Planetary \& Space Sciences\\
+Mai Tran, Earth, Planetary \& Space Sciences (Ph.D.)\\
 Advisor: William Newman\\
 2022–Present
 
@@ -656,7 +661,7 @@ Advisor: Bolei Zhou\\
 
 Rayo Suseno, Bioengineering (M.S.)\\
 Advisor: Jennifer Wilson\\
-2022–Present
+2022–2023
 
 Shawn Liu, Bioengineering (M.S.)\\
 Advisor: Jennifer Wilson\\
@@ -674,7 +679,7 @@ Jingwen Sun, Chemistry \& Biochemistry (Ph.D.)\\
 Advisor: Chong Liu\\
 2023–Present
 
-Seth Hilliard, Computational \& Quantitative Medicine (Ph.D.)\\
+Seth Hilliard, Comp. \& Quantitative Medicine (Ph.D.)\\
 Advisor: Andrei Rodin (City of Hope)\\
 2023–Present
 
