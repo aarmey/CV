@@ -132,6 +132,9 @@ Department of Bioengineering, UCLA
 
 _Contact PI on all grants unless indicated otherwise._
 
+_NIH NEI R01-EY011996 (Co-I)_ \hfill 2023 – 2027  
+"Retinal Disease: Molecular Basis and Pathophysiology"
+
 _NIH NIAID U19 (Co-PI)_ \hfill 2023 – 2028  
 Systems Biology for Infectious Diseases Consortium  
 "Systems Epigenomics of Persistent Bloodstream Infection"
