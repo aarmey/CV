@@ -38,24 +38,26 @@ Department of Bioengineering, UCLA
 \leftskip 0.1in
 \parindent -0.1in
 
-39\. Terry, A.Q., H. Kojima, R.A. Sosa, F.M. Kaldas, **J.L. Chin**, Y. Zheng, B.V. Naini, D. Noguchi, J.N.- Mejia, Y.-P. Jin, R.W. Busuttil, **A.S. Meyer**, D.W. Gjertson, J.W. Kupiec-Weglinski, E.F. Reed. Disulfide-HMGB1 Signals Through TLR4 and TLR9 to Induce Inflammatory Macrophages Capable of Innate-Adaptive Crosstalk in Human Liver Transplantation. _Submitted._ 2023.
+40\. Terry, A.Q., H. Kojima, R.A. Sosa, F.M. Kaldas, **J.L. Chin**, Y. Zheng, B.V. Naini, D. Noguchi, J.N.- Mejia, Y.-P. Jin, R.W. Busuttil, **A.S. Meyer**, D.W. Gjertson, J.W. Kupiec-Weglinski, E.F. Reed. Disulfide-HMGB1 Signals Through TLR4 and TLR9 to Induce Inflammatory Macrophages Capable of Innate-Adaptive Crosstalk in Human Liver Transplantation. _Submitted._ 2023.
 
 \parskip 0.1in
 
-38\. **Tan, Z.C.**, A. Lux, M. Biburger, P. Varghese, **S. Lees**, F. Nimmerjahn, **A.S. Meyer**. Mixed IgG Fc immune complexes exhibit blended binding profiles and refine FcR affinity estimates. _Submitted, [bioRxiv preprint](https://www.biorxiv.org/content/10.1101/2023.02.15.528730v1)._
+39\. **Tan, Z.C.**, A. Lux, M. Biburger, P. Varghese, **S. Lees**, F. Nimmerjahn, **A.S. Meyer**. Mixed IgG Fc immune complexes exhibit blended binding profiles and refine FcR affinity estimates. _Submitted, [bioRxiv preprint](https://www.biorxiv.org/content/10.1101/2023.02.15.528730v1)._
 
-37\. **Chin, J.L.**, **Z.C. Tan**, L.C. Chan, F. Ruffin, R. Parmar, R. Ahn, **S. Taylor**, A.S. Bayer, A. Hoffmann, J. Vance G Fowler, E.F. Reed, M.R. Yeaman, **A.S. Meyer**, MRSA Systems Immunobiology Group. "Cytokine-expression patterns reveal coordinated immunological programs associated with persistent MRSA bacteremia." _Submitted, [bioRxiv preprint](https://www.biorxiv.org/content/10.1101/2022.12.28.521386v1)._
+38\. **Chin, J.L.**, **Z.C. Tan**, L.C. Chan, F. Ruffin, R. Parmar, R. Ahn, **S. Taylor**, A.S. Bayer, A. Hoffmann, J. Vance G Fowler, E.F. Reed, M.R. Yeaman, **A.S. Meyer**, MRSA Systems Immunobiology Group. "Cytokine-expression patterns reveal coordinated immunological programs associated with persistent MRSA bacteremia." _Submitted, [bioRxiv preprint](https://www.biorxiv.org/content/10.1101/2022.12.28.521386v1)._
 
-36\. **Orcutt-Jahns, B**, **P.C. Emmel**, **E.M. Snyder**, **S.D. Taylor**, **Aaron S. Meyer**. "Multivalent, asymmetric IL-2-Fc fusions provide optimally enhanced regulatory T cell selectivity." _Submitted, [bioRxiv preprint](https://www.biorxiv.org/content/10.1101/2021.07.03.451002v2)._
+37\. **Orcutt-Jahns, B**, **P.C. Emmel**, **E.M. Snyder**, **S.D. Taylor**, **Aaron S. Meyer**. "Multivalent, asymmetric IL-2-Fc fusions provide optimally enhanced regulatory T cell selectivity." _Submitted, [bioRxiv preprint](https://www.biorxiv.org/content/10.1101/2021.07.03.451002v2)._
 
 # Refereed Publications
 
 \leftskip 0.1in
 \parindent -0.1in
 
-35\. S.M. Gross, **F. Mohammadi**, C. Sanchez-Aguila, P.J. Zhan, **A.S. Meyer**, L.M. Heiser. "Analysis and modeling of cancer drug responses using cell cycle phase-specific rate effects." _Nature Communications (Accepted), [bioRxiv preprint](https://www.biorxiv.org/content/10.1101/2020.07.24.219907v2)._
+36\. Peyton, S., L. Chow, S. Finley, A. Ford Versypt, R. Hill, M. Kemp, E. Langer, A. McGuigan, **A.S. Meyer**, S. Seidlits, K. Roy, S. Mumenthaler. "Synthetic, Living Materials to Model the Tumor Microenvironment." _Nature Reviews Bioengineering (Accepted)._ 2023 May 8.
 
 \parskip 0.1in
+
+35\. S.M. Gross, **F. Mohammadi**, C. Sanchez-Aguila, P.J. Zhan, **A.S. Meyer**, L.M. Heiser. "Analysis and modeling of cancer drug responses using cell cycle phase-specific rate effects." _Nature Communications (Accepted), [bioRxiv preprint](https://www.biorxiv.org/content/10.1101/2020.07.24.219907v2)._
 
 34\. Yang, H., U.Y. Ulge, A. Quijano-Rubio, Z.J. Bernstein, D.R. Maestas, J.-H. Chun, W. Wang, J.-X. Lin, K.M. Jude, S. Singh, **B.T. Orcutt-Jahns**, P. Li, J. Mou, L. Chung, Y.-H. Kuo, Y.H. Ali, **A.S. Meyer**, W.L. Grayson, N.M. Heller, K.C. Garcia, W.J. Leonard, D.-A. Silva, J.H. Elisseeff, D. Baker, J.B. Spangler. ["Design of cell-type-specific hyperstable IL-4 mimetics via modular de novo scaffolds."](https://doi.org/10.1038/s41589-023-01313-6) _Nature Chemical Biology_. 2023 April 6. 1552-4469.
 
