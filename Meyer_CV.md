@@ -63,7 +63,7 @@ Department of Bioengineering, UCLA
 
 33\. **J.L. Chin**, L.C. Chan, M.R. Yeaman, **A.S. Meyer**. ["Tensor-based insights into systems immunity and infectious disease."](https://doi.org/10.1016/j.it.2023.03.003) _Trends in Immunology_. 2023 May; 44(5): 329–332.
 
-32\. **Wilder, C.**, D. Lefaudeux, R. Mathenge, K. Kishimoto, A.Z. Munoz, M.A. Nguyen, **A.S. Meyer**, Q.J. Cheng, A. Hoffmann. ["A stimulus-contingent positive feedback loop enables IFN-β dose-dependent activation of pro-inflammatory genes."](https://doi.org/10.15252/msb.202211294) _Molecular Systems Biology_. 2023 March 17; e11294.
+32\. **Wilder, C.**, D. Lefaudeux, R. Mathenge, K. Kishimoto, A.Z. Munoz, M.A. Nguyen, **A.S. Meyer**, Q.J. Cheng, A. Hoffmann. ["A stimulus-contingent positive feedback loop enables IFN-β dose-dependent activation of pro-inflammatory genes."](https://doi.org/10.15252/msb.202211294) _Molecular Systems Biology_. 2023 March 17; 19: e11294.
 
 31\. **Mohammadi, F.**, **S. Visagan**, S.M. Gross, **L. Karginov**, **JC Lagarde**, L.M. Heiser, **A.S. Meyer**. ["A lineage tree-based hidden Markov model to quantify cellular heterogeneity and plasticity."](https://doi.org/10.1038/s42003-022-04208-9) _Communications Biology_. 2022 Nov 17; 5(1): 1528.
 
