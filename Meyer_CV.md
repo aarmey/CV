@@ -570,7 +570,7 @@ _Faculty Speaker_, UCLA Engineering Alumni Reunion \hfill 2018
 
 # Service to the Department
 
-_Judge_, Biomedical Engineering Society BioHack \hfill 2022
+_Judge_, Biomedical Engineering Society BioHack \hfill 2022, 2023
 
 _Member_, Diversity, Equity and Inclusion Committee \hfill 2021 – Present
 
@@ -654,7 +654,7 @@ Advisor: Anne M. Andrews\\
 
 Felis Doyeon Koo, Bioengineering (Ph.D.)\\
 Advisor: Dino Di Carlo\\
-2021–Present
+2021–2023
 
 Favour Esedebe, Bioinformatics (Ph.D.)\\
 Advisor: Tom Graeber\\
@@ -664,7 +664,7 @@ Connor Razma, Bioinformatics (M.S.)\\
 Advisor: Alexander Hoffmann\\
 2022–2023
 
-Mai Tran, Earth, Planetary \& Space Sciences (Ph.D.)\\
+Mai Tran, Earth, Planetary \& Space Sci. (Ph.D.)\\
 Advisor: William Newman\\
 2022–Present
 
@@ -692,8 +692,8 @@ Jingwen Sun, Chemistry \& Biochemistry (Ph.D.)\\
 Advisor: Chong Liu\\
 2023–Present
 
-Seth Hilliard, Comp. \& Quantitative Medicine (Ph.D.)\\
+Seth Hilliard, Comp. \& Quant. Medicine (Ph.D.)\\
 Advisor: Andrei Rodin (City of Hope)\\
-2023–Present
+2023
 
 \end{multicols}
