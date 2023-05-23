@@ -425,6 +425,9 @@ _Univ. of Calif., Riverside, Department of Bioengineering_, Invited Departmental
 
 # Service to the Profession
 
+_Track Chair_, Biomedical Engineering Society Annual Meeting \hfill 2023  
+Computational \& Systems Biology
+
 _Abstract Reviewer_, UC Systemwide Bioengineering Symposium \hfill 2023
 
 _Ad Hoc Reviewer_, Cancer Immunology Research \hfill 2022
