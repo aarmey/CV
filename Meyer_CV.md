@@ -374,12 +374,18 @@ _Univ. of Calif., Riverside, Department of Bioengineering_, Invited Departmental
 
 *Ph.D. Students*
 
+- Michelle Loui \hfill 2022 – Present
+    - SURF Fellowship, UCLA Graduate Division
 - Andrew Ramirez \hfill 2021 – Present
     - NSF Graduate Research Fellowship
     - Cota Robles Fellowship
+    - UCLA EDI Student Leadership Award
 - Jackson Chin \hfill 2020 – Present
     - Best Poster Award, QC Bio Retreat, 2022
 - Brian Orcutt-Jahns \hfill 2019 – Present
+    - Best Poster Award, CSBC Junior Investigator Meeting
+    - Best Poster Award, Cytokine Society
+    - Best Presentation Award, Los Angeles Bioscience Ecosystem Summit
 - Cyrillus Tan \hfill 2019 – Present
     - Dissertation Year Fellowship, UCLA Graduate Division
 - Farnaz Mohammadi \hfill 2018 – 2023
@@ -390,17 +396,17 @@ _Univ. of Calif., Riverside, Department of Bioengineering_, Invited Departmental
 *Undergraduate Students*
 
 - Jamie Stickelmaier \hfill 2021 – 2023
-- Ethan Hung \hfill 2021 – Present
+- Ethan Hung (Amgen Scholar, Berkeley) \hfill 2021 – Present
 - Eva Hunter \hfill 2021 – 2022
 - Hakan Alpay (Frontend Engineer, Facebook) \hfill 2021
 - Luka Karginov (NCI CSBC Summer Scholar; Ph.D., Biological Engineering, MIT) \hfill 2020 – 2021
 - Madeleine Murphy (Computational Biologist, Broad Institute of MIT \& Harvard) \hfill 2020 – 2022
 - Aditya Sivakumar \hfill 2020 – 2021
 - Eli Snyder (Associate Consultant, Putnam Associates) \hfill 2020 – 2021
-- Peter Emmel \hfill 2019 – Present
+- Peter Emmel \hfill 2019 – 2022
 - Amanda Tsao (M.D., University of Southern California) \hfill 2019 – 2021
-- JC Lagarde \hfill 2019 – Present
-- Sumedha Kanthamneni \hfill 2019 – Present
+- JC Lagarde \hfill 2019 – 2022
+- Sumedha Kanthamneni (Google) \hfill 2019 – 2022
 - Heather Carmen Mercieca (Amgen Scholar) \hfill 2019
 - Linnet Chang (Analyst, Accenture) \hfill 2018 – 2021
 - Stephen Lees (Ph.D., Biomedical Engineering, UVA) \hfill 2018 – 2021
