@@ -42,20 +42,20 @@ Department of Bioengineering, UCLA
 
 \parskip 0.1in
 
-39\. **Tan, Z.C.**, A. Lux, M. Biburger, P. Varghese, **S. Lees**, F. Nimmerjahn, **A.S. Meyer**. Mixed IgG Fc immune complexes exhibit blended binding profiles and refine FcR affinity estimates. _Submitted, [bioRxiv preprint](https://www.biorxiv.org/content/10.1101/2023.02.15.528730v1)._
+39\. **Chin, J.L.**, **Z.C. Tan**, L.C. Chan, F. Ruffin, R. Parmar, R. Ahn, **S. Taylor**, A.S. Bayer, A. Hoffmann, J. Vance G Fowler, E.F. Reed, M.R. Yeaman, **A.S. Meyer**, MRSA Systems Immunobiology Group. "Cytokine-expression patterns reveal coordinated immunological programs associated with persistent MRSA bacteremia." _Submitted, [bioRxiv preprint](https://www.biorxiv.org/content/10.1101/2022.12.28.521386v1)._
 
-38\. **Chin, J.L.**, **Z.C. Tan**, L.C. Chan, F. Ruffin, R. Parmar, R. Ahn, **S. Taylor**, A.S. Bayer, A. Hoffmann, J. Vance G Fowler, E.F. Reed, M.R. Yeaman, **A.S. Meyer**, MRSA Systems Immunobiology Group. "Cytokine-expression patterns reveal coordinated immunological programs associated with persistent MRSA bacteremia." _Submitted, [bioRxiv preprint](https://www.biorxiv.org/content/10.1101/2022.12.28.521386v1)._
-
-37\. **Orcutt-Jahns, B**, **P.C. Emmel**, **E.M. Snyder**, **S.D. Taylor**, **Aaron S. Meyer**. "Multivalent, asymmetric IL-2-Fc fusions provide optimally enhanced regulatory T cell selectivity." _Submitted, [bioRxiv preprint](https://www.biorxiv.org/content/10.1101/2021.07.03.451002v2)._
+38\. **Orcutt-Jahns, B**, **P.C. Emmel**, **E.M. Snyder**, **S.D. Taylor**, **Aaron S. Meyer**. "Multivalent, asymmetric IL-2-Fc fusions provide optimally enhanced regulatory T cell selectivity." _Submitted, [bioRxiv preprint](https://www.biorxiv.org/content/10.1101/2021.07.03.451002v2)._
 
 # Refereed Publications
 
 \leftskip 0.1in
 \parindent -0.1in
 
-36\. Peyton, S., L. Chow, S. Finley, A. Ford Versypt, R. Hill, M. Kemp, E. Langer, A. McGuigan, **A.S. Meyer**, S. Seidlits, K. Roy, S. Mumenthaler. "Synthetic, Living Materials to Model the Tumor Microenvironment." _Nature Reviews Bioengineering (Accepted)._ 2023 May 8.
+37\. **Tan, Z.C.**, A. Lux, M. Biburger, P. Varghese, **S. Lees**, F. Nimmerjahn, **A.S. Meyer**. Mixed IgG Fc immune complexes exhibit blended binding profiles and refine FcR affinity estimates. _Cell Reports (Accepted), [bioRxiv preprint](https://www.biorxiv.org/content/10.1101/2023.02.15.528730v1)._ 2023 May 30.
 
 \parskip 0.1in
+
+36\. Peyton, S., L. Chow, S. Finley, A. Ford Versypt, R. Hill, M. Kemp, E. Langer, A. McGuigan, **A.S. Meyer**, S. Seidlits, K. Roy, S. Mumenthaler. "Synthetic, Living Materials to Model the Tumor Microenvironment." _Nature Reviews Bioengineering (Accepted)._ 2023 May 8.
 
 35\. S.M. Gross, **F. Mohammadi**, C. Sanchez-Aguila, P.J. Zhan, **A.S. Meyer**, L.M. Heiser. "Analysis and modeling of cancer drug responses using cell cycle phase-specific rate effects." _Nature Communications (Accepted), [bioRxiv preprint](https://www.biorxiv.org/content/10.1101/2020.07.24.219907v2)._
 
