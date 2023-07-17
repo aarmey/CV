@@ -63,7 +63,7 @@ Department of Bioengineering, UCLA
 
 34\. **J.L. Chin**, L.C. Chan, M.R. Yeaman, **A.S. Meyer**. ["Tensor-based insights into systems immunity and infectious disease."](https://doi.org/10.1016/j.it.2023.03.003) _Trends in Immunology_. 2023 May; 44(5): 329–332.
 
-33\. **Wilder, C.**, D. Lefaudeux, R. Mathenge, K. Kishimoto, A.Z. Munoz, M.A. Nguyen, **A.S. Meyer**, Q.J. Cheng, A. Hoffmann. ["A stimulus-contingent positive feedback loop enables IFN-β dose-dependent activation of pro-inflammatory genes."](https://doi.org/10.15252/msb.202211294) _Molecular Systems Biology_. 2023 March 17; e11294.
+33\. **Wilder, C.**, D. Lefaudeux, R. Mathenge, K. Kishimoto, A.Z. Munoz, M.A. Nguyen, **A.S. Meyer**, Q.J. Cheng, A. Hoffmann. ["A stimulus-contingent positive feedback loop enables IFN-β dose-dependent activation of pro-inflammatory genes."](https://doi.org/10.15252/msb.202211294) _Molecular Systems Biology_. 2023 March 17; 19: e11294.
 
 32\. Kim, H., A. Wirasaputra, **F. Mohammadi**, A.N. Kundu, J.A.E. Esteves, L.M. Heiser, **A.S. Meyer**, S.R. Peyton. ["Live Cell Lineage Tracing of Dormant Cancer Cells."](https://doi.org/10.1002/adhm.202202275) _Advanced Healthcare Materials._ 2023 Jan 10; 12(14): 2202275.
 
@@ -376,12 +376,18 @@ _Univ. of Calif., Riverside, Department of Bioengineering_, Invited Departmental
 
 *Ph.D. Students*
 
+- Michelle Loui \hfill 2022 – Present
+    - SURF Fellowship, UCLA Graduate Division
 - Andrew Ramirez \hfill 2021 – Present
     - NSF Graduate Research Fellowship
     - Cota Robles Fellowship
+    - UCLA EDI Student Leadership Award
 - Jackson Chin \hfill 2020 – Present
     - Best Poster Award, QC Bio Retreat, 2022
 - Brian Orcutt-Jahns \hfill 2019 – Present
+    - Best Poster Award, CSBC Junior Investigator Meeting
+    - Best Poster Award, Cytokine Society
+    - Best Presentation Award, Los Angeles Bioscience Ecosystem Summit
 - Cyrillus Tan \hfill 2019 – Present
     - Dissertation Year Fellowship, UCLA Graduate Division
 - Farnaz Mohammadi \hfill 2018 – 2023
@@ -392,17 +398,17 @@ _Univ. of Calif., Riverside, Department of Bioengineering_, Invited Departmental
 *Undergraduate Students*
 
 - Jamie Stickelmaier \hfill 2021 – 2023
-- Ethan Hung \hfill 2021 – Present
+- Ethan Hung (Amgen Scholar, Berkeley) \hfill 2021 – Present
 - Eva Hunter \hfill 2021 – 2022
 - Hakan Alpay (Frontend Engineer, Facebook) \hfill 2021
 - Luka Karginov (NCI CSBC Summer Scholar; Ph.D., Biological Engineering, MIT) \hfill 2020 – 2021
 - Madeleine Murphy (Computational Biologist, Broad Institute of MIT \& Harvard) \hfill 2020 – 2022
 - Aditya Sivakumar \hfill 2020 – 2021
 - Eli Snyder (Associate Consultant, Putnam Associates) \hfill 2020 – 2021
-- Peter Emmel \hfill 2019 – Present
+- Peter Emmel \hfill 2019 – 2022
 - Amanda Tsao (M.D., University of Southern California) \hfill 2019 – 2021
-- JC Lagarde \hfill 2019 – Present
-- Sumedha Kanthamneni \hfill 2019 – Present
+- JC Lagarde \hfill 2019 – 2022
+- Sumedha Kanthamneni (Google) \hfill 2019 – 2022
 - Heather Carmen Mercieca (Amgen Scholar) \hfill 2019
 - Linnet Chang (Analyst, Accenture) \hfill 2018 – 2021
 - Stephen Lees (Ph.D., Biomedical Engineering, UVA) \hfill 2018 – 2021
@@ -420,6 +426,9 @@ _Univ. of Calif., Riverside, Department of Bioengineering_, Invited Departmental
 - Ryan Robinett (NSF GRFP; Ph.D., Comp. Sci., U. Chicago) \hfill 2015 – 2017
 
 # Service to the Profession
+
+_Track Chair_, Biomedical Engineering Society Annual Meeting \hfill 2023  
+Computational \& Systems Biology
 
 _Abstract Reviewer_, UC Systemwide Bioengineering Symposium \hfill 2023
 
@@ -572,7 +581,7 @@ _Faculty Speaker_, UCLA Engineering Alumni Reunion \hfill 2018
 
 # Service to the Department
 
-_Judge_, Biomedical Engineering Society BioHack \hfill 2022
+_Judge_, Biomedical Engineering Society BioHack \hfill 2022, 2023
 
 _Member_, Diversity, Equity and Inclusion Committee \hfill 2021 – Present
 
@@ -598,15 +607,11 @@ _Member_, Publicity Committee \hfill 2017 – 2018
 
 # Patents/Disclosures
 
-Orcutt-Jahns, B., P.C. Emmel, A.S. Meyer. "Multi-specific engineered cytokines." Disclosure filed, 2022.
+A.S. Meyer. "Systems serology analysis of tumors." U.S. provisional patent application pending.
 
-A.S. Meyer. "Systems serology analysis of tumors." Disclosure filed, 2022.
+Orcutt-Jahns, B., P.C. Emmel, A.S. Meyer. "Multi-specific engineered cytokines." U.S. provisional patent application 63/428,921, 2022.
 
-A.S. Meyer. "Altering cytokine specificity through binding valency." U.S. provisional patent application 63/216,718, 2021.
-
-Bae, S.Y., A.S. Meyer. "Small Molecule Competitive Inhibitors Of Phosphatidylserine-TAMR Ligand Interaction." Disclosure filed, 2018.
-
-Richards, E.J., S. Manole, A.S. Meyer. "Modulating JNK activation to impede lung & breast cancer RTK inhibitor bypass resistance." Disclosure filed, 2016.
+A.S. Meyer. "Altering cytokine specificity through binding valency." U.S. patent application PCT/US22/35711, 2022.
 
 Miller, M.A., M.J. Oudin, A.S. Meyer, L.G. Griffith, F.B. Gertler, D.A. Lauffenburger. "Methods of Reducing Kinase Inhibitor Resistance." US patent application 14/690,001, 2015.
 
@@ -656,7 +661,7 @@ Advisor: Anne M. Andrews\\
 
 Felis Doyeon Koo, Bioengineering (Ph.D.)\\
 Advisor: Dino Di Carlo\\
-2021–Present
+2021–2023
 
 Favour Esedebe, Bioinformatics (Ph.D.)\\
 Advisor: Tom Graeber\\
@@ -666,7 +671,7 @@ Connor Razma, Bioinformatics (M.S.)\\
 Advisor: Alexander Hoffmann\\
 2022–2023
 
-Mai Tran, Earth, Planetary \& Space Sciences (Ph.D.)\\
+Mai Tran, Earth, Planetary \& Space Sci. (Ph.D.)\\
 Advisor: William Newman\\
 2022–Present
 
@@ -694,8 +699,8 @@ Jingwen Sun, Chemistry \& Biochemistry (Ph.D.)\\
 Advisor: Chong Liu\\
 2023–Present
 
-Seth Hilliard, Comp. \& Quantitative Medicine (Ph.D.)\\
+Seth Hilliard, Comp. \& Quant. Medicine (Ph.D.)\\
 Advisor: Andrei Rodin (City of Hope)\\
-2023–Present
+2023
 
 \end{multicols}
