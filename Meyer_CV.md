@@ -38,32 +38,34 @@ Department of Bioengineering, UCLA
 \leftskip 0.1in
 \parindent -0.1in
 
-40\. Terry, A.Q., H. Kojima, R.A. Sosa, F.M. Kaldas, **J.L. Chin**, Y. Zheng, B.V. Naini, D. Noguchi, J.N.- Mejia, Y.-P. Jin, R.W. Busuttil, **A.S. Meyer**, D.W. Gjertson, J.W. Kupiec-Weglinski, E.F. Reed. Disulfide-HMGB1 Signals Through TLR4 and TLR9 to Induce Inflammatory Macrophages Capable of Innate-Adaptive Crosstalk in Human Liver Transplantation. _Submitted._ 2023.
+41\. Terry, A.Q., H. Kojima, R.A. Sosa, F.M. Kaldas, **J.L. Chin**, Y. Zheng, B.V. Naini, D. Noguchi, J.N.- Mejia, Y.-P. Jin, R.W. Busuttil, **A.S. Meyer**, D.W. Gjertson, J.W. Kupiec-Weglinski, E.F. Reed. Disulfide-HMGB1 Signals Through TLR4 and TLR9 to Induce Inflammatory Macrophages Capable of Innate-Adaptive Crosstalk in Human Liver Transplantation. _Submitted._ 2023.
 
 \parskip 0.1in
 
-39\. **Tan, Z.C.**, A. Lux, M. Biburger, P. Varghese, **S. Lees**, F. Nimmerjahn, **A.S. Meyer**. Mixed IgG Fc immune complexes exhibit blended binding profiles and refine FcR affinity estimates. _Submitted, [bioRxiv preprint](https://www.biorxiv.org/content/10.1101/2023.02.15.528730v1)._
-
-38\. **Chin, J.L.**, **Z.C. Tan**, L.C. Chan, F. Ruffin, R. Parmar, R. Ahn, **S. Taylor**, A.S. Bayer, A. Hoffmann, J. Vance G Fowler, E.F. Reed, M.R. Yeaman, **A.S. Meyer**, MRSA Systems Immunobiology Group. "Cytokine-expression patterns reveal coordinated immunological programs associated with persistent MRSA bacteremia." _Submitted, [bioRxiv preprint](https://www.biorxiv.org/content/10.1101/2022.12.28.521386v1)._
-
-37\. **Orcutt-Jahns, B**, **P.C. Emmel**, **E.M. Snyder**, **S.D. Taylor**, **Aaron S. Meyer**. "Multivalent, asymmetric IL-2-Fc fusions provide optimally enhanced regulatory T cell selectivity." _Submitted, [bioRxiv preprint](https://www.biorxiv.org/content/10.1101/2021.07.03.451002v2)._
+40\. **Chin, J.L.**, **Z.C. Tan**, L.C. Chan, F. Ruffin, R. Parmar, R. Ahn, **S. Taylor**, A.S. Bayer, A. Hoffmann, J. Vance G Fowler, E.F. Reed, M.R. Yeaman, **A.S. Meyer**, MRSA Systems Immunobiology Group. "Cytokine-expression patterns reveal coordinated immunological programs associated with persistent MRSA bacteremia." _Submitted, [bioRxiv preprint](https://www.biorxiv.org/content/10.1101/2022.12.28.521386v1)._
 
 # Refereed Publications
 
 \leftskip 0.1in
 \parindent -0.1in
 
-36\. Peyton, S., L. Chow, S. Finley, A. Ford Versypt, R. Hill, M. Kemp, E. Langer, A. McGuigan, **A.S. Meyer**, S. Seidlits, K. Roy, S. Mumenthaler. "Synthetic, Living Materials to Model the Tumor Microenvironment." _Nature Reviews Bioengineering (Accepted)._ 2023 May 8.
+39\. **Orcutt-Jahns, B**, **P.C. Emmel**, **E.M. Snyder**, **S.D. Taylor**, **Aaron S. Meyer**. ["Multivalent, asymmetric IL-2-Fc fusions provide optimally enhanced regulatory T cell selectivity."](https://www.biorxiv.org/content/10.1101/2021.07.03.451002v2) _Science Signaling._ In press.
 
 \parskip 0.1in
 
-35\. S.M. Gross, **F. Mohammadi**, C. Sanchez-Aguila, P.J. Zhan, **A.S. Meyer**, L.M. Heiser. "Analysis and modeling of cancer drug responses using cell cycle phase-specific rate effects." _Nature Communications (Accepted), [bioRxiv preprint](https://www.biorxiv.org/content/10.1101/2020.07.24.219907v2)._
+38\. **Tan, Z.C.**, A. Lux, M. Biburger, P. Varghese, **S. Lees**, F. Nimmerjahn, **A.S. Meyer**. ["Mixed IgG Fc immune complexes exhibit blended binding profiles and refine FcR affinity estimates."](https://doi.org/10.1016/j.celrep.2023.112734) _Cell Reports._ 2023 July 25; 42(7): 112734.
 
-34\. Yang, H., U.Y. Ulge, A. Quijano-Rubio, Z.J. Bernstein, D.R. Maestas, J.-H. Chun, W. Wang, J.-X. Lin, K.M. Jude, S. Singh, **B.T. Orcutt-Jahns**, P. Li, J. Mou, L. Chung, Y.-H. Kuo, Y.H. Ali, **A.S. Meyer**, W.L. Grayson, N.M. Heller, K.C. Garcia, W.J. Leonard, D.-A. Silva, J.H. Elisseeff, D. Baker, J.B. Spangler. ["Design of cell-type-specific hyperstable IL-4 mimetics via modular de novo scaffolds."](https://doi.org/10.1038/s41589-023-01313-6) _Nature Chemical Biology_. 2023 April 6. 1552-4469.
+37\. Peyton, S., L. Chow, S. Finley, A. Ford Versypt, R. Hill, M. Kemp, E. Langer, A. McGuigan, **A.S. Meyer**, S. Seidlits, K. Roy, S. Mumenthaler. "Synthetic, Living Materials to Model the Tumor Microenvironment." _Nature Reviews Bioengineering._ In press.
 
-33\. **J.L. Chin**, L.C. Chan, M.R. Yeaman, **A.S. Meyer**. ["Tensor-based insights into systems immunity and infectious disease."](https://doi.org/10.1016/j.it.2023.03.003) _Trends in Immunology_. 2023 May; 44(5): 329–332.
+36\. S.M. Gross, **F. Mohammadi**, C. Sanchez-Aguila, P.J. Zhan, **A.S. Meyer**, L.M. Heiser. ["Analysis and modeling of cancer drug responses using cell cycle phase-specific rate effects."](https://www.nature.com/articles/s41467-023-39122-z) _Nature Communications._ 2023 June 10; 14: 3450.
 
-32\. **Wilder, C.**, D. Lefaudeux, R. Mathenge, K. Kishimoto, A.Z. Munoz, M.A. Nguyen, **A.S. Meyer**, Q.J. Cheng, A. Hoffmann. ["A stimulus-contingent positive feedback loop enables IFN-β dose-dependent activation of pro-inflammatory genes."](https://doi.org/10.15252/msb.202211294) _Molecular Systems Biology_. 2023 March 17; e11294.
+35\. Yang, H., U.Y. Ulge, A. Quijano-Rubio, Z.J. Bernstein, D.R. Maestas, J.-H. Chun, W. Wang, J.-X. Lin, K.M. Jude, S. Singh, **B.T. Orcutt-Jahns**, P. Li, J. Mou, L. Chung, Y.-H. Kuo, Y.H. Ali, **A.S. Meyer**, W.L. Grayson, N.M. Heller, K.C. Garcia, W.J. Leonard, D.-A. Silva, J.H. Elisseeff, D. Baker, J.B. Spangler. ["Design of cell-type-specific hyperstable IL-4 mimetics via modular de novo scaffolds."](https://doi.org/10.1038/s41589-023-01313-6) _Nature Chemical Biology_. 2023 April 6. 1552-4469.
+
+34\. **J.L. Chin**, L.C. Chan, M.R. Yeaman, **A.S. Meyer**. ["Tensor-based insights into systems immunity and infectious disease."](https://doi.org/10.1016/j.it.2023.03.003) _Trends in Immunology_. 2023 May; 44(5): 329–332.
+
+33\. **Wilder, C.**, D. Lefaudeux, R. Mathenge, K. Kishimoto, A.Z. Munoz, M.A. Nguyen, **A.S. Meyer**, Q.J. Cheng, A. Hoffmann. ["A stimulus-contingent positive feedback loop enables IFN-β dose-dependent activation of pro-inflammatory genes."](https://doi.org/10.15252/msb.202211294) _Molecular Systems Biology_. 2023 March 17; e11294.
+
+32\. Kim, H., A. Wirasaputra, **F. Mohammadi**, A.N. Kundu, J.A.E. Esteves, L.M. Heiser, **A.S. Meyer**, S.R. Peyton. ["Live Cell Lineage Tracing of Dormant Cancer Cells."](https://doi.org/10.1002/adhm.202202275) _Advanced Healthcare Materials._ 2023 Jan 10; 12(14): 2202275.
 
 31\. **Mohammadi, F.**, **S. Visagan**, S.M. Gross, **L. Karginov**, **JC Lagarde**, L.M. Heiser, **A.S. Meyer**. ["A lineage tree-based hidden Markov model to quantify cellular heterogeneity and plasticity."](https://doi.org/10.1038/s42003-022-04208-9) _Communications Biology_. 2022 Nov 17; 5(1): 1528.
 
