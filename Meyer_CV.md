@@ -585,7 +585,7 @@ _Judge_, Biomedical Engineering Society BioHack \hfill 2022, 2023
 
 _Member_, Diversity, Equity and Inclusion Committee \hfill 2021 – Present
 
-_Member_, Bioengineering Hiring Search Committee \hfill 2021 – 2022
+_Member_, Bioengineering Hiring Search Committee \hfill 2021 – 2022, 2023 – 2024
 
 _Member_, Teaching Facility & Shared Equipment Committee \hfill 2021 – Present
 
