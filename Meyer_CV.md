@@ -38,9 +38,11 @@ Department of Bioengineering, UCLA
 \leftskip 0.1in
 \parindent -0.1in
 
-41\. **Chin, J.L.**, **Z.C. Tan**, L.C. Chan, F. Ruffin, R. Parmar, R. Ahn, **S. Taylor**, A.S. Bayer, A. Hoffmann, J. Vance G Fowler, E.F. Reed, M.R. Yeaman, **A.S. Meyer**, MRSA Systems Immunobiology Group. "Cytokine-expression patterns reveal coordinated immunological programs associated with persistent MRSA bacteremia." _Submitted, [bioRxiv preprint](https://www.biorxiv.org/content/10.1101/2022.12.28.521386v1)._
+42\. **Creixell, M.**, **S.D. Taylor**, J. Gerritsen, **S.Y. Bae**, M. Jiang, T. Augustin, **M. Loui**, **C. Boixo**, P. Creixell, F.M. White, **A.S. Meyer**. "Dissecting signaling regulators driving AXL-mediated bypass resistance and associated phenotypes by phosphosite perturbations." _Science Signaling._ _Submitted._
 
-<!-- \parskip 0.1in -->
+\parskip 0.1in
+
+41\. **Chin, J.L.**, **Z.C. Tan**, L.C. Chan, F. Ruffin, R. Parmar, R. Ahn, **S. Taylor**, A.S. Bayer, A. Hoffmann, J. Vance G Fowler, E.F. Reed, M.R. Yeaman, **A.S. Meyer**, MRSA Systems Immunobiology Group. "Cytokine-expression patterns reveal coordinated immunological programs associated with persistent MRSA bacteremia." _Submitted, [bioRxiv preprint](https://www.biorxiv.org/content/10.1101/2022.12.28.521386v1)._
 
 # Refereed Publications
 
