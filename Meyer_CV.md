@@ -49,13 +49,14 @@ Department of Bioengineering, UCLA
 \leftskip 0.1in
 \parindent -0.1in
 
-40\. Peyton, S.R., L.W. Chow, S.D. Finley, A.N. Ford Versypt, R. Hill, M.L. Kemp, E.M. Langer, A.P. McGuigan, **A.S. Meyer**, S.K. Seidlits, K. Roy, S.M. Mumenthaler. ["Synthetic living materials in cancer biology."](https://www.nature.com/articles/s44222-023-00105-w) _Nature Reviews Bioengineering._ 2023 Oct 2.
+40\. **Orcutt-Jahns, B**, **P.C. Emmel**, **E.M. Snyder**, **S.D. Taylor**, **Aaron S. Meyer**. ["Multivalent, asymmetric IL-2–Fc fusions show enhanced selectivity for regulatory T cells."](https://www.science.org/doi/full/10.1126/scisignal.adg0699) _Science Signaling._ 2023 October 17; 16(807): eadg0699.
 
 \parskip 0.1in
 
-39\. Terry, A.Q., H. Kojima, R.A. Sosa, F.M. Kaldas, **J.L. Chin**, Y. Zheng, B.V. Naini, D. Noguchi, J.N.- Mejia, Y.-P. Jin, R.W. Busuttil, **A.S. Meyer**, D.W. Gjertson, J.W. Kupiec-Weglinski, E.F. Reed. ["Disulfide-HMGB1 Signals Through TLR4 and TLR9 to Induce Inflammatory Macrophages Capable of Innate-Adaptive Crosstalk in Human Liver Transplantation."](https://www.amjtransplant.org/article/S1600-6135(23)00625-1/fulltext) _Am J Transplant._ 2023 Aug 9; S1600-6135(23)00625-1.
+39\. Peyton, S.R., L.W. Chow, S.D. Finley, A.N. Ford Versypt, R. Hill, M.L. Kemp, E.M. Langer, A.P. McGuigan, **A.S. Meyer**, S.K. Seidlits, K. Roy, S.M. Mumenthaler. ["Synthetic living materials in cancer biology."](https://www.nature.com/articles/s44222-023-00105-w) _Nature Reviews Bioengineering._ 2023 Oct 2.
 
-38\. **Orcutt-Jahns, B**, **P.C. Emmel**, **E.M. Snyder**, **S.D. Taylor**, **Aaron S. Meyer**. ["Multivalent, asymmetric IL-2-Fc fusions provide optimally enhanced regulatory T cell selectivity."](https://www.biorxiv.org/content/10.1101/2021.07.03.451002v2) _Science Signaling._ In press.
+
+38\. Terry, A.Q., H. Kojima, R.A. Sosa, F.M. Kaldas, **J.L. Chin**, Y. Zheng, B.V. Naini, D. Noguchi, J.N.- Mejia, Y.-P. Jin, R.W. Busuttil, **A.S. Meyer**, D.W. Gjertson, J.W. Kupiec-Weglinski, E.F. Reed. ["Disulfide-HMGB1 Signals Through TLR4 and TLR9 to Induce Inflammatory Macrophages Capable of Innate-Adaptive Crosstalk in Human Liver Transplantation."](https://www.amjtransplant.org/article/S1600-6135(23)00625-1/fulltext) _Am J Transplant._ 2023 Aug 9; S1600-6135(23)00625-1.
 
 37\. **Tan, Z.C.**, A. Lux, M. Biburger, P. Varghese, **S. Lees**, F. Nimmerjahn, **A.S. Meyer**. ["Mixed IgG Fc immune complexes exhibit blended binding profiles and refine FcR affinity estimates."](https://doi.org/10.1016/j.celrep.2023.112734) _Cell Reports._ 2023 July 25; 42(7): 112734.
 
