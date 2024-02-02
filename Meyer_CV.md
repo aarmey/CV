@@ -540,6 +540,8 @@ _Ad Hoc Reviewer_, J. Cell Biol. \hfill 2011 – 2012
 
 # Service to UCLA
 
+_Chair_, Campus Response to the Climate Crisis Special Committee, Faculty Senate \hfill 2023–2024  
+
 _Poster Judge_, Undergraduate Research and Creativity Showcase \hfill 2023  
 Science Dean's Prize
 
