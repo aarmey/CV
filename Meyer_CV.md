@@ -38,9 +38,11 @@ Department of Bioengineering, UCLA
 \leftskip 0.1in
 \parindent -0.1in
 
-44\. Kojima, H., T. Morinelli, Y. Wang, **J. Chin**, **A.S. Meyer**, M. Kuo, K. Kadono, S. Yao, T. Torgerson, K. Dery, A. Bhat, E. Reed, F. Kaldas, D. Windt, D. Farmer, J. Kupiec-Weglinski, Y. Zhai. "Group 1 innate lymphoid cells protect liver transplants from ischemia reperfusion injury via IFN-γ-mediated pathway." _Submitted._
+45\. **Zhixin Cyrillus Tan**, **A.S. Meyer**. "The structure is the message: preserving experimental context through tensor decomposition." _arXiv preprint_.
 
 \parskip 0.1in
+
+44\. Kojima, H., T. Morinelli, Y. Wang, **J. Chin**, **A.S. Meyer**, M. Kuo, K. Kadono, S. Yao, T. Torgerson, K. Dery, A. Bhat, E. Reed, F. Kaldas, D. Windt, D. Farmer, J. Kupiec-Weglinski, Y. Zhai. "Group 1 innate lymphoid cells protect liver transplants from ischemia reperfusion injury via IFN-γ-mediated pathway." _Submitted._
 
 43\. **Orcutt-Jahns, B.**, J. Rodrigues Lima Junior, R.C. Rockne, A. Matache, S. Branciamore, E. Hung, A.S. Rodin, P.P. Lee, **A.S. Meyer**. "Systems profiling reveals recurrently dysregulated cytokine signaling responses in ER+ breast cancer patients’ blood." _Submitted, [bioRxiv preprint](https://www.biorxiv.org/content/10.1101/2023.10.31.564987v1)._
 
@@ -58,7 +60,6 @@ Department of Bioengineering, UCLA
 \parskip 0.1in
 
 39\. Peyton, S.R., L.W. Chow, S.D. Finley, A.N. Ford Versypt, R. Hill, M.L. Kemp, E.M. Langer, A.P. McGuigan, **A.S. Meyer**, S.K. Seidlits, K. Roy, S.M. Mumenthaler. ["Synthetic living materials in cancer biology."](https://www.nature.com/articles/s44222-023-00105-w) _Nature Reviews Bioengineering._ 2023 Oct 2.
-
 
 38\. Terry, A.Q., H. Kojima, R.A. Sosa, F.M. Kaldas, **J.L. Chin**, Y. Zheng, B.V. Naini, D. Noguchi, J.N.- Mejia, Y.-P. Jin, R.W. Busuttil, **A.S. Meyer**, D.W. Gjertson, J.W. Kupiec-Weglinski, E.F. Reed. ["Disulfide-HMGB1 Signals Through TLR4 and TLR9 to Induce Inflammatory Macrophages Capable of Innate-Adaptive Crosstalk in Human Liver Transplantation."](https://www.amjtransplant.org/article/S1600-6135(23)00625-1/fulltext) _Am J Transplant._ 2023 Aug 9; S1600-6135(23)00625-1.
 
