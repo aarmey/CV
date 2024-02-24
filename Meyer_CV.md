@@ -202,8 +202,6 @@ _NIH NCI U01-CA215709_ \hfill 2017 – 2022
 Cancer Systems Biology Consortium  
 "Precision Lung Cancer Therapy Design through Multiplexed Adapter Measurement"
 
-\clearpage
-
 _Fellowship Grant_ \hfill 2017 – 2019  
 Terri Brodeur Breast Cancer Foundation  
 "Decoding the Role of TAM Receptors _In Vivo_ Using More Specific and Potent Inhibitors"
