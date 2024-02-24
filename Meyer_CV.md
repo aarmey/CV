@@ -626,9 +626,9 @@ _Member_, Publicity Committee \hfill 2017 – 2018
 
 # Patents/Disclosures
 
-A.S. Meyer. "Systems serology analysis of tumors." U.S. provisional patent application pending.
+A.S. Meyer. "Methods of Identifying and Correcting Tumor Humoral Immune Dysregulation." U.S. provisional patent application 63/472,099, 2023.
 
-Orcutt-Jahns, B., P.C. Emmel, A.S. Meyer. "Multi-specific engineered cytokines." U.S. provisional patent application 63/428,921, 2022.
+Orcutt-Jahns, B., P.C. Emmel, A.S. Meyer. "Multi-specific engineered cytokines." U.S. patent application 63/428,921, 2022.
 
 A.S. Meyer. "Altering cytokine specificity through binding valency." U.S. patent application PCT/US22/35711, 2022.
 
