@@ -2,7 +2,7 @@
 name: Aaron S. Meyer
 url: http://asmlab.org
 email: ameyer@ucla.edu
-phone: 310-794-4821
+phone: (310) 794-4821
 addrOne: 4121G Engineering V
 addrTwo: Los Angeles, CA 90095
 ---
@@ -10,7 +10,7 @@ addrTwo: Los Angeles, CA 90095
 # Education
 
 _Ph.D._, Biological Engineering  \hfill April 2014  
-Massachusetts Institute of Technology, Cambridge, MA  
+Massachusetts Institute of Technology (MIT), Cambridge, MA  
 Thesis: Quantitative approaches to understanding signaling regulation of 3D cell migration
  
 _B.S._, Bioengineering, magna cum laude \hfill June 2009  
@@ -38,7 +38,7 @@ Department of Bioengineering, UCLA
 \leftskip 0.1in
 \parindent -0.1in
 
-46\. **Zhixin Cyrillus Tan**, **A.S. Meyer**. "The structure is the message: preserving experimental context through tensor decomposition." _arXiv preprint_.
+46\. **Tan, Z.C.**, **A.S. Meyer**. "The structure is the message: preserving experimental context through tensor decomposition." _arXiv preprint_.
 
 \parskip 0.1in
 
@@ -59,7 +59,7 @@ Department of Bioengineering, UCLA
 
 \parskip 0.1in
 
-40\. Peyton, S.R., L.W. Chow, S.D. Finley, A.N. Ford Versypt, R. Hill, M.L. Kemp, E.M. Langer, A.P. McGuigan, **A.S. Meyer**, S.K. Seidlits, K. Roy, S.M. Mumenthaler. ["Synthetic living materials in cancer biology."](https://www.nature.com/articles/s44222-023-00105-w) _Nature Reviews Bioengineering._ 2023 Oct 2.
+40\. Peyton, S.R., L.W. Chow, S.D. Finley, A.N. Ford Versypt, R. Hill, M.L. Kemp, E.M. Langer, A.P. McGuigan, **A.S. Meyer**, S.K. Seidlits, K. Roy, S.M. Mumenthaler. ["Synthetic living materials in cancer biology."](https://www.nature.com/articles/s44222-023-00105-w) _Nature Reviews Bioengineering._ 2023 Oct 2; 1, 972–988.
 
 39\. Terry, A.Q., H. Kojima, R.A. Sosa, F.M. Kaldas, **J.L. Chin**, Y. Zheng, B.V. Naini, D. Noguchi, J.N.- Mejia, Y.-P. Jin, R.W. Busuttil, **A.S. Meyer**, D.W. Gjertson, J.W. Kupiec-Weglinski, E.F. Reed. ["Disulfide-HMGB1 Signals Through TLR4 and TLR9 to Induce Inflammatory Macrophages Capable of Innate-Adaptive Crosstalk in Human Liver Transplantation."](https://www.amjtransplant.org/article/S1600-6135(23)00625-1/fulltext) _Am J Transplant._ 2023 Aug 9; S1600-6135(23)00625-1.
 
@@ -67,7 +67,7 @@ Department of Bioengineering, UCLA
 
 37\. S.M. Gross, **F. Mohammadi**, C. Sanchez-Aguila, P.J. Zhan, **A.S. Meyer**, L.M. Heiser. ["Analysis and modeling of cancer drug responses using cell cycle phase-specific rate effects."](https://www.nature.com/articles/s41467-023-39122-z) _Nature Communications._ 2023 June 10; 14: 3450.
 
-36\. Yang, H., U.Y. Ulge, A. Quijano-Rubio, Z.J. Bernstein, D.R. Maestas, J.-H. Chun, W. Wang, J.-X. Lin, K.M. Jude, S. Singh, **B.T. Orcutt-Jahns**, P. Li, J. Mou, L. Chung, Y.-H. Kuo, Y.H. Ali, **A.S. Meyer**, W.L. Grayson, N.M. Heller, K.C. Garcia, W.J. Leonard, D.-A. Silva, J.H. Elisseeff, D. Baker, J.B. Spangler. ["Design of cell-type-specific hyperstable IL-4 mimetics via modular de novo scaffolds."](https://doi.org/10.1038/s41589-023-01313-6) _Nature Chemical Biology_. 2023 April 6. 1552-4469.
+36\. Yang, H., U.Y. Ulge, A. Quijano-Rubio, Z.J. Bernstein, D.R. Maestas, J.-H. Chun, W. Wang, J.-X. Lin, K.M. Jude, S. Singh, **B.T. Orcutt-Jahns**, P. Li, J. Mou, L. Chung, Y.-H. Kuo, Y.H. Ali, **A.S. Meyer**, W.L. Grayson, N.M. Heller, K.C. Garcia, W.J. Leonard, D.-A. Silva, J.H. Elisseeff, D. Baker, J.B. Spangler. ["Design of cell-type-specific hyperstable IL-4 mimetics via modular de novo scaffolds."](https://doi.org/10.1038/s41589-023-01313-6) _Nature Chemical Biology_. 2023 April 6. 1552–4469.
 
 35\. **J.L. Chin**, L.C. Chan, M.R. Yeaman, **A.S. Meyer**. ["Tensor-based insights into systems immunity and infectious disease."](https://doi.org/10.1016/j.it.2023.03.003) _Trends in Immunology_. 2023 May; 44(5): 329–332.
 
@@ -570,7 +570,9 @@ _Ad Hoc Reviewer_, J. Cell Biol. \hfill 2011 – 2012
 
 # Service to UCLA
 
-_Chair_, Campus Response to the Climate Crisis Special Committee, Faculty Senate \hfill 2023–2024  
+_Chair_, Campus Response to the Climate Crisis Special Committee, Faculty Senate \hfill 2023–2024
+
+_Ad Hoc Member_, Executive Board, Faculty Senate \hfill 2023–2024
 
 _Faculty Speaker_, UCLA Life Sciences Webinar Series \hfill 2023  
 "Digital Immune Twins: The Future of Healthcare?"
@@ -580,12 +582,12 @@ Science Dean's Prize
 
 _Poster Judge_, Jonsson Cancer Center Annual Retreat \hfill 2023
 
-_Reviewer_, Tau Beta Pi Chapter Excellence Scholarship \hfill 2021, 2022
+_Reviewer_, Tau Beta Pi Chapter Excellence Scholarship \hfill 2021–2023
 
 _Award Selection Committee_, Faculty Career Development Award \hfill 2022  
 Office of Equity, Diversity and Inclusion
 
-_Member_, Minors Committee, Computational & Systems Biology \hfill 2021, 2022
+_Member_, Minors Committee, Computational & Systems Biology \hfill 2021–2023
 
 _Panelist_, Graduate School Panel, Computational & Systems Biology \hfill 2021
 
@@ -658,6 +660,17 @@ A.S. Meyer. "Altering cytokine specificity through binding valency." U.S. patent
 Miller, M.A., M.J. Oudin, A.S. Meyer, L.G. Griffith, F.B. Gertler, D.A. Lauffenburger. "Methods of Reducing Kinase Inhibitor Resistance." US patent application 14/690,001, 2015.
 
 # Thesis Committee Membership
+
+| _Name_              | _Department_   | _Degree_ | _Advisor_     | _Period_  |
+|---------------------|----------------|----------|---------------|-----------|
+| Hector E Muñoz      | Bioengineering | Ph.D.    | Dino Di Carlo | 2019–2020 |
+| Alexander Wickstrom | Bioengineering | M.S.     | Jonathan Kao  | 2019      |
+| Rob Dimatteo        | Bioengineering | Ph.D.    | Dino Di Carlo | 2019–2021 |
+| Mark van Zee        | Bioengineering | Ph.D.    | Dino Di Carlo | 2019–2022 |
+| Hiromi Miwa         | Bioengineering | Ph.D.    | Dino Di Carlo | 2019–2022 |
+| Giovanni Valdez     | Bioengineering | Ph.D.    | Grace Xiao    | 2018–2021 |
+| Daniel Bradbury     | Bioengineering | Ph.D.    | Daniel Kamei  | 2017–2020 |
+
 
 \begin{multicols}{2}
 
