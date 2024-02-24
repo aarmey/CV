@@ -649,8 +649,10 @@ Miller, M.A., M.J. Oudin, A.S. Meyer, L.G. Griffith, F.B. Gertler, D.A. Lauffenb
 
 # Thesis Committee Membership
 
+
 | _Name_              | _Department_   | _Degree_ | _Advisor_     | _Period_  |
-|---------------------|----------------|----------|---------------|-----------|
+|---------------------|----------------|:--------:|:-------------:|-----------|
+| Wei-Chia Elizabeth Luo | Bioengineering | Ph.D. | Gerard Wong | 2020–Present |
 | Hector E Muñoz      | Bioengineering | Ph.D.    | Dino Di Carlo | 2019–2020 |
 | Alexander Wickstrom | Bioengineering | M.S.     | Jonathan Kao  | 2019      |
 | Rob Dimatteo        | Bioengineering | Ph.D.    | Dino Di Carlo | 2019–2021 |
@@ -661,38 +663,6 @@ Miller, M.A., M.J. Oudin, A.S. Meyer, L.G. Griffith, F.B. Gertler, D.A. Lauffenb
 
 
 \begin{multicols}{2}
-
-Daniel Bradbury, Bioengineering (Ph.D.)\\
-Advisor: Daniel Kamei\\
-2017–2020
-
-Giovanni Valdez, Bioengineering (Ph.D.)\\
-Advisor: Grace Xiao\\
-2018–2021
-
-Hiromi Miwa, Bioengineering (Ph.D.)\\
-Advisor: Dino Di Carlo\\
-2019–2022
-
-Mark van Zee, Bioengineering (Ph.D.)\\
-Advisor: Dino Di Carlo\\
-2019–2022
-
-Rob Dimatteo, Bioengineering (Ph.D.)\\
-Advisor: Dino Di Carlo\\
-2019–2021
-
-Alexander Wickstrom, Bioengineering (M.S.)\\
-Advisor: Jonathan Kao\\
-2019
-
-Hector E Muñoz, Bioengineering (Ph.D.)\\
-Advisor: Dino Di Carlo\\
-2019–2020
-
-Wei-Chia Elizabeth Luo, Bioengineering (Ph.D.)\\
-Advisor: Gerard Wong\\
-2020–Present
 
 Mohammadali Alidoost, Bioengineering (Ph.D.)\\
 Advisor: Jennifer Wilson\\
