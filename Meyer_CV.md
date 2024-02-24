@@ -565,6 +565,9 @@ _Ad Hoc Member_, Executive Board, Faculty Senate \hfill 2023–2024
 _Faculty Speaker_, UCLA Life Sciences Webinar Series \hfill 2023  
 "Digital Immune Twins: The Future of Healthcare?"
 
+_Faculty Speaker_, UCLA Life Sciences Webinar Series \hfill 2023  
+"Digital Immune Twins: The Future of Healthcare?"
+
 _Poster Judge_, Undergraduate Research and Creativity Showcase \hfill 2023  
 Science Dean's Prize
 
