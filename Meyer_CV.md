@@ -692,11 +692,11 @@ Advisor: Alexander Hoffmann\\
 
 Mai Tran, Earth, Planetary \& Space Sci. (Ph.D.)\\
 Advisor: William Newman\\
-2022–Present
+2022–2023
 
 Nilay Shah, Computer Science (M.S.)\\
 Advisor: Bolei Zhou\\
-2022–Present
+2022–2023
 
 Rayo Suseno, Bioengineering (M.S.)\\
 Advisor: Jennifer Wilson\\
@@ -721,5 +721,17 @@ Advisor: Chong Liu\\
 Seth Hilliard, Comp. \& Quant. Medicine (Ph.D.)\\
 Advisor: Andrei Rodin (City of Hope)\\
 2023
+
+Frances Nicklen, Bioengineering (Ph.D.)\\
+Advisor: Daniel Kamei\\
+2023–Present
+
+Michael Mellody, Bioengineering (Ph.D.)\\
+Advisor: Dino Di Carlo\\
+2023–Present
+
+James Popoli, Bioengineering (Ph.D.)\\
+Advisor: Andrea Kasko\\
+2023–Present
 
 \end{multicols}
