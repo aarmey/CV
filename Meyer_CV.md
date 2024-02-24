@@ -253,6 +253,11 @@ Massachusetts Institute of Technology
 
 # Teaching Experience
 
+_Guest Speaker_, Bioinformatics 202 \hfill 2023  
+UCLA, Bioinformatics Interdepartmental Program
+
+- Discussed our lab's research and related topics in bioinformatics.
+
 _Guest Lecturer_, Fundamentals of Digital Imaging and Image Processing \hfill 2021, 2022  
 UCLA, Molecular, Cell, and Developmental Biology M130
 
@@ -286,7 +291,7 @@ UCLA, Department of Bioengineering
 - Mentored three capstone teams for the bioengineering senior design course
 - Poster competition winning team: 2018, 2019
 
-_Guest Speaker_, Introduction to Bioengineering \hfill 2017, 2019, 2020  
+_Guest Speaker_, Introduction to Bioengineering \hfill 2017, 2019, 2020, 2023  
 UCLA, Department of Bioengineering
 
 - Guest speaker to discuss research program and opportunities in bioengineering
@@ -301,11 +306,26 @@ MIT, Department of Biological Engineering, Cambridge, MA
 
 # Conference & Invited Presentations (Last Five Years)
 
+_Cytokine Based Drug Development Summit_, Invited Oral Presentation \hfill May 2024  
+"New Cytokine Targeting Strategies Enabled by Multivalent Cis-Targeted Complexes."
+
+_Tracer Precision Health Workshop_, Invited Oral Presentation \hfill April 2024  
+"Mechanistic, integrative, and high-resolution dissection of single-cell studies with PARAFAC2."
+
 _Cancer Systems Biology Program_, Invited Oral Presentation \hfill December 2023  
 "Analysis and modeling of cancer drug responses using cell cycle phase-specific rate effects."
 
+Systems Biology Consortium for Infectious Diseases, Invited Oral Presentation \hfill September 2023  
+"Developing integrative signatures across omics, studies, and diseases with tensor-based analysis."
+
+_UCLA Bioinformatics Retreat_, Invited Oral Presentation \hfill July 2023  
+"Building the tensor learning universe."
+
 _Antibodies & Complement_, Selected Oral Presentation \hfill June 2023  
 "Cancer systems serology reveals active humoral immunity but disrupted Fc-elicited interactions."
+
+_CSBC Annual Meeting_, Invited Oral Presentation \hfill March 2023  
+"Phosphoproteomic Analysis of AXL Identifies YAP as a Key Regulator of Resistance."
 
 _UCLA Musculoskeletal Devices & Tech. Development Group_, Invited Seminar \hfill September 2022  
 "Uncovering immunologic mechanisms of MRSA persistence by tensor-mediated data integration."
@@ -551,6 +571,9 @@ _Ad Hoc Reviewer_, J. Cell Biol. \hfill 2011 – 2012
 # Service to UCLA
 
 _Chair_, Campus Response to the Climate Crisis Special Committee, Faculty Senate \hfill 2023–2024  
+
+_Faculty Speaker_, UCLA Life Sciences Webinar Series \hfill 2023  
+"Digital Immune Twins: The Future of Healthcare?"
 
 _Poster Judge_, Undergraduate Research and Creativity Showcase \hfill 2023  
 Science Dean's Prize
