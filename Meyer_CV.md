@@ -2,7 +2,7 @@
 name: Aaron S. Meyer
 url: http://asmlab.org
 email: ameyer@ucla.edu
-phone: 310-794-4821
+phone: (310) 794-4821
 addrOne: 4121G Engineering V
 addrTwo: Los Angeles, CA 90095
 ---
@@ -10,7 +10,7 @@ addrTwo: Los Angeles, CA 90095
 # Education
 
 _Ph.D._, Biological Engineering  \hfill April 2014  
-Massachusetts Institute of Technology, Cambridge, MA  
+Massachusetts Institute of Technology (MIT), Cambridge, MA  
 Thesis: Quantitative approaches to understanding signaling regulation of 3D cell migration
  
 _B.S._, Bioengineering, magna cum laude \hfill June 2009  
@@ -38,7 +38,7 @@ Department of Bioengineering, UCLA
 \leftskip 0.1in
 \parindent -0.1in
 
-46\. **Zhixin Cyrillus Tan**, **A.S. Meyer**. "The structure is the message: preserving experimental context through tensor decomposition." _arXiv preprint_.
+46\. **Tan, Z.C.**, **A.S. Meyer**. "The structure is the message: preserving experimental context through tensor decomposition." _arXiv preprint_.
 
 \parskip 0.1in
 
@@ -59,7 +59,7 @@ Department of Bioengineering, UCLA
 
 \parskip 0.1in
 
-40\. Peyton, S.R., L.W. Chow, S.D. Finley, A.N. Ford Versypt, R. Hill, M.L. Kemp, E.M. Langer, A.P. McGuigan, **A.S. Meyer**, S.K. Seidlits, K. Roy, S.M. Mumenthaler. ["Synthetic living materials in cancer biology."](https://www.nature.com/articles/s44222-023-00105-w) _Nature Reviews Bioengineering._ 2023 Oct 2.
+40\. Peyton, S.R., L.W. Chow, S.D. Finley, A.N. Ford Versypt, R. Hill, M.L. Kemp, E.M. Langer, A.P. McGuigan, **A.S. Meyer**, S.K. Seidlits, K. Roy, S.M. Mumenthaler. ["Synthetic living materials in cancer biology."](https://www.nature.com/articles/s44222-023-00105-w) _Nature Reviews Bioengineering._ 2023 Oct 2; 1, 972–988.
 
 39\. Terry, A.Q., H. Kojima, R.A. Sosa, F.M. Kaldas, **J.L. Chin**, Y. Zheng, B.V. Naini, D. Noguchi, J.N.- Mejia, Y.-P. Jin, R.W. Busuttil, **A.S. Meyer**, D.W. Gjertson, J.W. Kupiec-Weglinski, E.F. Reed. ["Disulfide-HMGB1 Signals Through TLR4 and TLR9 to Induce Inflammatory Macrophages Capable of Innate-Adaptive Crosstalk in Human Liver Transplantation."](https://www.amjtransplant.org/article/S1600-6135(23)00625-1/fulltext) _Am J Transplant._ 2023 Aug 9; S1600-6135(23)00625-1.
 
@@ -67,7 +67,7 @@ Department of Bioengineering, UCLA
 
 37\. S.M. Gross, **F. Mohammadi**, C. Sanchez-Aguila, P.J. Zhan, **A.S. Meyer**, L.M. Heiser. ["Analysis and modeling of cancer drug responses using cell cycle phase-specific rate effects."](https://www.nature.com/articles/s41467-023-39122-z) _Nature Communications._ 2023 June 10; 14: 3450.
 
-36\. Yang, H., U.Y. Ulge, A. Quijano-Rubio, Z.J. Bernstein, D.R. Maestas, J.-H. Chun, W. Wang, J.-X. Lin, K.M. Jude, S. Singh, **B.T. Orcutt-Jahns**, P. Li, J. Mou, L. Chung, Y.-H. Kuo, Y.H. Ali, **A.S. Meyer**, W.L. Grayson, N.M. Heller, K.C. Garcia, W.J. Leonard, D.-A. Silva, J.H. Elisseeff, D. Baker, J.B. Spangler. ["Design of cell-type-specific hyperstable IL-4 mimetics via modular de novo scaffolds."](https://doi.org/10.1038/s41589-023-01313-6) _Nature Chemical Biology_. 2023 April 6. 1552-4469.
+36\. Yang, H., U.Y. Ulge, A. Quijano-Rubio, Z.J. Bernstein, D.R. Maestas, J.-H. Chun, W. Wang, J.-X. Lin, K.M. Jude, S. Singh, **B.T. Orcutt-Jahns**, P. Li, J. Mou, L. Chung, Y.-H. Kuo, Y.H. Ali, **A.S. Meyer**, W.L. Grayson, N.M. Heller, K.C. Garcia, W.J. Leonard, D.-A. Silva, J.H. Elisseeff, D. Baker, J.B. Spangler. ["Design of cell-type-specific hyperstable IL-4 mimetics via modular de novo scaffolds."](https://doi.org/10.1038/s41589-023-01313-6) _Nature Chemical Biology_. 2023 April 6. 1552–4469.
 
 35\. **J.L. Chin**, L.C. Chan, M.R. Yeaman, **A.S. Meyer**. ["Tensor-based insights into systems immunity and infectious disease."](https://doi.org/10.1016/j.it.2023.03.003) _Trends in Immunology_. 2023 May; 44(5): 329–332.
 
@@ -270,7 +270,7 @@ UCLA, Microbiology, Immunology, & Molecular Genetics
 
 <!-- Evaluations are available for file. -->
 
-_Advisor_, Integrated and Interdisciplinary Undergraduate Research Program \hfill 2019 – Present  
+_Advisor_, Integrated and Interdisciplinary Undergraduate Research Program \hfill 2019 – 2023  
 UCLA, Undergraduate Research Center
 
 - Advise program participants on developing research, presentation, and professional skills
@@ -386,18 +386,6 @@ _CSBC West Coast Meeting_, Selected Oral Presentation \hfill May 2019
 _Oregon Health & Science Univ., Dept. of Biomedical Engineering_, Invited Dept. Seminar \hfill March 2019  
 "Systems approaches to mapping and targeting immune system communication."
 
-_Univ. of Calif., Los Angeles, MSTP Tutorial Series_, Invited Speaker \hfill October 2018  
-"Systems approaches to mapping and targeting immune system communication."
-
-_Univ. of Illinois at Urbana-Champaign, Dept. of Bioengineering_, Invited Dept. Seminar \hfill Sept 2018  
-"High-dimensional analysis to map and manipulate immune receptor-ligand families."
-
-_Systems Biology of Human Disease_, Selected Oral Presentation \hfill June 2018  
-"Dissecting FcγR Regulation Through a Multivalent Binding Model."
-
-_Univ. of Calif., Riverside, Department of Bioengineering_, Invited Departmental Seminar \hfill April 2018  
-"Dissecting FcγR Regulation Through a Multivalent Binding Model."
-
 # Research Supervision
 
 *Postdoctoral Fellows*
@@ -437,7 +425,7 @@ _Univ. of Calif., Riverside, Department of Bioengineering_, Invited Departmental
 - Luka Karginov (NCI CSBC Summer Scholar; Ph.D., Biological Engineering, MIT) \hfill 2020 – 2021
 - Madeleine Murphy (Computational Biologist, Broad Institute of MIT \& Harvard) \hfill 2020 – 2022
 - Aditya Sivakumar \hfill 2020 – 2021
-- Eli Snyder (Associate Consultant, Putnam Associates) \hfill 2020 – 2021
+- Eli Snyder (M.D., University of Hawaii) \hfill 2020 – 2021
 - Peter Emmel \hfill 2019 – 2022
 - Amanda Tsao (M.D., University of Southern California) \hfill 2019 – 2021
 - JC Lagarde \hfill 2019 – 2022
@@ -570,7 +558,12 @@ _Ad Hoc Reviewer_, J. Cell Biol. \hfill 2011 – 2012
 
 # Service to UCLA
 
-_Chair_, Campus Response to the Climate Crisis Special Committee, Faculty Senate \hfill 2023–2024  
+_Chair_, Campus Response to the Climate Crisis Special Committee, Faculty Senate \hfill 2023–2024
+
+_Ad Hoc Member_, Executive Board, Faculty Senate \hfill 2023–2024
+
+_Faculty Speaker_, UCLA Life Sciences Webinar Series \hfill 2023  
+"Digital Immune Twins: The Future of Healthcare?"
 
 _Faculty Speaker_, UCLA Life Sciences Webinar Series \hfill 2023  
 "Digital Immune Twins: The Future of Healthcare?"
@@ -580,12 +573,12 @@ Science Dean's Prize
 
 _Poster Judge_, Jonsson Cancer Center Annual Retreat \hfill 2023
 
-_Reviewer_, Tau Beta Pi Chapter Excellence Scholarship \hfill 2021, 2022
+_Reviewer_, Tau Beta Pi Chapter Excellence Scholarship \hfill 2021–2023
 
 _Award Selection Committee_, Faculty Career Development Award \hfill 2022  
 Office of Equity, Diversity and Inclusion
 
-_Member_, Minors Committee, Computational & Systems Biology \hfill 2021, 2022
+_Member_, Minors Committee, Computational & Systems Biology \hfill 2021–2023
 
 _Panelist_, Graduate School Panel, Computational & Systems Biology \hfill 2021
 
