@@ -270,7 +270,7 @@ UCLA, Microbiology, Immunology, & Molecular Genetics
 
 <!-- Evaluations are available for file. -->
 
-_Advisor_, Integrated and Interdisciplinary Undergraduate Research Program \hfill 2019 – Present  
+_Advisor_, Integrated and Interdisciplinary Undergraduate Research Program \hfill 2019 – 2023  
 UCLA, Undergraduate Research Center
 
 - Advise program participants on developing research, presentation, and professional skills
@@ -386,18 +386,6 @@ _CSBC West Coast Meeting_, Selected Oral Presentation \hfill May 2019
 _Oregon Health & Science Univ., Dept. of Biomedical Engineering_, Invited Dept. Seminar \hfill March 2019  
 "Systems approaches to mapping and targeting immune system communication."
 
-_Univ. of Calif., Los Angeles, MSTP Tutorial Series_, Invited Speaker \hfill October 2018  
-"Systems approaches to mapping and targeting immune system communication."
-
-_Univ. of Illinois at Urbana-Champaign, Dept. of Bioengineering_, Invited Dept. Seminar \hfill Sept 2018  
-"High-dimensional analysis to map and manipulate immune receptor-ligand families."
-
-_Systems Biology of Human Disease_, Selected Oral Presentation \hfill June 2018  
-"Dissecting FcγR Regulation Through a Multivalent Binding Model."
-
-_Univ. of Calif., Riverside, Department of Bioengineering_, Invited Departmental Seminar \hfill April 2018  
-"Dissecting FcγR Regulation Through a Multivalent Binding Model."
-
 # Research Supervision
 
 *Postdoctoral Fellows*
@@ -437,7 +425,7 @@ _Univ. of Calif., Riverside, Department of Bioengineering_, Invited Departmental
 - Luka Karginov (NCI CSBC Summer Scholar; Ph.D., Biological Engineering, MIT) \hfill 2020 – 2021
 - Madeleine Murphy (Computational Biologist, Broad Institute of MIT \& Harvard) \hfill 2020 – 2022
 - Aditya Sivakumar \hfill 2020 – 2021
-- Eli Snyder (Associate Consultant, Putnam Associates) \hfill 2020 – 2021
+- Eli Snyder (M.D., University of Hawaii) \hfill 2020 – 2021
 - Peter Emmel \hfill 2019 – 2022
 - Amanda Tsao (M.D., University of Southern California) \hfill 2019 – 2021
 - JC Lagarde \hfill 2019 – 2022
