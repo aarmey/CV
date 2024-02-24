@@ -38,40 +38,42 @@ Department of Bioengineering, UCLA
 \leftskip 0.1in
 \parindent -0.1in
 
-45\. **Zhixin Cyrillus Tan**, **A.S. Meyer**. "The structure is the message: preserving experimental context through tensor decomposition." _arXiv preprint_.
+46\. **Zhixin Cyrillus Tan**, **A.S. Meyer**. "The structure is the message: preserving experimental context through tensor decomposition." _arXiv preprint_.
 
 \parskip 0.1in
 
-44\. Kojima, H., T. Morinelli, Y. Wang, **J. Chin**, **A.S. Meyer**, M. Kuo, K. Kadono, S. Yao, T. Torgerson, K. Dery, A. Bhat, E. Reed, F. Kaldas, D. Windt, D. Farmer, J. Kupiec-Weglinski, Y. Zhai. "Group 1 innate lymphoid cells protect liver transplants from ischemia reperfusion injury via IFN-γ-mediated pathway." _Submitted._
+45\. Kojima, H., T. Morinelli, Y. Wang, **J. Chin**, **A.S. Meyer**, M. Kuo, K. Kadono, S. Yao, T. Torgerson, K. Dery, A. Bhat, E. Reed, F. Kaldas, D. Windt, D. Farmer, J. Kupiec-Weglinski, Y. Zhai. "Group 1 innate lymphoid cells protect liver transplants from ischemia reperfusion injury via IFN-γ-mediated pathway." _Submitted._
 
-43\. **Orcutt-Jahns, B.**, J. Rodrigues Lima Junior, R.C. Rockne, A. Matache, S. Branciamore, E. Hung, A.S. Rodin, P.P. Lee, **A.S. Meyer**. "Systems profiling reveals recurrently dysregulated cytokine signaling responses in ER+ breast cancer patients’ blood." _Submitted, [bioRxiv preprint](https://www.biorxiv.org/content/10.1101/2023.10.31.564987v1)._
+44\. **Orcutt-Jahns, B.**, J. Rodrigues Lima Junior, R.C. Rockne, A. Matache, S. Branciamore, E. Hung, A.S. Rodin, P.P. Lee, **A.S. Meyer**. "Systems profiling reveals recurrently dysregulated cytokine signaling responses in ER+ breast cancer patients’ blood." _Submitted, [bioRxiv preprint](https://www.biorxiv.org/content/10.1101/2023.10.31.564987v1)._
 
-42\. **Creixell, M.**, **S.D. Taylor**, J. Gerritsen, **S.Y. Bae**, M. Jiang, T. Augustin, **M. Loui**, **C. Boixo**, P. Creixell, F.M. White, **A.S. Meyer**. "Dissecting signaling regulators driving AXL-mediated bypass resistance and associated phenotypes by phosphosite perturbations." _Submitted, [bioRxiv preprint](https://www.biorxiv.org/content/10.1101/2023.10.20.563266v1)._
+43\. **Creixell, M.**, **S.D. Taylor**, J. Gerritsen, **S.Y. Bae**, M. Jiang, T. Augustin, **M. Loui**, **C. Boixo**, P. Creixell, F.M. White, **A.S. Meyer**. "Dissecting signaling regulators driving AXL-mediated bypass resistance and associated phenotypes by phosphosite perturbations." _Submitted, [bioRxiv preprint](https://www.biorxiv.org/content/10.1101/2023.10.20.563266v1)._
 
-41\. **Chin, J.L.**, **Z.C. Tan**, L.C. Chan, F. Ruffin, R. Parmar, R. Ahn, **S. Taylor**, A.S. Bayer, A. Hoffmann, J. Vance G Fowler, E.F. Reed, M.R. Yeaman, **A.S. Meyer**, MRSA Systems Immunobiology Group. "Cytokine-expression patterns reveal coordinated immunological programs associated with persistent MRSA bacteremia." _Submitted, [bioRxiv preprint](https://www.biorxiv.org/content/10.1101/2022.12.28.521386v1)._
+42\. **Chin, J.L.**, **Z.C. Tan**, L.C. Chan, F. Ruffin, R. Parmar, R. Ahn, **S. Taylor**, A.S. Bayer, A. Hoffmann, J. Vance G Fowler, E.F. Reed, M.R. Yeaman, **A.S. Meyer**, MRSA Systems Immunobiology Group. "Cytokine-expression patterns reveal coordinated immunological programs associated with persistent MRSA bacteremia." _Submitted, [bioRxiv preprint](https://www.biorxiv.org/content/10.1101/2022.12.28.521386v1)._
 
 # Refereed Publications
 
 \leftskip 0.1in
 \parindent -0.1in
 
-40\. **Orcutt-Jahns, B.**, **P.C. Emmel**, **E.M. Snyder**, **S.D. Taylor**, **Aaron S. Meyer**. ["Multivalent, asymmetric IL-2–Fc fusions show enhanced selectivity for regulatory T cells."](https://www.science.org/doi/full/10.1126/scisignal.adg0699) _Science Signaling._ 2023 October 17; 16(807): eadg0699.
+41\. **Orcutt-Jahns, B.**, **P.C. Emmel**, **E.M. Snyder**, **S.D. Taylor**, **Aaron S. Meyer**. ["Multivalent, asymmetric IL-2–Fc fusions show enhanced selectivity for regulatory T cells."](https://www.science.org/doi/full/10.1126/scisignal.adg0699) _Science Signaling._ 2023 October 17; 16(807): eadg0699.
 
 \parskip 0.1in
 
-39\. Peyton, S.R., L.W. Chow, S.D. Finley, A.N. Ford Versypt, R. Hill, M.L. Kemp, E.M. Langer, A.P. McGuigan, **A.S. Meyer**, S.K. Seidlits, K. Roy, S.M. Mumenthaler. ["Synthetic living materials in cancer biology."](https://www.nature.com/articles/s44222-023-00105-w) _Nature Reviews Bioengineering._ 2023 Oct 2.
+40\. Peyton, S.R., L.W. Chow, S.D. Finley, A.N. Ford Versypt, R. Hill, M.L. Kemp, E.M. Langer, A.P. McGuigan, **A.S. Meyer**, S.K. Seidlits, K. Roy, S.M. Mumenthaler. ["Synthetic living materials in cancer biology."](https://www.nature.com/articles/s44222-023-00105-w) _Nature Reviews Bioengineering._ 2023 Oct 2.
 
-38\. Terry, A.Q., H. Kojima, R.A. Sosa, F.M. Kaldas, **J.L. Chin**, Y. Zheng, B.V. Naini, D. Noguchi, J.N.- Mejia, Y.-P. Jin, R.W. Busuttil, **A.S. Meyer**, D.W. Gjertson, J.W. Kupiec-Weglinski, E.F. Reed. ["Disulfide-HMGB1 Signals Through TLR4 and TLR9 to Induce Inflammatory Macrophages Capable of Innate-Adaptive Crosstalk in Human Liver Transplantation."](https://www.amjtransplant.org/article/S1600-6135(23)00625-1/fulltext) _Am J Transplant._ 2023 Aug 9; S1600-6135(23)00625-1.
+39\. Terry, A.Q., H. Kojima, R.A. Sosa, F.M. Kaldas, **J.L. Chin**, Y. Zheng, B.V. Naini, D. Noguchi, J.N.- Mejia, Y.-P. Jin, R.W. Busuttil, **A.S. Meyer**, D.W. Gjertson, J.W. Kupiec-Weglinski, E.F. Reed. ["Disulfide-HMGB1 Signals Through TLR4 and TLR9 to Induce Inflammatory Macrophages Capable of Innate-Adaptive Crosstalk in Human Liver Transplantation."](https://www.amjtransplant.org/article/S1600-6135(23)00625-1/fulltext) _Am J Transplant._ 2023 Aug 9; S1600-6135(23)00625-1.
 
-37\. **Tan, Z.C.**, A. Lux, M. Biburger, P. Varghese, **S. Lees**, F. Nimmerjahn, **A.S. Meyer**. ["Mixed IgG Fc immune complexes exhibit blended binding profiles and refine FcR affinity estimates."](https://doi.org/10.1016/j.celrep.2023.112734) _Cell Reports._ 2023 July 25; 42(7): 112734.
+38\. **Tan, Z.C.**, A. Lux, M. Biburger, P. Varghese, **S. Lees**, F. Nimmerjahn, **A.S. Meyer**. ["Mixed IgG Fc immune complexes exhibit blended binding profiles and refine FcR affinity estimates."](https://doi.org/10.1016/j.celrep.2023.112734) _Cell Reports._ 2023 July 25; 42(7): 112734.
 
-36\. S.M. Gross, **F. Mohammadi**, C. Sanchez-Aguila, P.J. Zhan, **A.S. Meyer**, L.M. Heiser. ["Analysis and modeling of cancer drug responses using cell cycle phase-specific rate effects."](https://www.nature.com/articles/s41467-023-39122-z) _Nature Communications._ 2023 June 10; 14: 3450.
+37\. S.M. Gross, **F. Mohammadi**, C. Sanchez-Aguila, P.J. Zhan, **A.S. Meyer**, L.M. Heiser. ["Analysis and modeling of cancer drug responses using cell cycle phase-specific rate effects."](https://www.nature.com/articles/s41467-023-39122-z) _Nature Communications._ 2023 June 10; 14: 3450.
 
-35\. Yang, H., U.Y. Ulge, A. Quijano-Rubio, Z.J. Bernstein, D.R. Maestas, J.-H. Chun, W. Wang, J.-X. Lin, K.M. Jude, S. Singh, **B.T. Orcutt-Jahns**, P. Li, J. Mou, L. Chung, Y.-H. Kuo, Y.H. Ali, **A.S. Meyer**, W.L. Grayson, N.M. Heller, K.C. Garcia, W.J. Leonard, D.-A. Silva, J.H. Elisseeff, D. Baker, J.B. Spangler. ["Design of cell-type-specific hyperstable IL-4 mimetics via modular de novo scaffolds."](https://doi.org/10.1038/s41589-023-01313-6) _Nature Chemical Biology_. 2023 April 6. 1552-4469.
+36\. Yang, H., U.Y. Ulge, A. Quijano-Rubio, Z.J. Bernstein, D.R. Maestas, J.-H. Chun, W. Wang, J.-X. Lin, K.M. Jude, S. Singh, **B.T. Orcutt-Jahns**, P. Li, J. Mou, L. Chung, Y.-H. Kuo, Y.H. Ali, **A.S. Meyer**, W.L. Grayson, N.M. Heller, K.C. Garcia, W.J. Leonard, D.-A. Silva, J.H. Elisseeff, D. Baker, J.B. Spangler. ["Design of cell-type-specific hyperstable IL-4 mimetics via modular de novo scaffolds."](https://doi.org/10.1038/s41589-023-01313-6) _Nature Chemical Biology_. 2023 April 6. 1552-4469.
 
-34\. **J.L. Chin**, L.C. Chan, M.R. Yeaman, **A.S. Meyer**. ["Tensor-based insights into systems immunity and infectious disease."](https://doi.org/10.1016/j.it.2023.03.003) _Trends in Immunology_. 2023 May; 44(5): 329–332.
+35\. **J.L. Chin**, L.C. Chan, M.R. Yeaman, **A.S. Meyer**. ["Tensor-based insights into systems immunity and infectious disease."](https://doi.org/10.1016/j.it.2023.03.003) _Trends in Immunology_. 2023 May; 44(5): 329–332.
 
-33\. **Wilder, C.**, D. Lefaudeux, R. Mathenge, K. Kishimoto, A.Z. Munoz, M.A. Nguyen, **A.S. Meyer**, Q.J. Cheng, A. Hoffmann. ["A stimulus-contingent positive feedback loop enables IFN-β dose-dependent activation of pro-inflammatory genes."](https://doi.org/10.15252/msb.202211294) _Molecular Systems Biology_. 2023 March 17; 19: e11294.
+34\. **Wilder, C.**, D. Lefaudeux, R. Mathenge, K. Kishimoto, A.Z. Munoz, M.A. Nguyen, **A.S. Meyer**, Q.J. Cheng, A. Hoffmann. ["A stimulus-contingent positive feedback loop enables IFN-β dose-dependent activation of pro-inflammatory genes."](https://doi.org/10.15252/msb.202211294) _Molecular Systems Biology_. 2023 March 17; 19: e11294.
+
+33\. P. Kulkarni, H.S. Wiley, H. Levine, H. Sauro, A. Anderson, S.T.C. Wong, **A.S. Meyer**, P. Iyengar, K. Corlette, K. Swanson, A. Mohanty, S. Bhattacharya, A. Patel, V. Jain, R. Salgia. ["Addressing the genetic/nongenetic duality in cancer with systems biology."](https://doi.org/10.1016/j.trecan.2022.12.004) _Trends in Cancer_. 9(3), 2023 March, 185–187.
 
 32\. Kim, H., A. Wirasaputra, **F. Mohammadi**, A.N. Kundu, J.A.E. Esteves, L.M. Heiser, **A.S. Meyer**, S.R. Peyton. ["Live Cell Lineage Tracing of Dormant Cancer Cells."](https://doi.org/10.1002/adhm.202202275) _Advanced Healthcare Materials._ 2023 Jan 10; 12(14): 2202275.
 
@@ -251,6 +253,11 @@ Massachusetts Institute of Technology
 
 # Teaching Experience
 
+_Guest Speaker_, Bioinformatics 202 \hfill 2023  
+UCLA, Bioinformatics Interdepartmental Program
+
+- Discussed our lab's research and related topics in bioinformatics.
+
 _Guest Lecturer_, Fundamentals of Digital Imaging and Image Processing \hfill 2021, 2022  
 UCLA, Molecular, Cell, and Developmental Biology M130
 
@@ -284,7 +291,7 @@ UCLA, Department of Bioengineering
 - Mentored three capstone teams for the bioengineering senior design course
 - Poster competition winning team: 2018, 2019
 
-_Guest Speaker_, Introduction to Bioengineering \hfill 2017, 2019, 2020  
+_Guest Speaker_, Introduction to Bioengineering \hfill 2017, 2019, 2020, 2023  
 UCLA, Department of Bioengineering
 
 - Guest speaker to discuss research program and opportunities in bioengineering
@@ -299,8 +306,26 @@ MIT, Department of Biological Engineering, Cambridge, MA
 
 # Conference & Invited Presentations (Last Five Years)
 
+_Cytokine Based Drug Development Summit_, Invited Oral Presentation \hfill May 2024  
+"New Cytokine Targeting Strategies Enabled by Multivalent Cis-Targeted Complexes."
+
+_Tracer Precision Health Workshop_, Invited Oral Presentation \hfill April 2024  
+"Mechanistic, integrative, and high-resolution dissection of single-cell studies with PARAFAC2."
+
+_Cancer Systems Biology Program_, Invited Oral Presentation \hfill December 2023  
+"Analysis and modeling of cancer drug responses using cell cycle phase-specific rate effects."
+
+Systems Biology Consortium for Infectious Diseases, Invited Oral Presentation \hfill September 2023  
+"Developing integrative signatures across omics, studies, and diseases with tensor-based analysis."
+
+_UCLA Bioinformatics Retreat_, Invited Oral Presentation \hfill July 2023  
+"Building the tensor learning universe."
+
 _Antibodies & Complement_, Selected Oral Presentation \hfill June 2023  
 "Cancer systems serology reveals active humoral immunity but disrupted Fc-elicited interactions."
+
+_CSBC Annual Meeting_, Invited Oral Presentation \hfill March 2023  
+"Phosphoproteomic Analysis of AXL Identifies YAP as a Key Regulator of Resistance."
 
 _UCLA Musculoskeletal Devices & Tech. Development Group_, Invited Seminar \hfill September 2022  
 "Uncovering immunologic mechanisms of MRSA persistence by tensor-mediated data integration."
@@ -435,6 +460,16 @@ _Univ. of Calif., Riverside, Department of Bioengineering_, Invited Departmental
 
 # Service to the Profession
 
+_Ad Hoc Study Section_, NCI Human Tumor Atlas Network \hfill 2024  
+
+_Ad Hoc Reviewer_, Metabolomics \hfill 2023
+
+_Ad Hoc Reviewer_, Cancer Gene Therapy \hfill 2023
+
+_Ad Hoc Reviewer (4x)_, Science Signaling \hfill 2020–2023
+
+_Ad Hoc Reviewer (3x)_, Science Advances \hfill 2020–2023
+
 _Track Chair_, Biomedical Engineering Society Annual Meeting \hfill 2023  
 Computational \& Systems Biology
 
@@ -461,8 +496,6 @@ _Local Organizing Committee_, Southern California Systems Biology Conference \hf
 
 _Ad Hoc Reviewer_, Soft Matter \hfill 2022
 
-_Ad Hoc Reviewer_, Science Signaling \hfill 2021
-
 _Ad Hoc Reviewer_, FEBS Letters \hfill 2021
 
 _Co-Organizer_, BME UNITE Webinar Series \hfill 2021 – Present  
@@ -480,10 +513,6 @@ _Volunteer Resume Reviewer_, Biomedical Engineering Society Annual Meeting \hfil
 
 _Member_, BME Underrepresented Needs In Technology & Engineering (UNITE) \hfill 2020 – Present  
 Lead for Project 7: Coordinated graduate student recruiting
-
-_Ad Hoc Reviewer_, Science Signaling \hfill 2020
-
-_Ad Hoc Reviewer (2x)_, Science Advances \hfill 2020
 
 _Panelist_, Amgen Scholars Summer Science Series \hfill 2020
 
@@ -543,6 +572,9 @@ _Ad Hoc Reviewer_, J. Cell Biol. \hfill 2011 – 2012
 
 _Chair_, Campus Response to the Climate Crisis Special Committee, Faculty Senate \hfill 2023–2024  
 
+_Faculty Speaker_, UCLA Life Sciences Webinar Series \hfill 2023  
+"Digital Immune Twins: The Future of Healthcare?"
+
 _Poster Judge_, Undergraduate Research and Creativity Showcase \hfill 2023  
 Science Dean's Prize
 
@@ -571,7 +603,7 @@ _Member_, SPUR "Life of a Faculty Member" Panel \hfill 2020
 
 _Ad Hoc Member_, HSSEAS Faculty Executive Committee \hfill April 2020
 
-_Application Reviewer_, Amgen Scholars Program \hfill 2020, 2022
+_Application Reviewer_, Amgen Scholars Program \hfill 2020, 2022, 2023
 
 _Reviewer_, Graduate Division’s Faculty Review Committee \hfill 2020
 
@@ -617,9 +649,9 @@ _Member_, Publicity Committee \hfill 2017 – 2018
 
 # Patents/Disclosures
 
-A.S. Meyer. "Systems serology analysis of tumors." U.S. provisional patent application pending.
+A.S. Meyer. "Methods of Identifying and Correcting Tumor Humoral Immune Dysregulation." U.S. provisional patent application 63/472,099, 2023.
 
-Orcutt-Jahns, B., P.C. Emmel, A.S. Meyer. "Multi-specific engineered cytokines." U.S. provisional patent application 63/428,921, 2022.
+Orcutt-Jahns, B., P.C. Emmel, A.S. Meyer. "Multi-specific engineered cytokines." U.S. patent application 63/428,921, 2022.
 
 A.S. Meyer. "Altering cytokine specificity through binding valency." U.S. patent application PCT/US22/35711, 2022.
 
@@ -683,11 +715,11 @@ Advisor: Alexander Hoffmann\\
 
 Mai Tran, Earth, Planetary \& Space Sci. (Ph.D.)\\
 Advisor: William Newman\\
-2022–Present
+2022–2023
 
 Nilay Shah, Computer Science (M.S.)\\
 Advisor: Bolei Zhou\\
-2022–Present
+2022–2023
 
 Rayo Suseno, Bioengineering (M.S.)\\
 Advisor: Jennifer Wilson\\
@@ -712,5 +744,17 @@ Advisor: Chong Liu\\
 Seth Hilliard, Comp. \& Quant. Medicine (Ph.D.)\\
 Advisor: Andrei Rodin (City of Hope)\\
 2023
+
+Frances Nicklen, Bioengineering (Ph.D.)\\
+Advisor: Daniel Kamei\\
+2023–Present
+
+Michael Mellody, Bioengineering (Ph.D.)\\
+Advisor: Dino Di Carlo\\
+2023–Present
+
+James Popoli, Bioengineering (Ph.D.)\\
+Advisor: Andrea Kasko\\
+2023–Present
 
 \end{multicols}
