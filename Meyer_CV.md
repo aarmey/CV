@@ -444,6 +444,12 @@ _Ad Hoc Study Section_, NCI Human Tumor Atlas Network \hfill 2024
 
 _Ad Hoc Reviewer_, Metabolomics \hfill 2023
 
+_Ad Hoc Reviewer_, Cancer Gene Therapy \hfill 2023
+
+_Ad Hoc Reviewer (4x)_, Science Signaling \hfill 2020–2023
+
+_Ad Hoc Reviewer (3x)_, Science Advances \hfill 2020–2023
+
 _Track Chair_, Biomedical Engineering Society Annual Meeting \hfill 2023  
 Computational \& Systems Biology
 
@@ -470,8 +476,6 @@ _Local Organizing Committee_, Southern California Systems Biology Conference \hf
 
 _Ad Hoc Reviewer_, Soft Matter \hfill 2022
 
-_Ad Hoc Reviewer_, Science Signaling \hfill 2021
-
 _Ad Hoc Reviewer_, FEBS Letters \hfill 2021
 
 _Co-Organizer_, BME UNITE Webinar Series \hfill 2021 – Present  
@@ -489,10 +493,6 @@ _Volunteer Resume Reviewer_, Biomedical Engineering Society Annual Meeting \hfil
 
 _Member_, BME Underrepresented Needs In Technology & Engineering (UNITE) \hfill 2020 – Present  
 Lead for Project 7: Coordinated graduate student recruiting
-
-_Ad Hoc Reviewer_, Science Signaling \hfill 2020
-
-_Ad Hoc Reviewer (2x)_, Science Advances \hfill 2020
 
 _Panelist_, Amgen Scholars Summer Science Series \hfill 2020
 
