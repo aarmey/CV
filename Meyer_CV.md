@@ -762,6 +762,10 @@ James Popoli, Bioengineering (Ph.D.)\\
 Advisor: Andrea Kasko\\
 2023–Present
 
+Citra Soemardy, Bioengineering (Ph.D.)\\
+Advisor: Dino Di Carlo\\
+2023–Present
+
 Shivani Kumar, Bioengineering (M.S.)\\
 Advisor: Mireille Kamariza\\
 2024
