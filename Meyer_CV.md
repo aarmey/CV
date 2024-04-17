@@ -446,6 +446,8 @@ _Oregon Health & Science Univ., Dept. of Biomedical Engineering_, Invited Dept. 
 
 # Service to the Profession
 
+_Chalk Talk Mentor_, BME Underrepresented Needs In Technology & Engineering (UNITE) \hfill 2024
+
 _Conference Organizer_, NIH NIAID \hfill 2024  
 Systems Immunology Approaches in Transplantation Tolerance and Rejection (SIATTR)
 
@@ -624,6 +626,8 @@ _Member_, HSSEAS Awards Committee for Outstanding Student Awards \hfill 2018
 _Faculty Speaker_, UCLA Engineering Alumni Reunion \hfill 2018
 
 # Service to the Department
+
+_Poster Judge_, Bioengineering Research Day \hfill 2024
 
 _Panel Member_, Equity, Diversity, & Inclusion Panel \hfill 2024  
 Biomedical Engineering Society
