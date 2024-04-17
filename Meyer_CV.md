@@ -564,6 +564,9 @@ _Ad Hoc Reviewer_, J. Cell Biol. \hfill 2011 – 2012
 _Member_, Hiring Committee \hfill 2024  
 Hispanic Serving Institution (HSI) STEM Faculty Director
 
+_Member_, HSSEAS Strategic Planning Committee \hfill 2024  
+Artificial intelligence focus area
+
 _Chair_, Campus Response to the Climate Crisis Special Committee, Faculty Senate \hfill 2023–2024
 
 _Ad Hoc Member_, Executive Board, Faculty Senate \hfill 2023–2024
