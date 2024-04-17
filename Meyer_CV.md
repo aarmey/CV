@@ -614,7 +614,7 @@ _Faculty Speaker_, UCLA Engineering Alumni Reunion \hfill 2018
 
 # Service to the Department
 
-_Judge_, Biomedical Engineering Society BioHack \hfill 2022, 2023
+_Judge_, Biomedical Engineering Society BioHack \hfill 2022–2024
 
 _Member_, Diversity, Equity and Inclusion Committee \hfill 2021 – Present
 
