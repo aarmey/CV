@@ -766,4 +766,8 @@ Shivani Kumar, Bioengineering (M.S.)\\
 Advisor: Mireille Kamariza\\
 2024
 
+Alejandro Miron Jabalera, Bioengineering (Ph.D.)\\
+Advisor: Tzung Hsiai\\
+2024–Present
+
 \end{multicols}
