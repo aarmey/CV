@@ -446,6 +446,9 @@ _Oregon Health & Science Univ., Dept. of Biomedical Engineering_, Invited Dept. 
 
 # Service to the Profession
 
+_Conference Organizer_, NIH NIAID \hfill 2024  
+Systems Immunology Approaches in Transplantation Tolerance and Rejection (SIATTR)
+
 _Ad Hoc Reviewer_, Genome Medicine \hfill 2024
 
 _Ad Hoc Study Section_, NCI Human Tumor Atlas Network \hfill 2024  
