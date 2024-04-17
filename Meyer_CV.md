@@ -446,6 +446,8 @@ _Oregon Health & Science Univ., Dept. of Biomedical Engineering_, Invited Dept. 
 
 # Service to the Profession
 
+_Ad Hoc Reviewer_, Genome Medicine \hfill 2024
+
 _Ad Hoc Study Section_, NCI Human Tumor Atlas Network \hfill 2024  
 
 _Ad Hoc Reviewer_, Metabolomics \hfill 2023
