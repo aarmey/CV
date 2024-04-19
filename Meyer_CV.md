@@ -48,12 +48,12 @@ Department of Bioengineering, UCLA
 
 43\. **Creixell, M.**, **S.D. Taylor**, J. Gerritsen, **S.Y. Bae**, M. Jiang, T. Augustin, **M. Loui**, **C. Boixo**, P. Creixell, F.M. White, **A.S. Meyer**. "Dissecting signaling regulators driving AXL-mediated bypass resistance and associated phenotypes by phosphosite perturbations." _Submitted, [bioRxiv preprint](https://www.biorxiv.org/content/10.1101/2023.10.20.563266v1)._
 
-42\. **Chin, J.L.**, **Z.C. Tan**, L.C. Chan, F. Ruffin, R. Parmar, R. Ahn, **S. Taylor**, A.S. Bayer, A. Hoffmann, J. Vance G Fowler, E.F. Reed, M.R. Yeaman, **A.S. Meyer**, MRSA Systems Immunobiology Group. "Cytokine-expression patterns reveal coordinated immunological programs associated with persistent MRSA bacteremia." _Submitted, [bioRxiv preprint](https://www.biorxiv.org/content/10.1101/2022.12.28.521386v1)._
-
 # Refereed Publications
 
 \leftskip 0.1in
 \parindent -0.1in
+
+42\. **Chin, J.L.**, **Z.C. Tan**, L.C. Chan, F. Ruffin, R. Parmar, R. Ahn, **S. Taylor**, A.S. Bayer, A. Hoffmann, J. Vance G Fowler, E.F. Reed, M.R. Yeaman, **A.S. Meyer**, MRSA Systems Immunobiology Group. "Cytokine-expression patterns reveal coordinated immunological programs associated with persistent MRSA bacteremia." _Accepted, PNAS Nexus, [bioRxiv preprint](https://www.biorxiv.org/content/10.1101/2022.12.28.521386v1)._
 
 41\. **Orcutt-Jahns, B.**, **P.C. Emmel**, **E.M. Snyder**, **S.D. Taylor**, **Aaron S. Meyer**. ["Multivalent, asymmetric IL-2–Fc fusions show enhanced selectivity for regulatory T cells."](https://www.science.org/doi/full/10.1126/scisignal.adg0699) _Science Signaling._ 2023 October 17; 16(807): eadg0699.
 
