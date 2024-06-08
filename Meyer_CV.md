@@ -307,6 +307,9 @@ MIT, Department of Biological Engineering, Cambridge, MA
 _Cytokine Based Drug Development Summit_, Invited Oral Presentation \hfill May 2024  
 "New Cytokine Targeting Strategies Enabled by Multivalent Cis-Targeted Complexes."
 
+_NIAID Systems Biology Consortium Webinar_, Invited Oral Presentation \hfill May 2024  
+"Tensor Modeling of Clinical Outcomes in S. aureus Bacteremia."
+
 _Tracer Precision Health Workshop_, Invited Oral Presentation \hfill April 2024  
 "Mechanistic, integrative, and high-resolution dissection of single-cell studies with PARAFAC2."
 
@@ -380,9 +383,6 @@ _Antibodies & Complement_, Selected Oral Presentation \hfill May 2019
 
 _CSBC West Coast Meeting_, Selected Oral Presentation \hfill May 2019  
 "Hidden Markov models on a tree as a general approach to single cell plasticity analysis."
-
-_Oregon Health & Science Univ., Dept. of Biomedical Engineering_, Invited Dept. Seminar \hfill March 2019  
-"Systems approaches to mapping and targeting immune system communication."
 
 # Research Supervision
 
