@@ -659,7 +659,7 @@ _Member_, Publicity Committee \hfill 2017 – 2018
 
 # Patents/Disclosures
 
-A.S. Meyer. "Methods of Identifying and Correcting Tumor Humoral Immune Dysregulation." U.S. provisional patent application 63/472,099, 2023.
+A.S. Meyer. "Methods of Identifying and Correcting Tumor Humoral Immune Dysregulation." U.S. patent application PCT/US24/32940, 2024.
 
 Orcutt-Jahns, B., P.C. Emmel, A.S. Meyer. "Multi-specific engineered cytokines." U.S. patent application 63/428,921, 2022.
 
