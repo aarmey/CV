@@ -779,4 +779,8 @@ Alejandro Miron Jabalera, Bioengineering (Ph.D.)\\
 Advisor: Tzung Hsiai\\
 2024–Present
 
+Ahmed Ali, Bioengineering (M.S.)\\
+Advisor: Jennifer Wilson\\
+2023–2024
+
 \end{multicols}
