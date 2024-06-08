@@ -597,6 +597,8 @@ _Reviewer_, Tau Beta Pi Chapter Excellence Scholarship \hfill 2021–2023
 _Award Selection Committee_, Faculty Career Development Award \hfill 2022  
 Office of Equity, Diversity and Inclusion
 
+_Faculty Participant_, Coffee Chat Series, Computational & Systems Biology \hfill 2022
+
 _Member_, Minors Committee, Computational & Systems Biology \hfill 2021–2023
 
 _Panelist_, Graduate School Panel, Computational & Systems Biology \hfill 2021
