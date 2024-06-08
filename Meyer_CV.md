@@ -146,6 +146,10 @@ Department of Bioengineering, UCLA
 
 _Contact PI on all grants unless indicated otherwise._
 
+_NSF 2404470 (Co-I)_ \hfill 2024 – 2027  
+"Multi-analyte Detection Enabled by Machine Learning-Guided Voltammetry"  
+Division: CHE Research and Development
+
 _NIH NEI R01-EY011996 (Co-I)_ \hfill 2023 – 2027  
 "Retinal Disease: Molecular Basis and Pathophysiology"
 
