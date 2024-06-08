@@ -469,6 +469,9 @@ Computational \& Systems Biology
 
 _Abstract Reviewer_, UC Systemwide Bioengineering Symposium \hfill 2023
 
+_F31 Co-Sponsor_, University of Texas, Austin \hfill 2022  
+Mollie Harrison (Advisor Stephanie Seidlits)
+
 _Ad Hoc Reviewer_, Cancer Immunology Research \hfill 2022
 
 _Co-Chair_, Resource & Data Sharing Working Group \hfill 2022 – Present  
