@@ -399,6 +399,7 @@ _CSBC West Coast Meeting_, Selected Oral Presentation \hfill May 2019
 
 *Ph.D. Students*
 
+- Meera Trisal \hfill 2023 – Present
 - Michelle Loui \hfill 2022 – Present
     - SURF Fellowship, UCLA Graduate Division
 - Andrew Ramirez \hfill 2021 – Present
@@ -419,6 +420,13 @@ _CSBC West Coast Meeting_, Selected Oral Presentation \hfill May 2019
 - Marc Creixell \hfill 2018 – 2023
     - JCCC Fellowship
 
+*M.S. Students*
+
+- Het Desai \hfill 2023 – 2024
+- Manmeet Bains \hfill 2023 - 2024
+- Enio Hodzic \hfill 2021 – 2023
+- Madeleine Murphy \hfill 2021 – 2022
+
 *Undergraduate Students*
 
 - Jamie Stickelmaier \hfill 2021 – 2023
@@ -426,7 +434,7 @@ _CSBC West Coast Meeting_, Selected Oral Presentation \hfill May 2019
 - Eva Hunter \hfill 2021 – 2022
 - Hakan Alpay (Frontend Engineer, Facebook) \hfill 2021
 - Luka Karginov (NCI CSBC Summer Scholar; Ph.D., Biological Engineering, MIT) \hfill 2020 – 2021
-- Madeleine Murphy (Computational Biologist, Broad Institute of MIT \& Harvard) \hfill 2020 – 2022
+- Madeleine Murphy (Computational Biologist, Broad Institute of MIT \& Harvard) \hfill 2020 – 2021
 - Aditya Sivakumar \hfill 2020 – 2021
 - Eli Snyder (M.D., University of Hawaii) \hfill 2020 – 2021
 - Peter Emmel \hfill 2019 – 2022
