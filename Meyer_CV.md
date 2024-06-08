@@ -308,6 +308,9 @@ MIT, Department of Biological Engineering, Cambridge, MA
 
 # Conference & Invited Presentations (Last Five Years)
 
+_Massachusetts Institute of Technology, Biological Engineering_, Invited Oral Presentation \hfill September 2024  
+"The structure is the message: building an integrative view of immunity with tensors."
+
 _Cytokine Based Drug Development Summit_, Invited Oral Presentation \hfill May 2024  
 "New Cytokine Targeting Strategies Enabled by Multivalent Cis-Targeted Complexes."
 
@@ -320,7 +323,7 @@ _Tracer Precision Health Workshop_, Invited Oral Presentation \hfill April 2024
 _Cancer Systems Biology Program_, Invited Oral Presentation \hfill December 2023  
 "Analysis and modeling of cancer drug responses using cell cycle phase-specific rate effects."
 
-Systems Biology Consortium for Infectious Diseases, Invited Oral Presentation \hfill September 2023  
+_Systems Biology Consortium for Infectious Diseases_, Invited Oral Presentation \hfill September 2023  
 "Developing integrative signatures across omics, studies, and diseases with tensor-based analysis."
 
 _UCLA Bioinformatics Retreat_, Invited Oral Presentation \hfill July 2023  
