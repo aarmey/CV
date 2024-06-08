@@ -636,6 +636,8 @@ _Poster Judge_, Bioengineering Research Day \hfill 2024
 _Panel Member_, Equity, Diversity, & Inclusion Panel \hfill 2024  
 Biomedical Engineering Society
 
+_Member_, Ad Hoc P&T Committee \hfill 2023
+
 _Judge_, Biomedical Engineering Society BioHack \hfill 2022 – 2023
 
 _Member_, Diversity, Equity and Inclusion Committee \hfill 2021 – Present
