@@ -407,6 +407,7 @@ _Oregon Health & Science Univ., Dept. of Biomedical Engineering_, Invited Dept. 
     - Best Poster Award, CSBC Junior Investigator Meeting
     - Best Poster Award, Cytokine Society
     - Best Presentation Award, Los Angeles Bioscience Ecosystem Summit
+    - Outstanding Ph.D. Award, Department of Bioengineering
 - Cyrillus Tan \hfill 2019 – Present
     - Dissertation Year Fellowship, UCLA Graduate Division
 - Farnaz Mohammadi \hfill 2018 – 2023
