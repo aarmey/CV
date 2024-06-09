@@ -314,6 +314,9 @@ MIT, Department of Biological Engineering, Cambridge, MA
 _Massachusetts Institute of Technology, Biological Engineering_, Invited Oral Presentation \hfill September 2024  
 "The structure is the message: building an integrative view of immunity with tensors."
 
+_Fc Mechanisms of Cell Killing Workshop_, Invited Oral Presentation \hfill June 2024  
+"Mapping the effector response space of antibody combinations"
+
 _Cytokine Based Drug Development Summit_, Invited Oral Presentation \hfill May 2024  
 "New Cytokine Targeting Strategies Enabled by Multivalent Cis-Targeted Complexes."
 
