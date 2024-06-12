@@ -405,9 +405,10 @@ _CSBC West Coast Meeting_, Selected Oral Presentation \hfill May 2019
 *Postdoctoral Fellows*
 
 - Catera Wilder, Ph.D. (Assistant Professor, UCSF) \hfill 2018 – 2022
-- Song Yi Bae, Ph.D. (Postdoctoral Fellow, University of Minnesota) \hfill 2016 – 2019
-- Edward Richards, Ph.D. (American Cancer Society Postdoctoral Fellowship) \hfill 2015 – 2020
-- Annelien Zweemer, Ph.D. (Asst. Prof., Leiden University) \hfill 2014 – 2017
+- Song Yi Bae, Ph.D. (Senior Scientist, Astrin Biosciences) \hfill 2016 – 2019
+- Edward Richards, Ph.D. (Senior Scientist, Dragonfly Therapeutics) \hfill 2015 – 2020
+    - American Cancer Society Postdoctoral Fellowship
+- Annelien Zweemer, Ph.D. (Assistant Professor, Leiden University) \hfill 2014 – 2017
 
 *Ph.D. Students*
 
@@ -420,24 +421,24 @@ _CSBC West Coast Meeting_, Selected Oral Presentation \hfill May 2019
     - UCLA EDI Student Leadership Award
 - Jackson Chin \hfill 2020 – Present
     - Best Poster Award, QC Bio Retreat, 2022
-- Brian Orcutt-Jahns \hfill 2019 – Present
+- Brian Orcutt-Jahns (Postdoctoral Associate, Genentech) \hfill 2019 – Present
     - Best Poster Award, CSBC Junior Investigator Meeting
     - Best Poster Award, Cytokine Society
     - Best Presentation Award, Los Angeles Bioscience Ecosystem Summit
     - Outstanding Ph.D. Award, Department of Bioengineering
 - Cyrillus Tan \hfill 2019 – Present
     - Dissertation Year Fellowship, UCLA Graduate Division
-- Farnaz Mohammadi \hfill 2018 – 2023
+- Farnaz Mohammadi (Postdoctoral Associate, Genentech) \hfill 2018 – 2023
     - Dissertation Year Fellowship, UCLA Graduate Division
-- Marc Creixell \hfill 2018 – 2023
+- Marc Creixell (Scientist, Calico Life Sciences) \hfill 2018 – 2023
     - JCCC Fellowship
 
 *M.S. Students*
 
 - Het Desai \hfill 2023 – 2024
-- Manmeet Bains \hfill 2023 - 2024
-- Enio Hodzic \hfill 2021 – 2023
-- Madeleine Murphy \hfill 2021 – 2022
+- Manmeet Bains \hfill 2023 – 2024
+- Enio Hodzic (Machine Learning Algorithm Engineer, Adaptive Dynamics) \hfill 2021 – 2023
+- Madeleine Murphy (Computational Biologist, Broad Institute) \hfill 2020 – 2022
 
 *Undergraduate Students*
 
@@ -446,7 +447,6 @@ _CSBC West Coast Meeting_, Selected Oral Presentation \hfill May 2019
 - Eva Hunter \hfill 2021 – 2022
 - Hakan Alpay (Frontend Engineer, Facebook) \hfill 2021
 - Luka Karginov (NCI CSBC Summer Scholar; Ph.D., Biological Engineering, MIT) \hfill 2020 – 2021
-- Madeleine Murphy (Computational Biologist, Broad Institute of MIT \& Harvard) \hfill 2020 – 2021
 - Aditya Sivakumar \hfill 2020 – 2021
 - Eli Snyder (M.D., University of Hawaii) \hfill 2020 – 2021
 - Peter Emmel \hfill 2019 – 2022
@@ -470,6 +470,9 @@ _CSBC West Coast Meeting_, Selected Oral Presentation \hfill May 2019
 - Ryan Robinett (NSF GRFP; Ph.D., Comp. Sci., U. Chicago) \hfill 2015 – 2017
 
 # Service to the Profession
+
+_Co-Chair_, Modeling Working Group \hfill 2023 – Present  
+Systems Biology for Infectious Diseases Consortium
 
 _Chalk Talk Mentor_, BME Underrepresented Needs In Technology & Engineering (UNITE) \hfill 2024
 
