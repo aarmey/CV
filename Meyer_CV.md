@@ -163,7 +163,7 @@ _NIH NIAID U19-AI172713 (Co-PI)_ \hfill 2023 – 2028
 Systems Biology for Infectious Diseases Consortium  
 "Systems Epigenomics of Persistent Bloodstream Infection"
 
-_Emerging Leader Award_, Mark Foundation for Cancer Research \hfill 2023–2025  
+_Emerging Leader Award_, Mark Foundation for Cancer Research \hfill 2023 – 2025  
 "Tracking and Reactivating Humoral Immunity through Systems Serology"
 
 _SEEDS Grant_ \hfill 2023 – 2024  
@@ -261,6 +261,16 @@ Massachusetts Institute of Technology
 
 # Teaching Experience
 
+_Instructor_, Machine Learning & Data-Driven Modeling in Bioengineering \hfill 2018 – Present  
+UCLA, Department of Bioengineering
+
+- Designed and lead project-based course tailored to the background of students in the program
+
+_Instructor_, Bioengineering Laboratory \hfill 2018 – Present  
+UCLA, Department of Bioengineering
+
+- Lead lab-based course introduction to laboratory work in bioengineering and basics of experimental design and analysis
+
 _Guest Speaker_, Bioinformatics 202 \hfill 2023  
 UCLA, Bioinformatics Interdepartmental Program
 
@@ -283,16 +293,6 @@ UCLA, Undergraduate Research Center
 
 - Advise program participants on developing research, presentation, and professional skills
 
-_Instructor_, Machine Learning & Data-Driven Modeling in Bioengineering \hfill 2018 – Present  
-UCLA, Department of Bioengineering
-
-- Designed and lead project-based course tailored to the background of students in the program
-
-_Instructor_, Bioengineering Laboratory \hfill 2018 – Present  
-UCLA, Department of Bioengineering
-
-- Lead lab-based course introduction to laboratory work in bioengineering and basics of experimental design and analysis
-
 _Mentor_, Bioengineering Capstone \hfill 2017, 2018, 2019, 2020  
 UCLA, Department of Bioengineering
 
@@ -314,8 +314,8 @@ MIT, Department of Biological Engineering, Cambridge, MA
 
 # Conference & Invited Presentations (Last Five Years)
 
-_Massachusetts Institute of Technology, Biological Engineering_, Invited Oral Presentation \hfill September 2024  
-"The structure is the message: building an integrative view of immunity with tensors."
+_Massachusetts Institute of Technology, Biological Engineering_, Invited Oral Presentation \hfill Sept 2024  
+"Experiment structure is the message: building an integrative view of immunity with tensors."
 
 _Fc Mechanisms of Cell Killing Workshop_, Invited Oral Presentation \hfill June 2024  
 "Mapping the effector response space of antibody combinations"
@@ -484,9 +484,9 @@ _Ad Hoc Reviewer_, Metabolomics \hfill 2023
 
 _Ad Hoc Reviewer_, Cancer Gene Therapy \hfill 2023
 
-_Ad Hoc Reviewer (4x)_, Science Signaling \hfill 2020–2023
+_Ad Hoc Reviewer (4x)_, Science Signaling \hfill 2020 – 2023
 
-_Ad Hoc Reviewer (3x)_, Science Advances \hfill 2020–2023
+_Ad Hoc Reviewer (3x)_, Science Advances \hfill 2020 – 2023
 
 _Track Chair_, Biomedical Engineering Society Annual Meeting \hfill 2023  
 Computational \& Systems Biology
@@ -591,15 +591,17 @@ _Ad Hoc Reviewer_, J. Cell Biol. \hfill 2011 – 2012
 
 # Service to UCLA
 
+_Bioengineering Representative_, HSSEAS GPU Ad Hoc Committee \hfill 2024
+
 _Member_, Hiring Committee \hfill 2024  
 Hispanic Serving Institution (HSI) STEM Faculty Director
 
 _Member_, HSSEAS Strategic Planning Committee \hfill 2024  
 Artificial intelligence focus area
 
-_Chair_, Campus Response to the Climate Crisis Special Committee, Faculty Senate \hfill 2023–2024
+_Chair_, Campus Response to the Climate Crisis Special Committee, Faculty Senate \hfill 2023 – 2024
 
-_Ad Hoc Member_, Executive Board, Faculty Senate \hfill 2023–2024
+_Ad Hoc Member_, Executive Board, Faculty Senate \hfill 2023 – 2024
 
 _Faculty Speaker_, UCLA Life Sciences Webinar Series \hfill 2023  
 "Digital Immune Twins: The Future of Healthcare?"
@@ -612,14 +614,14 @@ Science Dean's Prize
 
 _Poster Judge_, Jonsson Cancer Center Annual Retreat \hfill 2023
 
-_Reviewer_, Tau Beta Pi Chapter Excellence Scholarship \hfill 2021–2023
+_Reviewer_, Tau Beta Pi Chapter Excellence Scholarship \hfill 2021 – 2023
 
 _Award Selection Committee_, Faculty Career Development Award \hfill 2022  
 Office of Equity, Diversity and Inclusion
 
 _Faculty Participant_, Coffee Chat Series, Computational & Systems Biology \hfill 2022
 
-_Member_, Minors Committee, Computational & Systems Biology \hfill 2021–2023
+_Member_, Minors Committee, Computational & Systems Biology \hfill 2021 – 2023
 
 _Panelist_, Graduate School Panel, Computational & Systems Biology \hfill 2021
 
