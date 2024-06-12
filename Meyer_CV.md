@@ -24,6 +24,9 @@ Bioengineering Department, UCLA
 Bioinformatics Interdepartmental Graduate Program, UCLA  
 Computational & Systems Biology Interdepartmental Program, UCLA
 
+_Vice Chair of Graduate Studies_ \hfill 2024 – Present  
+Bioengineering Department, UCLA
+
 _Principal Investigator & Research Fellow_ \hfill 2014 – 2017  
 Koch Cancer Institute, MIT, Cambridge, MA
 
