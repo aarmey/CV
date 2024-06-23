@@ -41,9 +41,13 @@ Department of Bioengineering, UCLA
 \leftskip 0.1in
 \parindent -0.1in
 
-46\. **Tan, Z.C.**, **A.S. Meyer**. "The structure is the message: preserving experimental context through tensor decomposition." _arXiv preprint_.
+48\. **E.C. Hung**, **E. Hodzic**, **Z.C. Tan**, **A.S. Meyer**. "Censored Least Squares Imputes Missing Values in PARAFAC Tensor Factorization." _In preparation._
 
 \parskip 0.1in
+
+47\. **Abraham, A.A.**, **Z.C. Tan**, **P. Shrestha**, **E. Bozich**, **A.S. Meyer**. "Multivalent binding model quantifies antibody species from systems serology." _In preparation._
+
+46\. **Tan, Z.C.**, **A.S. Meyer**. "The structure is the message: preserving experimental context through tensor decomposition." _arXiv preprint_.
 
 45\. Kojima, H., T. Morinelli, Y. Wang, **J. Chin**, **A.S. Meyer**, M. Kuo, K. Kadono, S. Yao, T. Torgerson, K. Dery, A. Bhat, E. Reed, F. Kaldas, D. Windt, D. Farmer, J. Kupiec-Weglinski, Y. Zhai. "Group 1 innate lymphoid cells protect liver transplants from ischemia reperfusion injury via IFN-γ-mediated pathway." _Submitted._
 
