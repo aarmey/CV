@@ -41,11 +41,11 @@ Department of Bioengineering, UCLA
 \leftskip 0.1in
 \parindent -0.1in
 
-48\. **E.C. Hung**, **E. Hodzic**, **Z.C. Tan**, **A.S. Meyer**. "Censored Least Squares Imputes Missing Values in PARAFAC Tensor Factorization." _In preparation._
+48\. **E.C. Hung**, **E. Hodzic**, **Z.C. Tan**, **A.S. Meyer**. "Censored Least Squares Imputes Missing Values in PARAFAC Tensor Factorization." __Submitted._
 
 \parskip 0.1in
 
-47\. **Abraham, A.A.**, **Z.C. Tan**, **P. Shrestha**, **E. Bozich**, **A.S. Meyer**. "Multivalent binding model quantifies antibody species from systems serology." _In preparation._
+47\. **Abraham, A.A.**, **Z.C. Tan**, **P. Shrestha**, **E. Bozich**, **A.S. Meyer**. "Multivalent binding model quantifies antibody species from systems serology." __Submitted._
 
 46\. **Tan, Z.C.**, **A.S. Meyer**. "The structure is the message: preserving experimental context through tensor decomposition." _arXiv preprint_.
 
