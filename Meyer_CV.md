@@ -41,24 +41,24 @@ Department of Bioengineering, UCLA
 \leftskip 0.1in
 \parindent -0.1in
 
-48\. **E.C. Hung**, **E. Hodzic**, **Z.C. Tan**, **A.S. Meyer**. "Censored Least Squares Imputes Missing Values in PARAFAC Tensor Factorization." __Submitted._
+48\. **E.C. Hung**, **E. Hodzic**, **Z.C. Tan**, **A.S. Meyer**. "Censored Least Squares Imputes Missing Values in PARAFAC Tensor Factorization." _Submitted._
 
 \parskip 0.1in
 
-47\. **Abraham, A.A.**, **Z.C. Tan**, **P. Shrestha**, **E. Bozich**, **A.S. Meyer**. "Multivalent binding model quantifies antibody species from systems serology." __Submitted._
+47\. **Abraham, A.A.**, **Z.C. Tan**, **P. Shrestha**, **E. Bozich**, **A.S. Meyer**. "Multivalent binding model quantifies antibody species from systems serology." _Submitted._
 
-46\. **Tan, Z.C.**, **A.S. Meyer**. "The structure is the message: preserving experimental context through tensor decomposition." _arXiv preprint_.
+46\. Kojima, H., T. Morinelli, Y. Wang, **J. Chin**, **A.S. Meyer**, M. Kuo, K. Kadono, S. Yao, T. Torgerson, K. Dery, A. Bhat, E. Reed, F. Kaldas, D. Windt, D. Farmer, J. Kupiec-Weglinski, Y. Zhai. "Group 1 innate lymphoid cells protect liver transplants from ischemia reperfusion injury via IFN-γ-mediated pathway." _Submitted._
 
-45\. Kojima, H., T. Morinelli, Y. Wang, **J. Chin**, **A.S. Meyer**, M. Kuo, K. Kadono, S. Yao, T. Torgerson, K. Dery, A. Bhat, E. Reed, F. Kaldas, D. Windt, D. Farmer, J. Kupiec-Weglinski, Y. Zhai. "Group 1 innate lymphoid cells protect liver transplants from ischemia reperfusion injury via IFN-γ-mediated pathway." _Submitted._
+45\. **Orcutt-Jahns, B.**, J. Rodrigues Lima Junior, R.C. Rockne, A. Matache, S. Branciamore, E. Hung, A.S. Rodin, P.P. Lee, **A.S. Meyer**. "Systems profiling reveals recurrently dysregulated cytokine signaling responses in ER+ breast cancer patients’ blood." _Submitted, [bioRxiv preprint](https://www.biorxiv.org/content/10.1101/2023.10.31.564987v1)._
 
-44\. **Orcutt-Jahns, B.**, J. Rodrigues Lima Junior, R.C. Rockne, A. Matache, S. Branciamore, E. Hung, A.S. Rodin, P.P. Lee, **A.S. Meyer**. "Systems profiling reveals recurrently dysregulated cytokine signaling responses in ER+ breast cancer patients’ blood." _Submitted, [bioRxiv preprint](https://www.biorxiv.org/content/10.1101/2023.10.31.564987v1)._
-
-43\. **Creixell, M.**, **S.D. Taylor**, J. Gerritsen, **S.Y. Bae**, M. Jiang, T. Augustin, **M. Loui**, **C. Boixo**, P. Creixell, F.M. White, **A.S. Meyer**. "Dissecting signaling regulators driving AXL-mediated bypass resistance and associated phenotypes by phosphosite perturbations." _Submitted, [bioRxiv preprint](https://www.biorxiv.org/content/10.1101/2023.10.20.563266v1)._
+44\. **Creixell, M.**, **S.D. Taylor**, J. Gerritsen, **S.Y. Bae**, M. Jiang, T. Augustin, **M. Loui**, **C. Boixo**, P. Creixell, F.M. White, **A.S. Meyer**. "Dissecting signaling regulators driving AXL-mediated bypass resistance and associated phenotypes by phosphosite perturbations." _Submitted, [bioRxiv preprint](https://www.biorxiv.org/content/10.1101/2023.10.20.563266v1)._
 
 # Refereed Publications
 
 \leftskip 0.1in
 \parindent -0.1in
+
+43\. **Tan, Z.C.**, **A.S. Meyer**. "The structure is the message: preserving experimental context through tensor decomposition." [_arXiv preprint_](http://arxiv.org/abs/2402.16638). _In press, Cell Systems_.
 
 42\. **Chin, J.L.**, **Z.C. Tan**, L.C. Chan, F. Ruffin, R. Parmar, R. Ahn, **S. Taylor**, A.S. Bayer, A. Hoffmann, J. Vance G Fowler, E.F. Reed, M.R. Yeaman, **A.S. Meyer**, MRSA Systems Immunobiology Group. ["Tensor modeling of MRSA bacteremia cytokine and transcriptional patterns reveals coordinated, outcome-associated immunological programs."](https://doi.org/10.1093/pnasnexus/pgae185) _PNAS Nexus._ 2024 May 4; 3(5): pgae185.
 
