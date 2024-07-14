@@ -41,11 +41,11 @@ Department of Bioengineering, UCLA
 \leftskip 0.1in
 \parindent -0.1in
 
-48\. **E.C. Hung**, **E. Hodzic**, **Z.C. Tan**, **A.S. Meyer**. "Censored Least Squares Imputes Missing Values in PARAFAC Tensor Factorization." _Submitted._
+48\. **E.C. Hung**, **E. Hodzic**, **Z.C. Tan**, **A.S. Meyer**. "Censored Least Squares Imputes Missing Values in PARAFAC Tensor Factorization." _Submitted, [bioRxiv preprint](https://biorxiv.org/cgi/content/short/2024.07.05.602272v1)_
 
 \parskip 0.1in
 
-47\. **Abraham, A.A.**, **Z.C. Tan**, **P. Shrestha**, **E. Bozich**, **A.S. Meyer**. "Multivalent binding model quantifies antibody species from systems serology." _Submitted._
+47\. **Abraham, A.A.**, **Z.C. Tan**, **P. Shrestha**, **E. Bozich**, **A.S. Meyer**. "Multivalent binding model quantifies antibody species from systems serology." _Submitted, [bioRxiv preprint](https://biorxiv.org/cgi/content/short/2024.07.05.602296v1)_
 
 46\. Kojima, H., T. Morinelli, Y. Wang, **J. Chin**, **A.S. Meyer**, M. Kuo, K. Kadono, S. Yao, T. Torgerson, K. Dery, A. Bhat, E. Reed, F. Kaldas, D. Windt, D. Farmer, J. Kupiec-Weglinski, Y. Zhai. "Group 1 innate lymphoid cells protect liver transplants from ischemia reperfusion injury via IFN-γ-mediated pathway." _Submitted._
 
@@ -60,11 +60,11 @@ Department of Bioengineering, UCLA
 
 43\. **Tan, Z.C.**, **A.S. Meyer**. "The structure is the message: preserving experimental context through tensor decomposition." [_arXiv preprint_](http://arxiv.org/abs/2402.16638). _In press, Cell Systems_.
 
+\parskip 0.1in
+
 42\. **Chin, J.L.**, **Z.C. Tan**, L.C. Chan, F. Ruffin, R. Parmar, R. Ahn, **S. Taylor**, A.S. Bayer, A. Hoffmann, J. Vance G Fowler, E.F. Reed, M.R. Yeaman, **A.S. Meyer**, MRSA Systems Immunobiology Group. ["Tensor modeling of MRSA bacteremia cytokine and transcriptional patterns reveals coordinated, outcome-associated immunological programs."](https://doi.org/10.1093/pnasnexus/pgae185) _PNAS Nexus._ 2024 May 4; 3(5): pgae185.
 
-41\. **Orcutt-Jahns, B.**, **P.C. Emmel**, **E.M. Snyder**, **S.D. Taylor**, **Aaron S. Meyer**. ["Multivalent, asymmetric IL-2–Fc fusions show enhanced selectivity for regulatory T cells."](https://www.science.org/doi/full/10.1126/scisignal.adg0699) _Science Signaling._ 2023 October 17; 16(807): eadg0699.
-
-\parskip 0.1in
+41\. **Orcutt-Jahns, B.**, **P.C. Emmel**, **E.M. Snyder**, **S.D. Taylor**, **Aaron S. Meyer**. ["Multivalent, asymmetric IL-2–Fc fusions show enhanced selectivity for regulatory T cells."](https://www.science.org/doi/full/10.1126/scisignal.adg0699) _Science Signaling._ 2023 Oct 17; 16(807): eadg0699.
 
 40\. Peyton, S.R., L.W. Chow, S.D. Finley, A.N. Ford Versypt, R. Hill, M.L. Kemp, E.M. Langer, A.P. McGuigan, **A.S. Meyer**, S.K. Seidlits, K. Roy, S.M. Mumenthaler. ["Synthetic living materials in cancer biology."](https://www.nature.com/articles/s44222-023-00105-w) _Nature Reviews Bioengineering._ 2023 Oct 2; 1, 972–988.
 
@@ -475,6 +475,11 @@ _CSBC West Coast Meeting_, Selected Oral Presentation \hfill May 2019
 
 # Service to the Profession
 
+_Ad Hoc Reviewer_, Cell \hfill 2024
+
+_Reviewer_, Swiss National Science Foundation \hfill 2024  
+National Centre of Competence in Research
+
 _Co-Chair_, Modeling Working Group \hfill 2023 – Present  
 Systems Biology for Infectious Diseases Consortium
 
@@ -665,6 +670,8 @@ _Member_, HSSEAS Awards Committee for Outstanding Student Awards \hfill 2018
 _Faculty Speaker_, UCLA Engineering Alumni Reunion \hfill 2018
 
 # Service to the Department
+
+_Ad Hoc Promotion Committee_ \hfill 2023, 2024
 
 _Poster Judge_, Bioengineering Research Day \hfill 2024
 
