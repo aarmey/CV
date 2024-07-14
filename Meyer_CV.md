@@ -830,4 +830,8 @@ Ahmed Ali, Bioengineering (M.S.)\\
 Advisor: Jennifer Wilson\\
 2023–2024
 
+Yuyang Han, Chemistry (Ph.D.)\\
+Advisor: Anne Andrews\\
+2024–Present
+
 \end{multicols}
