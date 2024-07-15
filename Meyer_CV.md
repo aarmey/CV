@@ -321,6 +321,9 @@ MIT, Department of Biological Engineering, Cambridge, MA
 _Massachusetts Institute of Technology, Biological Engineering_, Invited Oral Presentation \hfill Sept 2024  
 "Experiment structure is the message: building an integrative view of immunity with tensors."
 
+_UCLA Bruins-In-Genomics Summer Program_, Invited Oral Presentation \hfill July 2024  
+"Experiment structure is the message: building an integrative view of immunity with tensors."
+
 _Fc Mechanisms of Cell Killing Workshop_, Invited Oral Presentation \hfill June 2024  
 "Mapping the effector response space of antibody combinations"
 
