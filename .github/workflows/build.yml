@@ -17,14 +17,9 @@ jobs:
         sudo apt install pandoc texlive-latex-extra texlive-latex-base texlive-xetex texlive-extra-utils texlive-science ca-certificates
         make
     - name: Upload files
-      uses: actions/upload-artifact@v4
-      with:
-        name: files
-        path: Output/*.pdf
+      uses: actions/upload-pages-artifact@v3
+      env:
+        INPUT_PATH: Output/*.pdf
     - name: Deploy 🚀
-      uses: JamesIves/github-pages-deploy-action@v4
+      uses: actions/deploy-pages@v4
       if: github.ref == 'refs/heads/main'
-      with:
-        BRANCH: gh-pages # The branch the action should deploy to.
-        FOLDER: Output # The folder the action should deploy.
-        single-commit: true
