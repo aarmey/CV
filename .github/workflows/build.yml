@@ -17,9 +17,12 @@ jobs:
         sudo apt install pandoc texlive-latex-extra texlive-latex-base texlive-xetex texlive-extra-utils texlive-science ca-certificates
         make
     - name: Upload files
-      uses: actions/upload-pages-artifact@v3
-      env:
-        INPUT_PATH: Output/*.pdf
+      uses: actions/upload-artifact@v4
+      with:
+        name: files
+        path: Output/*.pdf
     - name: Deploy 🚀
-      uses: actions/deploy-pages@v4
       if: github.ref == 'refs/heads/main'
+      uses: actions/deploy-pages@v4
+      with:
+        artifact_name: files
