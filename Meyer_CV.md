@@ -41,9 +41,11 @@ Department of Bioengineering, UCLA
 \leftskip 0.1in
 \parindent -0.1in
 
-48\. **E.C. Hung**, **E. Hodzic**, **Z.C. Tan**, **A.S. Meyer**. "Censored Least Squares Imputes Missing Values in PARAFAC Tensor Factorization." _Submitted, [bioRxiv preprint](https://biorxiv.org/cgi/content/short/2024.07.05.602272v1)_
+49\. Kundu, J., P. Zhao, D. Blanton, M. Rezaeeyazdi, M.J. Oudin, M.A. Miller, **A.S. Meyer**, S.A. Bencherif, P.Y. Baranov, M.J. Young, R.L. Carrier. "Human Retinal Progenitor Cell (hRPC) Migration in Three-Dimensional (3D) Environments of Varying Stiffness and Composition." _Submitted._
 
 \parskip 0.1in
+
+48\. **E.C. Hung**, **E. Hodzic**, **Z.C. Tan**, **A.S. Meyer**. "Censored Least Squares Imputes Missing Values in PARAFAC Tensor Factorization." _Submitted, [bioRxiv preprint](https://biorxiv.org/cgi/content/short/2024.07.05.602272v1)_
 
 47\. **Abraham, A.A.**, **Z.C. Tan**, **P. Shrestha**, **E. Bozich**, **A.S. Meyer**. "Multivalent binding model quantifies antibody species from systems serology." _Submitted, [bioRxiv preprint](https://biorxiv.org/cgi/content/short/2024.07.05.602296v1)_
 
