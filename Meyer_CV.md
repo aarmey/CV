@@ -41,9 +41,11 @@ Department of Bioengineering, UCLA
 \leftskip 0.1in
 \parindent -0.1in
 
-49\. Kundu, J., P. Zhao, D. Blanton, M. Rezaeeyazdi, M.J. Oudin, M.A. Miller, **A.S. Meyer**, S.A. Bencherif, P.Y. Baranov, M.J. Young, R.L. Carrier. "Human Retinal Progenitor Cell (hRPC) Migration in Three-Dimensional (3D) Environments of Varying Stiffness and Composition." _Submitted._
+50\. Movassaghi, C.S., K.A. Perrotta, M.E. Curry, A.N. Nashner, K.K. Nguyen, M.E. Wesely, M.A. Fillol, C. Lui, **A.S. Meyer**, A.M. Andrews. "Machine-learning-guided design of voltammetry waveforms." _Submitted."
 
 \parskip 0.1in
+
+49\. Kundu, J., P. Zhao, D. Blanton, M. Rezaeeyazdi, M.J. Oudin, M.A. Miller, **A.S. Meyer**, S.A. Bencherif, P.Y. Baranov, M.J. Young, R.L. Carrier. "Human Retinal Progenitor Cell (hRPC) Migration in Three-Dimensional (3D) Environments of Varying Stiffness and Composition." _Submitted._
 
 48\. **E.C. Hung**, **E. Hodzic**, **Z.C. Tan**, **A.S. Meyer**. "Censored Least Squares Imputes Missing Values in PARAFAC Tensor Factorization." _Submitted, [bioRxiv preprint](https://biorxiv.org/cgi/content/short/2024.07.05.602272v1)_
 
